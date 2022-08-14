@@ -121,7 +121,7 @@ console.log(req.data);
 	"id": 34,
 	"name": "banded dragonfly"
 }
-*\
+*/
 ```
 
 ## Thank you! <3

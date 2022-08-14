@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Boone",
+    "english_EU": "Boone",
+    "german": "Kong",
+    "spanish_EU": "Babú",
+    "spanish_american": "Babú",
+    "french_EU": "Babouin",
+    "french_american": "Babouin",
+    "italian": "Babu",
+    "dutch": "Boone",
+    "simplified_chinese": "万泰",
+    "traditional_chinese": "萬泰",
+    "japanese": "まんたろう",
+    "korean": "만복이",
+    "russian": "Бун"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Boone.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Boone.png"
+  },
+  "id": 53,
+  "name": "Boone",
+  "sex": "Male",
+  "personality": "Jock",
+  "birthday": "9/12",
+  "species": "Gorilla",
+  "catch_phrase": "baboom",
+  "name_color": "#874c25"
+}

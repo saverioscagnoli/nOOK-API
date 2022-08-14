@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Sherb",
+    "english_EU": "Sherb",
+    "german": "Morpheus",
+    "spanish_EU": "Morfeo",
+    "spanish_american": "Morfeo",
+    "french_EU": "Capri",
+    "french_american": "Capri",
+    "italian": "Capraldo",
+    "dutch": "Sherb",
+    "simplified_chinese": "雷姆",
+    "traditional_chinese": "雷姆",
+    "japanese": "レム",
+    "korean": "래미",
+    "russian": "Шерб"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Sherb.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Sherb.png"
+  },
+  "id": 346,
+  "name": "Sherb",
+  "sex": "Male",
+  "personality": "Lazy",
+  "birthday": "1/18",
+  "species": "Goat",
+  "catch_phrase": "bawwww",
+  "name_color": "#85a2af"
+}

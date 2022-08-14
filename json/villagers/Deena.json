@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Deena",
+    "english_EU": "Deena",
+    "german": "Olivia",
+    "spanish_EU": "Martita",
+    "spanish_american": "Martita",
+    "french_EU": "Mina",
+    "french_american": "Mina",
+    "italian": "Dina",
+    "dutch": "Deena",
+    "simplified_chinese": "球藻",
+    "traditional_chinese": "毬藻",
+    "japanese": "まりも",
+    "korean": "마리모",
+    "russian": "Дина"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Deena.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Deena.png"
+  },
+  "id": 112,
+  "name": "Deena",
+  "sex": "Female",
+  "personality": "Normal",
+  "birthday": "6/27",
+  "species": "Duck",
+  "catch_phrase": "woowoo",
+  "name_color": "#fffad4"
+}

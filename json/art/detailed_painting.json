@@ -1,0 +1,25 @@
+{
+  "translations": {
+    "english_USA": "detailed painting",
+    "english_EU": "detailed painting",
+    "german": "Detailgemälde",
+    "spanish_EU": "cuadro detallado",
+    "spanish_american": "cuadro detallado",
+    "french_EU": "toile détaillée",
+    "french_american": "toile détaillée",
+    "italian": "quadro dettagliato",
+    "dutch": "gedetailleerde schilderij",
+    "simplified_chinese": "细致的名画",
+    "traditional_chinese": "細緻的名畫",
+    "japanese": "ちみつなめいが",
+    "korean": "섬세한 명화",
+    "russian": "детальная картина"
+  },
+  "id": 8,
+  "name": "detailed painting",
+  "buy_price": 4980,
+  "sell_price": 1245,
+  "museum_description": "A detailed, colorful, and dynamic piece by Itō Jakuchū, a successful Kyoto artist in the mid-Edo period. High-quality paints on silk help it maintain its brilliant color even now, 200 years after its creation.",
+  "canBeFake": true,
+  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/render/art/detailed_painting.png"
+}

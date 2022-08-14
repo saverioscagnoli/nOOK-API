@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Soleil",
+    "english_EU": "Soleil",
+    "german": "Samira",
+    "spanish_EU": "Soraya",
+    "spanish_american": "Soraya",
+    "french_EU": "Stella",
+    "french_american": "Stella",
+    "italian": "Cettina",
+    "dutch": "Soleil",
+    "simplified_chinese": "安安",
+    "traditional_chinese": "安安",
+    "japanese": "シャンティ",
+    "korean": "샨티",
+    "russian": "Солей"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Soleil.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Soleil.png"
+  },
+  "id": 353,
+  "name": "Soleil",
+  "sex": "Female",
+  "personality": "Snooty",
+  "birthday": "8/9",
+  "species": "Hamster",
+  "catch_phrase": "tarnation",
+  "name_color": "#fff2bb"
+}

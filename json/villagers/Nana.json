@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Nana",
+    "english_EU": "Nana",
+    "german": "Dorothea",
+    "spanish_EU": "Nana",
+    "spanish_american": "Nana",
+    "french_EU": "Mireille",
+    "french_american": "Mireille",
+    "italian": "Nanà",
+    "dutch": "Nana",
+    "simplified_chinese": "七七",
+    "traditional_chinese": "七七",
+    "japanese": "チッチ",
+    "korean": "키키",
+    "russian": "Нана"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Nana.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Nana.png"
+  },
+  "id": 259,
+  "name": "Nana",
+  "sex": "Female",
+  "personality": "Normal",
+  "birthday": "8/23",
+  "species": "Monkey",
+  "catch_phrase": "po po",
+  "name_color": "#fffce9"
+}

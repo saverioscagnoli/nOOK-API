@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "K.K. Blues",
+    "english_EU": "K.K. Blues",
+    "german": "K.K. Blues",
+    "spanish_EU": "Tota-blues",
+    "spanish_american": "Tota-blues",
+    "french_EU": "Kéké blues",
+    "french_american": "Kéké blues",
+    "italian": "K.K. Blues",
+    "dutch": "K.K.-blues",
+    "simplified_chinese": "K.K.蓝调",
+    "traditional_chinese": "K.K.藍調",
+    "japanese": "けけブルース",
+    "korean": "K.K.블루스",
+    "russian": "Блюз К. К."
+  },
+  "id": 20,
+  "name": "K.K. Blues",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/KK_Blues.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/KK_Blues.mp3"
+}

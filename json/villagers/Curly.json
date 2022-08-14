@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Curly",
+    "english_EU": "Curly",
+    "german": "Oink",
+    "spanish_EU": "Rufueto",
+    "spanish_american": "Rufueto",
+    "french_EU": "Tirbou",
+    "french_american": "Tirbou",
+    "italian": "Ricciolo",
+    "dutch": "Curly",
+    "simplified_chinese": "胜利",
+    "traditional_chinese": "勝利",
+    "japanese": "ハムカツ",
+    "korean": "햄까스",
+    "russian": "Керли"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Curly.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Curly.png"
+  },
+  "id": 107,
+  "name": "Curly",
+  "sex": "Male",
+  "personality": "Jock",
+  "birthday": "7/26",
+  "species": "Pig",
+  "catch_phrase": "nyoink",
+  "name_color": "#fffce9"
+}

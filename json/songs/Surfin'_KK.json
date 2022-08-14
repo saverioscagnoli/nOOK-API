@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "Surfin' K.K.",
+    "english_EU": "Surfin' K.K.",
+    "german": "Surfin' K.K.",
+    "spanish_EU": "Tota-surf",
+    "spanish_american": "Tota-surf",
+    "french_EU": "Kéké à la plage",
+    "french_american": "Kéké à la plage",
+    "italian": "K.K. Surf",
+    "dutch": "K.K.-surf",
+    "simplified_chinese": "电吉他乐曲",
+    "traditional_chinese": "電吉他樂曲",
+    "japanese": "エレキそんぐ",
+    "korean": "일렉트릭 뮤직",
+    "russian": "Серф К. К."
+  },
+  "id": 90,
+  "name": "Surfin' K.K.",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/Surfin'_KK.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/Surfin'_KK.mp3"
+}

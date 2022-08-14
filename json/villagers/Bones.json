@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Bones",
+    "english_EU": "Bones",
+    "german": "Strolch",
+    "spanish_EU": "Cándido",
+    "spanish_american": "Cándido",
+    "french_EU": "Nonos",
+    "french_american": "Nonos",
+    "italian": "Tobia",
+    "dutch": "Bones",
+    "simplified_chinese": "阿富",
+    "traditional_chinese": "阿富",
+    "japanese": "トミ",
+    "korean": "토미",
+    "russian": "Боунс"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Bones.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Bones.png"
+  },
+  "id": 51,
+  "name": "Bones",
+  "sex": "Male",
+  "personality": "Lazy",
+  "birthday": "8/4",
+  "species": "Dog",
+  "catch_phrase": "yip yip",
+  "name_color": "#848484"
+}

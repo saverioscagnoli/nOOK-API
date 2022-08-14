@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Flurry",
+    "english_EU": "Flurry",
+    "german": "Emilie",
+    "spanish_EU": "Lluvia",
+    "spanish_american": "Lluvia",
+    "french_EU": "Emma",
+    "french_american": "Emma",
+    "italian": "Meringa",
+    "dutch": "Flurry",
+    "simplified_chinese": "雪美",
+    "traditional_chinese": "雪美",
+    "japanese": "ゆきみ",
+    "korean": "뽀야미",
+    "russian": "Фларри"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Flurry.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Flurry.png"
+  },
+  "id": 146,
+  "name": "Flurry",
+  "sex": "Female",
+  "personality": "Normal",
+  "birthday": "1/30",
+  "species": "Hamster",
+  "catch_phrase": "powderpuff",
+  "name_color": "#848484"
+}

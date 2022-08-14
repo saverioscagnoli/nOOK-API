@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Audie",
+    "english_EU": "Audie",
+    "german": "Katharina",
+    "spanish_EU": "Mónica",
+    "spanish_american": "Mónica",
+    "french_EU": "Monica",
+    "french_american": "Monica",
+    "italian": "Lupilia",
+    "dutch": "Audie",
+    "simplified_chinese": "莫妮卡",
+    "traditional_chinese": "莫妮卡",
+    "japanese": "モニカ",
+    "korean": "모니카",
+    "russian": "Оди"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Audie.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Audie.png"
+  },
+  "id": 20,
+  "name": "Audie",
+  "sex": "Female",
+  "personality": "Peppy",
+  "birthday": "8/31",
+  "species": "Wolf",
+  "catch_phrase": "foxtrot",
+  "name_color": "#fff2bb"
+}

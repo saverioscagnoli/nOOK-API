@@ -1,0 +1,25 @@
+{
+  "translations": {
+    "english_USA": "worthy painting",
+    "english_EU": "worthy painting",
+    "german": "Wahrgemälde",
+    "spanish_EU": "cuadro romántico",
+    "spanish_american": "cuadro romántico",
+    "french_EU": "toile précieuse",
+    "french_american": "toile précieuse",
+    "italian": "quadro prezioso",
+    "dutch": "zegevierende schilderij",
+    "simplified_chinese": "名贵的名画",
+    "traditional_chinese": "名貴的名畫",
+    "japanese": "かちのあるめいが",
+    "korean": "가치 있는 명화",
+    "russian": "достойная картина"
+  },
+  "id": 43,
+  "name": "worthy painting",
+  "buy_price": 4980,
+  "sell_price": 1245,
+  "museum_description": "Painted by leading 19th century Romantic artist Delacroix in the same year as a French revolution. The woman in the center is often mistaken for Joan of Arc, but she is actually the fictional \"Marianne.\"",
+  "canBeFake": false,
+  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/render/art/worthy_painting.png"
+}

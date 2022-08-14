@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "Soulful K.K.",
+    "english_EU": "Soulful K.K.",
+    "german": "K.K. mit Gefühl",
+    "spanish_EU": "Tota-lenta",
+    "spanish_american": "Tota-lenta",
+    "french_EU": "Kéké soul",
+    "french_american": "Kéké soul",
+    "italian": "K.K. Anima",
+    "dutch": "K.K.-soulblues",
+    "simplified_chinese": "K.K.心灵音乐",
+    "traditional_chinese": "K.K.心靈音樂",
+    "japanese": "けけゴスペル",
+    "korean": "K.K.가스펠",
+    "russian": "Соулфул К. К."
+  },
+  "id": 85,
+  "name": "Soulful K.K.",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/Soulful_KK.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/Soulful_KK.mp3"
+}

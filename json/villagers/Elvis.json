@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Elvis",
+    "english_EU": "Elvis",
+    "german": "Leonardo",
+    "spanish_EU": "Elvis",
+    "spanish_american": "Elvis",
+    "french_EU": "Elvis",
+    "french_american": "Elvis",
+    "italian": "Elvis",
+    "dutch": "Elvis",
+    "simplified_chinese": "皇狮",
+    "traditional_chinese": "皇獅",
+    "japanese": "キング",
+    "korean": "킹",
+    "russian": "Элвис"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Elvis.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Elvis.png"
+  },
+  "id": 134,
+  "name": "Elvis",
+  "sex": "Male",
+  "personality": "Cranky",
+  "birthday": "7/23",
+  "species": "Lion",
+  "catch_phrase": "unh-hunh",
+  "name_color": "#9b553a"
+}

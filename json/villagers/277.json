@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Patty",
+    "english_EU": "Patty",
+    "german": "Patricia",
+    "spanish_EU": "Vacarena",
+    "spanish_american": "Vacarena",
+    "french_EU": "Margaux",
+    "french_american": "Margaux",
+    "italian": "Patty",
+    "dutch": "Patty",
+    "simplified_chinese": "阿排",
+    "traditional_chinese": "阿排",
+    "japanese": "カルピ",
+    "korean": "밀크",
+    "russian": "Пэтти"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Patty.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Patty.png"
+  },
+  "id": 277,
+  "name": "Patty",
+  "sex": "Female",
+  "personality": "Peppy",
+  "birthday": "5/10",
+  "species": "Cow",
+  "catch_phrase": "how-now",
+  "name_color": "#fffce9"
+}

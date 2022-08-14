@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "K.K. Cruisin'",
+    "english_EU": "K.K. Cruisin'",
+    "german": "K.K. Cruisin'",
+    "spanish_EU": "Tota-gánster",
+    "spanish_american": "Tota-gánster",
+    "french_EU": "Kéké R&B",
+    "french_american": "Kéké R&B",
+    "italian": "K.K. Cool",
+    "dutch": "K.K.-club",
+    "simplified_chinese": "都市K.K.",
+    "traditional_chinese": "都市K.K.",
+    "japanese": "アーバンけけ",
+    "korean": "팝K.K.",
+    "russian": "Круиз К. К."
+  },
+  "id": 27,
+  "name": "K.K. Cruisin'",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/KK_Cruisin'.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/KK_Cruisin'.mp3"
+}

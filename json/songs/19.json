@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "K.K. Birthday",
+    "english_EU": "K.K. Birthday",
+    "german": "Geburtstagslied",
+    "spanish_EU": "Feliz en tu día",
+    "spanish_american": "Feliz cumpleaños",
+    "french_EU": "Anniversaire Kéké",
+    "french_american": "Anniversaire Kéké",
+    "italian": "K.K. Compleanno",
+    "dutch": "Fijne verjaardag",
+    "simplified_chinese": "你的生日",
+    "traditional_chinese": "你的生日",
+    "japanese": "きみのたんじょうび",
+    "korean": "그대의 생일",
+    "russian": "День рождения К. К."
+  },
+  "id": 19,
+  "name": "K.K. Birthday",
+  "buy_price": null,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/KK_Birthday.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/KK_Birthday.mp3"
+}

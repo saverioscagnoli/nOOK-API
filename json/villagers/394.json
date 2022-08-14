@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Victoria",
+    "english_EU": "Victoria",
+    "german": "Emma",
+    "spanish_EU": "Victoria",
+    "spanish_american": "Victoria",
+    "french_EU": "Victoria",
+    "french_american": "Victoria",
+    "italian": "Vittoria",
+    "dutch": "Victoria",
+    "simplified_chinese": "圣萝",
+    "traditional_chinese": "聖蘿",
+    "japanese": "セントアロー",
+    "korean": "센트엘로",
+    "russian": "Виктория"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Victoria.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Victoria.png"
+  },
+  "id": 394,
+  "name": "Victoria",
+  "sex": "Female",
+  "personality": "Peppy",
+  "birthday": "7/11",
+  "species": "Horse",
+  "catch_phrase": "sugar cube",
+  "name_color": "#8b5f57"
+}

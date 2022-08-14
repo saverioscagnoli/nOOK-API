@@ -1,0 +1,45 @@
+{
+  "translations": {
+    "english_USA": "pill bug",
+    "english_EU": "pill bug",
+    "german": "Kugelassel",
+    "spanish_EU": "cochinilla",
+    "spanish_american": "cochinilla",
+    "french_EU": "cloporte",
+    "french_american": "cloporte",
+    "italian": "porcellino di terra",
+    "dutch": "rolpissebed",
+    "simplified_chinese": "鼠妇",
+    "traditional_chinese": "鼠婦",
+    "japanese": "ダンゴムシ",
+    "korean": "공벌레",
+    "russian": "мокрица"
+  },
+  "sell_prices": { "nook": 250, "flick": 375 },
+  "available": {
+    "hemisphere_data": {
+      "northern_months": "9-6",
+      "southern_months": "3-12",
+      "northern_months_array": [9, 10, 11, 12, 1, 2, 3, 4, 5, 6],
+      "southern_months_array": [3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    },
+    "time": {
+      "all_day": false,
+      "all_year": false,
+      "time_string": "11pm - 4pm",
+      "time_array": [23, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+    },
+    "spot": "Hitting rocks",
+    "rarity": "Common"
+  },
+  "phrases": {
+    "joke": "I caught a pill bug! That's a tough act to swallow!",
+    "museum_description": "Blech, the pill bug! Children delight at the way these beasts roll into balls when poked... But the appeal is utterly lost on me. One look at their leggy undersides... Hoo! Ewww! How they wriggle! Young pill bugs shed their exo- skeletons as they grow, and in doing so, sprout another pair of legs. As if 12 appendages weren't alarming enough! Yuck, I say. Yuck!"
+  },
+  "sprites": {
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/bugs/Pill_Bug.png",
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/bugs/Pill_Bug.png"
+  },
+  "id": 76,
+  "name": "pill bug"
+}

@@ -1,0 +1,48 @@
+{
+  "translations": {
+    "english_USA": "tiger beetle",
+    "english_EU": "tiger beetle",
+    "german": "Sandlaufkäfer",
+    "spanish_EU": "escarabajo tigre",
+    "spanish_american": "escarabajo tigre",
+    "french_EU": "cicindèle",
+    "french_american": "cicindèle",
+    "italian": "cicindela",
+    "dutch": "zandloopkever",
+    "simplified_chinese": "虎甲虫",
+    "traditional_chinese": "虎甲蟲",
+    "japanese": "ハンミョウ",
+    "korean": "길앞잡이",
+    "russian": "жук-скакун"
+  },
+  "sell_prices": { "nook": 1500, "flick": 2250 },
+  "available": {
+    "hemisphere_data": {
+      "northern_months": "2-11",
+      "southern_months": "8-4",
+      "northern_months_array": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
+      "southern_months_array": [8, 9, 10, 11, 12, 1, 2, 3, 4]
+    },
+    "time": {
+      "all_day": true,
+      "all_year": false,
+      "time_string": "",
+      "time_array": [
+        0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19,
+        20, 21, 22, 23
+      ]
+    },
+    "spot": "On the ground",
+    "rarity": "Uncommon"
+  },
+  "phrases": {
+    "joke": "I caught a tiger beetle! I pounced first!",
+    "museum_description": "The tiger beetle is extremely fleet of foot, though it runs in a rather peculiar way. That is, it sprints, then stops, then sprints again...using these speedy maneuvers to run down its prey. You see, the tiger beetle—like a real tiger—is a powerful predator. The mere thought of it giving chase gives me the willies. Tigers are terrifying at any size."
+  },
+  "sprites": {
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/bugs/Tiger_Beetle.png",
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/bugs/Tiger_Beetle.png"
+  },
+  "id": 44,
+  "name": "tiger beetle"
+}

@@ -1,0 +1,48 @@
+{
+  "translations": {
+    "english_USA": "rosalia batesi beetle",
+    "english_EU": "rosalia batesi beetle",
+    "german": "Alpenbock",
+    "spanish_EU": "escarabajo rosalia batesi",
+    "spanish_american": "escarabajo rosalia batesi",
+    "french_EU": "rosalia batesi",
+    "french_american": "rosalia batesi",
+    "italian": "coleottero rosalia batesi",
+    "dutch": "alpenboktor",
+    "simplified_chinese": "琉璃星天牛",
+    "traditional_chinese": "琉璃星天牛",
+    "japanese": "ルリボシカミキリ",
+    "korean": "루리하늘소",
+    "russian": "розалия"
+  },
+  "sell_prices": { "nook": 3000, "flick": 4500 },
+  "available": {
+    "hemisphere_data": {
+      "northern_months": "5-9",
+      "southern_months": "11-3",
+      "northern_months_array": [5, 6, 7, 8, 9],
+      "southern_months_array": [11, 12, 1, 2, 3]
+    },
+    "time": {
+      "all_day": true,
+      "all_year": false,
+      "time_string": "",
+      "time_array": [
+        0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19,
+        20, 21, 22, 23
+      ]
+    },
+    "spot": "On tree stumps",
+    "rarity": "Uncommon"
+  },
+  "phrases": {
+    "joke": "I caught a rosalia batesi beetle! That's easier to do than say!",
+    "museum_description": "The rosalia batesi beetle is a type of longhorn beetle, so named for the long antenna upon its head. But did you know that longhorn beetles often grow antenna LONGER than their very own bodies, wot wot? As if this weren't odious enough, look closely and you will find these antenna...are covered in tufts of hair! Best not look closely, I say."
+  },
+  "sprites": {
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/bugs/Rosalia_Batesi_Beetle.png",
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/bugs/Rosalia_Batesi_Beetle.png"
+  },
+  "id": 48,
+  "name": "rosalia batesi beetle"
+}

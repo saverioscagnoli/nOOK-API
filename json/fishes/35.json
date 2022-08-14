@@ -1,0 +1,46 @@
+{
+  "translations": {
+    "english_USA": "nibble fish",
+    "english_EU": "nibble fish",
+    "german": "Saugbarbe",
+    "spanish_EU": "pez doctor",
+    "spanish_american": "pez doctor",
+    "french_EU": "poisson docteur",
+    "french_american": "poisson docteur",
+    "italian": "garra rufa",
+    "dutch": "knabbelvisje",
+    "simplified_chinese": "温泉医生鱼",
+    "traditional_chinese": "溫泉醫生魚",
+    "japanese": "ドクターフィッシュ",
+    "korean": "닥터피시",
+    "russian": "рыба-доктор"
+  },
+  "sell_prices": { "nook": 1500, "cj": 2250 },
+  "available": {
+    "hemisphere_data": {
+      "northern_months": "5-9",
+      "southern_months": "11-3",
+      "northern_months_array": [5, 6, 7, 8, 9],
+      "southern_months_array": [11, 12, 1, 2, 3]
+    },
+    "time": {
+      "all_day": false,
+      "all_year": false,
+      "time_string": "9am - 4pm",
+      "time_array": [9, 10, 11, 12, 13, 14, 15]
+    },
+    "spot": "River",
+    "rarity": "Uncommon"
+  },
+  "phrases": {
+    "joke": "I caught a nibble fish! Come to think of it, I could use a bite!",
+    "museum_description": "Nibble fish are best known for their use in a certain skin treatment. This treatment has apparently been used for thousands of years. I have never experienced said treatment because they eat your dead skin with their little toothless mouths! Can you imagine anything so repellent?! Please don't ask me any follow-up questions. Hoo."
+  },
+  "sprites": {
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/fishes/Nibble_Fish.png",
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/fishes/Nibble_Fish.png"
+  },
+  "id": 35,
+  "name": "nibble fish",
+  "shadow_size": "1"
+}

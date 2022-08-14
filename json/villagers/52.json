@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Boomer",
+    "english_EU": "Boomer",
+    "german": "Max",
+    "spanish_EU": "Serafino",
+    "spanish_american": "Serafino",
+    "french_EU": "Ethan",
+    "french_american": "Ethan",
+    "italian": "Icaro",
+    "dutch": "Boomer",
+    "simplified_chinese": "秀益",
+    "traditional_chinese": "秀益",
+    "japanese": "ショーイ",
+    "korean": "팽기",
+    "russian": "Бумер"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Boomer.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Boomer.png"
+  },
+  "id": 52,
+  "name": "Boomer",
+  "sex": "Male",
+  "personality": "Lazy",
+  "birthday": "2/7",
+  "species": "Penguin",
+  "catch_phrase": "human",
+  "name_color": "#fffad4"
+}

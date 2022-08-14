@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Rod",
+    "english_EU": "Rod",
+    "german": "Manni",
+    "spanish_EU": "Rodi",
+    "spanish_american": "Rodi",
+    "french_EU": "Marcel",
+    "french_american": "Marcel",
+    "italian": "Riccardo",
+    "dutch": "Rod",
+    "simplified_chinese": "阿将",
+    "traditional_chinese": "阿將",
+    "japanese": "ジャン",
+    "korean": "쟝",
+    "russian": "Род"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Rod.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Rod.png"
+  },
+  "id": 325,
+  "name": "Rod",
+  "sex": "Male",
+  "personality": "Jock",
+  "birthday": "8/14",
+  "species": "Mouse",
+  "catch_phrase": "ace",
+  "name_color": "#fffce9"
+}

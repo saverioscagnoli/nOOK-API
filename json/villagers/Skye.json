@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Skye",
+    "english_EU": "Skye",
+    "german": "Sabine",
+    "spanish_EU": "Alderia",
+    "spanish_american": "Alderia",
+    "french_EU": "Marilou",
+    "french_american": "Marilou",
+    "italian": "Lupilla",
+    "dutch": "Skye",
+    "simplified_chinese": "百合",
+    "traditional_chinese": "百合",
+    "japanese": "リリィ",
+    "korean": "릴리",
+    "russian": "Скай"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Skye.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Skye.png"
+  },
+  "id": 349,
+  "name": "Skye",
+  "sex": "Female",
+  "personality": "Normal",
+  "birthday": "3/24",
+  "species": "Wolf",
+  "catch_phrase": "airmail",
+  "name_color": "#fffce9"
+}

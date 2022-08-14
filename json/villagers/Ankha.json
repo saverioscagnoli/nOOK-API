@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Ankha",
+    "english_EU": "Ankha",
+    "german": "Kleo",
+    "spanish_EU": "Patri",
+    "spanish_american": "Patri",
+    "french_EU": "Neferti",
+    "french_american": "Neferti",
+    "italian": "Cleo",
+    "dutch": "Ankha",
+    "simplified_chinese": "艳后",
+    "traditional_chinese": "艷后",
+    "japanese": "ナイル",
+    "korean": "클레오",
+    "russian": "Анка"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Ankha.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Ankha.png"
+  },
+  "id": 13,
+  "name": "Ankha",
+  "sex": "Female",
+  "personality": "Snooty",
+  "birthday": "9/22",
+  "species": "Cat",
+  "catch_phrase": "me meow",
+  "name_color": "#9b8986"
+}

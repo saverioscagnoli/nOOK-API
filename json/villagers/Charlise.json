@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Charlise",
+    "english_EU": "Charlise",
+    "german": "Tabea",
+    "spanish_EU": "Charo",
+    "spanish_american": "Charo",
+    "french_EU": "Zabou",
+    "french_american": "Zabou",
+    "italian": "Orsola",
+    "dutch": "Charlise",
+    "simplified_chinese": "恰咪",
+    "traditional_chinese": "恰咪",
+    "japanese": "チャーミー",
+    "korean": "챠미",
+    "russian": "Шарлиз"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Charlise.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Charlise.png"
+  },
+  "id": 81,
+  "name": "Charlise",
+  "sex": "Female",
+  "personality": "Big Sister",
+  "birthday": "4/17",
+  "species": "Bear",
+  "catch_phrase": "urgh",
+  "name_color": "#28665a"
+}

@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Astrid",
+    "english_EU": "Astrid",
+    "german": "Astrid",
+    "spanish_EU": "Astrid",
+    "spanish_american": "Astrid",
+    "french_EU": "Rhona",
+    "french_american": "Rhona",
+    "italian": "Stella",
+    "dutch": "Astrid",
+    "simplified_chinese": "童儿",
+    "traditional_chinese": "童兒",
+    "japanese": "キッズ",
+    "korean": "펑키맘",
+    "russian": "Астрид"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Astrid.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Astrid.png"
+  },
+  "id": 19,
+  "name": "Astrid",
+  "sex": "Female",
+  "personality": "Snooty",
+  "birthday": "9/8",
+  "species": "Kangaroo",
+  "catch_phrase": "my pet",
+  "name_color": "#848484"
+}

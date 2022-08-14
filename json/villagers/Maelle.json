@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Maelle",
+    "english_EU": "Maelle",
+    "german": "Sissi",
+    "spanish_EU": "Patidifú",
+    "spanish_american": "Patidifú",
+    "french_EU": "Maëlle",
+    "french_american": "Maëlle",
+    "italian": "Palmita",
+    "dutch": "Maelle",
+    "simplified_chinese": "安妮",
+    "traditional_chinese": "安妮",
+    "japanese": "アンヌ",
+    "korean": "앤",
+    "russian": "Маэль"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Maelle.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Maelle.png"
+  },
+  "id": 229,
+  "name": "Maelle",
+  "sex": "Female",
+  "personality": "Snooty",
+  "birthday": "4/8",
+  "species": "Duck",
+  "catch_phrase": "duckling",
+  "name_color": "#9b553a"
+}

@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Shino",
+    "english_EU": "Shino",
+    "german": "Yoshino",
+    "spanish_EU": "Yuki",
+    "spanish_american": "Yuki",
+    "french_EU": "Shino",
+    "french_american": "Shino",
+    "italian": "Sakura",
+    "dutch": "Shino",
+    "simplified_chinese": "佳芝",
+    "traditional_chinese": "佳芝",
+    "japanese": "よしの",
+    "korean": "요비",
+    "russian": "Сино"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Shino.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Shino.png"
+  },
+  "id": 347,
+  "name": "Shino",
+  "sex": "Female",
+  "personality": "Peppy",
+  "birthday": "10/31",
+  "species": "Deer",
+  "catch_phrase": "okaaay",
+  "name_color": "#848484"
+}

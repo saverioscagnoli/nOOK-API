@@ -1,0 +1,49 @@
+{
+  "translations": {
+    "english_USA": "olive flounder",
+    "english_EU": "olive flounder",
+    "german": "Flunder",
+    "spanish_EU": "rodaballo",
+    "spanish_american": "rodaballo",
+    "french_EU": "cardeau",
+    "french_american": "cardeau",
+    "italian": "sogliola",
+    "dutch": "bot",
+    "simplified_chinese": "比目鱼",
+    "traditional_chinese": "比目魚",
+    "japanese": "ヒラメ",
+    "korean": "넙치",
+    "russian": "ложный палтус"
+  },
+  "sell_prices": { "nook": 800, "cj": 1200 },
+  "available": {
+    "hemisphere_data": {
+      "northern_months": "",
+      "southern_months": "",
+      "northern_months_array": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "southern_months_array": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    },
+    "time": {
+      "all_day": true,
+      "all_year": true,
+      "time_string": "",
+      "time_array": [
+        0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19,
+        20, 21, 22, 23
+      ]
+    },
+    "spot": "Sea",
+    "rarity": "Common"
+  },
+  "phrases": {
+    "joke": "I caught an olive flounder! That's not the pits!",
+    "museum_description": "Did you know that the olive flounder is the same shape as other fish when it hatches? But as it grows, it gets both wider and flatter, and can reach some three feet long. These flat fish spend much of their lives buried under the sandy ocean floor, waiting for prey to happen by. Imagine the surprise for said prey when they strike. It would be as if your kitchen floor were to bite you."
+  },
+  "sprites": {
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/fishes/Olive_Flounder.png",
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/fishes/Olive_Flounder.png"
+  },
+  "id": 62,
+  "name": "olive flounder",
+  "shadow_size": "5"
+}

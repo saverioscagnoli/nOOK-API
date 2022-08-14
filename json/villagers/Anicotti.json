@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Anicotti",
+    "english_EU": "Anicotti",
+    "german": "Eva",
+    "spanish_EU": "Clorinda",
+    "spanish_american": "Clorinda",
+    "french_EU": "Annie",
+    "french_american": "Annie",
+    "italian": "Squitta",
+    "dutch": "Anicotti",
+    "simplified_chinese": "罗萱儿",
+    "traditional_chinese": "羅萱兒",
+    "japanese": "ラザニア",
+    "korean": "라자냐",
+    "russian": "Аникотти"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Anicotti.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Anicotti.png"
+  },
+  "id": 12,
+  "name": "Anicotti",
+  "sex": "Female",
+  "personality": "Peppy",
+  "birthday": "2/24",
+  "species": "Mouse",
+  "catch_phrase": "cannoli",
+  "name_color": "#28665a"
+}

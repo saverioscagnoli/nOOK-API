@@ -1,0 +1,48 @@
+{
+  "translations": {
+    "english_USA": "gigas giant clam",
+    "english_EU": "gigas giant clam",
+    "german": "Gigas-Riesenmuschel",
+    "spanish_EU": "taclobo gigante",
+    "spanish_american": "taclobo gigante",
+    "french_EU": "bénitier colossal",
+    "french_american": "bénitier colossal",
+    "italian": "tridacna gigante",
+    "dutch": "reuzendoopvontschelp",
+    "simplified_chinese": "大砗磲",
+    "traditional_chinese": "大硨磲",
+    "japanese": "オオシャコガイ",
+    "korean": "대왕거거",
+    "russian": "гигантская тридакна"
+  },
+  "price": 15000,
+  "speed": "Very fast",
+  "available": {
+    "hemisphere_data": {
+      "northern_months": "5-9",
+      "southern_months": "11-3",
+      "northern_months_array": [5, 6, 7, 8, 9],
+      "southern_months_array": [11, 12, 1, 2, 3]
+    },
+    "time": {
+      "all_day": true,
+      "all_year": false,
+      "time_string": "",
+      "time_array": [
+        0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19,
+        20, 21, 22, 23
+      ]
+    }
+  },
+  "phrases": {
+    "joke": "I got a gigas giant clam! It's kind of a big deal.",
+    "museum_description": "Gigas giant clams live in warm-water coral reefs and are the biggest bivalves in the world. Growing as wide as six feet and weighing up to 600 pounds, these clams can live to be 100 years old. And yes, these mighty creatures look as though they could eat a swimmer whole. But they eat plankton instead and get valuable nutrients from an algae they live in symbiosis with. Indeed, these enormous gents get all the sustenance they need by lying face up with their shells half-open. If such was my life, I'd be happy as a clam too."
+  },
+  "sprites": {
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/sea_creatures/Gigas_Giant_Clam.png",
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/sea_creatures/Gigas_Giant_Clam.png"
+  },
+  "id": 18,
+  "name": "gigas giant clam",
+  "shadow_size": "Largest"
+}

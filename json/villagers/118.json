@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Diva",
+    "english_EU": "Diva",
+    "german": "Dörte",
+    "spanish_EU": "Morania",
+    "spanish_american": "Morania",
+    "french_EU": "Violette",
+    "french_american": "Violette",
+    "italian": "Viola",
+    "dutch": "Diva",
+    "simplified_chinese": "小睫",
+    "traditional_chinese": "小睫",
+    "japanese": "アイーダ",
+    "korean": "아이다",
+    "russian": "Дива"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Diva.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Diva.png"
+  },
+  "id": 118,
+  "name": "Diva",
+  "sex": "Female",
+  "personality": "Big Sister",
+  "birthday": "10/2",
+  "species": "Frog",
+  "catch_phrase": "ya know",
+  "name_color": "#fffce9"
+}

@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Drago",
+    "english_EU": "Drago",
+    "german": "Frederik",
+    "spanish_EU": "Dragonio",
+    "spanish_american": "Dragonio",
+    "french_EU": "Drago",
+    "french_american": "Drago",
+    "italian": "Dragonio",
+    "dutch": "Drago",
+    "simplified_chinese": "阿龙",
+    "traditional_chinese": "阿龍",
+    "japanese": "タツオ",
+    "korean": "용남이",
+    "russian": "Драго"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Drago.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Drago.png"
+  },
+  "id": 125,
+  "name": "Drago",
+  "sex": "Male",
+  "personality": "Lazy",
+  "birthday": "2/12",
+  "species": "Alligator",
+  "catch_phrase": "burrrn",
+  "name_color": "#28665a"
+}

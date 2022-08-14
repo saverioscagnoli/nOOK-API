@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Chrissy",
+    "english_EU": "Chrissy",
+    "german": "Anne",
+    "spanish_EU": "Lali",
+    "spanish_american": "Lali",
+    "french_EU": "Kristine",
+    "french_american": "Kristine",
+    "italian": "Natascha",
+    "dutch": "Chrissy",
+    "simplified_chinese": "克莉琪",
+    "traditional_chinese": "克莉琪",
+    "japanese": "クリスチーヌ",
+    "korean": "크리스틴",
+    "russian": "Крисси"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Chrissy.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Chrissy.png"
+  },
+  "id": 90,
+  "name": "Chrissy",
+  "sex": "Female",
+  "personality": "Peppy",
+  "birthday": "8/28",
+  "species": "Rabbit",
+  "catch_phrase": "sparkles",
+  "name_color": "#fffce9"
+}

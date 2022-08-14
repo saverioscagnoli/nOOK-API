@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Marshal",
+    "english_EU": "Marshal",
+    "german": "Huschke",
+    "spanish_EU": "Munchi",
+    "spanish_american": "Munchi",
+    "french_EU": "Mathéo",
+    "french_american": "Mathéo",
+    "italian": "Scott",
+    "dutch": "Marshal",
+    "simplified_chinese": "小润",
+    "traditional_chinese": "小潤",
+    "japanese": "ジュン",
+    "korean": "쭈니",
+    "russian": "Маршал"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Marshal.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Marshal.png"
+  },
+  "id": 238,
+  "name": "Marshal",
+  "sex": "Male",
+  "personality": "Smug",
+  "birthday": "9/29",
+  "species": "Squirrel",
+  "catch_phrase": "sulky",
+  "name_color": "#848484"
+}

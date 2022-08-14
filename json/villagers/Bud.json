@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Bud",
+    "english_EU": "Bud",
+    "german": "Dieter",
+    "spanish_EU": "Surfleo",
+    "spanish_american": "Surfleo",
+    "french_EU": "Léonard",
+    "french_american": "Léonard",
+    "italian": "Leo",
+    "dutch": "Bud",
+    "simplified_chinese": "莫敬",
+    "traditional_chinese": "莫敬",
+    "japanese": "グラさん",
+    "korean": "선글",
+    "russian": "Бад"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Bud.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Bud.png"
+  },
+  "id": 63,
+  "name": "Bud",
+  "sex": "Male",
+  "personality": "Jock",
+  "birthday": "8/8",
+  "species": "Lion",
+  "catch_phrase": "shredded",
+  "name_color": "#fffce9"
+}

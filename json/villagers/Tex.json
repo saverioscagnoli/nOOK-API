@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Tex",
+    "english_EU": "Tex",
+    "german": "Matze",
+    "spanish_EU": "Tomeo",
+    "spanish_american": "Tomeo",
+    "french_EU": "Émilien",
+    "french_american": "Émilien",
+    "italian": "Freddy",
+    "dutch": "Tex",
+    "simplified_chinese": "伏特",
+    "traditional_chinese": "伏特",
+    "japanese": "ボルト",
+    "korean": "볼트",
+    "russian": "Текс"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Tex.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Tex.png"
+  },
+  "id": 377,
+  "name": "Tex",
+  "sex": "Male",
+  "personality": "Smug",
+  "birthday": "10/6",
+  "species": "Penguin",
+  "catch_phrase": "picante",
+  "name_color": "#fffad4"
+}

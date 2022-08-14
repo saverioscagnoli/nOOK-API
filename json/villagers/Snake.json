@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Snake",
+    "english_EU": "Snake",
+    "german": "Philip",
+    "spanish_EU": "Rayo",
+    "spanish_american": "Rayo",
+    "french_EU": "Jeannot",
+    "french_american": "Jeannot",
+    "italian": "Razzo",
+    "dutch": "Snake",
+    "simplified_chinese": "百川",
+    "traditional_chinese": "百川",
+    "japanese": "モモチ",
+    "korean": "닌토",
+    "russian": "Снейк"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Snake.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Snake.png"
+  },
+  "id": 351,
+  "name": "Snake",
+  "sex": "Male",
+  "personality": "Jock",
+  "birthday": "11/3",
+  "species": "Rabbit",
+  "catch_phrase": "bunyip",
+  "name_color": "#fffce9"
+}

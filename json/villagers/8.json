@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Amelia",
+    "english_EU": "Amelia",
+    "german": "Adelheid",
+    "spanish_EU": "Amelia",
+    "spanish_american": "Amelia",
+    "french_EU": "Aurélie",
+    "french_american": "Aurélie",
+    "italian": "Amelia",
+    "dutch": "Amelia",
+    "simplified_chinese": "安地斯",
+    "traditional_chinese": "安地斯",
+    "japanese": "アンデス",
+    "korean": "안데스",
+    "russian": "Амелия"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Amelia.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Amelia.png"
+  },
+  "id": 8,
+  "name": "Amelia",
+  "sex": "Female",
+  "personality": "Snooty",
+  "birthday": "11/19",
+  "species": "Eagle",
+  "catch_phrase": "cuz",
+  "name_color": "#fffad4"
+}

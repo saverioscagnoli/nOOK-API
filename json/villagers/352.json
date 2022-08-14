@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Snooty",
+    "english_EU": "Snooty",
+    "german": "Hilde",
+    "spanish_EU": "Rosanari",
+    "spanish_american": "Rosanari",
+    "french_EU": "Tarina",
+    "french_american": "Tarina",
+    "italian": "Lucrezia",
+    "dutch": "Snooty",
+    "simplified_chinese": "贵妃",
+    "traditional_chinese": "貴妃",
+    "japanese": "こまち",
+    "korean": "스누티",
+    "russian": "Снути"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Snooty.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Snooty.png"
+  },
+  "id": 352,
+  "name": "Snooty",
+  "sex": "Female",
+  "personality": "Snooty",
+  "birthday": "10/24",
+  "species": "Anteater",
+  "catch_phrase": "sniffff",
+  "name_color": "#634b4b"
+}

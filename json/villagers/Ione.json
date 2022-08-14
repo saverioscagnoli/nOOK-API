@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Ione",
+    "english_EU": "Ione",
+    "german": "Vega",
+    "spanish_EU": "Auri",
+    "spanish_american": "Auri",
+    "french_EU": "Terra",
+    "french_american": "Terra",
+    "italian": "Pervinca",
+    "dutch": "Ione",
+    "simplified_chinese": "穗星",
+    "traditional_chinese": "穗星",
+    "japanese": "スピカ",
+    "korean": "스피카",
+    "russian": "Ионе"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Ione.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Ione.png"
+  },
+  "id": 187,
+  "name": "Ione",
+  "sex": "Female",
+  "personality": "Normal",
+  "birthday": "9/11",
+  "species": "Squirrel",
+  "catch_phrase": "gleam",
+  "name_color": "#fffad4"
+}

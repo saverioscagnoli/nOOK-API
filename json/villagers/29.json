@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Barold",
+    "english_EU": "Barold",
+    "german": "Hubert",
+    "spanish_EU": "Plácido",
+    "spanish_american": "Plácido",
+    "french_EU": "Manu",
+    "french_american": "Manu",
+    "italian": "Placido",
+    "dutch": "Barold",
+    "simplified_chinese": "阿西",
+    "traditional_chinese": "阿西",
+    "japanese": "ニッシー",
+    "korean": "곰시",
+    "russian": "Барольд"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Barold.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Barold.png"
+  },
+  "id": 29,
+  "name": "Barold",
+  "sex": "Male",
+  "personality": "Lazy",
+  "birthday": "3/2",
+  "species": "Bear cub",
+  "catch_phrase": "cubby",
+  "name_color": "#5e5e5e"
+}

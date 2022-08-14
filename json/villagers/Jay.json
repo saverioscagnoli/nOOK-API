@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Jay",
+    "english_EU": "Jay",
+    "german": "Jan",
+    "spanish_EU": "Jota",
+    "spanish_american": "Jairo",
+    "french_EU": "Gérard",
+    "french_american": "Gérard",
+    "italian": "Jet",
+    "dutch": "Jay",
+    "simplified_chinese": "阿燕",
+    "traditional_chinese": "阿燕",
+    "japanese": "ツバクロ",
+    "korean": "참돌이",
+    "russian": "Джей"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Jay.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Jay.png"
+  },
+  "id": 191,
+  "name": "Jay",
+  "sex": "Male",
+  "personality": "Jock",
+  "birthday": "7/17",
+  "species": "Bird",
+  "catch_phrase": "heeeeeyy",
+  "name_color": "#9ae8df"
+}

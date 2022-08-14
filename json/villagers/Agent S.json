@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Agent S",
+    "english_EU": "Agent S",
+    "german": "Karin",
+    "spanish_EU": "Fardilia",
+    "spanish_american": "Fardilia",
+    "french_EU": "Ninjette",
+    "french_american": "Ninjette",
+    "italian": "Agente S",
+    "dutch": "Agent S",
+    "simplified_chinese": "阿二",
+    "traditional_chinese": "阿二",
+    "japanese": "２ごう",
+    "korean": "2호",
+    "russian": "Агент С"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Agent S.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Agent S.png"
+  },
+  "id": 2,
+  "name": "Agent S",
+  "sex": "Female",
+  "personality": "Peppy",
+  "birthday": "7/2",
+  "species": "Squirrel",
+  "catch_phrase": "sidekick",
+  "name_color": "#fffce9"
+}

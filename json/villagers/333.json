@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Roswell",
+    "english_EU": "Roswell",
+    "german": "Juri",
+    "spanish_EU": "Roswell",
+    "spanish_american": "Roswell",
+    "french_EU": "Roswell",
+    "french_american": "Roswell",
+    "italian": "Ulfo",
+    "dutch": "Roswell",
+    "simplified_chinese": "皮隆孔",
+    "traditional_chinese": "皮隆孔",
+    "japanese": "ピロンコン",
+    "korean": "삐로코",
+    "russian": "Розуэлл"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Roswell.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Roswell.png"
+  },
+  "id": 333,
+  "name": "Roswell",
+  "sex": "Male",
+  "personality": "Smug",
+  "birthday": "5/2",
+  "species": "Alligator",
+  "catch_phrase": "spaaace",
+  "name_color": "#fffce9"
+}

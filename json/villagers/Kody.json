@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Kody",
+    "english_EU": "Kody",
+    "german": "Bernd",
+    "spanish_EU": "Orestes",
+    "spanish_american": "Orestes",
+    "french_EU": "Bill",
+    "french_american": "Bill",
+    "italian": "Salomone",
+    "dutch": "Kody",
+    "simplified_chinese": "艾德豪",
+    "traditional_chinese": "艾德豪",
+    "japanese": "アイダホ",
+    "korean": "아이다호",
+    "russian": "Коди"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Kody.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Kody.png"
+  },
+  "id": 212,
+  "name": "Kody",
+  "sex": "Male",
+  "personality": "Jock",
+  "birthday": "9/28",
+  "species": "Bear cub",
+  "catch_phrase": "grah grah",
+  "name_color": "#fffce9"
+}

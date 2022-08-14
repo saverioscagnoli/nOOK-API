@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Dizzy",
+    "english_EU": "Dizzy",
+    "german": "Bastian",
+    "spanish_EU": "Quique",
+    "spanish_american": "Quique",
+    "french_EU": "Pachy",
+    "french_american": "Pachy",
+    "italian": "Annibale",
+    "dutch": "Dizzy",
+    "simplified_chinese": "巨巨",
+    "traditional_chinese": "巨巨",
+    "japanese": "ヒュージ",
+    "korean": "휴지",
+    "russian": "Диззи"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Dizzy.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Dizzy.png"
+  },
+  "id": 119,
+  "name": "Dizzy",
+  "sex": "Male",
+  "personality": "Lazy",
+  "birthday": "7/14",
+  "species": "Elephant",
+  "catch_phrase": "woo-oo",
+  "name_color": "#fffce9"
+}

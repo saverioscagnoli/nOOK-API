@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Pudge",
+    "english_EU": "Pudge",
+    "german": "Bertram",
+    "spanish_EU": "Bollito",
+    "spanish_american": "Bollito",
+    "french_EU": "Gradub",
+    "french_american": "Gradub",
+    "italian": "Tombolo",
+    "dutch": "Pudge",
+    "simplified_chinese": "阿钦",
+    "traditional_chinese": "阿欽",
+    "japanese": "きんぞう",
+    "korean": "우띠",
+    "russian": "Падж"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Pudge.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Pudge.png"
+  },
+  "id": 303,
+  "name": "Pudge",
+  "sex": "Male",
+  "personality": "Lazy",
+  "birthday": "6/11",
+  "species": "Bear cub",
+  "catch_phrase": "golly",
+  "name_color": "#fff2bb"
+}

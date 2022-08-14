@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Chabwick",
+    "english_EU": "Chabwick",
+    "german": "Achim",
+    "spanish_EU": "Gabino",
+    "spanish_american": "Gabino",
+    "french_EU": "Zinzin",
+    "french_american": "Zinzin",
+    "italian": "Ottone",
+    "dutch": "Chabwick",
+    "simplified_chinese": "信雄",
+    "traditional_chinese": "信雄",
+    "japanese": "のぶお",
+    "korean": "펭구",
+    "russian": "Чебвик"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Chabwick.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Chabwick.png"
+  },
+  "id": 78,
+  "name": "Chabwick",
+  "sex": "Male",
+  "personality": "Lazy",
+  "birthday": "12/24",
+  "species": "Penguin",
+  "catch_phrase": "blargh",
+  "name_color": "#fffad4"
+}

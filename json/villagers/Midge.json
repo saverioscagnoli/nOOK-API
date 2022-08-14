@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Midge",
+    "english_EU": "Midge",
+    "german": "Anna",
+    "spanish_EU": "Paloma",
+    "spanish_american": "Paloma",
+    "french_EU": "Michèle",
+    "french_american": "Michèle",
+    "italian": "Minù",
+    "dutch": "Midge",
+    "simplified_chinese": "小酒窝",
+    "traditional_chinese": "小酒窩",
+    "japanese": "うずまき",
+    "korean": "핑글이",
+    "russian": "Мидж"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Midge.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Midge.png"
+  },
+  "id": 245,
+  "name": "Midge",
+  "sex": "Female",
+  "personality": "Normal",
+  "birthday": "3/12",
+  "species": "Bird",
+  "catch_phrase": "tweedledee",
+  "name_color": "#fffce9"
+}

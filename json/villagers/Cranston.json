@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Cranston",
+    "english_EU": "Cranston",
+    "german": "Guido",
+    "spanish_EU": "Carmelo",
+    "spanish_american": "Carmelo",
+    "french_EU": "Gabin",
+    "french_american": "Gabin",
+    "italian": "Carmine",
+    "dutch": "Cranston",
+    "simplified_chinese": "朱禄",
+    "traditional_chinese": "朱祿",
+    "japanese": "トキオ",
+    "korean": "타키",
+    "russian": "Крэнстон"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Cranston.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Cranston.png"
+  },
+  "id": 103,
+  "name": "Cranston",
+  "sex": "Male",
+  "personality": "Lazy",
+  "birthday": "9/23",
+  "species": "Ostrich",
+  "catch_phrase": "sweatband",
+  "name_color": "#848484"
+}

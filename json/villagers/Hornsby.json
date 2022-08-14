@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Hornsby",
+    "english_EU": "Hornsby",
+    "german": "Rüdiger",
+    "spanish_EU": "Rino",
+    "spanish_american": "Rino",
+    "french_EU": "Cornio",
+    "french_american": "Cornio",
+    "italian": "Rino",
+    "dutch": "Hornsby",
+    "simplified_chinese": "光雄",
+    "traditional_chinese": "光雄",
+    "japanese": "みつお",
+    "korean": "뿌람",
+    "russian": "Хорнсби"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Hornsby.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Hornsby.png"
+  },
+  "id": 182,
+  "name": "Hornsby",
+  "sex": "Male",
+  "personality": "Lazy",
+  "birthday": "3/20",
+  "species": "Rhinoceros",
+  "catch_phrase": "schnozzle",
+  "name_color": "#fffce9"
+}

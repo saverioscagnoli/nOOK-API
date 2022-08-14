@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "K.K. House",
+    "english_EU": "K.K. House",
+    "german": "K.K. House",
+    "spanish_EU": "Tota-house",
+    "spanish_american": "Tota-house",
+    "french_EU": "Kéké House",
+    "french_american": "Kéké House",
+    "italian": "K.K. House",
+    "dutch": "K.K.-house",
+    "simplified_chinese": "K.K.浩室",
+    "traditional_chinese": "K.K.浩室",
+    "japanese": "けけハウス",
+    "korean": "K.K.하우스",
+    "russian": "Хаус К. К."
+  },
+  "id": 39,
+  "name": "K.K. House",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/KK_House.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/KK_House.mp3"
+}

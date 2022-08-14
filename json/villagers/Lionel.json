@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Lionel",
+    "english_EU": "Lionel",
+    "german": "Lorenz",
+    "spanish_EU": "Lionel",
+    "spanish_american": "Lionel",
+    "french_EU": "Léopold",
+    "french_american": "Léopold",
+    "italian": "Leonida",
+    "dutch": "Lionel",
+    "simplified_chinese": "赖恩睿",
+    "traditional_chinese": "賴恩睿",
+    "japanese": "ライオネル",
+    "korean": "라이오넬",
+    "russian": "Лайонел"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Lionel.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Lionel.png"
+  },
+  "id": 218,
+  "name": "Lionel",
+  "sex": "Male",
+  "personality": "Smug",
+  "birthday": "7/29",
+  "species": "Lion",
+  "catch_phrase": "precisely",
+  "name_color": "#fffce9"
+}

@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Gwen",
+    "english_EU": "Gwen",
+    "german": "Judith",
+    "spanish_EU": "Fabiola",
+    "spanish_american": "Fabiola",
+    "french_EU": "Gwen",
+    "french_american": "Gwen",
+    "italian": "Gelinda",
+    "dutch": "Gwen",
+    "simplified_chinese": "宝拉",
+    "traditional_chinese": "寶拉",
+    "japanese": "ポーラ",
+    "korean": "폴라",
+    "russian": "Гвен"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Gwen.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Gwen.png"
+  },
+  "id": 172,
+  "name": "Gwen",
+  "sex": "Female",
+  "personality": "Snooty",
+  "birthday": "1/23",
+  "species": "Penguin",
+  "catch_phrase": "h-h-h-hon",
+  "name_color": "#fffce9"
+}

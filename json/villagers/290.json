@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Pierce",
+    "english_EU": "Pierce",
+    "german": "Adrian",
+    "spanish_EU": "Hugo",
+    "spanish_american": "Hugo",
+    "french_EU": "Napoléon",
+    "french_american": "Napoléon",
+    "italian": "Attilio",
+    "dutch": "Pierce",
+    "simplified_chinese": "谢博强",
+    "traditional_chinese": "謝博強",
+    "japanese": "セバスチャン",
+    "korean": "세바스찬",
+    "russian": "Пирс"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Pierce.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Pierce.png"
+  },
+  "id": 290,
+  "name": "Pierce",
+  "sex": "Male",
+  "personality": "Jock",
+  "birthday": "1/8",
+  "species": "Eagle",
+  "catch_phrase": "hawkeye",
+  "name_color": "#fffce9"
+}

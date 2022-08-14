@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "K.K. Mariachi",
+    "english_EU": "K.K. Mariachi",
+    "german": "K.K. Combo",
+    "spanish_EU": "Tota-mariachi",
+    "spanish_american": "Tota-mariachi",
+    "french_EU": "Mariachi Kéké",
+    "french_american": "Mariachi Kéké",
+    "italian": "K.K. Amico",
+    "dutch": "K.K.-mariachi",
+    "simplified_chinese": "墨西哥绅士K.K.",
+    "traditional_chinese": "墨西哥紳士K.K.",
+    "japanese": "セニョールけけ",
+    "korean": "세뇨르K.K.",
+    "russian": "Марьячи К. К."
+  },
+  "id": 49,
+  "name": "K.K. Mariachi",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/KK_Mariachi.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/KK_Mariachi.mp3"
+}

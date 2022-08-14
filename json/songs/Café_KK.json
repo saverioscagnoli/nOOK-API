@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "Café K.K.",
+    "english_EU": "Café K.K.",
+    "german": "K.K. Kaffeeblues",
+    "spanish_EU": "Tota-café",
+    "spanish_american": "Tota-café",
+    "french_EU": "Kéké café",
+    "french_american": "Kéké café",
+    "italian": "K.K. Bar",
+    "dutch": "Café K.K.",
+    "simplified_chinese": "K.K.巴黎",
+    "traditional_chinese": "K.K.巴黎",
+    "japanese": "けけパリ",
+    "korean": "K.K.파리",
+    "russian": "Кафе К. К."
+  },
+  "id": 5,
+  "name": "Café K.K.",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/Café_KK.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/Café_KK.mp3"
+}

@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Purrl",
+    "english_EU": "Purrl",
+    "german": "Franka",
+    "spanish_EU": "Wanda",
+    "spanish_american": "Wanda",
+    "french_EU": "Perle",
+    "french_american": "Perle",
+    "italian": "Felidia",
+    "dutch": "Purrl",
+    "simplified_chinese": "小玉",
+    "traditional_chinese": "小玉",
+    "japanese": "たま",
+    "korean": "타마",
+    "russian": "Перл"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Purrl.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Purrl.png"
+  },
+  "id": 305,
+  "name": "Purrl",
+  "sex": "Female",
+  "personality": "Snooty",
+  "birthday": "5/29",
+  "species": "Cat",
+  "catch_phrase": "kitten",
+  "name_color": "#848484"
+}

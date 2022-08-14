@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Megan",
+    "english_EU": "Megan",
+    "german": "Dagmar",
+    "spanish_EU": "Carmela",
+    "spanish_american": "Carmela",
+    "french_EU": "Candy",
+    "french_american": "Candy",
+    "italian": "Dolcinia",
+    "dutch": "Megan",
+    "simplified_chinese": "糖果",
+    "traditional_chinese": "糖果",
+    "japanese": "キャンディ",
+    "korean": "캔디",
+    "russian": "Меган"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Megan.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Megan.png"
+  },
+  "id": 241,
+  "name": "Megan",
+  "sex": "Female",
+  "personality": "Normal",
+  "birthday": "3/13",
+  "species": "Bear",
+  "catch_phrase": "sundae",
+  "name_color": "#fffce9"
+}

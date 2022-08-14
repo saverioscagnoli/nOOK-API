@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Gayle",
+    "english_EU": "Gayle",
+    "german": "Rosa",
+    "spanish_EU": "Boni",
+    "spanish_american": "Boni",
+    "french_EU": "Odile",
+    "french_american": "Odile",
+    "italian": "Codrilla",
+    "dutch": "Gayle",
+    "simplified_chinese": "爱莉",
+    "traditional_chinese": "愛莉",
+    "japanese": "アリゲッティ",
+    "korean": "앨리",
+    "russian": "Гейл"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Gayle.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Gayle.png"
+  },
+  "id": 159,
+  "name": "Gayle",
+  "sex": "Female",
+  "personality": "Normal",
+  "birthday": "5/17",
+  "species": "Alligator",
+  "catch_phrase": "snacky",
+  "name_color": "#fffce9"
+}

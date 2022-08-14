@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Doc",
+    "english_EU": "Doc",
+    "german": "Gustl",
+    "spanish_EU": "Crispín",
+    "spanish_american": "Crispín",
+    "french_EU": "Doc",
+    "french_american": "Doc",
+    "italian": "Doc",
+    "dutch": "Doc",
+    "simplified_chinese": "阿飞",
+    "traditional_chinese": "阿飛",
+    "japanese": "トビオ",
+    "korean": "토니",
+    "russian": "Док"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Doc.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Doc.png"
+  },
+  "id": 121,
+  "name": "Doc",
+  "sex": "Male",
+  "personality": "Lazy",
+  "birthday": "3/16",
+  "species": "Rabbit",
+  "catch_phrase": "old bunny",
+  "name_color": "#fffce9"
+}

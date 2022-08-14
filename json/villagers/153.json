@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Frita",
+    "english_EU": "Frita",
+    "german": "Martina",
+    "spanish_EU": "Ovinia",
+    "spanish_american": "Ovinia",
+    "french_EU": "Clarabêl",
+    "french_american": "Clarabêl",
+    "italian": "Landa",
+    "dutch": "Frita",
+    "simplified_chinese": "温蒂",
+    "traditional_chinese": "溫蒂",
+    "japanese": "ウェンディ",
+    "korean": "웬디",
+    "russian": "Фрита"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Frita.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Frita.png"
+  },
+  "id": 153,
+  "name": "Frita",
+  "sex": "Female",
+  "personality": "Big Sister",
+  "birthday": "7/16",
+  "species": "Sheep",
+  "catch_phrase": "oh ewe",
+  "name_color": "#874c25"
+}

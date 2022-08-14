@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Stu",
+    "english_EU": "Stu",
+    "german": "Carlos",
+    "spanish_EU": "Vitorino",
+    "spanish_american": "Vitorino",
+    "french_EU": "Beubeu",
+    "french_american": "Beubeu",
+    "italian": "Carlos",
+    "dutch": "Stu",
+    "simplified_chinese": "毛乐时",
+    "traditional_chinese": "毛樂時",
+    "japanese": "モーリス",
+    "korean": "모리스",
+    "russian": "Стью"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Stu.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Stu.png"
+  },
+  "id": 364,
+  "name": "Stu",
+  "sex": "Male",
+  "personality": "Lazy",
+  "birthday": "4/20",
+  "species": "Bull",
+  "catch_phrase": "mrooooo",
+  "name_color": "#9ae8df"
+}

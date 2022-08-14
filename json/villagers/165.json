@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Gonzo",
+    "english_EU": "Gonzo",
+    "german": "Heribert",
+    "spanish_EU": "Bronco",
+    "spanish_american": "Bronco",
+    "french_EU": "Gonzo",
+    "french_american": "Gonzo",
+    "italian": "Gonzo",
+    "dutch": "Gonzo",
+    "simplified_chinese": "钢锁",
+    "traditional_chinese": "鋼鎖",
+    "japanese": "ゴンゾー",
+    "korean": "근성",
+    "russian": "Гонзо"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Gonzo.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Gonzo.png"
+  },
+  "id": 165,
+  "name": "Gonzo",
+  "sex": "Male",
+  "personality": "Cranky",
+  "birthday": "10/13",
+  "species": "Koala",
+  "catch_phrase": "mate",
+  "name_color": "#5e5e5e"
+}

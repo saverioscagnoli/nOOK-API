@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Croque",
+    "english_EU": "Croque",
+    "german": "Carlo",
+    "spanish_EU": "Ranolfo",
+    "spanish_american": "Ranolfo",
+    "french_EU": "Carlos",
+    "french_american": "Carlos",
+    "italian": "Gracido",
+    "dutch": "Croque",
+    "simplified_chinese": "太子",
+    "traditional_chinese": "太子",
+    "japanese": "タイシ",
+    "korean": "투투",
+    "russian": "Крок"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Croque.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Croque.png"
+  },
+  "id": 104,
+  "name": "Croque",
+  "sex": "Male",
+  "personality": "Cranky",
+  "birthday": "7/18",
+  "species": "Frog",
+  "catch_phrase": "as if",
+  "name_color": "#fff2bb"
+}

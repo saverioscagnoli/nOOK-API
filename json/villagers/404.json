@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Whitney",
+    "english_EU": "Whitney",
+    "german": "Lupa",
+    "spanish_EU": "Lupe",
+    "spanish_american": "Lupe",
+    "french_EU": "Blanche",
+    "french_american": "Blanche",
+    "italian": "Bianca",
+    "dutch": "Whitney",
+    "simplified_chinese": "毕安卡",
+    "traditional_chinese": "畢安卡",
+    "japanese": "ビアンカ",
+    "korean": "비앙카",
+    "russian": "Уитни"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Whitney.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Whitney.png"
+  },
+  "id": 404,
+  "name": "Whitney",
+  "sex": "Female",
+  "personality": "Snooty",
+  "birthday": "9/17",
+  "species": "Wolf",
+  "catch_phrase": "snappy",
+  "name_color": "#85a2af"
+}

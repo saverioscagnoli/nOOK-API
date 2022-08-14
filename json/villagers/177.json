@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Hazel",
+    "english_EU": "Hazel",
+    "german": "Nadine",
+    "spanish_EU": "Anacarda",
+    "spanish_american": "Anacarda",
+    "french_EU": "Pamela",
+    "french_american": "Pamela",
+    "italian": "Cigliola",
+    "dutch": "Hazel",
+    "simplified_chinese": "艾栗丝",
+    "traditional_chinese": "艾栗絲",
+    "japanese": "アイリス",
+    "korean": "아이리스",
+    "russian": "Хейзел"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Hazel.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Hazel.png"
+  },
+  "id": 177,
+  "name": "Hazel",
+  "sex": "Female",
+  "personality": "Big Sister",
+  "birthday": "8/30",
+  "species": "Squirrel",
+  "catch_phrase": "uni-wow",
+  "name_color": "#874c25"
+}

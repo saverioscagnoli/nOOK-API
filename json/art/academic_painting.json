@@ -1,0 +1,25 @@
+{
+  "translations": {
+    "english_USA": "academic painting",
+    "english_EU": "academic painting",
+    "german": "Wissenschaftsgemälde",
+    "spanish_EU": "cuadro anatómico",
+    "spanish_american": "cuadro anatómico",
+    "french_EU": "toile académique",
+    "french_american": "toile académique",
+    "italian": "quadro accademico",
+    "dutch": "academische schilderij",
+    "simplified_chinese": "学术性的名画",
+    "traditional_chinese": "學術性的名畫",
+    "japanese": "アカデミックなめいが",
+    "korean": "아카데믹한 명화",
+    "russian": "академическая картина"
+  },
+  "id": 1,
+  "name": "academic painting",
+  "buy_price": 4980,
+  "sell_price": 1245,
+  "museum_description": "This drawing is based on the \"ideal\" human-body ratio, as stated in \"De architectura.\" \"De architectura\" was a treatise by Vitruvius, an architect from the early 1st century BCE.",
+  "canBeFake": true,
+  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/render/art/academic_painting.png"
+}

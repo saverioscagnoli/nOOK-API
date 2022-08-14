@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "K.K. D&B",
+    "english_EU": "K.K. D&B",
+    "german": "K.K. D & B",
+    "spanish_EU": "Tota-drum&bass",
+    "spanish_american": "Tota-drum&bass",
+    "french_EU": "Drum & bass Kéké",
+    "french_american": "Drum & bass Kéké",
+    "italian": "K.K. & Band",
+    "dutch": "K.K.-drum-'n-bass",
+    "simplified_chinese": "鼓打贝斯",
+    "traditional_chinese": "鼓打貝斯",
+    "japanese": "ドラムンベース",
+    "korean": "드럼앤베이스",
+    "russian": "Драм-н-бэйс К. К."
+  },
+  "id": 28,
+  "name": "K.K. D&B",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/KK_D&B.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/KK_D&B.mp3"
+}

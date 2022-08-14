@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Plucky",
+    "english_EU": "Plucky",
+    "german": "Mareile",
+    "spanish_EU": "Herminia",
+    "spanish_american": "Herminia",
+    "french_EU": "Poulette",
+    "french_american": "Poulette",
+    "italian": "Cocca",
+    "dutch": "Plucky",
+    "simplified_chinese": "帕塔雅",
+    "traditional_chinese": "帕塔雅",
+    "japanese": "パタヤ",
+    "korean": "파타야",
+    "russian": "Плаки"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Plucky.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Plucky.png"
+  },
+  "id": 295,
+  "name": "Plucky",
+  "sex": "Female",
+  "personality": "Big Sister",
+  "birthday": "10/12",
+  "species": "Chicken",
+  "catch_phrase": "chicky-poo",
+  "name_color": "#eac113"
+}

@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "K.K. Samba",
+    "english_EU": "K.K. Samba",
+    "german": "K.K. Samba",
+    "spanish_EU": "Tota-samba",
+    "spanish_american": "Tota-samba",
+    "french_EU": "Samba de Kéké",
+    "french_american": "Samba de Kéké",
+    "italian": "K.K. Samba",
+    "dutch": "K.K.-samba",
+    "simplified_chinese": "K.K.桑巴",
+    "traditional_chinese": "K.K.森巴",
+    "japanese": "けけサンバ",
+    "korean": "K.K.삼바",
+    "russian": "Самба К. К."
+  },
+  "id": 62,
+  "name": "K.K. Samba",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/KK_Samba.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/KK_Samba.mp3"
+}

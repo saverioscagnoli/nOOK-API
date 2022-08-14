@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Miranda",
+    "english_EU": "Miranda",
+    "german": "Tanya",
+    "spanish_EU": "Miranda",
+    "spanish_american": "Miranda",
+    "french_EU": "Maëllis",
+    "french_american": "Maëllis",
+    "italian": "Miranda",
+    "dutch": "Miranda",
+    "simplified_chinese": "米兰达",
+    "traditional_chinese": "米蘭達",
+    "japanese": "ミランダ",
+    "korean": "미란다",
+    "russian": "Миранда"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Miranda.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Miranda.png"
+  },
+  "id": 248,
+  "name": "Miranda",
+  "sex": "Female",
+  "personality": "Snooty",
+  "birthday": "4/23",
+  "species": "Duck",
+  "catch_phrase": "quackulous",
+  "name_color": "#fffce9"
+}

@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Bertha",
+    "english_EU": "Bertha",
+    "german": "Berta",
+    "spanish_EU": "Berta",
+    "spanish_american": "Berta",
+    "french_EU": "Bertha",
+    "french_american": "Bertha",
+    "italian": "Umberta",
+    "dutch": "Bertha",
+    "simplified_chinese": "豆沙",
+    "traditional_chinese": "豆沙",
+    "japanese": "あんこ",
+    "korean": "베티",
+    "russian": "Берта"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Bertha.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Bertha.png"
+  },
+  "id": 37,
+  "name": "Bertha",
+  "sex": "Female",
+  "personality": "Normal",
+  "birthday": "4/25",
+  "species": "Hippo",
+  "catch_phrase": "bloop",
+  "name_color": "#fffce9"
+}

@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Drake",
+    "english_EU": "Drake",
+    "german": "Gustav",
+    "spanish_EU": "Draco",
+    "spanish_american": "Draco",
+    "french_EU": "Colvert",
+    "french_american": "Colvert",
+    "italian": "Drago",
+    "dutch": "Drake",
+    "simplified_chinese": "肥肝",
+    "traditional_chinese": "肥肝",
+    "japanese": "フォアグラ",
+    "korean": "푸아그라",
+    "russian": "Дрейк"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Drake.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Drake.png"
+  },
+  "id": 126,
+  "name": "Drake",
+  "sex": "Male",
+  "personality": "Lazy",
+  "birthday": "6/25",
+  "species": "Duck",
+  "catch_phrase": "quacko",
+  "name_color": "#fffce9"
+}

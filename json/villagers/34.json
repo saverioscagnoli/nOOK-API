@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Bella",
+    "english_EU": "Bella",
+    "german": "Susi",
+    "spanish_EU": "Prity",
+    "spanish_american": "Prity",
+    "french_EU": "Belle",
+    "french_american": "Belle",
+    "italian": "Bella",
+    "dutch": "Bella",
+    "simplified_chinese": "贝拉",
+    "traditional_chinese": "貝拉",
+    "japanese": "イザベラ",
+    "korean": "이자벨",
+    "russian": "Белла"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Bella.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Bella.png"
+  },
+  "id": 34,
+  "name": "Bella",
+  "sex": "Female",
+  "personality": "Peppy",
+  "birthday": "12/28",
+  "species": "Mouse",
+  "catch_phrase": "eeks",
+  "name_color": "#848484"
+}

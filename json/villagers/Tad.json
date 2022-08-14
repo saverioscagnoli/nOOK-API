@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Tad",
+    "english_EU": "Tad",
+    "german": "Paul",
+    "spanish_EU": "Saltonio",
+    "spanish_american": "Saltonio",
+    "french_EU": "Rénato",
+    "french_american": "Rénato",
+    "italian": "Achille",
+    "dutch": "Tad",
+    "simplified_chinese": "阿田",
+    "traditional_chinese": "阿田",
+    "japanese": "タンボ",
+    "korean": "텀보",
+    "russian": "Тэд"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Tad.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Tad.png"
+  },
+  "id": 370,
+  "name": "Tad",
+  "sex": "Male",
+  "personality": "Jock",
+  "birthday": "8/3",
+  "species": "Frog",
+  "catch_phrase": "sluuuurp",
+  "name_color": "#fffce9"
+}

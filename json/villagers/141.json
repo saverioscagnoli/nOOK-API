@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Felicity",
+    "english_EU": "Felicity",
+    "german": "Minka",
+    "spanish_EU": "Micha",
+    "spanish_american": "Micha",
+    "french_EU": "Maud",
+    "french_american": "Maud",
+    "italian": "Milly",
+    "dutch": "Felicity",
+    "simplified_chinese": "美佳",
+    "traditional_chinese": "美佳",
+    "japanese": "みかっち",
+    "korean": "예링",
+    "russian": "Фелисити"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Felicity.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Felicity.png"
+  },
+  "id": 141,
+  "name": "Felicity",
+  "sex": "Female",
+  "personality": "Peppy",
+  "birthday": "3/30",
+  "species": "Cat",
+  "catch_phrase": "mimimi",
+  "name_color": "#879b96"
+}

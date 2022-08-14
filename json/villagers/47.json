@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Blanche",
+    "english_EU": "Blanche",
+    "german": "Christa",
+    "spanish_EU": "Rocío",
+    "spanish_american": "Rocío",
+    "french_EU": "Sophie",
+    "french_american": "Sophie",
+    "italian": "Emilia",
+    "dutch": "Blanche",
+    "simplified_chinese": "小偲",
+    "traditional_chinese": "小偲",
+    "japanese": "しのぶ",
+    "korean": "신옥",
+    "russian": "Бланш"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Blanche.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Blanche.png"
+  },
+  "id": 47,
+  "name": "Blanche",
+  "sex": "Female",
+  "personality": "Snooty",
+  "birthday": "12/21",
+  "species": "Ostrich",
+  "catch_phrase": "quite so",
+  "name_color": "#848484"
+}

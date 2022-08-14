@@ -1,0 +1,25 @@
+{
+  "translations": {
+    "english_USA": "familiar statue",
+    "english_EU": "familiar statue",
+    "german": "Vertrautstatue",
+    "spanish_EU": "estatua pensativa",
+    "spanish_american": "estatua pensativa",
+    "french_EU": "statue pensive",
+    "french_american": "statue pensive",
+    "italian": "statua pensierosa",
+    "dutch": "peinzende standbeeld",
+    "simplified_chinese": "似曾相识的雕塑",
+    "traditional_chinese": "似曾相識的雕塑",
+    "japanese": "なじみのあるちょうこく",
+    "korean": "익숙한 조각",
+    "russian": "знакомая статуя"
+  },
+  "id": 10,
+  "name": "familiar statue",
+  "buy_price": 4980,
+  "sell_price": 1245,
+  "museum_description": "This bronze sculpture was crafted by the French sculptor Rodin, known as the father of modern sculpture. The incredibly famous original is located in France. The sculpture was casted over 20 times. As such, authentic pieces can be found all around the world.",
+  "canBeFake": false,
+  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/render/art/familiar_statue.png"
+}

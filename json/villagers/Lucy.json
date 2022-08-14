@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Lucy",
+    "english_EU": "Lucy",
+    "german": "Larissa",
+    "spanish_EU": "Aurelia",
+    "spanish_american": "Aurelia",
+    "french_EU": "Lucie",
+    "french_american": "Lucie",
+    "italian": "Lucy",
+    "dutch": "Lucy",
+    "simplified_chinese": "露西",
+    "traditional_chinese": "露西",
+    "japanese": "ルーシー",
+    "korean": "루시",
+    "russian": "Люси"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Lucy.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Lucy.png"
+  },
+  "id": 225,
+  "name": "Lucy",
+  "sex": "Female",
+  "personality": "Normal",
+  "birthday": "6/2",
+  "species": "Pig",
+  "catch_phrase": "snoooink",
+  "name_color": "#848484"
+}

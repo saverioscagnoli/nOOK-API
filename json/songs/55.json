@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "K.K. Ragtime",
+    "english_EU": "K.K. Ragtime",
+    "german": "K.K. Ragtime",
+    "spanish_EU": "Tota-ragtime",
+    "spanish_american": "Tota-ragtime",
+    "french_EU": "Ragtime Kéké",
+    "french_american": "Ragtime Kéké",
+    "italian": "K.K. Ritmo",
+    "dutch": "K.K.-ragtime",
+    "simplified_chinese": "格拉泰姆音乐",
+    "traditional_chinese": "拉格泰姆音樂",
+    "japanese": "ラグタイム",
+    "korean": "래그타임",
+    "russian": "Регтайм К. К."
+  },
+  "id": 55,
+  "name": "K.K. Ragtime",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/KK_Ragtime.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/KK_Ragtime.mp3"
+}

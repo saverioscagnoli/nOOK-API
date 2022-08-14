@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Rex",
+    "english_EU": "Rex",
+    "german": "Rex",
+    "spanish_EU": "Leoncio",
+    "spanish_american": "Leoncio",
+    "french_EU": "Léo",
+    "french_american": "Léo",
+    "italian": "Rex",
+    "dutch": "Rex",
+    "simplified_chinese": "晴天",
+    "traditional_chinese": "晴天",
+    "japanese": "サンデー",
+    "korean": "렉스",
+    "russian": "Рекс"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Rex.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Rex.png"
+  },
+  "id": 314,
+  "name": "Rex",
+  "sex": "Male",
+  "personality": "Lazy",
+  "birthday": "7/24",
+  "species": "Lion",
+  "catch_phrase": "cool cat",
+  "name_color": "#874c25"
+}

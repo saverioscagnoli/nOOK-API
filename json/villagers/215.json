@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Leopold",
+    "english_EU": "Leopold",
+    "german": "Leandro",
+    "spanish_EU": "Leopoldo",
+    "spanish_american": "Leopoldo",
+    "french_EU": "Leandro",
+    "french_american": "Leandro",
+    "italian": "Leandro",
+    "dutch": "Leopold",
+    "simplified_chinese": "老狮",
+    "traditional_chinese": "老獅",
+    "japanese": "ティーチャー",
+    "korean": "티처",
+    "russian": "Леопольд"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Leopold.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Leopold.png"
+  },
+  "id": 215,
+  "name": "Leopold",
+  "sex": "Male",
+  "personality": "Smug",
+  "birthday": "8/14",
+  "species": "Lion",
+  "catch_phrase": "lion cub",
+  "name_color": "#fffce9"
+}

@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "King K.K.",
+    "english_EU": "King K.K.",
+    "german": "King K.K.",
+    "spanish_EU": "Rey Tota",
+    "spanish_american": "Rey Tota",
+    "french_EU": "Kéké King",
+    "french_american": "Le roi Kéké",
+    "italian": "K.K. Re",
+    "dutch": "Keizer K.K.",
+    "simplified_chinese": "K.K.领主",
+    "traditional_chinese": "K.K.領主",
+    "japanese": "けけだいみょう",
+    "korean": "K.K.왕조",
+    "russian": "Король К. К."
+  },
+  "id": 75,
+  "name": "King K.K.",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/King_KK.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/King_KK.mp3"
+}

@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "K.K. Island",
+    "english_EU": "K.K. Island",
+    "german": "Die Insel der Tiere",
+    "spanish_EU": "Mi isla, mi hogar",
+    "spanish_american": "Mi isla, mi hogar",
+    "french_EU": "Kéké des îles",
+    "french_american": "Kéké des îles",
+    "italian": "K.K. Isola",
+    "dutch": "Onbewoond eiland",
+    "simplified_chinese": "动物岛",
+    "traditional_chinese": "動物島",
+    "japanese": "どうぶつのしま",
+    "korean": "동물의 섬",
+    "russian": "Остров К. К."
+  },
+  "id": 40,
+  "name": "K.K. Island",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/KK_Island.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/KK_Island.mp3"
+}

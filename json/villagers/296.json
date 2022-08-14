@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Pompom",
+    "english_EU": "Pompom",
+    "german": "Erika",
+    "spanish_EU": "Flopi",
+    "spanish_american": "Flopi",
+    "french_EU": "Pompon",
+    "french_american": "Pompon",
+    "italian": "Erica",
+    "dutch": "Pompom",
+    "simplified_chinese": "海苔裴",
+    "traditional_chinese": "海苔裴",
+    "japanese": "のりっぺ",
+    "korean": "주디",
+    "russian": "Помпом"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Pompom.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Pompom.png"
+  },
+  "id": 296,
+  "name": "Pompom",
+  "sex": "Female",
+  "personality": "Peppy",
+  "birthday": "2/11",
+  "species": "Duck",
+  "catch_phrase": "rah rah",
+  "name_color": "#848484"
+}

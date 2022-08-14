@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Murphy",
+    "english_EU": "Murphy",
+    "german": "Michael",
+    "spanish_EU": "Orsón",
+    "spanish_american": "Orsón",
+    "french_EU": "Eddie",
+    "french_american": "Eddie",
+    "italian": "Marcello",
+    "dutch": "Murphy",
+    "simplified_chinese": "宪雄",
+    "traditional_chinese": "憲雄",
+    "japanese": "のりお",
+    "korean": "머피",
+    "russian": "Мерфи"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Murphy.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Murphy.png"
+  },
+  "id": 257,
+  "name": "Murphy",
+  "sex": "Male",
+  "personality": "Cranky",
+  "birthday": "12/29",
+  "species": "Bear cub",
+  "catch_phrase": "malarkey",
+  "name_color": "#28665a"
+}

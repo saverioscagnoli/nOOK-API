@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "Farewell",
+    "english_EU": "Farewell",
+    "german": "Abschied",
+    "spanish_EU": "Despedida",
+    "spanish_american": "Despedida",
+    "french_EU": "Adieux",
+    "french_american": "Adieux",
+    "italian": "Arrivederci",
+    "dutch": "Vaarwel",
+    "simplified_chinese": "再会",
+    "traditional_chinese": "再會",
+    "japanese": "さよなら",
+    "korean": "작별",
+    "russian": "Прощание"
+  },
+  "id": 9,
+  "name": "Farewell",
+  "buy_price": null,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/Farewell.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/Farewell.mp3"
+}

@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Puddles",
+    "english_EU": "Puddles",
+    "german": "Nele",
+    "spanish_EU": "Nenúfar",
+    "spanish_american": "Nenúfar",
+    "french_EU": "Rénata",
+    "french_american": "Rénata",
+    "italian": "Grazia",
+    "dutch": "Puddles",
+    "simplified_chinese": "剪刀",
+    "traditional_chinese": "剪刀",
+    "japanese": "チョキ",
+    "korean": "가위",
+    "russian": "Рената"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Puddles.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Puddles.png"
+  },
+  "id": 302,
+  "name": "Puddles",
+  "sex": "Female",
+  "personality": "Peppy",
+  "birthday": "1/13",
+  "species": "Frog",
+  "catch_phrase": "splish",
+  "name_color": "#fffce9"
+}

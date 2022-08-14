@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Phil",
+    "english_EU": "Phil",
+    "german": "Ingo",
+    "spanish_EU": "Amalio",
+    "spanish_american": "Amalio",
+    "french_EU": "Phil",
+    "french_american": "Phil",
+    "italian": "Enzo",
+    "dutch": "Phil",
+    "simplified_chinese": "凯恩",
+    "traditional_chinese": "凱恩",
+    "japanese": "ケイン",
+    "korean": "케인",
+    "russian": "Фил"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Phil.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Phil.png"
+  },
+  "id": 288,
+  "name": "Phil",
+  "sex": "Male",
+  "personality": "Smug",
+  "birthday": "11/27",
+  "species": "Ostrich",
+  "catch_phrase": "hurk",
+  "name_color": "#fffce9"
+}

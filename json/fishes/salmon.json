@@ -1,0 +1,49 @@
+{
+  "translations": {
+    "english_USA": "salmon",
+    "english_EU": "salmon",
+    "german": "Lachs",
+    "spanish_EU": "salmón",
+    "spanish_american": "salmón",
+    "french_EU": "saumon",
+    "french_american": "saumon",
+    "italian": "salmone",
+    "dutch": "zalm",
+    "simplified_chinese": "鲑鱼",
+    "traditional_chinese": "鮭魚",
+    "japanese": "サケ",
+    "korean": "연어",
+    "russian": "лосось"
+  },
+  "sell_prices": { "nook": 700, "cj": 1050 },
+  "available": {
+    "hemisphere_data": {
+      "northern_months": "9",
+      "southern_months": "3",
+      "northern_months_array": [9],
+      "southern_months_array": [3]
+    },
+    "time": {
+      "all_day": true,
+      "all_year": false,
+      "time_string": "",
+      "time_array": [
+        0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19,
+        20, 21, 22, 23
+      ]
+    },
+    "spot": "River (Mouth)",
+    "rarity": "Common"
+  },
+  "phrases": {
+    "joke": "I caught a salmon! It's all upstream from here!",
+    "museum_description": "Ah, salmon! Did you know their coloration is due specifically to their diet? Indeed, this is the case! The more they fill their diet with crustaceans such as krill and shrimp, the deeper shade of pink they are. If they ate a bushel of carrots, might they turn orange?"
+  },
+  "sprites": {
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/fishes/Salmon.png",
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/fishes/Salmon.png"
+  },
+  "id": 31,
+  "name": "salmon",
+  "shadow_size": "4"
+}

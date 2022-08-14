@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "K.K. Moody",
+    "english_EU": "K.K. Moody",
+    "german": "K.K. Sonnenuntergang",
+    "spanish_EU": "Tota-bolero",
+    "spanish_american": "Tota-bolero",
+    "french_EU": "Slow Kéké",
+    "french_american": "Slow Kéké",
+    "italian": "K.K. Tramonto",
+    "dutch": "K.K.-bolero",
+    "simplified_chinese": "K.K.波蕾洛",
+    "traditional_chinese": "K.K.波蕾洛",
+    "japanese": "けけボレロ",
+    "korean": "K.K.볼레로",
+    "russian": "Задумчивый К. К."
+  },
+  "id": 52,
+  "name": "K.K. Moody",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/KK_Moody.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/KK_Moody.mp3"
+}

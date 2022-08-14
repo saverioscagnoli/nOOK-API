@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Clay",
+    "english_EU": "Clay",
+    "german": "Dietmar",
+    "spanish_EU": "Boliche",
+    "spanish_american": "Boliche",
+    "french_EU": "Guido",
+    "french_american": "Guido",
+    "italian": "Carmelo",
+    "dutch": "Clay",
+    "simplified_chinese": "子墨",
+    "traditional_chinese": "子墨",
+    "japanese": "どぐろう",
+    "korean": "햄둥",
+    "russian": "Клэй"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Clay.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Clay.png"
+  },
+  "id": 93,
+  "name": "Clay",
+  "sex": "Male",
+  "personality": "Lazy",
+  "birthday": "10/19",
+  "species": "Hamster",
+  "catch_phrase": "thump",
+  "name_color": "#fffce9"
+}

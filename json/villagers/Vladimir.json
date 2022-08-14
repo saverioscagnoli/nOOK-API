@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Vladimir",
+    "english_EU": "Vladimir",
+    "german": "Vladimir",
+    "spanish_EU": "Vladimir",
+    "spanish_american": "Vladimir",
+    "french_EU": "Vladimir",
+    "french_american": "Vladimir",
+    "italian": "Vladimir",
+    "dutch": "Vladimir",
+    "simplified_chinese": "嘉弼",
+    "traditional_chinese": "嘉弼",
+    "japanese": "ガビ",
+    "korean": "곰비",
+    "russian": "Владимир"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Vladimir.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Vladimir.png"
+  },
+  "id": 397,
+  "name": "Vladimir",
+  "sex": "Male",
+  "personality": "Cranky",
+  "birthday": "8/2",
+  "species": "Bear cub",
+  "catch_phrase": "nyet",
+  "name_color": "#fffce9"
+}

@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Cobb",
+    "english_EU": "Cobb",
+    "german": "Rolo",
+    "spanish_EU": "Franfuá",
+    "spanish_american": "Franfuá",
+    "french_EU": "Porken",
+    "french_american": "Porken",
+    "italian": "Wurst",
+    "dutch": "Cobb",
+    "simplified_chinese": "博士",
+    "traditional_chinese": "博士",
+    "japanese": "ハカセ",
+    "korean": "박사",
+    "russian": "Кобб"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Cobb.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Cobb.png"
+  },
+  "id": 97,
+  "name": "Cobb",
+  "sex": "Male",
+  "personality": "Jock",
+  "birthday": "10/7",
+  "species": "Pig",
+  "catch_phrase": "hot dog",
+  "name_color": "#878e86"
+}

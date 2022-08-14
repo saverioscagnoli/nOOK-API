@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Scoot",
+    "english_EU": "Scoot",
+    "german": "Helmut",
+    "spanish_EU": "Chema",
+    "spanish_american": "Chema",
+    "french_EU": "Scooter",
+    "french_american": "Scooter",
+    "italian": "Guizzo",
+    "dutch": "Scoot",
+    "simplified_chinese": "阿守",
+    "traditional_chinese": "阿守",
+    "japanese": "マモル",
+    "korean": "지키미",
+    "russian": "Скут"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Scoot.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Scoot.png"
+  },
+  "id": 342,
+  "name": "Scoot",
+  "sex": "Male",
+  "personality": "Jock",
+  "birthday": "6/13",
+  "species": "Duck",
+  "catch_phrase": "zip zoom",
+  "name_color": "#28665a"
+}

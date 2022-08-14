@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Simon",
+    "english_EU": "Simon",
+    "german": "Simon",
+    "spanish_EU": "Simón",
+    "spanish_american": "Simón",
+    "french_EU": "Simon",
+    "french_american": "Simon",
+    "italian": "Simon",
+    "dutch": "Simon",
+    "simplified_chinese": "远仁",
+    "traditional_chinese": "遠仁",
+    "japanese": "エテキチ",
+    "korean": "시몬",
+    "russian": "Саймон"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Simon.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Simon.png"
+  },
+  "id": 348,
+  "name": "Simon",
+  "sex": "Male",
+  "personality": "Lazy",
+  "birthday": "1/19",
+  "species": "Monkey",
+  "catch_phrase": "zzzook",
+  "name_color": "#8b5f57"
+}

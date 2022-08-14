@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Tutu",
+    "english_EU": "Tutu",
+    "german": "Mandy",
+    "spanish_EU": "Tutú",
+    "spanish_american": "Tutú",
+    "french_EU": "Tutu",
+    "french_american": "Tutu",
+    "italian": "Lola",
+    "dutch": "Tutu",
+    "simplified_chinese": "恋恋",
+    "traditional_chinese": "戀戀",
+    "japanese": "れんにゅう",
+    "korean": "연유",
+    "russian": "Туту"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Tutu.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Tutu.png"
+  },
+  "id": 387,
+  "name": "Tutu",
+  "sex": "Female",
+  "personality": "Peppy",
+  "birthday": "9/15",
+  "species": "Bear",
+  "catch_phrase": "twinkles",
+  "name_color": "#848484"
+}

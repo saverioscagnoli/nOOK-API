@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Julia",
+    "english_EU": "Julia",
+    "german": "Julia",
+    "spanish_EU": "Julia",
+    "spanish_american": "Julia",
+    "french_EU": "Julie",
+    "french_american": "Julie",
+    "italian": "Giulia",
+    "dutch": "Julia",
+    "simplified_chinese": "朱莉亚",
+    "traditional_chinese": "朱莉亞",
+    "japanese": "ジュリア",
+    "korean": "줄리아",
+    "russian": "Джулия"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Julia.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Julia.png"
+  },
+  "id": 196,
+  "name": "Julia",
+  "sex": "Female",
+  "personality": "Snooty",
+  "birthday": "7/31",
+  "species": "Ostrich",
+  "catch_phrase": "dahling",
+  "name_color": "#fffce9"
+}

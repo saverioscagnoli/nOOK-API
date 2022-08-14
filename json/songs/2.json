@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "Aloha K.K.",
+    "english_EU": "Aloha K.K.",
+    "german": "K.K. Südseetraum",
+    "spanish_EU": "Tota-aloha",
+    "spanish_american": "Tota-aloha",
+    "french_EU": "Ukulélé Kéké",
+    "french_american": "Ukulélé Kéké",
+    "italian": "K.K. Aloha",
+    "dutch": "Aloha K.K.",
+    "simplified_chinese": "夏威夷K.K.",
+    "traditional_chinese": "夏威夷K.K.",
+    "japanese": "アロハけけ",
+    "korean": "알로하K.K.",
+    "russian": "Алоха К. К."
+  },
+  "id": 2,
+  "name": "Aloha K.K.",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/Aloha_KK.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/Aloha_KK.mp3"
+}

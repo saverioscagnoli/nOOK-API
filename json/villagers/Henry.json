@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Henry",
+    "english_EU": "Henry",
+    "german": "Freddy",
+    "spanish_EU": "Saperto",
+    "spanish_american": "Saperto",
+    "french_EU": "Henri",
+    "french_american": "Henri",
+    "italian": "Renato",
+    "dutch": "Henry",
+    "simplified_chinese": "亨利",
+    "traditional_chinese": "亨利",
+    "japanese": "ヘンリー",
+    "korean": "헨리",
+    "russian": "Генри"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Henry.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Henry.png"
+  },
+  "id": 178,
+  "name": "Henry",
+  "sex": "Male",
+  "personality": "Smug",
+  "birthday": "9/21",
+  "species": "Frog",
+  "catch_phrase": "snoozit",
+  "name_color": "#28665a"
+}

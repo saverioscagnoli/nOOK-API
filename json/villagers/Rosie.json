@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Rosie",
+    "english_EU": "Rosie",
+    "german": "Sophie",
+    "spanish_EU": "Minina",
+    "spanish_american": "Minina",
+    "french_EU": "Rosie",
+    "french_american": "Rosie",
+    "italian": "Grinfia",
+    "dutch": "Rosie",
+    "simplified_chinese": "彭花",
+    "traditional_chinese": "彭花",
+    "japanese": "ブーケ",
+    "korean": "부케",
+    "russian": "Рози"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Rosie.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Rosie.png"
+  },
+  "id": 332,
+  "name": "Rosie",
+  "sex": "Female",
+  "personality": "Peppy",
+  "birthday": "2/27",
+  "species": "Cat",
+  "catch_phrase": "silly",
+  "name_color": "#fffce9"
+}

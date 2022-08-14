@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Aurora",
+    "english_EU": "Aurora",
+    "german": "Sonja",
+    "spanish_EU": "Aurora",
+    "spanish_american": "Aurora",
+    "french_EU": "Aurore",
+    "french_american": "Aurore",
+    "italian": "Aurora",
+    "dutch": "Aurora",
+    "simplified_chinese": "欧若拉",
+    "traditional_chinese": "歐若拉",
+    "japanese": "オーロラ",
+    "korean": "오로라",
+    "russian": "Аврора"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Aurora.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Aurora.png"
+  },
+  "id": 21,
+  "name": "Aurora",
+  "sex": "Female",
+  "personality": "Normal",
+  "birthday": "1/27",
+  "species": "Penguin",
+  "catch_phrase": "b-b-baby",
+  "name_color": "#848484"
+}

@@ -1,0 +1,25 @@
+{
+  "translations": {
+    "english_USA": "moody painting",
+    "english_EU": "moody painting",
+    "german": "Kraftgemälde",
+    "spanish_EU": "retrato joven",
+    "spanish_american": "retrato joven",
+    "french_EU": "toile puissante",
+    "french_american": "toile puissante",
+    "italian": "quadro possente",
+    "dutch": "noeste schilderij",
+    "simplified_chinese": "强健的名画",
+    "traditional_chinese": "強健的名畫",
+    "japanese": "ちからづよいめいが",
+    "korean": "힘찬 명화",
+    "russian": "энергичная картина"
+  },
+  "id": 19,
+  "name": "moody painting",
+  "buy_price": 4980,
+  "sell_price": 1245,
+  "museum_description": "Millet painted this piece of a farmer sowing wheat seeds in a field after moving to the countryside from Paris. If the piece reminds you of Van Gogh, that's likely because Van Gogh himself was inspired by it!",
+  "canBeFake": false,
+  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/render/art/moody_painting.png"
+}

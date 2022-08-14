@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "K.K. Groove",
+    "english_EU": "K.K. Groove",
+    "german": "K.K. Groove",
+    "spanish_EU": "Tota-groove",
+    "spanish_american": "Tota-groove",
+    "french_EU": "Groove Kéké",
+    "french_american": "Groove Kéké",
+    "italian": "K.K. Groove",
+    "dutch": "K.K.-groove",
+    "simplified_chinese": "K.K.律动",
+    "traditional_chinese": "K.K.律動",
+    "japanese": "けけグルーヴ",
+    "korean": "K.K.그루브",
+    "russian": "Грув К. К."
+  },
+  "id": 37,
+  "name": "K.K. Groove",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/KK_Groove.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/KK_Groove.mp3"
+}

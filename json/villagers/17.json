@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Apollo",
+    "english_EU": "Apollo",
+    "german": "Apollo",
+    "spanish_EU": "Apolo",
+    "spanish_american": "Apolo",
+    "french_EU": "Apollon",
+    "french_american": "Apollon",
+    "italian": "Apollo",
+    "dutch": "Apollo",
+    "simplified_chinese": "阿波罗",
+    "traditional_chinese": "阿波羅",
+    "japanese": "アポロ",
+    "korean": "아폴로",
+    "russian": "Аполло"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Apollo.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Apollo.png"
+  },
+  "id": 17,
+  "name": "Apollo",
+  "sex": "Male",
+  "personality": "Cranky",
+  "birthday": "7/4",
+  "species": "Eagle",
+  "catch_phrase": "pah",
+  "name_color": "#848484"
+}

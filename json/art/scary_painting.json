@@ -1,0 +1,25 @@
+{
+  "translations": {
+    "english_USA": "scary painting",
+    "english_EU": "scary painting",
+    "german": "Furchtgemälde",
+    "spanish_EU": "cuadro japonés",
+    "spanish_american": "cuadro japonés",
+    "french_EU": "toile effrayante",
+    "french_american": "toile effrayante",
+    "italian": "quadro spaventoso",
+    "dutch": "griezelige schilderij",
+    "simplified_chinese": "俊俏的名画",
+    "traditional_chinese": "俊俏的名畫",
+    "japanese": "いなせなめいが",
+    "korean": "씩씩한 명화",
+    "russian": "страшная картина"
+  },
+  "id": 30,
+  "name": "scary painting",
+  "buy_price": 4980,
+  "sell_price": 1245,
+  "museum_description": "A print from the mid-Edo period by Tōshūsai Sharaku depicting a famous actor of the time. Sharaku made roughly 140 ukiyo-e prints in his career, even though it only spanned around 10 months!",
+  "canBeFake": true,
+  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/render/art/scary_painting.png"
+}

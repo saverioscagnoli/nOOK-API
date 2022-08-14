@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Roscoe",
+    "english_EU": "Roscoe",
+    "german": "Jolly",
+    "spanish_EU": "Jereza",
+    "spanish_american": "Jereza",
+    "french_EU": "Rosco",
+    "french_american": "Rosco",
+    "italian": "Roscoe",
+    "dutch": "Roscoe",
+    "simplified_chinese": "黑马",
+    "traditional_chinese": "黑馬",
+    "japanese": "シュバルツ",
+    "korean": "슈베르트",
+    "russian": "Роско"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Roscoe.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Roscoe.png"
+  },
+  "id": 331,
+  "name": "Roscoe",
+  "sex": "Male",
+  "personality": "Cranky",
+  "birthday": "6/16",
+  "species": "Horse",
+  "catch_phrase": "nay",
+  "name_color": "#fffce9"
+}

@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Wolfgang",
+    "english_EU": "Wolfgang",
+    "german": "Weber",
+    "spanish_EU": "Wolfi",
+    "spanish_american": "Wolfi",
+    "french_EU": "Wolfgang",
+    "french_american": "Wolfgang",
+    "italian": "Wolfgang",
+    "dutch": "Wolfgang",
+    "simplified_chinese": "罗博",
+    "traditional_chinese": "羅博",
+    "japanese": "ロボ",
+    "korean": "로보",
+    "russian": "Вольфи"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Wolfgang.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Wolfgang.png"
+  },
+  "id": 407,
+  "name": "Wolfgang",
+  "sex": "Male",
+  "personality": "Cranky",
+  "birthday": "11/25",
+  "species": "Wolf",
+  "catch_phrase": "snarrrl",
+  "name_color": "#fffad4"
+}

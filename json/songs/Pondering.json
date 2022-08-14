@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "Pondering",
+    "english_EU": "Pondering",
+    "german": "Nachdenklich",
+    "spanish_EU": "Sopesando",
+    "spanish_american": "Sopesando",
+    "french_EU": "Réfléchir",
+    "french_american": "Réfléchir",
+    "italian": "Pensando",
+    "dutch": "De denker",
+    "simplified_chinese": "思考中",
+    "traditional_chinese": "思考中",
+    "japanese": "かんがえちゅう",
+    "korean": "생각 중",
+    "russian": "Размышления"
+  },
+  "id": 83,
+  "name": "Pondering",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/Pondering.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/Pondering.mp3"
+}

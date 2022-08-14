@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Agnes",
+    "english_EU": "Agnes",
+    "german": "Nora",
+    "spanish_EU": "Negrea",
+    "spanish_american": "Nerea",
+    "french_EU": "Pansy",
+    "french_american": "Pansy",
+    "italian": "Maia",
+    "dutch": "Agnes",
+    "simplified_chinese": "古乃欣",
+    "traditional_chinese": "古乃欣",
+    "japanese": "アグネス",
+    "korean": "아그네스",
+    "russian": "Агнес"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Agnes.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Agnes.png"
+  },
+  "id": 3,
+  "name": "Agnes",
+  "sex": "Female",
+  "personality": "Big Sister",
+  "birthday": "4/21",
+  "species": "Pig",
+  "catch_phrase": "snuffle",
+  "name_color": "#fffce9"
+}

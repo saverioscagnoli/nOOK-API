@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Anabelle",
+    "english_EU": "Anabelle",
+    "german": "Annabell",
+    "spanish_EU": "Anabel",
+    "spanish_american": "Anabel",
+    "french_EU": "Anabelle",
+    "french_american": "Anabelle",
+    "italian": "Annalisa",
+    "dutch": "Anabelle",
+    "simplified_chinese": "有美",
+    "traditional_chinese": "有美",
+    "japanese": "あるみ",
+    "korean": "아롱이",
+    "russian": "Анабель"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Anabelle.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Anabelle.png"
+  },
+  "id": 9,
+  "name": "Anabelle",
+  "sex": "Female",
+  "personality": "Peppy",
+  "birthday": "2/16",
+  "species": "Anteater",
+  "catch_phrase": "snorty",
+  "name_color": "#fff2bb"
+}

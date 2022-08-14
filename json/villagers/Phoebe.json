@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Phoebe",
+    "english_EU": "Phoebe",
+    "german": "Philippa",
+    "spanish_EU": "Avelina",
+    "spanish_american": "Avelina",
+    "french_EU": "Faustine",
+    "french_american": "Faustine",
+    "italian": "Fenicia",
+    "dutch": "Phoebe",
+    "simplified_chinese": "火鸟",
+    "traditional_chinese": "火鳥",
+    "japanese": "ヒノコ",
+    "korean": "휘니",
+    "russian": "Фиби"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Phoebe.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Phoebe.png"
+  },
+  "id": 289,
+  "name": "Phoebe",
+  "sex": "Female",
+  "personality": "Big Sister",
+  "birthday": "4/22",
+  "species": "Ostrich",
+  "catch_phrase": "sparky",
+  "name_color": "#fff2bb"
+}

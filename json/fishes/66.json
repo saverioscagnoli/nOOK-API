@@ -1,0 +1,49 @@
+{
+  "translations": {
+    "english_USA": "tuna",
+    "english_EU": "tuna",
+    "german": "Thunfisch",
+    "spanish_EU": "atún",
+    "spanish_american": "atún",
+    "french_EU": "thon",
+    "french_american": "thon",
+    "italian": "tonno",
+    "dutch": "tonijn",
+    "simplified_chinese": "鲔鱼",
+    "traditional_chinese": "鮪魚",
+    "japanese": "マグロ",
+    "korean": "다랑어",
+    "russian": "тунец"
+  },
+  "sell_prices": { "nook": 7000, "cj": 10500 },
+  "available": {
+    "hemisphere_data": {
+      "northern_months": "11-4",
+      "southern_months": "5-10",
+      "northern_months_array": [11, 12, 1, 2, 3, 4],
+      "southern_months_array": [5, 6, 7, 8, 9, 10]
+    },
+    "time": {
+      "all_day": true,
+      "all_year": false,
+      "time_string": "",
+      "time_array": [
+        0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19,
+        20, 21, 22, 23
+      ]
+    },
+    "spot": "Pier",
+    "rarity": "Rare"
+  },
+  "phrases": {
+    "joke": "I caught a tuna! It's a little off-key!",
+    "museum_description": "The tuna is a large ocean fish that can reach upwards of nine feet long. Besides its great size, it's notable for continuing to swim even when it's sleeping! Well, to be fair, if it doesn't keep swimming, it won't be able to breathe and will of course die... But sleep should be restful, eh wot! If I were the tuna I would feel very hard done by!"
+  },
+  "sprites": {
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/fishes/Tuna.png",
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/fishes/Tuna.png"
+  },
+  "id": 66,
+  "name": "tuna",
+  "shadow_size": "6"
+}

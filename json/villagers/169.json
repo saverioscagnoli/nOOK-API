@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Grizzly",
+    "english_EU": "Grizzly",
+    "german": "Gerald",
+    "spanish_EU": "Gruñón",
+    "spanish_american": "Gruñón",
+    "french_EU": "Grizzly",
+    "french_american": "Grizzly",
+    "italian": "Grizzly",
+    "dutch": "Grizzly",
+    "simplified_chinese": "穆穆",
+    "traditional_chinese": "穆穆",
+    "japanese": "ムー",
+    "korean": "무뚝",
+    "russian": "Гризли"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Grizzly.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Grizzly.png"
+  },
+  "id": 169,
+  "name": "Grizzly",
+  "sex": "Male",
+  "personality": "Cranky",
+  "birthday": "7/31",
+  "species": "Bear",
+  "catch_phrase": "grrr",
+  "name_color": "#eac113"
+}

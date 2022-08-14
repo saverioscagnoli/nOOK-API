@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Faith",
+    "english_EU": "Faith",
+    "german": "Finchen",
+    "spanish_EU": "Felicia",
+    "spanish_american": "Felicia",
+    "french_EU": "Kolette",
+    "french_american": "Kolette",
+    "italian": "Calipso",
+    "dutch": "Faith",
+    "simplified_chinese": "游琪",
+    "traditional_chinese": "游琪",
+    "japanese": "マーチ",
+    "korean": "마치",
+    "russian": "Фэйт"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Faith.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Faith.png"
+  },
+  "id": 138,
+  "name": "Faith",
+  "sex": "Female",
+  "personality": "Big Sister",
+  "birthday": "3/21",
+  "species": "Koala",
+  "catch_phrase": "aloha",
+  "name_color": "#fff2bb"
+}

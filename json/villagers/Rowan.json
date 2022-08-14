@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Rowan",
+    "english_EU": "Rowan",
+    "german": "Gisbert",
+    "spanish_EU": "Miguelón",
+    "spanish_american": "Miguelón",
+    "french_EU": "Marito",
+    "french_american": "Marito",
+    "italian": "Ernesto",
+    "dutch": "Rowan",
+    "simplified_chinese": "戈麦斯",
+    "traditional_chinese": "戈麥斯",
+    "japanese": "ゴメス",
+    "korean": "고메스",
+    "russian": "Роуэн"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Rowan.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Rowan.png"
+  },
+  "id": 334,
+  "name": "Rowan",
+  "sex": "Male",
+  "personality": "Jock",
+  "birthday": "8/26",
+  "species": "Tiger",
+  "catch_phrase": "mango",
+  "name_color": "#fff2bb"
+}

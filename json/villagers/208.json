@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Kitt",
+    "english_EU": "Kitt",
+    "german": "Kerstin",
+    "spanish_EU": "Antípoda",
+    "spanish_american": "Antípoda",
+    "french_EU": "Poquette",
+    "french_american": "Poquette",
+    "italian": "Kitt",
+    "dutch": "Kitt",
+    "simplified_chinese": "缝缝",
+    "traditional_chinese": "縫縫",
+    "japanese": "アップリケ",
+    "korean": "애플리케",
+    "russian": "Китт"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Kitt.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Kitt.png"
+  },
+  "id": 208,
+  "name": "Kitt",
+  "sex": "Female",
+  "personality": "Normal",
+  "birthday": "10/11",
+  "species": "Kangaroo",
+  "catch_phrase": "child",
+  "name_color": "#fffce9"
+}

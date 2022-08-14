@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Carmen",
+    "english_EU": "Carmen",
+    "german": "Hilda",
+    "spanish_EU": "Linda",
+    "spanish_american": "Linda",
+    "french_EU": "Zoé",
+    "french_american": "Zoé",
+    "italian": "Conny",
+    "dutch": "Carmen",
+    "simplified_chinese": "巧蔻",
+    "traditional_chinese": "巧蔻",
+    "japanese": "チョコ",
+    "korean": "초코",
+    "russian": "Кармен"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Carmen.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Carmen.png"
+  },
+  "id": 71,
+  "name": "Carmen",
+  "sex": "Female",
+  "personality": "Peppy",
+  "birthday": "1/6",
+  "species": "Rabbit",
+  "catch_phrase": "nougat",
+  "name_color": "#fffce9"
+}

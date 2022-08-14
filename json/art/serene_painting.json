@@ -1,0 +1,25 @@
+{
+  "translations": {
+    "english_USA": "serene painting",
+    "english_EU": "serene painting",
+    "german": "Edelgemälde",
+    "spanish_EU": "retrato regio",
+    "spanish_american": "retrato regio",
+    "french_EU": "toile royale",
+    "french_american": "toile royale",
+    "italian": "quadro simbolico",
+    "dutch": "serene schilderij",
+    "simplified_chinese": "婀娜的名画",
+    "traditional_chinese": "婀娜的名畫",
+    "japanese": "たおやかなめいが",
+    "korean": "아늑한 명화",
+    "russian": "безмятежная картина"
+  },
+  "id": 32,
+  "name": "serene painting",
+  "buy_price": 4980,
+  "sell_price": 1245,
+  "museum_description": "One of only four portraits of women painted by da Vinci, one of which is the \"Mona Lisa. \"Some believe that the \"ermine\" is not actually an ermine, but rather a white ferret!",
+  "canBeFake": true,
+  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/render/art/serene_painting.png"
+}

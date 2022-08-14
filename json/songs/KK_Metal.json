@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "K.K. Metal",
+    "english_EU": "K.K. Metal",
+    "german": "K.K. Metal",
+    "spanish_EU": "Tota-metal",
+    "spanish_american": "Tota-metal",
+    "french_EU": "Kéké metal",
+    "french_american": "Kéké métal",
+    "italian": "K.K. Metal",
+    "dutch": "K.K.-metal",
+    "simplified_chinese": "K.K.金属摇滚",
+    "traditional_chinese": "K.K.金屬搖滾",
+    "japanese": "けけメタル",
+    "korean": "K.K.메탈",
+    "russian": "Металл К. К."
+  },
+  "id": 50,
+  "name": "K.K. Metal",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/KK_Metal.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/KK_Metal.mp3"
+}

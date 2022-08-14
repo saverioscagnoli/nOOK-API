@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Cole",
+    "english_EU": "Cole",
+    "german": "Karl",
+    "spanish_EU": "Nicolás",
+    "spanish_american": "Nicolás",
+    "french_EU": "Épicure",
+    "french_american": "Épicure",
+    "italian": "Lello",
+    "dutch": "Cole",
+    "simplified_chinese": "阿甘",
+    "traditional_chinese": "阿甘",
+    "japanese": "アマミン",
+    "korean": "아마민",
+    "russian": "Коул"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Cole.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Cole.png"
+  },
+  "id": 99,
+  "name": "Cole",
+  "sex": "Male",
+  "personality": "Lazy",
+  "birthday": "8/10",
+  "species": "Rabbit",
+  "catch_phrase": "coooooool",
+  "name_color": "#fffce9"
+}

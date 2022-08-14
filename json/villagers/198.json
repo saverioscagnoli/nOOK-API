@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "June",
+    "english_EU": "June",
+    "german": "Juna",
+    "spanish_EU": "Hanalulú",
+    "spanish_american": "Hanalulú",
+    "french_EU": "Agnès",
+    "french_american": "Agnès",
+    "italian": "June",
+    "dutch": "June",
+    "simplified_chinese": "阿妹",
+    "traditional_chinese": "阿妹",
+    "japanese": "メイ",
+    "korean": "메이",
+    "russian": "Джун"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/June.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/June.png"
+  },
+  "id": 198,
+  "name": "June",
+  "sex": "Female",
+  "personality": "Normal",
+  "birthday": "5/21",
+  "species": "Bear cub",
+  "catch_phrase": "rainbow",
+  "name_color": "#fffce9"
+}

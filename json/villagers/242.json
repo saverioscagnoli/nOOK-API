@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Melba",
+    "english_EU": "Melba",
+    "german": "Kornelia",
+    "spanish_EU": "Melba",
+    "spanish_american": "Melba",
+    "french_EU": "Melba",
+    "french_american": "Melba",
+    "italian": "Melba",
+    "dutch": "Melba",
+    "simplified_chinese": "阿得",
+    "traditional_chinese": "阿得",
+    "japanese": "アデレード",
+    "korean": "아델레이드",
+    "russian": "Мельба"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Melba.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Melba.png"
+  },
+  "id": 242,
+  "name": "Melba",
+  "sex": "Female",
+  "personality": "Normal",
+  "birthday": "4/12",
+  "species": "Koala",
+  "catch_phrase": "toasty",
+  "name_color": "#fffce9"
+}

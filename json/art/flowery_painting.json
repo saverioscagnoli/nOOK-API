@@ -1,0 +1,25 @@
+{
+  "translations": {
+    "english_USA": "flowery painting",
+    "english_EU": "flowery painting",
+    "german": "Blumengemälde",
+    "spanish_EU": "cuadro flores",
+    "spanish_american": "cuadro flores",
+    "french_EU": "toile florale",
+    "french_american": "toile florale",
+    "italian": "quadro fiorito",
+    "dutch": "zonnige schilderij",
+    "simplified_chinese": "珍贵的名画",
+    "traditional_chinese": "珍貴的名畫",
+    "japanese": "たぐいまれなるめいが",
+    "korean": "진귀한 명화",
+    "russian": "цветочная картина"
+  },
+  "id": 12,
+  "name": "flowery painting",
+  "buy_price": 4980,
+  "sell_price": 1245,
+  "museum_description": "Van Gogh painted this piece when he moved to the south of France in search of more vibrant colors. Yellow was Van Gogh's favorite color, and he made seven paintings that featured sunflowers during this time.",
+  "canBeFake": false,
+  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/render/art/flowery_painting.png"
+}

@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Cashmere",
+    "english_EU": "Cashmere",
+    "german": "Lana",
+    "spanish_EU": "Cachemir",
+    "spanish_american": "Cachemir",
+    "french_EU": "Cashmir",
+    "french_american": "Cashmir",
+    "italian": "Cashmere",
+    "dutch": "Cashmere",
+    "simplified_chinese": "爱睦",
+    "traditional_chinese": "愛睦",
+    "japanese": "ラムール",
+    "korean": "캐시미어",
+    "russian": "Кашмир"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Cashmere.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Cashmere.png"
+  },
+  "id": 74,
+  "name": "Cashmere",
+  "sex": "Female",
+  "personality": "Snooty",
+  "birthday": "4/2",
+  "species": "Sheep",
+  "catch_phrase": "baaaby",
+  "name_color": "#85a2af"
+}

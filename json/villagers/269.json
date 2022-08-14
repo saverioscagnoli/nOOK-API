@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Opal",
+    "english_EU": "Opal",
+    "german": "Olga",
+    "spanish_EU": "Ópalo",
+    "spanish_american": "Ópalo",
+    "french_EU": "Opaline",
+    "french_american": "Opaline",
+    "italian": "Opal",
+    "dutch": "Opal",
+    "simplified_chinese": "露露",
+    "traditional_chinese": "露露",
+    "japanese": "オパール",
+    "korean": "오팔",
+    "russian": "Опал"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Opal.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Opal.png"
+  },
+  "id": 269,
+  "name": "Opal",
+  "sex": "Female",
+  "personality": "Snooty",
+  "birthday": "1/20",
+  "species": "Elephant",
+  "catch_phrase": "snoot",
+  "name_color": "#219479"
+}

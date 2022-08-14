@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Stella",
+    "english_EU": "Stella",
+    "german": "Stella",
+    "spanish_EU": "Merina",
+    "spanish_american": "Merina",
+    "french_EU": "Bigoudi",
+    "french_american": "Bigoudi",
+    "italian": "Merina",
+    "dutch": "Stella",
+    "simplified_chinese": "毡毡",
+    "traditional_chinese": "氈氈",
+    "japanese": "アクリル",
+    "korean": "아크릴",
+    "russian": "Стелла"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Stella.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Stella.png"
+  },
+  "id": 360,
+  "name": "Stella",
+  "sex": "Female",
+  "personality": "Normal",
+  "birthday": "4/9",
+  "species": "Sheep",
+  "catch_phrase": "baa-dabing",
+  "name_color": "#fffad4"
+}

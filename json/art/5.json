@@ -1,0 +1,25 @@
+{
+  "translations": {
+    "english_USA": "beautiful statue",
+    "english_EU": "beautiful statue",
+    "german": "Eleganzstatue",
+    "spanish_EU": "estatua femenina",
+    "spanish_american": "estatua femenina",
+    "french_EU": "statue féminine",
+    "french_american": "statue féminine",
+    "italian": "statua aggraziata",
+    "dutch": "gracieuze standbeeld",
+    "simplified_chinese": "美丽的雕塑",
+    "traditional_chinese": "美麗的雕塑",
+    "japanese": "うつくしいちょうこく",
+    "korean": "아름다운 조각",
+    "russian": "прекрасная статуя"
+  },
+  "id": 5,
+  "name": "beautiful statue",
+  "buy_price": 4980,
+  "sell_price": 1245,
+  "museum_description": "A statue of the Roman goddess of love and beauty, Venus was found on the island of Milos. This beautiful sculpture makes many wonder what her original pose might have been.",
+  "canBeFake": true,
+  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/render/art/beautiful_statue.png"
+}

@@ -1,0 +1,49 @@
+{
+  "translations": {
+    "english_USA": "killifish",
+    "english_EU": "killifish",
+    "german": "Killifisch",
+    "spanish_EU": "killi",
+    "spanish_american": "killi",
+    "french_EU": "fondule barré",
+    "french_american": "fondule barré",
+    "italian": "killifish",
+    "dutch": "killivis",
+    "simplified_chinese": "稻田鱼",
+    "traditional_chinese": "稻田魚",
+    "japanese": "メダカ",
+    "korean": "송사리",
+    "russian": "оризия"
+  },
+  "sell_prices": { "nook": 300, "cj": 450 },
+  "available": {
+    "hemisphere_data": {
+      "northern_months": "4-8",
+      "southern_months": "10-2",
+      "northern_months_array": [4, 5, 6, 7, 8],
+      "southern_months_array": [10, 11, 12, 1, 2]
+    },
+    "time": {
+      "all_day": true,
+      "all_year": false,
+      "time_string": "",
+      "time_array": [
+        0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19,
+        20, 21, 22, 23
+      ]
+    },
+    "spot": "Pond",
+    "rarity": "Common"
+  },
+  "phrases": {
+    "joke": "I caught a killifish! The streams are safe again.",
+    "museum_description": "Ah, the magnificent killifish! Did you know there are over 1,000 different species? My own favorite killifish species are the mangrove, which can live on land for weeks, breathing air! And the mummichog, the first fish ever brought to space. I wonder if the killifish you've brought me is related to either those intrepid explorers?"
+  },
+  "sprites": {
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/fishes/Killifish.png",
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/fishes/Killifish.png"
+  },
+  "id": 10,
+  "name": "killifish",
+  "shadow_size": "1"
+}

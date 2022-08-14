@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Bubbles",
+    "english_EU": "Bubbles",
+    "german": "Christin",
+    "spanish_EU": "Hipólita",
+    "spanish_american": "Hipólita",
+    "french_EU": "Hippy",
+    "french_american": "Hippy",
+    "italian": "Ippolita",
+    "dutch": "Bubbles",
+    "simplified_chinese": "曹珂",
+    "traditional_chinese": "曹珂",
+    "japanese": "チャコ",
+    "korean": "차코",
+    "russian": "Баблс"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Bubbles.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Bubbles.png"
+  },
+  "id": 61,
+  "name": "Bubbles",
+  "sex": "Female",
+  "personality": "Peppy",
+  "birthday": "9/18",
+  "species": "Hippo",
+  "catch_phrase": "hipster",
+  "name_color": "#fffce9"
+}

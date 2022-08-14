@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Camofrog",
+    "english_EU": "Camofrog",
+    "german": "Tarno",
+    "spanish_EU": "Comando",
+    "spanish_american": "Comando",
+    "french_EU": "Milos",
+    "french_american": "Milos",
+    "italian": "Crambo",
+    "dutch": "Camofrog",
+    "simplified_chinese": "迷仔",
+    "traditional_chinese": "迷仔",
+    "japanese": "フルメタル",
+    "korean": "충성",
+    "russian": "Камофрог"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Camofrog.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Camofrog.png"
+  },
+  "id": 68,
+  "name": "Camofrog",
+  "sex": "Male",
+  "personality": "Cranky",
+  "birthday": "6/5",
+  "species": "Frog",
+  "catch_phrase": "ten-hut",
+  "name_color": "#fffce9"
+}

@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Sydney",
+    "english_EU": "Sydney",
+    "german": "Silke",
+    "spanish_EU": "Sidney",
+    "spanish_american": "Sidney",
+    "french_EU": "Koaline",
+    "french_american": "Koaline",
+    "italian": "Sidney",
+    "dutch": "Sydney",
+    "simplified_chinese": "思颖",
+    "traditional_chinese": "思穎",
+    "japanese": "シドニー",
+    "korean": "시드니",
+    "russian": "Сидни"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Sydney.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Sydney.png"
+  },
+  "id": 365,
+  "name": "Sydney",
+  "sex": "Female",
+  "personality": "Normal",
+  "birthday": "6/21",
+  "species": "Koala",
+  "catch_phrase": "sunshine",
+  "name_color": "#fffce9"
+}

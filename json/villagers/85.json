@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Chester",
+    "english_EU": "Chester",
+    "german": "Eduard",
+    "spanish_EU": "Osunio",
+    "spanish_american": "Osunio",
+    "french_EU": "Placide",
+    "french_american": "Placide",
+    "italian": "Clemente",
+    "dutch": "Chester",
+    "simplified_chinese": "胖达",
+    "traditional_chinese": "胖達",
+    "japanese": "パンタ",
+    "korean": "팬타",
+    "russian": "Честер"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Chester.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Chester.png"
+  },
+  "id": 85,
+  "name": "Chester",
+  "sex": "Male",
+  "personality": "Lazy",
+  "birthday": "8/6",
+  "species": "Bear cub",
+  "catch_phrase": "rookie",
+  "name_color": "#848484"
+}

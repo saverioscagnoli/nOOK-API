@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "K.K. Rock",
+    "english_EU": "K.K. Rock",
+    "german": "K.K. Rock",
+    "spanish_EU": "Tota-rock",
+    "spanish_american": "Tota-rock",
+    "french_EU": "Rock Kéké",
+    "french_american": "Rock Kéké",
+    "italian": "K.K. Rock",
+    "dutch": "K.K.-rock",
+    "simplified_chinese": "K.K.摇滚",
+    "traditional_chinese": "K.K.搖滾",
+    "japanese": "けけロック",
+    "korean": "K.K.록",
+    "russian": "Рок К. К."
+  },
+  "id": 58,
+  "name": "K.K. Rock",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/KK_Rock.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/KK_Rock.mp3"
+}

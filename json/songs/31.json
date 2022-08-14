@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "K.K. Dixie",
+    "english_EU": "K.K. Dixie",
+    "german": "K.K. Dixie",
+    "spanish_EU": "Tota-old-jazz",
+    "spanish_american": "Tota-old-jazz",
+    "french_EU": "Kéké Dixie",
+    "french_american": "Kéké Dixie",
+    "italian": "K.K. Dixie",
+    "dutch": "K.K.-dixieland",
+    "simplified_chinese": "K.K.迪克西",
+    "traditional_chinese": "K.K.迪克西",
+    "japanese": "けけディキシー",
+    "korean": "K.K.딕시",
+    "russian": "Дикси К. К."
+  },
+  "id": 31,
+  "name": "K.K. Dixie",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/KK_Dixie.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/KK_Dixie.mp3"
+}

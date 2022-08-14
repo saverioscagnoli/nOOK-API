@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Static",
+    "english_EU": "Static",
+    "german": "Rudolf",
+    "spanish_EU": "Protón",
+    "spanish_american": "Protón",
+    "french_EU": "Électro",
+    "french_american": "Électro",
+    "italian": "Protone",
+    "dutch": "Static",
+    "simplified_chinese": "闪电",
+    "traditional_chinese": "閃電",
+    "japanese": "スパーク",
+    "korean": "스파크",
+    "russian": "Статик"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Static.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Static.png"
+  },
+  "id": 359,
+  "name": "Static",
+  "sex": "Male",
+  "personality": "Cranky",
+  "birthday": "7/9",
+  "species": "Squirrel",
+  "catch_phrase": "krzzt",
+  "name_color": "#fffce9"
+}

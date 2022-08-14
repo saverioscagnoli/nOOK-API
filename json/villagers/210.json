@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Klaus",
+    "english_EU": "Klaus",
+    "german": "Grischa",
+    "spanish_EU": "Gruñerto",
+    "spanish_american": "Gruñerto",
+    "french_EU": "Klaus",
+    "french_american": "Klaus",
+    "italian": "Maciste",
+    "dutch": "Klaus",
+    "simplified_chinese": "熊战士",
+    "traditional_chinese": "熊戰士",
+    "japanese": "クマロス",
+    "korean": "곰도로스",
+    "russian": "Клаус"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Klaus.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Klaus.png"
+  },
+  "id": 210,
+  "name": "Klaus",
+  "sex": "Male",
+  "personality": "Smug",
+  "birthday": "3/31",
+  "species": "Bear",
+  "catch_phrase": "strudel",
+  "name_color": "#498992"
+}

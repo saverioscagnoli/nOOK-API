@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Spork",
+    "english_EU": "Crackle",
+    "german": "Schwarte",
+    "spanish_EU": "Espork",
+    "spanish_american": "Espork",
+    "french_EU": "Justin",
+    "french_american": "Justin",
+    "italian": "Cicciolo",
+    "dutch": "Crackle",
+    "simplified_chinese": "肉肉",
+    "traditional_chinese": "肉肉",
+    "japanese": "ポーク",
+    "korean": "포크",
+    "russian": "Крэкл"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Spork.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Spork.png"
+  },
+  "id": 356,
+  "name": "Spork",
+  "sex": "Male",
+  "personality": "Lazy",
+  "birthday": "9/3",
+  "species": "Pig",
+  "catch_phrase": "snork",
+  "name_color": "#fffce9"
+}

@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Marina",
+    "english_EU": "Marina",
+    "german": "Marianne",
+    "spanish_EU": "Marina",
+    "spanish_american": "Marina",
+    "french_EU": "Marina",
+    "french_american": "Marina",
+    "italian": "Marina",
+    "dutch": "Marina",
+    "simplified_chinese": "章立娜",
+    "traditional_chinese": "章立娜",
+    "japanese": "タコリーナ",
+    "korean": "문리나",
+    "russian": "Марина"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Marina.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Marina.png"
+  },
+  "id": 236,
+  "name": "Marina",
+  "sex": "Female",
+  "personality": "Normal",
+  "birthday": "6/26",
+  "species": "Octopus",
+  "catch_phrase": "blurp",
+  "name_color": "#fffce9"
+}

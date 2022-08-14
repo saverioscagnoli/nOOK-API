@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Dom",
+    "english_EU": "Dom",
+    "german": "Dominik",
+    "spanish_EU": "Fibrilio",
+    "spanish_american": "Fibrilio",
+    "french_EU": "Bouloche",
+    "french_american": "Bouloche",
+    "italian": "Ovilio",
+    "dutch": "Donny",
+    "simplified_chinese": "茶茶丸",
+    "traditional_chinese": "茶茶丸",
+    "japanese": "ちゃちゃまる",
+    "korean": "차둘",
+    "russian": "Дом"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Dom.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Dom.png"
+  },
+  "id": 122,
+  "name": "Dom",
+  "sex": "Male",
+  "personality": "Jock",
+  "birthday": "3/18",
+  "species": "Sheep",
+  "catch_phrase": "indeedaroo",
+  "name_color": "#97858e"
+}

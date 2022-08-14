@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "My Place",
+    "english_EU": "My Place",
+    "german": "Mein Zuhause",
+    "spanish_EU": "Mi hogar",
+    "spanish_american": "Mi hogar",
+    "french_EU": "Chez moi",
+    "french_american": "Chez moi",
+    "italian": "Casa mia",
+    "dutch": "Mijn thuis",
+    "simplified_chinese": "我的归所",
+    "traditional_chinese": "我的歸所",
+    "japanese": "ぼくのばしょ",
+    "korean": "내가 있는 곳",
+    "russian": "Мой дом"
+  },
+  "id": 80,
+  "name": "My Place",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/My_Place.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/My_Place.mp3"
+}

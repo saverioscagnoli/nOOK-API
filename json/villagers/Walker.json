@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Walker",
+    "english_EU": "Walker",
+    "german": "Fido",
+    "spanish_EU": "Miki",
+    "spanish_american": "Miki",
+    "french_EU": "George",
+    "french_american": "George",
+    "italian": "Walter",
+    "dutch": "Walker",
+    "simplified_chinese": "阿笨",
+    "traditional_chinese": "阿笨",
+    "japanese": "ベン",
+    "korean": "벤",
+    "russian": "Уокер"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Walker.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Walker.png"
+  },
+  "id": 399,
+  "name": "Walker",
+  "sex": "Male",
+  "personality": "Lazy",
+  "birthday": "6/10",
+  "species": "Dog",
+  "catch_phrase": "wuh",
+  "name_color": "#848484"
+}

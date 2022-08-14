@@ -1,0 +1,25 @@
+{
+  "translations": {
+    "english_USA": "famous painting",
+    "english_EU": "famous painting",
+    "german": "Berühmtgemälde",
+    "spanish_EU": "retrato italiano",
+    "spanish_american": "retrato italiano",
+    "french_EU": "toile célèbre",
+    "french_american": "toile célèbre",
+    "italian": "quadro famoso",
+    "dutch": "beroemde schilderij",
+    "simplified_chinese": "有名的名画",
+    "traditional_chinese": "有名的名畫",
+    "japanese": "ゆうめいなめいが",
+    "korean": "유명한 명화",
+    "russian": "знаменитая картина"
+  },
+  "id": 11,
+  "name": "famous painting",
+  "buy_price": 4980,
+  "sell_price": 1245,
+  "museum_description": "The world's most famous smile. It's said that da Vinci kept this painting for himself until the very end...Given its power to beguile visitors all these years later, it's easy to see why.",
+  "canBeFake": true,
+  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/render/art/famous_painting.png"
+}

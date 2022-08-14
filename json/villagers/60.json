@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Bruce",
+    "english_EU": "Bruce",
+    "german": "Oswald",
+    "spanish_EU": "Aristo",
+    "spanish_american": "Aristo",
+    "french_EU": "Boubou",
+    "french_american": "Boubou",
+    "italian": "Arturo",
+    "dutch": "Bruce",
+    "simplified_chinese": "布鹿斯",
+    "traditional_chinese": "布鹿斯",
+    "japanese": "ブルース",
+    "korean": "브루스",
+    "russian": "Брюс"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Bruce.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Bruce.png"
+  },
+  "id": 60,
+  "name": "Bruce",
+  "sex": "Male",
+  "personality": "Cranky",
+  "birthday": "5/26",
+  "species": "Deer",
+  "catch_phrase": "gruff",
+  "name_color": "#fffce9"
+}

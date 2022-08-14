@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Cube",
+    "english_EU": "Cube",
+    "german": "Cube",
+    "spanish_EU": "Cube",
+    "spanish_american": "Cube",
+    "french_EU": "Cube",
+    "french_american": "Cube",
+    "italian": "Cubetto",
+    "dutch": "Cube",
+    "simplified_chinese": "罗斯",
+    "traditional_chinese": "羅斯",
+    "japanese": "ビス",
+    "korean": "빙수",
+    "russian": "Кьюб"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Cube.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Cube.png"
+  },
+  "id": 105,
+  "name": "Cube",
+  "sex": "Male",
+  "personality": "Lazy",
+  "birthday": "1/29",
+  "species": "Penguin",
+  "catch_phrase": "brainfreeze",
+  "name_color": "#fffce9"
+}

@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "K.K. Sonata",
+    "english_EU": "K.K. Sonata",
+    "german": "K.K. Sonate",
+    "spanish_EU": "Tota-sonata",
+    "spanish_american": "Tota-sonata",
+    "french_EU": "Sonate Kéké",
+    "french_american": "Sonate Kéké",
+    "italian": "K.K. Sonata",
+    "dutch": "K.K.-sonate",
+    "simplified_chinese": "K.K.奏鸣曲",
+    "traditional_chinese": "K.K.奏鳴曲",
+    "japanese": "けけのソナタ",
+    "korean": "K.K.소나타",
+    "russian": "Соната К. К."
+  },
+  "id": 64,
+  "name": "K.K. Sonata",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/KK_Sonata.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/KK_Sonata.mp3"
+}

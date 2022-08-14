@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Ribbot",
+    "english_EU": "Ribbot",
+    "german": "Robbi",
+    "spanish_EU": "Ranobot",
+    "spanish_american": "Ranobot",
+    "french_EU": "Crabot",
+    "french_american": "Crabot",
+    "italian": "Ranabot",
+    "dutch": "Ribbot",
+    "simplified_chinese": "锵锵",
+    "traditional_chinese": "鏘鏘",
+    "japanese": "ガチャ",
+    "korean": "철컥",
+    "russian": "Риббот"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Ribbot.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Ribbot.png"
+  },
+  "id": 316,
+  "name": "Ribbot",
+  "sex": "Male",
+  "personality": "Jock",
+  "birthday": "2/13",
+  "species": "Frog",
+  "catch_phrase": "zzrrbbitt",
+  "name_color": "#5e5e5e"
+}

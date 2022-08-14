@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "K.K. Lullaby",
+    "english_EU": "K.K. Lullaby",
+    "german": "K.K. Schlaflied",
+    "spanish_EU": "Tota-nana",
+    "spanish_american": "Tota-arrullo",
+    "french_EU": "Berceuse de Kéké",
+    "french_american": "Berceuse de Kéké",
+    "italian": "K.K. Ninnananna",
+    "dutch": "K.K.-slaapliedje",
+    "simplified_chinese": "K.K.摇篮曲",
+    "traditional_chinese": "K.K.搖籃曲",
+    "japanese": "けけララバイ",
+    "korean": "K.K.자장가",
+    "russian": "Колыбельная К. К."
+  },
+  "id": 45,
+  "name": "K.K. Lullaby",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/KK_Lullaby.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/KK_Lullaby.mp3"
+}

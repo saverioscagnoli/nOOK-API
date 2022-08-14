@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "K.K. Faire",
+    "english_EU": "K.K. Faire",
+    "german": "K.K. Jahrmarkt",
+    "spanish_EU": "Tota-romanza",
+    "spanish_american": "Tota-romanza",
+    "french_EU": "Virelai Kéké",
+    "french_american": "Virelai Kéké",
+    "italian": "K.K. Festa",
+    "dutch": "K.K.-boerendans",
+    "simplified_chinese": "冲绳K.K.",
+    "traditional_chinese": "沖繩K.K.",
+    "japanese": "ハイサイけけ",
+    "korean": "혼저옵서예K.K.",
+    "russian": "Ярмарка К. К."
+  },
+  "id": 33,
+  "name": "K.K. Faire",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/KK_Faire.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/KK_Faire.mp3"
+}

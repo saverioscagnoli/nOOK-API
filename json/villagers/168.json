@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Greta",
+    "english_EU": "Greta",
+    "german": "Gretel",
+    "spanish_EU": "Jimena",
+    "spanish_american": "Jimena",
+    "french_EU": "Greta",
+    "french_american": "Greta",
+    "italian": "Greta",
+    "dutch": "Greta",
+    "simplified_chinese": "如意",
+    "traditional_chinese": "如意",
+    "japanese": "ふくこ",
+    "korean": "복자",
+    "russian": "Грета"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Greta.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Greta.png"
+  },
+  "id": 168,
+  "name": "Greta",
+  "sex": "Female",
+  "personality": "Snooty",
+  "birthday": "9/5",
+  "species": "Mouse",
+  "catch_phrase": "yelp",
+  "name_color": "#848484"
+}

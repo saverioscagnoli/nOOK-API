@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Tiffany",
+    "english_EU": "Tiffany",
+    "german": "Michelle",
+    "spanish_EU": "Tiffany",
+    "spanish_american": "Tiffany",
+    "french_EU": "Tiphaine",
+    "french_american": "Tiphaine",
+    "italian": "Stefania",
+    "dutch": "Tiffany",
+    "simplified_chinese": "大姐头",
+    "traditional_chinese": "大姐頭",
+    "japanese": "バズレー",
+    "korean": "바슬레",
+    "russian": "Тиффани"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Tiffany.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Tiffany.png"
+  },
+  "id": 380,
+  "name": "Tiffany",
+  "sex": "Female",
+  "personality": "Snooty",
+  "birthday": "1/9",
+  "species": "Rabbit",
+  "catch_phrase": "bunbun",
+  "name_color": "#848484"
+}

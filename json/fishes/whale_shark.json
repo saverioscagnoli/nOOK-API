@@ -1,0 +1,49 @@
+{
+  "translations": {
+    "english_USA": "whale shark",
+    "english_EU": "whale shark",
+    "german": "Walhai",
+    "spanish_EU": "tiburón ballena",
+    "spanish_american": "tiburón ballena",
+    "french_EU": "requin-baleine",
+    "french_american": "requin-baleine",
+    "italian": "squalo balena",
+    "dutch": "walvishaai",
+    "simplified_chinese": "鲸鲨",
+    "traditional_chinese": "鯨鯊",
+    "japanese": "ジンベエザメ",
+    "korean": "고래상어",
+    "russian": "китовая акула"
+  },
+  "sell_prices": { "nook": 13000, "cj": 19500 },
+  "available": {
+    "hemisphere_data": {
+      "northern_months": "6-9",
+      "southern_months": "12-3",
+      "northern_months_array": [6, 7, 8, 9],
+      "southern_months_array": [12, 1, 2, 3]
+    },
+    "time": {
+      "all_day": true,
+      "all_year": false,
+      "time_string": "",
+      "time_array": [
+        0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19,
+        20, 21, 22, 23
+      ]
+    },
+    "spot": "Sea",
+    "rarity": "Rare"
+  },
+  "phrases": {
+    "joke": "Thar she blows! I caught a whale shark! I'm tellin' ya, it was thiiiiiiiiiiiiiiiiiiiis big!",
+    "museum_description": "The mighty whale shark is the largest species of fish in the world with specimens up to 60 feet long! Unlike many of their kin in the shark family, whale sharks are nonviolent, eating only plankton and such. They grow slowly and live long, relaxed lives of filter feeding and leisure in warm waters. So if you ever have to choose a fish as a roommate, you could do worse than the whale shark. Unless you can't swim."
+  },
+  "sprites": {
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/fishes/Whale_Shark.png",
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/fishes/Whale_Shark.png"
+  },
+  "id": 75,
+  "name": "whale shark",
+  "shadow_size": "6"
+}

@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Bangle",
+    "english_EU": "Bangle",
+    "german": "Tamara",
+    "spanish_EU": "Felina",
+    "spanish_american": "Felina",
+    "french_EU": "Bengale",
+    "french_american": "Bengale",
+    "italian": "Tigrizia",
+    "dutch": "Bangle",
+    "simplified_chinese": "卢姿",
+    "traditional_chinese": "盧姿",
+    "japanese": "ルーズ",
+    "korean": "루주",
+    "russian": "Бэнгл"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Bangle.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Bangle.png"
+  },
+  "id": 28,
+  "name": "Bangle",
+  "sex": "Female",
+  "personality": "Peppy",
+  "birthday": "8/27",
+  "species": "Tiger",
+  "catch_phrase": "growf",
+  "name_color": "#fffce9"
+}

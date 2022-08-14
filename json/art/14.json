@@ -1,0 +1,25 @@
+{
+  "translations": {
+    "english_USA": "glowing painting",
+    "english_EU": "glowing painting",
+    "german": "Lichtgemälde",
+    "spanish_EU": "cuadro vespertino",
+    "spanish_american": "cuadro vespertino",
+    "french_EU": "toile crépusculaire",
+    "french_american": "toile crépusculaire",
+    "italian": "quadro abbagliante",
+    "dutch": "weemoedige schilderij",
+    "simplified_chinese": "光线的名画",
+    "traditional_chinese": "光線的名畫",
+    "japanese": "ひかりのめいが",
+    "korean": "빛의 명화",
+    "russian": "сияющая картина"
+  },
+  "id": 14,
+  "name": "glowing painting",
+  "buy_price": 4980,
+  "sell_price": 1245,
+  "museum_description": "A famous piece by Turner, a \"master of light. \"It shows an English Navy ship commanded by Admiral Nelson as it's being tugged toward its dismantling.",
+  "canBeFake": false,
+  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/render/art/glowing_painting.png"
+}

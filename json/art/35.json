@@ -1,0 +1,25 @@
+{
+  "translations": {
+    "english_USA": "tremendous statue",
+    "english_EU": "tremendous statue",
+    "german": "Prachtskulptur",
+    "spanish_EU": "urna imponente",
+    "spanish_american": "urna imponente",
+    "french_EU": "sculpture singulière",
+    "french_american": "sculpture singulière",
+    "italian": "scultura imponente",
+    "dutch": "bijzondere standbeeld",
+    "simplified_chinese": "出乎意料的雕塑",
+    "traditional_chinese": "出乎意料的雕塑",
+    "japanese": "とてつもないちょうこく",
+    "korean": "어마어마한 조각",
+    "russian": "массивная статуя"
+  },
+  "id": 35,
+  "name": "tremendous statue",
+  "buy_price": 4980,
+  "sell_price": 1245,
+  "museum_description": "This bronze ding from ancient China is the largest and heaviest ever found. The script on the inside suggests it was created to honor the king's mother.",
+  "canBeFake": true,
+  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/render/art/tremendous_statue.png"
+}

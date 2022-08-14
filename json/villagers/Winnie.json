@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Winnie",
+    "english_EU": "Winnie",
+    "german": "Walli",
+    "spanish_EU": "Soonia",
+    "spanish_american": "Soonia",
+    "french_EU": "Anne",
+    "french_american": "Anne",
+    "italian": "Clara",
+    "dutch": "Winnie",
+    "simplified_chinese": "马星星",
+    "traditional_chinese": "馬星星",
+    "japanese": "マキバスター",
+    "korean": "카로틴",
+    "russian": "Винни"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Winnie.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Winnie.png"
+  },
+  "id": 406,
+  "name": "Winnie",
+  "sex": "Female",
+  "personality": "Peppy",
+  "birthday": "1/31",
+  "species": "Horse",
+  "catch_phrase": "hay-OK",
+  "name_color": "#fffce9"
+}

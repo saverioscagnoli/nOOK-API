@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Marlo",
+    "english_EU": "Marlo",
+    "german": "Marlo",
+    "spanish_EU": "Marlo",
+    "spanish_american": "Marlo",
+    "french_EU": "Marlou",
+    "french_american": "Marlou",
+    "italian": "Goffredo",
+    "dutch": "Marlo",
+    "simplified_chinese": "胖督",
+    "traditional_chinese": "胖督",
+    "japanese": "ドンチャン",
+    "korean": "보스터",
+    "russian": "Марло"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Marlo.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Marlo.png"
+  },
+  "id": 237,
+  "name": "Marlo",
+  "sex": "Male",
+  "personality": "Cranky",
+  "birthday": "6/26",
+  "species": "Hamster",
+  "catch_phrase": "gabeesh",
+  "name_color": "#fffce9"
+}

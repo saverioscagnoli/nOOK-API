@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Pekoe",
+    "english_EU": "Pekoe",
+    "german": "Sandrine",
+    "spanish_EU": "Vera",
+    "spanish_american": "Vera",
+    "french_EU": "Pauline",
+    "french_american": "Pauline",
+    "italian": "Mina",
+    "dutch": "Pekoe",
+    "simplified_chinese": "佳敏",
+    "traditional_chinese": "佳敏",
+    "japanese": "ジャスミン",
+    "korean": "재스민",
+    "russian": "Пеко"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Pekoe.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Pekoe.png"
+  },
+  "id": 285,
+  "name": "Pekoe",
+  "sex": "Female",
+  "personality": "Normal",
+  "birthday": "5/18",
+  "species": "Bear cub",
+  "catch_phrase": "bud",
+  "name_color": "#848484"
+}

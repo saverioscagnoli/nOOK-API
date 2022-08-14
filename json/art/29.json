@@ -1,0 +1,25 @@
+{
+  "translations": {
+    "english_USA": "rock-head statue",
+    "english_EU": "rock-head statue",
+    "german": "Dickkopfskulptur",
+    "spanish_EU": "cabeza colosal",
+    "spanish_american": "cabeza colosal",
+    "french_EU": "sculpture déterminée",
+    "french_american": "sculpture déterminée",
+    "italian": "testa di roccia",
+    "dutch": "koppige standbeeld",
+    "simplified_chinese": "石头颅雕塑",
+    "traditional_chinese": "石頭顱雕塑",
+    "japanese": "いしあたまなちょうこく",
+    "korean": "돌 머리의 조각",
+    "russian": "твердолобая статуя"
+  },
+  "id": 29,
+  "name": "rock-head statue",
+  "buy_price": 4980,
+  "sell_price": 1245,
+  "museum_description": "Giant stone head thought to be from the ancient Mesoamerican Olmec civilization. The larger ones can reach three meters in height. Scholars think they only crafted heads, no bodies.",
+  "canBeFake": true,
+  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/render/art/rock-head_statue.png"
+}

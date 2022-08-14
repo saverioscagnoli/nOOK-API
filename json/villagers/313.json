@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Renée",
+    "english_EU": "Renée",
+    "german": "Ilona",
+    "spanish_EU": "Rina",
+    "spanish_american": "Rina",
+    "french_EU": "Rina",
+    "french_american": "Rina",
+    "italian": "Renata",
+    "dutch": "Renée",
+    "simplified_chinese": "柴姐",
+    "traditional_chinese": "柴姐",
+    "japanese": "おさい",
+    "korean": "뿔님이",
+    "russian": "Рене"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Renée.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Renée.png"
+  },
+  "id": 313,
+  "name": "Renée",
+  "sex": "Female",
+  "personality": "Big Sister",
+  "birthday": "5/28",
+  "species": "Rhinoceros",
+  "catch_phrase": "yo yo yo",
+  "name_color": "#fffce9"
+}

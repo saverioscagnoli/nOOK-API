@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Eloise",
+    "english_EU": "Eloise",
+    "german": "Frauke",
+    "spanish_EU": "Eloísa",
+    "spanish_american": "Eloísa",
+    "french_EU": "Éloïse",
+    "french_american": "Éloïse",
+    "italian": "Eloisa",
+    "dutch": "Eloise",
+    "simplified_chinese": "艾勒芬",
+    "traditional_chinese": "艾勒芬",
+    "japanese": "エレフィン",
+    "korean": "엘레핀",
+    "russian": "Элоиза"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Eloise.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Eloise.png"
+  },
+  "id": 133,
+  "name": "Eloise",
+  "sex": "Female",
+  "personality": "Snooty",
+  "birthday": "12/8",
+  "species": "Elephant",
+  "catch_phrase": "tooooot",
+  "name_color": "#9b553a"
+}

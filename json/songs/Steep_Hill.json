@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "Steep Hill",
+    "english_EU": "Steep Hill",
+    "german": "Bergsteigung",
+    "spanish_EU": "Colina arriba",
+    "spanish_american": "Colina arriba",
+    "french_EU": "La pente",
+    "french_american": "La pente",
+    "italian": "Irto colle",
+    "dutch": "Heuvelopwaarts",
+    "simplified_chinese": "二段斜坡",
+    "traditional_chinese": "二段斜坡",
+    "japanese": "にだんざか",
+    "korean": "오르막길",
+    "russian": "Крутой холм"
+  },
+  "id": 89,
+  "name": "Steep Hill",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/Steep_Hill.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/Steep_Hill.mp3"
+}

@@ -1,0 +1,49 @@
+{
+  "translations": {
+    "english_USA": "giant trevally",
+    "english_EU": "giant trevally",
+    "german": "Stachelmakrele",
+    "spanish_EU": "jurel gigante",
+    "spanish_american": "jurel gigante",
+    "french_EU": "carangue grosse tête",
+    "french_american": "carangue grosse tête",
+    "italian": "carango gigante",
+    "dutch": "reuzenhorsmakreel",
+    "simplified_chinese": "白面弄鱼",
+    "traditional_chinese": "浪人鰺",
+    "japanese": "ロウニンアジ",
+    "korean": "무명갈전갱이",
+    "russian": "гигантский каранкс"
+  },
+  "sell_prices": { "nook": 4500, "cj": 6750 },
+  "available": {
+    "hemisphere_data": {
+      "northern_months": "5-10",
+      "southern_months": "11-4",
+      "northern_months_array": [5, 6, 7, 8, 9, 10],
+      "southern_months_array": [11, 12, 1, 2, 3, 4]
+    },
+    "time": {
+      "all_day": true,
+      "all_year": false,
+      "time_string": "",
+      "time_array": [
+        0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19,
+        20, 21, 22, 23
+      ]
+    },
+    "spot": "Pier",
+    "rarity": "Uncommon"
+  },
+  "phrases": {
+    "joke": "I caught a giant trevally! Yeah, I'm pretty well-trevalled.",
+    "museum_description": "The giant trevally, as befits its name, can reach six feet in length and 180 pounds! Its size and strength have made it a favored opponent for anglers since time immemorial. They are also ingenious hunters, sometimes taking advantage of other predators to distract their prey. There have even been documented cases of them attacking —gulp— birds."
+  },
+  "sprites": {
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/fishes/Giant_Trevally.png",
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/fishes/Giant_Trevally.png"
+  },
+  "id": 68,
+  "name": "giant trevally",
+  "shadow_size": "5"
+}

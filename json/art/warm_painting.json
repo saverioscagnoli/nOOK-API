@@ -1,0 +1,25 @@
+{
+  "translations": {
+    "english_USA": "warm painting",
+    "english_EU": "warm painting",
+    "german": "Warmgemälde",
+    "spanish_EU": "cuadro clásico",
+    "spanish_american": "cuadro clásico",
+    "french_EU": "toile radieuse",
+    "french_american": "toile radieuse",
+    "italian": "quadro classico",
+    "dutch": "verleidelijke schilderij",
+    "simplified_chinese": "舒适的名画",
+    "traditional_chinese": "舒適的名畫",
+    "japanese": "いいかんじのめいが",
+    "korean": "느낌이 좋은 명화",
+    "russian": "романтичная картина"
+  },
+  "id": 38,
+  "name": "warm painting",
+  "buy_price": 4980,
+  "sell_price": 1245,
+  "museum_description": "It is said that this painting is a more discreet version of an earlier work known as \"The Nude Maja.\" It is also known that Francisco de Goya was quite popular in his own time. Could these facts be related? A third, unrelated fact-the word \"maja\" refers to a \"stylish young lady of Madrid.\"",
+  "canBeFake": false,
+  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/render/art/warm_painting.png"
+}

@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Reneigh",
+    "english_EU": "Reneigh",
+    "german": "Andrea",
+    "spanish_EU": "Corcelia",
+    "spanish_american": "Corcelia",
+    "french_EU": "Jennifer",
+    "french_american": "Jennifer",
+    "italian": "Requina",
+    "dutch": "Reneigh",
+    "simplified_chinese": "雷哈娜",
+    "traditional_chinese": "雷哈娜",
+    "japanese": "リアーナ",
+    "korean": "리아나",
+    "russian": "Рени"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Reneigh.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Reneigh.png"
+  },
+  "id": 312,
+  "name": "Reneigh",
+  "sex": "Female",
+  "personality": "Big Sister",
+  "birthday": "6/4",
+  "species": "Horse",
+  "catch_phrase": "ayup yup",
+  "name_color": "#fffce9"
+}

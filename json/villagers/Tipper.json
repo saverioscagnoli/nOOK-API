@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Tipper",
+    "english_EU": "Tipper",
+    "german": "Angela",
+    "spanish_EU": "Pinta",
+    "spanish_american": "Pinta",
+    "french_EU": "Valé",
+    "french_american": "Valé",
+    "italian": "Tipper",
+    "dutch": "Tipper",
+    "simplified_chinese": "牧牧",
+    "traditional_chinese": "牧牧",
+    "japanese": "まきば",
+    "korean": "마틸다",
+    "russian": "Типпер"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Tipper.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Tipper.png"
+  },
+  "id": 382,
+  "name": "Tipper",
+  "sex": "Female",
+  "personality": "Snooty",
+  "birthday": "8/25",
+  "species": "Cow",
+  "catch_phrase": "pushy",
+  "name_color": "#848484"
+}

@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Coco",
+    "english_EU": "Coco",
+    "german": "Koko",
+    "spanish_EU": "Cocoloca",
+    "spanish_american": "Cocoloca",
+    "french_EU": "Coco",
+    "french_american": "Coco",
+    "italian": "Coco",
+    "dutch": "Coco",
+    "simplified_chinese": "仰韶",
+    "traditional_chinese": "仰韶",
+    "japanese": "やよい",
+    "korean": "이요",
+    "russian": "Коко"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Coco.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Coco.png"
+  },
+  "id": 98,
+  "name": "Coco",
+  "sex": "Female",
+  "personality": "Normal",
+  "birthday": "3/1",
+  "species": "Rabbit",
+  "catch_phrase": "doyoing",
+  "name_color": "#fffce9"
+}

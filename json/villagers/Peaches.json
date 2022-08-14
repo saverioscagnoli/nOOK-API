@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Peaches",
+    "english_EU": "Peaches",
+    "german": "Claire",
+    "spanish_EU": "Perla",
+    "spanish_american": "Perla",
+    "french_EU": "Prune",
+    "french_american": "Prune",
+    "italian": "Ronzina",
+    "dutch": "Peaches",
+    "simplified_chinese": "小薰",
+    "traditional_chinese": "小薰",
+    "japanese": "ドサコ",
+    "korean": "말자",
+    "russian": "Пичес"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Peaches.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Peaches.png"
+  },
+  "id": 279,
+  "name": "Peaches",
+  "sex": "Female",
+  "personality": "Normal",
+  "birthday": "11/28",
+  "species": "Horse",
+  "catch_phrase": "neighbor",
+  "name_color": "#fffce9"
+}

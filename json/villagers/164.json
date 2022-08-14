@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Goldie",
+    "english_EU": "Goldie",
+    "german": "Bienchen",
+    "spanish_EU": "Tere",
+    "spanish_american": "Tere",
+    "french_EU": "Mirza",
+    "french_american": "Mirza",
+    "italian": "Dora",
+    "dutch": "Goldie",
+    "simplified_chinese": "牛奶糖",
+    "traditional_chinese": "牛奶糖",
+    "japanese": "キャラメル",
+    "korean": "카라멜",
+    "russian": "Голди"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Goldie.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Goldie.png"
+  },
+  "id": 164,
+  "name": "Goldie",
+  "sex": "Female",
+  "personality": "Normal",
+  "birthday": "12/27",
+  "species": "Dog",
+  "catch_phrase": "woof",
+  "name_color": "#879b96"
+}

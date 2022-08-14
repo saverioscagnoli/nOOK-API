@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "K.K. Swing",
+    "english_EU": "K.K. Swing",
+    "german": "K.K. Swing",
+    "spanish_EU": "Tota-swing",
+    "spanish_american": "Tota-swing",
+    "french_EU": "Swing de Kéké",
+    "french_american": "Swing de Kéké",
+    "italian": "K.K. Swing",
+    "dutch": "K.K.-swing",
+    "simplified_chinese": "K.K.摇摆乐",
+    "traditional_chinese": "K.K.搖擺樂",
+    "japanese": "けけスウィング",
+    "korean": "K.K.스윙",
+    "russian": "Свинг К. К."
+  },
+  "id": 69,
+  "name": "K.K. Swing",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/KK_Swing.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/KK_Swing.mp3"
+}

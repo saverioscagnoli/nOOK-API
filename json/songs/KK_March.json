@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "K.K. March",
+    "english_EU": "K.K. March",
+    "german": "K.K. Marsch",
+    "spanish_EU": "Tota-marcha",
+    "spanish_american": "Tota-marcha",
+    "french_EU": "Marche de Kéké",
+    "french_american": "Marche de Kéké",
+    "italian": "K.K. Marcia",
+    "dutch": "K.K.-mars",
+    "simplified_chinese": "K.K.进行曲",
+    "traditional_chinese": "K.K.進行曲",
+    "japanese": "けけマーチ",
+    "korean": "K.K.행진곡",
+    "russian": "Марш К. К."
+  },
+  "id": 48,
+  "name": "K.K. March",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/KK_March.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/KK_March.mp3"
+}

@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Raddle",
+    "english_EU": "Raddle",
+    "german": "Sani",
+    "spanish_EU": "Radiolo",
+    "spanish_american": "Radiolo",
+    "french_EU": "Fabien",
+    "french_american": "Fabien",
+    "italian": "Massimo",
+    "dutch": "Raddle",
+    "simplified_chinese": "嘉俊",
+    "traditional_chinese": "嘉俊",
+    "japanese": "カックン",
+    "korean": "개군",
+    "russian": "Рэддл"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Raddle.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Raddle.png"
+  },
+  "id": 309,
+  "name": "Raddle",
+  "sex": "Male",
+  "personality": "Lazy",
+  "birthday": "6/6",
+  "species": "Frog",
+  "catch_phrase": "aaach—",
+  "name_color": "#fffce9"
+}

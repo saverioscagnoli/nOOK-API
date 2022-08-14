@@ -1,0 +1,25 @@
+{
+  "translations": {
+    "english_USA": "common painting",
+    "english_EU": "common painting",
+    "german": "Bekanntgemälde",
+    "spanish_EU": "cuadro segadoras",
+    "spanish_american": "cuadro segadoras",
+    "french_EU": "toile commune",
+    "french_american": "toile commune",
+    "italian": "quadro povero",
+    "dutch": "landelijke schilderij",
+    "simplified_chinese": "常见的名画",
+    "traditional_chinese": "常見的名畫",
+    "japanese": "よくみるめいが",
+    "korean": "평범한 명화",
+    "russian": "сельская картина"
+  },
+  "id": 7,
+  "name": "common painting",
+  "buy_price": 4980,
+  "sell_price": 1245,
+  "museum_description": "The signature piece from Millet, who was known for depicting the lives of commoners in the 19th century.Notice the abundant crops visible in the background relative to the meager wheat remaining for workers.This art served as social commentary in a time of great inequality.",
+  "canBeFake": false,
+  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/render/art/common_painting.png"
+}

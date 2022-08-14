@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Fang",
+    "english_EU": "Fang",
+    "german": "Grimm",
+    "spanish_EU": "Colmillo",
+    "spanish_american": "Colmillo",
+    "french_EU": "Pierrot",
+    "french_american": "Pierrot",
+    "italian": "Zanna",
+    "dutch": "Fang",
+    "simplified_chinese": "史培亚",
+    "traditional_chinese": "史培亞",
+    "japanese": "シベリア",
+    "korean": "시베리아",
+    "russian": "Фанг"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Fang.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Fang.png"
+  },
+  "id": 139,
+  "name": "Fang",
+  "sex": "Male",
+  "personality": "Cranky",
+  "birthday": "12/18",
+  "species": "Wolf",
+  "catch_phrase": "cha-chomp",
+  "name_color": "#4b4496"
+}

@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "Drivin'",
+    "english_EU": "Drivin'",
+    "german": "Am Steuer",
+    "spanish_EU": "Al volante",
+    "spanish_american": "Al volante",
+    "french_EU": "Sur la route",
+    "french_american": "Sur la route",
+    "italian": "Gita al volante",
+    "dutch": "Achter het stuur",
+    "simplified_chinese": "兜风",
+    "traditional_chinese": "兜風",
+    "japanese": "ドライブ",
+    "korean": "드라이브",
+    "russian": "За рулем"
+  },
+  "id": 8,
+  "name": "Drivin'",
+  "buy_price": null,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/Drivin'.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/Drivin'.mp3"
+}

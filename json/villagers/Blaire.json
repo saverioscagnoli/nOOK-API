@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Blaire",
+    "english_EU": "Blaire",
+    "german": "Klara",
+    "spanish_EU": "Azabache",
+    "spanish_american": "Azabache",
+    "french_EU": "Cachou",
+    "french_american": "Cachou",
+    "italian": "Ghianda",
+    "dutch": "Blaire",
+    "simplified_chinese": "小影",
+    "traditional_chinese": "小影",
+    "japanese": "シルエット",
+    "korean": "실루엣",
+    "russian": "Блер"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Blaire.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Blaire.png"
+  },
+  "id": 46,
+  "name": "Blaire",
+  "sex": "Female",
+  "personality": "Snooty",
+  "birthday": "7/3",
+  "species": "Squirrel",
+  "catch_phrase": "nutlet",
+  "name_color": "#fffce9"
+}

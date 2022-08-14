@@ -1,0 +1,45 @@
+{
+  "translations": {
+    "english_USA": "Queen Alexandra's birdwing",
+    "english_EU": "Queen Alexandra's birdwing",
+    "german": "Vogelfalter",
+    "spanish_EU": "mariposa alas de pájaro",
+    "spanish_american": "mariposa alas de pájaro",
+    "french_EU": "troides alexandrae",
+    "french_american": "troides alexandrae",
+    "italian": "farfalla regina Alessandra",
+    "dutch": "Alexandra's vogelvlinder",
+    "simplified_chinese": "亚历山大凤蝶",
+    "traditional_chinese": "亞歷山大鳳蝶",
+    "japanese": "アレキサンドラトリバネアゲハ",
+    "korean": "알렉산드라비단제비나비",
+    "russian": "птицекрылка Александры"
+  },
+  "sell_prices": { "nook": 4000, "flick": 6000 },
+  "available": {
+    "hemisphere_data": {
+      "northern_months": "5-9",
+      "southern_months": "11-3",
+      "northern_months_array": [5, 6, 7, 8, 9],
+      "southern_months_array": [11, 12, 1, 2, 3]
+    },
+    "time": {
+      "all_day": false,
+      "all_year": false,
+      "time_string": "8am - 4pm",
+      "time_array": [8, 9, 10, 11, 12, 13, 14, 15]
+    },
+    "spot": "Flying",
+    "rarity": "Rare"
+  },
+  "phrases": {
+    "joke": "I caught a Queen Alexandra's birdwing! That's a feather in my cap!",
+    "museum_description": "Hoo! The horror! This behemoth butterfly may be called a Queen Alexandra's birdwing... But I call it the Queen of My Nightmares! It is huge! Indeed, the world's hugest. No butterfly can best its foot-long wingspan. The larvae alone grow to more than 4 inches. As if that weren't appalling enough...they're poisonous! Murderous monsters, indeed!"
+  },
+  "sprites": {
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/bugs/Queen_Alexandra's_Birdwing.png",
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/bugs/Queen_Alexandra's_Birdwing.png"
+  },
+  "id": 12,
+  "name": "Queen Alexandra's birdwing"
+}

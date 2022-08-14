@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Admiral",
+    "english_EU": "Admiral",
+    "german": "Ansgar",
+    "spanish_EU": "Avutardo",
+    "spanish_american": "Avutardo",
+    "french_EU": "Maréchal",
+    "french_american": "Maréchal",
+    "italian": "Adolfo",
+    "dutch": "Admiral",
+    "simplified_chinese": "李彻",
+    "traditional_chinese": "李徹",
+    "japanese": "イッテツ",
+    "korean": "일섭",
+    "russian": "Адмирал"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Admiral.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Admiral.png"
+  },
+  "id": 1,
+  "name": "Admiral",
+  "sex": "Male",
+  "personality": "Cranky",
+  "birthday": "1/27",
+  "species": "Bird",
+  "catch_phrase": "aye aye",
+  "name_color": "#fffce9"
+}

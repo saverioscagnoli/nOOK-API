@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Jacob",
+    "english_EU": "Jakey",
+    "german": "Jesko",
+    "spanish_EU": "Repollo",
+    "spanish_american": "Repollo",
+    "french_EU": "Jacob",
+    "french_american": "Jacob",
+    "italian": "Valerio",
+    "dutch": "Jacob",
+    "simplified_chinese": "余板",
+    "traditional_chinese": "余板",
+    "japanese": "ジャコテン",
+    "korean": "야곱",
+    "russian": "Джейкоб"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Jacob.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Jacob.png"
+  },
+  "id": 188,
+  "name": "Jacob",
+  "sex": "Male",
+  "personality": "Lazy",
+  "birthday": "8/24",
+  "species": "Bird",
+  "catch_phrase": "ya feel",
+  "name_color": "#848484"
+}

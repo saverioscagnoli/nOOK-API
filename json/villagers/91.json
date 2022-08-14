@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Claude",
+    "english_EU": "Claude",
+    "german": "Claude",
+    "spanish_EU": "Pablo",
+    "spanish_american": "Pablo",
+    "french_EU": "Claude",
+    "french_american": "Claude",
+    "italian": "Claude",
+    "dutch": "Claude",
+    "simplified_chinese": "阿醋",
+    "traditional_chinese": "阿醋",
+    "japanese": "ビネガー",
+    "korean": "비니거",
+    "russian": "Клод"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Claude.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Claude.png"
+  },
+  "id": 91,
+  "name": "Claude",
+  "sex": "Male",
+  "personality": "Lazy",
+  "birthday": "12/3",
+  "species": "Rabbit",
+  "catch_phrase": "hopalong",
+  "name_color": "#fffce9"
+}

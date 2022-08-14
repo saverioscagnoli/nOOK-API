@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Chief",
+    "english_EU": "Chief",
+    "german": "Sascha",
+    "spanish_EU": "Zoilo",
+    "spanish_american": "Zoilo",
+    "french_EU": "Chef",
+    "french_american": "Chef",
+    "italian": "Artiglio",
+    "dutch": "Chief",
+    "simplified_chinese": "施傅",
+    "traditional_chinese": "施傅",
+    "japanese": "チーフ",
+    "korean": "대장",
+    "russian": "Чиф"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Chief.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Chief.png"
+  },
+  "id": 87,
+  "name": "Chief",
+  "sex": "Male",
+  "personality": "Cranky",
+  "birthday": "12/19",
+  "species": "Wolf",
+  "catch_phrase": "harrumph",
+  "name_color": "#874c25"
+}

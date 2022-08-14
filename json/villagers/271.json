@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Pancetti",
+    "english_EU": "Pancetti",
+    "german": "Brigitte",
+    "spanish_EU": "Talía",
+    "spanish_american": "Talía",
+    "french_EU": "Lydie",
+    "french_american": "Lydie",
+    "italian": "Cicciola",
+    "dutch": "Pancetti",
+    "simplified_chinese": "布兰妮",
+    "traditional_chinese": "布蘭妮",
+    "japanese": "ブリトニー",
+    "korean": "브리트니",
+    "russian": "Панчетти"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Pancetti.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Pancetti.png"
+  },
+  "id": 271,
+  "name": "Pancetti",
+  "sex": "Female",
+  "personality": "Snooty",
+  "birthday": "11/14",
+  "species": "Pig",
+  "catch_phrase": "sooey",
+  "name_color": "#fffce9"
+}

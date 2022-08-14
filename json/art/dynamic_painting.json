@@ -1,0 +1,25 @@
+{
+  "translations": {
+    "english_USA": "dynamic painting",
+    "english_EU": "dynamic painting",
+    "german": "Wellengemälde",
+    "spanish_EU": "cuadro ola",
+    "spanish_american": "cuadro ola",
+    "french_EU": "toile déferlante",
+    "french_american": "toile déferlante",
+    "italian": "quadro marino",
+    "dutch": "woelige schilderij",
+    "simplified_chinese": "磅礴的名画",
+    "traditional_chinese": "磅礡的名畫",
+    "japanese": "いきなめいが",
+    "korean": "멋들어진 명화",
+    "russian": "волнительная картина"
+  },
+  "id": 9,
+  "name": "dynamic painting",
+  "buy_price": 4980,
+  "sell_price": 1245,
+  "museum_description": "The signature piece of ukiyo-e artist Katsushika Hokusai, painted as part of a series when he was in his 60s. Although it is dubbed \"Thirty-Six Views,\" he eventually added 10 more to make 46 in total.",
+  "canBeFake": false,
+  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/render/art/dynamic_painting.png"
+}

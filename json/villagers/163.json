@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Gloria",
+    "english_EU": "Gloria",
+    "german": "Gustavia",
+    "spanish_EU": "Jarrea",
+    "spanish_american": "Jarrea",
+    "french_EU": "Déborah",
+    "french_american": "Déborah",
+    "italian": "Pappy",
+    "dutch": "Gloria",
+    "simplified_chinese": "素返真",
+    "traditional_chinese": "素返真",
+    "japanese": "スワンソン",
+    "korean": "마릴린",
+    "russian": "Глория"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Gloria.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Gloria.png"
+  },
+  "id": 163,
+  "name": "Gloria",
+  "sex": "Female",
+  "personality": "Snooty",
+  "birthday": "8/12",
+  "species": "Duck",
+  "catch_phrase": "quacker",
+  "name_color": "#848484"
+}

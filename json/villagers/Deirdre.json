@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Deirdre",
+    "english_EU": "Deirdre",
+    "german": "Dina",
+    "spanish_EU": "Venada",
+    "spanish_american": "Venada",
+    "french_EU": "Bichoune",
+    "french_american": "Bichoune",
+    "italian": "Daria",
+    "dutch": "Deirdre",
+    "simplified_chinese": "娣雅",
+    "traditional_chinese": "娣雅",
+    "japanese": "ナディア",
+    "korean": "나디아",
+    "russian": "Дейрдре"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Deirdre.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Deirdre.png"
+  },
+  "id": 113,
+  "name": "Deirdre",
+  "sex": "Female",
+  "personality": "Big Sister",
+  "birthday": "5/4",
+  "species": "Deer",
+  "catch_phrase": "whatevs",
+  "name_color": "#4b4496"
+}

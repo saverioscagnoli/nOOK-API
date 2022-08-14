@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "K.K. Synth",
+    "english_EU": "K.K. Synth",
+    "german": "K.K. Synthiepop",
+    "spanish_EU": "Tota-electrónica",
+    "spanish_american": "Tota-electrónica",
+    "french_EU": "Synthé Kéké",
+    "french_american": "Synthé Kéké",
+    "italian": "K.K. Synth",
+    "dutch": "K.K.-synthpop",
+    "simplified_chinese": "K.K.电子民谣",
+    "traditional_chinese": "K.K.電子民謠",
+    "japanese": "けけトロニカ",
+    "korean": "K.K.트로니카",
+    "russian": "Синти-поп К. К."
+  },
+  "id": 70,
+  "name": "K.K. Synth",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/KK_Synth.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/KK_Synth.mp3"
+}

@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Curlos",
+    "english_EU": "Curlos",
+    "german": "Locke",
+    "spanish_EU": "Carnerio",
+    "spanish_american": "Carnerio",
+    "french_EU": "Tonton",
+    "french_american": "Tonton",
+    "italian": "Boccolo",
+    "dutch": "Curlos",
+    "simplified_chinese": "贾洛斯",
+    "traditional_chinese": "賈洛斯",
+    "japanese": "カルロス",
+    "korean": "카를로스",
+    "russian": "Керлос"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Curlos.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Curlos.png"
+  },
+  "id": 106,
+  "name": "Curlos",
+  "sex": "Male",
+  "personality": "Smug",
+  "birthday": "5/8",
+  "species": "Sheep",
+  "catch_phrase": "shearly",
+  "name_color": "#9b553a"
+}

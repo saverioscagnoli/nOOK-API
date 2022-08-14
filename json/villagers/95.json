@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Clyde",
+    "english_EU": "Clyde",
+    "german": "Tommi",
+    "spanish_EU": "Moe",
+    "spanish_american": "Moe",
+    "french_EU": "Dorian",
+    "french_american": "Dorian",
+    "italian": "Lallo",
+    "dutch": "Clyde",
+    "simplified_chinese": "笛笛",
+    "traditional_chinese": "笛笛",
+    "japanese": "デースケ",
+    "korean": "마철이",
+    "russian": "Клайд"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Clyde.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Clyde.png"
+  },
+  "id": 95,
+  "name": "Clyde",
+  "sex": "Male",
+  "personality": "Lazy",
+  "birthday": "5/1",
+  "species": "Horse",
+  "catch_phrase": "clip clawp",
+  "name_color": "#8b5f57"
+}

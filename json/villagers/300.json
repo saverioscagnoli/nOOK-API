@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Prince",
+    "english_EU": "Prince",
+    "german": "Prinz",
+    "spanish_EU": "Felipe",
+    "spanish_american": "Felipe",
+    "french_EU": "Prince",
+    "french_american": "Prince",
+    "italian": "Principe",
+    "dutch": "Prince",
+    "simplified_chinese": "青呱",
+    "traditional_chinese": "青呱",
+    "japanese": "カール",
+    "korean": "카일",
+    "russian": "Принс"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Prince.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Prince.png"
+  },
+  "id": 300,
+  "name": "Prince",
+  "sex": "Male",
+  "personality": "Lazy",
+  "birthday": "7/21",
+  "species": "Frog",
+  "catch_phrase": "burrup",
+  "name_color": "#28665a"
+}

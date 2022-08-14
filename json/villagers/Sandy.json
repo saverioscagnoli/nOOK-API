@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Sandy",
+    "english_EU": "Sandy",
+    "german": "Senta",
+    "spanish_EU": "Priscila",
+    "spanish_american": "Priscila",
+    "french_EU": "Ottie",
+    "french_american": "Ottie",
+    "italian": "Alessia",
+    "dutch": "Sandy",
+    "simplified_chinese": "小岚",
+    "traditional_chinese": "小嵐",
+    "japanese": "ラン",
+    "korean": "샌디",
+    "russian": "Сэнди"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Sandy.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Sandy.png"
+  },
+  "id": 339,
+  "name": "Sandy",
+  "sex": "Female",
+  "personality": "Normal",
+  "birthday": "10/21",
+  "species": "Ostrich",
+  "catch_phrase": "speedy",
+  "name_color": "#fff2bb"
+}

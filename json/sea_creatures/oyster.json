@@ -1,0 +1,48 @@
+{
+  "translations": {
+    "english_USA": "oyster",
+    "english_EU": "oyster",
+    "german": "Auster",
+    "spanish_EU": "ostra",
+    "spanish_american": "ostra",
+    "french_EU": "huître",
+    "french_american": "huître",
+    "italian": "ostrica",
+    "dutch": "oester",
+    "simplified_chinese": "牡蛎",
+    "traditional_chinese": "牡蠣",
+    "japanese": "オイスター",
+    "korean": "굴",
+    "russian": "устрица"
+  },
+  "price": 1100,
+  "speed": "Slow",
+  "available": {
+    "hemisphere_data": {
+      "northern_months": "9-2",
+      "southern_months": "3-8",
+      "northern_months_array": [9, 10, 11, 12, 1, 2],
+      "southern_months_array": [3, 4, 5, 6, 7, 8]
+    },
+    "time": {
+      "all_day": true,
+      "all_year": false,
+      "time_string": "",
+      "time_array": [
+        0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19,
+        20, 21, 22, 23
+      ]
+    }
+  },
+  "phrases": {
+    "joke": "I got an oyster! It's a little shellfish.",
+    "museum_description": "Oysters are marvelous mollusks and, in many ways, the social butterflies of the seas. That is, these bivalves tend to live attached to rocks in large groups known as oyster beds. These reef-like structures provide home and habitat for a delightful variety of creatures. Mussels, barnacles, and sea anemones have all been known to set up house. Meanwhile, small fish and crabs hide from predators and even raise their young among the snuggling oysters. With all the hubbub, an oyster bed sounds like the last place one would get some sleep!"
+  },
+  "sprites": {
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/sea_creatures/Oyster.png",
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/sea_creatures/Oyster.png"
+  },
+  "id": 13,
+  "name": "oyster",
+  "shadow_size": "Small"
+}

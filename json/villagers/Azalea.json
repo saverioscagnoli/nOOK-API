@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Azalea",
+    "english_EU": "Azalea",
+    "german": "Jasmin",
+    "spanish_EU": "Azalea",
+    "spanish_american": "Azalea",
+    "french_EU": "Azalée",
+    "french_american": "Azalée",
+    "italian": "Ortensia",
+    "dutch": "Azalea",
+    "simplified_chinese": "碧芊",
+    "traditional_chinese": "碧芊",
+    "japanese": "ペチュニア",
+    "korean": "페튜니아",
+    "russian": "Азалия"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Azalea.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Azalea.png"
+  },
+  "id": 25,
+  "name": "Azalea",
+  "sex": "Female",
+  "personality": "Snooty",
+  "birthday": "12/18",
+  "species": "Rhinoceros",
+  "catch_phrase": "merci",
+  "name_color": "#fffce9"
+}

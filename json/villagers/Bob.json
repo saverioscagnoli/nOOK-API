@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Bob",
+    "english_EU": "Bob",
+    "german": "Jens",
+    "spanish_EU": "Arándano",
+    "spanish_american": "Arándano",
+    "french_EU": "Robert",
+    "french_american": "Robert",
+    "italian": "Bob",
+    "dutch": "Bob",
+    "simplified_chinese": "阿判",
+    "traditional_chinese": "阿判",
+    "japanese": "ニコバン",
+    "korean": "히죽",
+    "russian": "Боб"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Bob.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Bob.png"
+  },
+  "id": 49,
+  "name": "Bob",
+  "sex": "Male",
+  "personality": "Lazy",
+  "birthday": "1/1",
+  "species": "Cat",
+  "catch_phrase": "pthhpth",
+  "name_color": "#fffce9"
+}

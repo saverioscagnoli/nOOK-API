@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Rocco",
+    "english_EU": "Rocco",
+    "german": "Richi",
+    "spanish_EU": "Roco",
+    "spanish_american": "Roco",
+    "french_EU": "Bebel",
+    "french_american": "Bebel",
+    "italian": "Rocco",
+    "dutch": "Rocco",
+    "simplified_chinese": "孔在来",
+    "traditional_chinese": "孔在來",
+    "japanese": "ゴンザレス",
+    "korean": "곤잘레스",
+    "russian": "Рокко"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Rocco.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Rocco.png"
+  },
+  "id": 323,
+  "name": "Rocco",
+  "sex": "Male",
+  "personality": "Cranky",
+  "birthday": "8/18",
+  "species": "Hippo",
+  "catch_phrase": "hippie",
+  "name_color": "#219479"
+}

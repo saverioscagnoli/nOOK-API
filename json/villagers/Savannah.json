@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Savannah",
+    "english_EU": "Savannah",
+    "german": "Zara",
+    "spanish_EU": "Sabana",
+    "spanish_american": "Sabana",
+    "french_EU": "Savana",
+    "french_american": "Savana",
+    "italian": "Savannah",
+    "dutch": "Savannah",
+    "simplified_chinese": "草斑娜",
+    "traditional_chinese": "草斑娜",
+    "japanese": "サバンナ",
+    "korean": "사반나",
+    "russian": "Саванна"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Savannah.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Savannah.png"
+  },
+  "id": 341,
+  "name": "Savannah",
+  "sex": "Female",
+  "personality": "Normal",
+  "birthday": "1/25",
+  "species": "Horse",
+  "catch_phrase": "y'all",
+  "name_color": "#848484"
+}

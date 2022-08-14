@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Jacques",
+    "english_EU": "Jacques",
+    "german": "Pierre",
+    "spanish_EU": "Gorrelmo",
+    "spanish_american": "Gorrelmo",
+    "french_EU": "Jacky",
+    "french_american": "Jacky",
+    "italian": "Zampiero",
+    "dutch": "Jacques",
+    "simplified_chinese": "赵奇",
+    "traditional_chinese": "趙奇",
+    "japanese": "ジョッキー",
+    "korean": "쪼끼",
+    "russian": "Жак"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Jacques.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Jacques.png"
+  },
+  "id": 189,
+  "name": "Jacques",
+  "sex": "Male",
+  "personality": "Smug",
+  "birthday": "6/22",
+  "species": "Bird",
+  "catch_phrase": "zut alors",
+  "name_color": "#fffad4"
+}

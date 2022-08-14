@@ -1,0 +1,48 @@
+{
+  "translations": {
+    "english_USA": "drone beetle",
+    "english_EU": "drone beetle",
+    "german": "Japan-Rosenkäfer",
+    "spanish_EU": "escarabajo verde japonés",
+    "spanish_american": "escarabajo verde japonés",
+    "french_EU": "pseudotorynorrhina",
+    "french_american": "cétoine dorée",
+    "italian": "cetonia dorata",
+    "dutch": "bladsprietkever",
+    "simplified_chinese": "日铜锣花金龟",
+    "traditional_chinese": "日銅鑼花金龜",
+    "japanese": "カナブン",
+    "korean": "풍이",
+    "russian": "бронзовка"
+  },
+  "sell_prices": { "nook": 200, "flick": 300 },
+  "available": {
+    "hemisphere_data": {
+      "northern_months": "6-8",
+      "southern_months": "12-2",
+      "northern_months_array": [6, 7, 8],
+      "southern_months_array": [12, 1, 2]
+    },
+    "time": {
+      "all_day": true,
+      "all_year": false,
+      "time_string": "",
+      "time_array": [
+        0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19,
+        20, 21, 22, 23
+      ]
+    },
+    "spot": "On trees",
+    "rarity": "Common"
+  },
+  "phrases": {
+    "joke": "I caught a drone beetle! Shouldn't you have more propellers?",
+    "museum_description": "I must say, the drone beetle is like that boorish acquaintance who is much too loud for polite company. That is, it is a large bug with a square head and is so named for the droning noise it makes when it flies. Furthermore, it has hooks on its feet that help it to cling tightly to trees. HOOK FEET... How gauche!"
+  },
+  "sprites": {
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/bugs/Drone_Beetle.png",
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/bugs/Drone_Beetle.png"
+  },
+  "id": 53,
+  "name": "drone beetle"
+}

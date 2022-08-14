@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Stitches",
+    "english_EU": "Stitches",
+    "german": "Berry",
+    "spanish_EU": "Parches",
+    "spanish_american": "Parches",
+    "french_EU": "Miro",
+    "french_american": "Miro",
+    "italian": "Toppetta",
+    "dutch": "Stitches",
+    "simplified_chinese": "玩具熊",
+    "traditional_chinese": "玩具熊",
+    "japanese": "パッチ",
+    "korean": "패치",
+    "russian": "Стичес"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Stitches.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Stitches.png"
+  },
+  "id": 363,
+  "name": "Stitches",
+  "sex": "Male",
+  "personality": "Lazy",
+  "birthday": "2/10",
+  "species": "Bear cub",
+  "catch_phrase": "stuffin'",
+  "name_color": "#874c25"
+}

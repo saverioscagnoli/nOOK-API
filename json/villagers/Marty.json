@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Marty",
+    "english_EU": "Marty",
+    "german": "Marty",
+    "spanish_EU": "Marty",
+    "spanish_american": "Marty",
+    "french_EU": "Marty",
+    "french_american": "Marty",
+    "italian": "Marty",
+    "dutch": "Marty",
+    "simplified_chinese": "玛丁",
+    "traditional_chinese": "瑪丁",
+    "japanese": "マーティー",
+    "korean": "마티",
+    "russian": "Марти"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Marty.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Marty.png"
+  },
+  "id": 239,
+  "name": "Marty",
+  "sex": "Male",
+  "personality": "Lazy",
+  "birthday": "4/16",
+  "species": "Bear cub",
+  "catch_phrase": "pompom",
+  "name_color": "#9a543a"
+}

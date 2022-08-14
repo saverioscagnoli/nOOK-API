@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Lyman",
+    "english_EU": "Lyman",
+    "german": "Pepe",
+    "spanish_EU": "Chipi",
+    "spanish_american": "Chipi",
+    "french_EU": "Kalyptus",
+    "french_american": "Kalyptus",
+    "italian": "Nicola",
+    "dutch": "Lyman",
+    "simplified_chinese": "敖志明",
+    "traditional_chinese": "敖志明",
+    "japanese": "オズモンド",
+    "korean": "오즈먼드",
+    "russian": "Лайман"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Lyman.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Lyman.png"
+  },
+  "id": 226,
+  "name": "Lyman",
+  "sex": "Male",
+  "personality": "Jock",
+  "birthday": "10/12",
+  "species": "Koala",
+  "catch_phrase": "chips",
+  "name_color": "#878e86"
+}

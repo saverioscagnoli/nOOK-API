@@ -1,0 +1,46 @@
+{
+  "translations": {
+    "english_USA": "betta",
+    "english_EU": "betta",
+    "german": "Kampffisch",
+    "spanish_EU": "betta",
+    "spanish_american": "betta",
+    "french_EU": "combattant",
+    "french_american": "combattant",
+    "italian": "betta",
+    "dutch": "Siamese kempvis",
+    "simplified_chinese": "斗鱼",
+    "traditional_chinese": "鬥魚",
+    "japanese": "ベタ",
+    "korean": "베타",
+    "russian": "сиамский петушок"
+  },
+  "sell_prices": { "nook": 2500, "cj": 3750 },
+  "available": {
+    "hemisphere_data": {
+      "northern_months": "5-10",
+      "southern_months": "11-4",
+      "northern_months_array": [5, 6, 7, 8, 9, 10],
+      "southern_months_array": [11, 12, 1, 2, 3, 4]
+    },
+    "time": {
+      "all_day": false,
+      "all_year": false,
+      "time_string": "9am - 4pm",
+      "time_array": [9, 10, 11, 12, 13, 14, 15]
+    },
+    "spot": "River",
+    "rarity": "Uncommon"
+  },
+  "phrases": {
+    "joke": "I caught a betta! I betta not drop it!",
+    "museum_description": "The betta has long fins and beautiful coloring. It is a tropical fish popular in decorative aquariums. They're very territorial and will fight to complete exhaustion, so aquarists must keep them carefully. Rarely do such beauty and violence commingle outside the rowdiest of sunset-viewing parties."
+  },
+  "sprites": {
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/fishes/Betta.png",
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/fishes/Betta.png"
+  },
+  "id": 37,
+  "name": "betta",
+  "shadow_size": "2"
+}

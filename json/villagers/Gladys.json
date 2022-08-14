@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Gladys",
+    "english_EU": "Gladys",
+    "german": "Sandra",
+    "spanish_EU": "Gladis",
+    "spanish_american": "Gladis",
+    "french_EU": "Gladys",
+    "french_american": "Gladys",
+    "italian": "Marta",
+    "dutch": "Gladys",
+    "simplified_chinese": "仙仙",
+    "traditional_chinese": "仙仙",
+    "japanese": "ちとせ",
+    "korean": "빅토리아",
+    "russian": "Глэдис"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Gladys.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Gladys.png"
+  },
+  "id": 162,
+  "name": "Gladys",
+  "sex": "Female",
+  "personality": "Normal",
+  "birthday": "1/15",
+  "species": "Ostrich",
+  "catch_phrase": "stretch",
+  "name_color": "#848484"
+}

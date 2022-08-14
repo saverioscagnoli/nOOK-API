@@ -1,0 +1,25 @@
+{
+  "translations": {
+    "english_USA": "mystic statue",
+    "english_EU": "mystic statue",
+    "german": "Geheimnisbüste",
+    "spanish_EU": "busto antiguo",
+    "spanish_american": "busto antiguo",
+    "french_EU": "sculpture mystérieuse",
+    "french_american": "sculpture mystérieuse",
+    "italian": "statua enigmatica",
+    "dutch": "enigmatische beeld",
+    "simplified_chinese": "神秘的雕塑",
+    "traditional_chinese": "神祕的雕塑",
+    "japanese": "しんぴてきなちょうこく",
+    "korean": "신비로운 조각",
+    "russian": "загадочная статуя"
+  },
+  "id": 23,
+  "name": "mystic statue",
+  "buy_price": 4980,
+  "sell_price": 1245,
+  "museum_description": "A bust of Nefertiti, whose name means \"the beautiful one has come.\" A \"royal wife,\" she was known as one of the three most beautiful women in ancient Egypt. It is not known whether the left eye is missing because it fell out, or because it was never completed.",
+  "canBeFake": true,
+  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/render/art/mystic_statue.png"
+}

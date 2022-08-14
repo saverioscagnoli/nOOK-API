@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "Bubblegum K.K.",
+    "english_EU": "Bubblegum K.K.",
+    "german": "K.K. Pop",
+    "spanish_EU": "Tota-pop",
+    "spanish_american": "Tota-pop",
+    "french_EU": "Bubblegum Kéké",
+    "french_american": "Kéké gomme balloune",
+    "italian": "K.K. Bolle rosa",
+    "dutch": "K.K.-bubblegum",
+    "simplified_chinese": "K.K.偶像",
+    "traditional_chinese": "K.K.偶像",
+    "japanese": "けけアイドル",
+    "korean": "K.K.아이돌",
+    "russian": "Бабблгам-поп К. К."
+  },
+  "id": 4,
+  "name": "Bubblegum K.K.",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/Bubblegum_KK.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/Bubblegum_KK.mp3"
+}

@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Bianca",
+    "english_EU": "Bianca",
+    "german": "Bettina",
+    "spanish_EU": "Bianca",
+    "spanish_american": "Bianca",
+    "french_EU": "Noémie",
+    "french_american": "Noémie",
+    "italian": "Grattina",
+    "dutch": "Bianca",
+    "simplified_chinese": "小雪",
+    "traditional_chinese": "小雪",
+    "japanese": "コユキ",
+    "korean": "백희",
+    "russian": "Бьянка"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Bianca.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Bianca.png"
+  },
+  "id": 39,
+  "name": "Bianca",
+  "sex": "Female",
+  "personality": "Peppy",
+  "birthday": "12/13",
+  "species": "Tiger",
+  "catch_phrase": "glimmer",
+  "name_color": "#848484"
+}

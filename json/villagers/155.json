@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Fuchsia",
+    "english_EU": "Fuchsia",
+    "german": "Selina",
+    "spanish_EU": "Rosalina",
+    "spanish_american": "Rosalina",
+    "french_EU": "Rosanne",
+    "french_american": "Rosanne",
+    "italian": "Fuxia",
+    "dutch": "Fuchsia",
+    "simplified_chinese": "洁西卡",
+    "traditional_chinese": "潔西卡",
+    "japanese": "ジェシカ",
+    "korean": "제시카",
+    "russian": "Фуксия"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Fuchsia.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Fuchsia.png"
+  },
+  "id": 155,
+  "name": "Fuchsia",
+  "sex": "Female",
+  "personality": "Big Sister",
+  "birthday": "9/19",
+  "species": "Deer",
+  "catch_phrase": "precious",
+  "name_color": "#fffce9"
+}

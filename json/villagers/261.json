@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Nate",
+    "english_EU": "Nate",
+    "german": "Nathan",
+    "spanish_EU": "Nachete",
+    "spanish_american": "Nachete",
+    "french_EU": "Nathan",
+    "french_american": "Nathan",
+    "italian": "Gianni",
+    "dutch": "Nate",
+    "simplified_chinese": "巴克思",
+    "traditional_chinese": "巴克思",
+    "japanese": "バッカス",
+    "korean": "박하스",
+    "russian": "Нэйт"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Nate.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Nate.png"
+  },
+  "id": 261,
+  "name": "Nate",
+  "sex": "Male",
+  "personality": "Lazy",
+  "birthday": "8/16",
+  "species": "Bear",
+  "catch_phrase": "yawwwn",
+  "name_color": "#fffce9"
+}

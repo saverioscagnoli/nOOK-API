@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "Imperial K.K.",
+    "english_EU": "Imperial K.K.",
+    "german": "Super-K.K.",
+    "spanish_EU": "Tota-imperio",
+    "spanish_american": "Tota-imperio",
+    "french_EU": "Kéké l'Empereur",
+    "french_american": "Kéké l'Empereur",
+    "italian": "K.K. Imperiale",
+    "dutch": "K.K. de wijze meester",
+    "simplified_chinese": "K.K.中华",
+    "traditional_chinese": "K.K.中華",
+    "japanese": "けけチャイナ",
+    "korean": "K.K.차이나",
+    "russian": "Величие К. К."
+  },
+  "id": 14,
+  "name": "Imperial K.K.",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/Imperial_KK.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/Imperial_KK.mp3"
+}

@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Biff",
+    "english_EU": "Biff",
+    "german": "Norbert",
+    "spanish_EU": "Pipo",
+    "spanish_american": "Pipo",
+    "french_EU": "Biff",
+    "french_american": "Biff",
+    "italian": "Pippo",
+    "dutch": "Biff",
+    "simplified_chinese": "贾宝为",
+    "traditional_chinese": "賈寶為",
+    "japanese": "ガブリエル",
+    "korean": "가브리엘",
+    "russian": "Бифф"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Biff.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Biff.png"
+  },
+  "id": 40,
+  "name": "Biff",
+  "sex": "Male",
+  "personality": "Jock",
+  "birthday": "3/29",
+  "species": "Hippo",
+  "catch_phrase": "squirt",
+  "name_color": "#fffce9"
+}

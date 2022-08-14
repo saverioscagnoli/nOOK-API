@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Sprinkle",
+    "english_EU": "Sprinkle",
+    "german": "Svenja",
+    "spanish_EU": "Rizolda",
+    "spanish_american": "Rizolda",
+    "french_EU": "Laurie",
+    "french_american": "Laurie",
+    "italian": "Brina",
+    "dutch": "Sprinkle",
+    "simplified_chinese": "冰莎",
+    "traditional_chinese": "冰莎",
+    "japanese": "フラッペ",
+    "korean": "크리미",
+    "russian": "Спринкл"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Sprinkle.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Sprinkle.png"
+  },
+  "id": 357,
+  "name": "Sprinkle",
+  "sex": "Female",
+  "personality": "Peppy",
+  "birthday": "2/20",
+  "species": "Penguin",
+  "catch_phrase": "frappe",
+  "name_color": "#fffce9"
+}

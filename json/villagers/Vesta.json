@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Vesta",
+    "english_EU": "Vesta",
+    "german": "Dolly",
+    "spanish_EU": "Vesta",
+    "spanish_american": "Vesta",
+    "french_EU": "Hélaine",
+    "french_american": "Hélaine",
+    "italian": "Lanella",
+    "dutch": "Vesta",
+    "simplified_chinese": "绵绵",
+    "traditional_chinese": "綿綿",
+    "japanese": "メリヤス",
+    "korean": "메리어스",
+    "russian": "Веста"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Vesta.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Vesta.png"
+  },
+  "id": 392,
+  "name": "Vesta",
+  "sex": "Female",
+  "personality": "Normal",
+  "birthday": "4/16",
+  "species": "Sheep",
+  "catch_phrase": "baaaffo",
+  "name_color": "#848484"
+}

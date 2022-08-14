@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "K.K. Rockabilly",
+    "english_EU": "K.K. Rockabilly",
+    "german": "K.K. Rockabilly",
+    "spanish_EU": "Tota-rockabilly",
+    "spanish_american": "Tota-rockabilly",
+    "french_EU": "Rockabilly Kéké",
+    "french_american": "Rockabilly Kéké",
+    "italian": "K.K. Rockabilly",
+    "dutch": "K.K.-rockabilly",
+    "simplified_chinese": "K.K.乡村摇滚",
+    "traditional_chinese": "K.K.鄉村搖滾",
+    "japanese": "けけビリー",
+    "korean": "K.K.빌리",
+    "russian": "Рокабилли К. К."
+  },
+  "id": 59,
+  "name": "K.K. Rockabilly",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/KK_Rockabilly.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/KK_Rockabilly.mp3"
+}

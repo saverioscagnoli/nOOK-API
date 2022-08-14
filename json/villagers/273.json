@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Paolo",
+    "english_EU": "Paolo",
+    "german": "Paolo",
+    "spanish_EU": "Paolo",
+    "spanish_american": "Paolo",
+    "french_EU": "Paolo",
+    "french_american": "Paolo",
+    "italian": "Paolino",
+    "dutch": "Paolo",
+    "simplified_chinese": "保罗",
+    "traditional_chinese": "保羅",
+    "japanese": "パオロ",
+    "korean": "파올로",
+    "russian": "Паоло"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Paolo.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Paolo.png"
+  },
+  "id": 273,
+  "name": "Paolo",
+  "sex": "Male",
+  "personality": "Lazy",
+  "birthday": "5/5",
+  "species": "Elephant",
+  "catch_phrase": "pal",
+  "name_color": "#fffce9"
+}

@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Angus",
+    "english_EU": "Angus",
+    "german": "Angus",
+    "spanish_EU": "Aliste",
+    "spanish_american": "Aliste",
+    "french_EU": "Angus",
+    "french_american": "Angus",
+    "italian": "Angus",
+    "dutch": "Angus",
+    "simplified_chinese": "施万德",
+    "traditional_chinese": "施萬德",
+    "japanese": "セルバンテス",
+    "korean": "반데스",
+    "russian": "Ангус"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Angus.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Angus.png"
+  },
+  "id": 11,
+  "name": "Angus",
+  "sex": "Male",
+  "personality": "Cranky",
+  "birthday": "4/30",
+  "species": "Bull",
+  "catch_phrase": "macmoo",
+  "name_color": "#fff2bb"
+}

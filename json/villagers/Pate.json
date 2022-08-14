@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Pate",
+    "english_EU": "Pate",
+    "german": "Daune",
+    "spanish_EU": "Pati",
+    "spanish_american": "Pati",
+    "french_EU": "Terrine",
+    "french_american": "Terrine",
+    "italian": "Camilla",
+    "dutch": "Pate",
+    "simplified_chinese": "爱哭鬼",
+    "traditional_chinese": "愛哭鬼",
+    "japanese": "ナッキー",
+    "korean": "나키",
+    "russian": "Пэйт"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Pate.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Pate.png"
+  },
+  "id": 276,
+  "name": "Pate",
+  "sex": "Female",
+  "personality": "Peppy",
+  "birthday": "2/23",
+  "species": "Duck",
+  "catch_phrase": "quackle",
+  "name_color": "#fffad4"
+}

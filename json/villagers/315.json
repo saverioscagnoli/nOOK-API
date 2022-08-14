@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Rhonda",
+    "english_EU": "Rhonda",
+    "german": "Regina",
+    "spanish_EU": "Ronda",
+    "spanish_american": "Ronda",
+    "french_EU": "Renée",
+    "french_american": "Renée",
+    "italian": "Roby",
+    "dutch": "Rhonda",
+    "simplified_chinese": "梦梦",
+    "traditional_chinese": "夢夢",
+    "japanese": "ユメコ",
+    "korean": "론다",
+    "russian": "Ронда"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Rhonda.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Rhonda.png"
+  },
+  "id": 315,
+  "name": "Rhonda",
+  "sex": "Female",
+  "personality": "Normal",
+  "birthday": "1/24",
+  "species": "Rhinoceros",
+  "catch_phrase": "bigfoot",
+  "name_color": "#848484"
+}

@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Sprocket",
+    "english_EU": "Sprocket",
+    "german": "Lutz",
+    "spanish_EU": "Ráfaga",
+    "spanish_american": "Ráfaga",
+    "french_EU": "Laflèche",
+    "french_american": "Laflèche",
+    "italian": "Frankie",
+    "dutch": "Sprocket",
+    "simplified_chinese": "鹤兹",
+    "traditional_chinese": "鶴茲",
+    "japanese": "ヘルツ",
+    "korean": "헤르츠",
+    "russian": "Спрокет"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Sprocket.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Sprocket.png"
+  },
+  "id": 358,
+  "name": "Sprocket",
+  "sex": "Male",
+  "personality": "Jock",
+  "birthday": "12/1",
+  "species": "Ostrich",
+  "catch_phrase": "zort",
+  "name_color": "#fffce9"
+}

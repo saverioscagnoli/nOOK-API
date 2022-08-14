@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Benedict",
+    "english_EU": "Benedict",
+    "german": "Benedikt",
+    "spanish_EU": "Benito",
+    "spanish_american": "Benito",
+    "french_EU": "Dimitri",
+    "french_american": "Dimitri",
+    "italian": "Biagio",
+    "dutch": "Benedict",
+    "simplified_chinese": "沛希",
+    "traditional_chinese": "沛希",
+    "japanese": "ぺしみち",
+    "korean": "페니실린",
+    "russian": "Бенедикт"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Benedict.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Benedict.png"
+  },
+  "id": 35,
+  "name": "Benedict",
+  "sex": "Male",
+  "personality": "Lazy",
+  "birthday": "10/10",
+  "species": "Chicken",
+  "catch_phrase": "uh-hoo",
+  "name_color": "#fffad4"
+}

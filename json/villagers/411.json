@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Zucker",
+    "english_EU": "Zucker",
+    "german": "Ottokar",
+    "spanish_EU": "Paulino",
+    "spanish_american": "Paulino",
+    "french_EU": "Marvin",
+    "french_american": "Marvin",
+    "italian": "Poldo",
+    "dutch": "Zucker",
+    "simplified_chinese": "章丸丸",
+    "traditional_chinese": "章丸丸",
+    "japanese": "タコヤ",
+    "korean": "탁호",
+    "russian": "Цукер"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Zucker.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Zucker.png"
+  },
+  "id": 411,
+  "name": "Zucker",
+  "sex": "Male",
+  "personality": "Lazy",
+  "birthday": "3/8",
+  "species": "Octopus",
+  "catch_phrase": "bloop",
+  "name_color": "#fffce9"
+}

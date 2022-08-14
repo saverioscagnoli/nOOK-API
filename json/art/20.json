@@ -1,0 +1,25 @@
+{
+  "translations": {
+    "english_USA": "motherly statue",
+    "english_EU": "motherly statue",
+    "german": "Wölfinnenstatue",
+    "spanish_EU": "figura materna",
+    "spanish_american": "figura materna",
+    "french_EU": "statue maternelle",
+    "french_american": "statue maternelle",
+    "italian": "statua leggendaria",
+    "dutch": "moederlijke beeld",
+    "simplified_chinese": "充满母爱的雕塑",
+    "traditional_chinese": "充滿母愛的雕塑",
+    "japanese": "ぼせいあふれるちょうこく",
+    "korean": "모성이 느껴지는 조각",
+    "russian": "материнская статуя"
+  },
+  "id": 20,
+  "name": "motherly statue",
+  "buy_price": 4980,
+  "sell_price": 1245,
+  "museum_description": "This wolf from Roman mythology raises a pair of twins, along with some controversy. The original bronze sculpture of the wolf is a masterpiece that dates back to 5th century BCE. The twins were added during the 15th century...or so it was thought.Recent research has given rise to speculation that the original piece may be from the 11th or 12th century. (We will, however, stick with the 5th century BCE estimate for now.)",
+  "canBeFake": true,
+  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/render/art/motherly_statue.png"
+}

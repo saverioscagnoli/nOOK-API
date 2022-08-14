@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Violet",
+    "english_EU": "Violet",
+    "german": "Konga",
+    "spanish_EU": "Magenta",
+    "spanish_american": "Magenta",
+    "french_EU": "Gaëlle",
+    "french_american": "Gaëlle",
+    "italian": "Konga",
+    "dutch": "Violet",
+    "simplified_chinese": "吴紫眉",
+    "traditional_chinese": "吳紫眉",
+    "japanese": "ウズメ",
+    "korean": "줌마",
+    "russian": "Конга"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Violet.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Violet.png"
+  },
+  "id": 395,
+  "name": "Violet",
+  "sex": "Female",
+  "personality": "Snooty",
+  "birthday": "9/1",
+  "species": "Gorilla",
+  "catch_phrase": "sweetie",
+  "name_color": "#fffce9"
+}

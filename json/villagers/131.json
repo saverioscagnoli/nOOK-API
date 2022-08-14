@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Ellie",
+    "english_EU": "Ellie",
+    "german": "Elfi",
+    "spanish_EU": "Eli",
+    "spanish_american": "Eli",
+    "french_EU": "Ella",
+    "french_american": "Ella",
+    "italian": "Elly",
+    "dutch": "Ellie",
+    "simplified_chinese": "泡芙",
+    "traditional_chinese": "泡芙",
+    "japanese": "エクレア",
+    "korean": "에끌레르",
+    "russian": "Элла"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Ellie.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Ellie.png"
+  },
+  "id": 131,
+  "name": "Ellie",
+  "sex": "Female",
+  "personality": "Normal",
+  "birthday": "5/12",
+  "species": "Elephant",
+  "catch_phrase": "li'l one",
+  "name_color": "#fffce9"
+}

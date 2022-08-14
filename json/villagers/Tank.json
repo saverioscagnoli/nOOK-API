@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Tank",
+    "english_EU": "Tank",
+    "german": "Frank",
+    "spanish_EU": "Aníbal",
+    "spanish_american": "Aníbal",
+    "french_EU": "Ben",
+    "french_american": "Ben",
+    "italian": "Rinaldo",
+    "dutch": "Tank",
+    "simplified_chinese": "阿足",
+    "traditional_chinese": "阿足",
+    "japanese": "くるぶし",
+    "korean": "탱크",
+    "russian": "Танк"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Tank.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Tank.png"
+  },
+  "id": 374,
+  "name": "Tank",
+  "sex": "Male",
+  "personality": "Jock",
+  "birthday": "5/6",
+  "species": "Rhinoceros",
+  "catch_phrase": "kerPOW",
+  "name_color": "#fffad4"
+}

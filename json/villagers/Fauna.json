@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Fauna",
+    "english_EU": "Fauna",
+    "german": "Fatima",
+    "spanish_EU": "Fauna",
+    "spanish_american": "Fauna",
+    "french_EU": "Bibi",
+    "french_american": "Bibi",
+    "italian": "Cervina",
+    "dutch": "Fauna",
+    "simplified_chinese": "音音",
+    "traditional_chinese": "音音",
+    "japanese": "ドレミ",
+    "korean": "솔미",
+    "russian": "Фауна"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Fauna.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Fauna.png"
+  },
+  "id": 140,
+  "name": "Fauna",
+  "sex": "Female",
+  "personality": "Normal",
+  "birthday": "3/26",
+  "species": "Deer",
+  "catch_phrase": "dearie",
+  "name_color": "#fffce9"
+}

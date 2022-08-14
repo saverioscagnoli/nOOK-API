@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "Wandering",
+    "english_EU": "Wandering",
+    "german": "Ich wandere",
+    "spanish_EU": "Vagabundo",
+    "spanish_american": "Vagabundo",
+    "french_EU": "Errance",
+    "french_american": "Errance",
+    "italian": "Il viaggiatore",
+    "dutch": "Wandelen",
+    "simplified_chinese": "流浪",
+    "traditional_chinese": "流浪",
+    "japanese": "ほうろう",
+    "korean": "방랑자",
+    "russian": "Поход"
+  },
+  "id": 94,
+  "name": "Wandering",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/Wandering.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/Wandering.mp3"
+}

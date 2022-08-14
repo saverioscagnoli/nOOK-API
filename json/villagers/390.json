@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Ursala",
+    "english_EU": "Ursala",
+    "german": "Ursula",
+    "spanish_EU": "Úrsula",
+    "spanish_american": "Úrsula",
+    "french_EU": "Oursula",
+    "french_american": "Oursula",
+    "italian": "Ursula",
+    "dutch": "Ursala",
+    "simplified_chinese": "妮雅",
+    "traditional_chinese": "妮雅",
+    "japanese": "ネーヤ",
+    "korean": "네이아",
+    "russian": "Урсала"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Ursala.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Ursala.png"
+  },
+  "id": 390,
+  "name": "Ursala",
+  "sex": "Female",
+  "personality": "Big Sister",
+  "birthday": "1/16",
+  "species": "Bear",
+  "catch_phrase": "grooomph",
+  "name_color": "#634b4b"
+}

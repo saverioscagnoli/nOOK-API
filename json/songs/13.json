@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "I Love You",
+    "english_EU": "I Love You",
+    "german": "Ich liebe dich",
+    "spanish_EU": "Te quiero",
+    "spanish_american": "Te quiero",
+    "french_EU": "Je vous aime",
+    "french_american": "Je vous aime",
+    "italian": "Ti amo",
+    "dutch": "Ik hou van jou",
+    "simplified_chinese": "我爱你",
+    "traditional_chinese": "我愛你",
+    "japanese": "だいすき",
+    "korean": "사랑해",
+    "russian": "Я вас люблю"
+  },
+  "id": 13,
+  "name": "I Love You",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/I_Love_You.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/I_Love_You.mp3"
+}

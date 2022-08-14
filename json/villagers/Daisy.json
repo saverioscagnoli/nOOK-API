@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Daisy",
+    "english_EU": "Daisy",
+    "german": "Doris",
+    "spanish_EU": "Luisa",
+    "spanish_american": "Luisa",
+    "french_EU": "Naomie",
+    "french_american": "Naomie",
+    "italian": "Fiorella",
+    "dutch": "Daisy",
+    "simplified_chinese": "香草",
+    "traditional_chinese": "香草",
+    "japanese": "バニラ",
+    "korean": "바닐라",
+    "russian": "Дейзи"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Daisy.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Daisy.png"
+  },
+  "id": 111,
+  "name": "Daisy",
+  "sex": "Female",
+  "personality": "Normal",
+  "birthday": "11/16",
+  "species": "Dog",
+  "catch_phrase": "bow-WOW",
+  "name_color": "#879b96"
+}

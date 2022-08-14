@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Kiki",
+    "english_EU": "Kiki",
+    "german": "Kiki",
+    "spanish_EU": "Ágata",
+    "spanish_american": "Ágata",
+    "french_EU": "Kiki",
+    "french_american": "Kiki",
+    "italian": "Kiki",
+    "dutch": "Kiki",
+    "simplified_chinese": "余子酱",
+    "traditional_chinese": "余子醬",
+    "japanese": "キャビア",
+    "korean": "캐비어",
+    "russian": "Кики"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Kiki.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Kiki.png"
+  },
+  "id": 207,
+  "name": "Kiki",
+  "sex": "Female",
+  "personality": "Normal",
+  "birthday": "10/8",
+  "species": "Cat",
+  "catch_phrase": "kitty cat",
+  "name_color": "#fffce9"
+}

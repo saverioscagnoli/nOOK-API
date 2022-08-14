@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Limberg",
+    "english_EU": "Limberg",
+    "german": "Rafael",
+    "spanish_EU": "Camember",
+    "spanish_american": "Camember",
+    "french_EU": "Gruyère",
+    "french_american": "Gruyère",
+    "italian": "Rosico",
+    "dutch": "Limberg",
+    "simplified_chinese": "韭菜",
+    "traditional_chinese": "韭菜",
+    "japanese": "らっきょ",
+    "korean": "단무지",
+    "russian": "Лимберг"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Limberg.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Limberg.png"
+  },
+  "id": 217,
+  "name": "Limberg",
+  "sex": "Male",
+  "personality": "Cranky",
+  "birthday": "10/17",
+  "species": "Mouse",
+  "catch_phrase": "squinky",
+  "name_color": "#874c25"
+}

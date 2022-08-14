@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Tiansheng",
+    "english_EU": "Tiansheng",
+    "german": "Tiansheng",
+    "spanish_EU": "Tiansheng",
+    "spanish_american": "Tiansheng",
+    "french_EU": "Tiansheng",
+    "french_american": "Tiansheng",
+    "italian": "Tiansheng",
+    "dutch": "Tiansheng",
+    "simplified_chinese": "天圣",
+    "traditional_chinese": "天聖",
+    "japanese": "テンシン",
+    "korean": "제천",
+    "russian": "Тяньшэн"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Tiansheng.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Tiansheng.png"
+  },
+  "id": 379,
+  "name": "Tiansheng",
+  "sex": "Male",
+  "personality": "Jock",
+  "birthday": "8/18",
+  "species": "Monkey",
+  "catch_phrase": "wuwu",
+  "name_color": "#fff2bb"
+}

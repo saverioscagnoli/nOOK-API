@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "K.K. Mambo",
+    "english_EU": "K.K. Mambo",
+    "german": "K.K. Mambo",
+    "spanish_EU": "Tota-mambo",
+    "spanish_american": "Tota-mambo",
+    "french_EU": "Mambo de Kéké",
+    "french_american": "Mambo de Kéké",
+    "italian": "K.K. Mambo",
+    "dutch": "K.K.-mambo",
+    "simplified_chinese": "K.K.曼波",
+    "traditional_chinese": "K.K.曼波",
+    "japanese": "けけマンボ",
+    "korean": "K.K.맘보",
+    "russian": "Мамбо К. К."
+  },
+  "id": 46,
+  "name": "K.K. Mambo",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/KK_Mambo.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/KK_Mambo.mp3"
+}

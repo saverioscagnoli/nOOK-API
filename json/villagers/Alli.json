@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Alli",
+    "english_EU": "Alli",
+    "german": "Ali",
+    "spanish_EU": "Codrila",
+    "spanish_american": "Codrila",
+    "french_EU": "Allie",
+    "french_american": "Allie",
+    "italian": "Alli",
+    "dutch": "Alli",
+    "simplified_chinese": "鳄罗思",
+    "traditional_chinese": "鱷羅思",
+    "japanese": "クロコ",
+    "korean": "크로크",
+    "russian": "Элли"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Alli.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Alli.png"
+  },
+  "id": 7,
+  "name": "Alli",
+  "sex": "Female",
+  "personality": "Snooty",
+  "birthday": "11/8",
+  "species": "Alligator",
+  "catch_phrase": "graaagh",
+  "name_color": "#fffce9"
+}

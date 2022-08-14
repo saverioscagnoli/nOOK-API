@@ -1,0 +1,48 @@
+{
+  "translations": {
+    "english_USA": "violin beetle",
+    "english_EU": "violin beetle",
+    "german": "Geigenkäfer",
+    "spanish_EU": "escarabajo violín",
+    "spanish_american": "escarabajo violín",
+    "french_EU": "mormolyce",
+    "french_american": "mormolyce",
+    "italian": "carabo violino",
+    "dutch": "vioolkever",
+    "simplified_chinese": "提琴虫",
+    "traditional_chinese": "提琴蟲",
+    "japanese": "バイオリンムシ",
+    "korean": "바이올린벌레",
+    "russian": "листовидная жужелица"
+  },
+  "sell_prices": { "nook": 450, "flick": 675 },
+  "available": {
+    "hemisphere_data": {
+      "northern_months": "5-6 & 9-11",
+      "southern_months": "3-5 & 11-12",
+      "northern_months_array": [5, 6, 9, 10, 11],
+      "southern_months_array": [3, 4, 5, 11, 12]
+    },
+    "time": {
+      "all_day": true,
+      "all_year": false,
+      "time_string": "",
+      "time_array": [
+        0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19,
+        20, 21, 22, 23
+      ]
+    },
+    "spot": "On tree stumps",
+    "rarity": "Common"
+  },
+  "phrases": {
+    "joke": "I caught a violin beetle! Apparently I'm as fit as a fiddle!",
+    "museum_description": "The violin beetle gets its name from its shape. That is, SOME think it resembles the stringed instrument. If you ask me, this is an insult to violins! With its flat body and small head, the violin beetle looks like nothing but a repulsive bug, plain and simple. In fact it is so repulsive, it oozes a foul liquid when frightened! Ugh! This insect strikes a sour note indeed."
+  },
+  "sprites": {
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/bugs/Violin_Beetle.png",
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/bugs/Violin_Beetle.png"
+  },
+  "id": 46,
+  "name": "violin beetle"
+}

@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Hopkins",
+    "english_EU": "Hopkins",
+    "german": "Poldi",
+    "spanish_EU": "Saltiago",
+    "spanish_american": "Saltiago",
+    "french_EU": "Grignote",
+    "french_american": "Grignote",
+    "italian": "Azeglio",
+    "dutch": "Hopkins",
+    "simplified_chinese": "风杰",
+    "traditional_chinese": "風杰",
+    "japanese": "プースケ",
+    "korean": "홉킨스",
+    "russian": "Хопкинс"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Hopkins.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Hopkins.png"
+  },
+  "id": 180,
+  "name": "Hopkins",
+  "sex": "Male",
+  "personality": "Lazy",
+  "birthday": "3/11",
+  "species": "Rabbit",
+  "catch_phrase": "thumper",
+  "name_color": "#fffce9"
+}

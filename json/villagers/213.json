@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Kyle",
+    "english_EU": "Kyle",
+    "german": "Wolfgang",
+    "spanish_EU": "Ataúlfo",
+    "spanish_american": "Ataúlfo",
+    "french_EU": "Gary",
+    "french_american": "Gary",
+    "italian": "Ululo",
+    "dutch": "Kyle",
+    "simplified_chinese": "李可",
+    "traditional_chinese": "李可",
+    "japanese": "リカルド",
+    "korean": "리카르도",
+    "russian": "Кайл"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Kyle.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Kyle.png"
+  },
+  "id": 213,
+  "name": "Kyle",
+  "sex": "Male",
+  "personality": "Smug",
+  "birthday": "12/6",
+  "species": "Wolf",
+  "catch_phrase": "alpha",
+  "name_color": "#fffce9"
+}

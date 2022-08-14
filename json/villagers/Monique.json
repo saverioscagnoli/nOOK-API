@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Monique",
+    "english_EU": "Monique",
+    "german": "Monique",
+    "spanish_EU": "Monique",
+    "spanish_american": "Monique",
+    "french_EU": "Monique",
+    "french_american": "Monique",
+    "italian": "Marylin",
+    "dutch": "Monique",
+    "simplified_chinese": "珍珍",
+    "traditional_chinese": "珍珍",
+    "japanese": "ジェーン",
+    "korean": "제인",
+    "russian": "Моник"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Monique.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Monique.png"
+  },
+  "id": 252,
+  "name": "Monique",
+  "sex": "Female",
+  "personality": "Snooty",
+  "birthday": "9/30",
+  "species": "Cat",
+  "catch_phrase": "pffffft",
+  "name_color": "#879b96"
+}

@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Kitty",
+    "english_EU": "Kitty",
+    "german": "Karen",
+    "spanish_EU": "Kasandra",
+    "spanish_american": "Kasandra",
+    "french_EU": "Kitty",
+    "french_american": "Kitty",
+    "italian": "Ester",
+    "dutch": "Kitty",
+    "simplified_chinese": "朱古莉",
+    "traditional_chinese": "朱古莉",
+    "japanese": "ショコラ",
+    "korean": "쇼콜라",
+    "russian": "Китти"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Kitty.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Kitty.png"
+  },
+  "id": 209,
+  "name": "Kitty",
+  "sex": "Female",
+  "personality": "Snooty",
+  "birthday": "2/15",
+  "species": "Cat",
+  "catch_phrase": "mrowrr",
+  "name_color": "#fffce9"
+}

@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "K.K. Oasis",
+    "english_EU": "K.K. Oasis",
+    "german": "K.K. Maharadscha",
+    "spanish_EU": "Tota-marajá",
+    "spanish_american": "Tota-marajá",
+    "french_EU": "Maharadjah Kéké",
+    "french_american": "Maharadjah Kéké",
+    "italian": "K.K. Maragià",
+    "dutch": "Maharadja K.K.",
+    "simplified_chinese": "K.K.印度王公",
+    "traditional_chinese": "K.K.印度王公",
+    "japanese": "けけマハラジャ",
+    "korean": "K.K.마하라자",
+    "russian": "Оазис К. К."
+  },
+  "id": 53,
+  "name": "K.K. Oasis",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/KK_Oasis.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/KK_Oasis.mp3"
+}

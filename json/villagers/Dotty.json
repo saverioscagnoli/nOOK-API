@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Dotty",
+    "english_EU": "Dotty",
+    "german": "Doro",
+    "spanish_EU": "Katia",
+    "spanish_american": "Katia",
+    "french_EU": "Dorothée",
+    "french_american": "Dorothée",
+    "italian": "Dotty",
+    "dutch": "Dotty",
+    "simplified_chinese": "玛莎",
+    "traditional_chinese": "瑪莎",
+    "japanese": "マーサ",
+    "korean": "서머",
+    "russian": "Дотти"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Dotty.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Dotty.png"
+  },
+  "id": 124,
+  "name": "Dotty",
+  "sex": "Female",
+  "personality": "Peppy",
+  "birthday": "3/14",
+  "species": "Rabbit",
+  "catch_phrase": "wee one",
+  "name_color": "#848484"
+}

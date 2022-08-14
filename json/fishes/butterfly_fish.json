@@ -1,0 +1,49 @@
+{
+  "translations": {
+    "english_USA": "butterfly fish",
+    "english_EU": "butterfly fish",
+    "german": "Falterfisch",
+    "spanish_EU": "pez mariposa",
+    "spanish_american": "pez mariposa",
+    "french_EU": "poisson-papillon",
+    "french_american": "poisson-papillon",
+    "italian": "pesce farfalla",
+    "dutch": "koraalvlinder",
+    "simplified_chinese": "耳带蝴蝶鱼",
+    "traditional_chinese": "耳帶蝴蝶魚",
+    "japanese": "チョウチョウウオ",
+    "korean": "나비고기",
+    "russian": "рыба-бабочка"
+  },
+  "sell_prices": { "nook": 1000, "cj": 1500 },
+  "available": {
+    "hemisphere_data": {
+      "northern_months": "4-9",
+      "southern_months": "10-3",
+      "northern_months_array": [4, 5, 6, 7, 8, 9],
+      "southern_months_array": [10, 11, 12, 1, 2, 3]
+    },
+    "time": {
+      "all_day": true,
+      "all_year": false,
+      "time_string": "",
+      "time_array": [
+        0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19,
+        20, 21, 22, 23
+      ]
+    },
+    "spot": "Sea",
+    "rarity": "Common"
+  },
+  "phrases": {
+    "joke": "I caught a butterfly fish! Did it change from a caterpillar fish?",
+    "museum_description": "Ah, the butterfly fish is just charming with its beautiful colors and elegant movements. I refer to it as a butterfly fish, but it's actually a grouping in which there are over 100 types! These beautiful aquatic friends swim in schools amid coral, fluttering back and forth with the tides. The sheer awe one must experience when witnessing such a sight. It must be a dream! So much better than actual butterflies..."
+  },
+  "sprites": {
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/fishes/Butterfly_Fish.png",
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/fishes/Butterfly_Fish.png"
+  },
+  "id": 51,
+  "name": "butterfly fish",
+  "shadow_size": "2"
+}

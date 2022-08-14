@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Weber",
+    "english_EU": "Weber",
+    "german": "Volker",
+    "spanish_EU": "Paticio",
+    "spanish_american": "Paticio",
+    "french_EU": "Bébert",
+    "french_american": "Bébert",
+    "italian": "Pasquale",
+    "dutch": "Weber",
+    "simplified_chinese": "卿德",
+    "traditional_chinese": "卿德",
+    "japanese": "アチョット",
+    "korean": "아잠만",
+    "russian": "Вебер"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Weber.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Weber.png"
+  },
+  "id": 402,
+  "name": "Weber",
+  "sex": "Male",
+  "personality": "Lazy",
+  "birthday": "6/30",
+  "species": "Duck",
+  "catch_phrase": "quaa",
+  "name_color": "#fffce9"
+}

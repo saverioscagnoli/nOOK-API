@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Cyd",
+    "english_EU": "Cyd",
+    "german": "Sid",
+    "spanish_EU": "Ramón",
+    "spanish_american": "Ramón",
+    "french_EU": "Punk",
+    "french_american": "Punk",
+    "italian": "Sid",
+    "dutch": "Cyd",
+    "simplified_chinese": "庞克斯",
+    "traditional_chinese": "龐克斯",
+    "japanese": "パンクス",
+    "korean": "펑크스",
+    "russian": "Сид"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Cyd.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Cyd.png"
+  },
+  "id": 109,
+  "name": "Cyd",
+  "sex": "Male",
+  "personality": "Cranky",
+  "birthday": "6/9",
+  "species": "Elephant",
+  "catch_phrase": "rockin'",
+  "name_color": "#fffad4"
+}

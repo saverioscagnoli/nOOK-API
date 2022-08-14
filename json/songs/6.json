@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "Comrade K.K.",
+    "english_EU": "Comrade K.K.",
+    "german": "K.K. Freundelied",
+    "spanish_EU": "Tota-camarada",
+    "spanish_american": "Tota-camarada",
+    "french_EU": "Tovaritch Kéké",
+    "french_american": "Camarade Kéké",
+    "italian": "K.K. Compagno",
+    "dutch": "Kameraad K.K.",
+    "simplified_chinese": "昭和K.K.歌谣",
+    "traditional_chinese": "昭和K.K.歌謠",
+    "japanese": "しょうわけけかよう",
+    "korean": "추억의 K.K.가요",
+    "russian": "Товарищ К. К."
+  },
+  "id": 6,
+  "name": "Comrade K.K.",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/Comrade_KK.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/Comrade_KK.mp3"
+}

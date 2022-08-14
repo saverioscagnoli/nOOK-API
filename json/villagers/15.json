@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Annalise",
+    "english_EU": "Annalise",
+    "german": "Annerose",
+    "spanish_EU": "Isadora",
+    "spanish_american": "Isadora",
+    "french_EU": "Âne-lise",
+    "french_american": "Âne-lise",
+    "italian": "Lisa",
+    "dutch": "Annalise",
+    "simplified_chinese": "舒芙蕾",
+    "traditional_chinese": "舒芙蕾",
+    "japanese": "シルブプレ",
+    "korean": "실부플레",
+    "russian": "Лиза"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Annalise.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Annalise.png"
+  },
+  "id": 15,
+  "name": "Annalise",
+  "sex": "Female",
+  "personality": "Snooty",
+  "birthday": "12/2",
+  "species": "Horse",
+  "catch_phrase": "nipper",
+  "name_color": "#eac113"
+}

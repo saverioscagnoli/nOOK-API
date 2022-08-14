@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Canberra",
+    "english_EU": "Canberra",
+    "german": "Caroline",
+    "spanish_EU": "Canberra",
+    "spanish_american": "Canberra",
+    "french_EU": "Kolala",
+    "french_american": "Kolala",
+    "italian": "Canberra",
+    "dutch": "Canberra",
+    "simplified_chinese": "简培菈",
+    "traditional_chinese": "簡培菈",
+    "japanese": "キャンベラ",
+    "korean": "캔버라",
+    "russian": "Канберра"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Canberra.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Canberra.png"
+  },
+  "id": 69,
+  "name": "Canberra",
+  "sex": "Female",
+  "personality": "Big Sister",
+  "birthday": "5/14",
+  "species": "Koala",
+  "catch_phrase": "nuh uh",
+  "name_color": "#fff2bb"
+}

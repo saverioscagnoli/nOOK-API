@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Claudia",
+    "english_EU": "Claudia",
+    "german": "Lilly",
+    "spanish_EU": "Lilu",
+    "spanish_american": "Lilu",
+    "french_EU": "Vanina",
+    "french_american": "Vanina",
+    "italian": "Lilla",
+    "dutch": "Claudia",
+    "simplified_chinese": "马丽莲",
+    "traditional_chinese": "馬麗蓮",
+    "japanese": "マリリン",
+    "korean": "신디",
+    "russian": "Клаудия"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Claudia.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Claudia.png"
+  },
+  "id": 92,
+  "name": "Claudia",
+  "sex": "Female",
+  "personality": "Snooty",
+  "birthday": "11/22",
+  "species": "Tiger",
+  "catch_phrase": "ooh la la",
+  "name_color": "#fffce9"
+}

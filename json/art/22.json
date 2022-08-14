@@ -1,0 +1,25 @@
+{
+  "translations": {
+    "english_USA": "mysterious painting",
+    "english_EU": "mysterious painting",
+    "german": "Rätselgemälde",
+    "spanish_EU": "cuadro tenebroso",
+    "spanish_american": "cuadro tenebroso",
+    "french_EU": "toile ténébreuse",
+    "french_american": "toile ténébreuse",
+    "italian": "quadro misterioso",
+    "dutch": "mysterieuze schilderij",
+    "simplified_chinese": "神秘的名画",
+    "traditional_chinese": "神秘的名畫",
+    "japanese": "なぞめいためいが",
+    "korean": "미스터리한 명화",
+    "russian": "загадочная картина"
+  },
+  "id": 22,
+  "name": "mysterious painting",
+  "buy_price": 4980,
+  "sell_price": 1245,
+  "museum_description": "A small boat carrying a corpse glides quietly over a still sea to an island of graves surrounded by cliffs. The air of this piece by symbolist painter Böcklin is chilling, but also somehow calm. Böcklin worked here to capture not what he could see, but some of humanity's inner contemplations.",
+  "canBeFake": false,
+  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/render/art/mysterious_painting.png"
+}

@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Rory",
+    "english_EU": "Rory",
+    "german": "Leon",
+    "spanish_EU": "Rogelio",
+    "spanish_american": "Rogelio",
+    "french_EU": "Hercule",
+    "french_american": "Hercule",
+    "italian": "Ruggero",
+    "dutch": "Rory",
+    "simplified_chinese": "亚瑟",
+    "traditional_chinese": "亞瑟",
+    "japanese": "アーサー",
+    "korean": "아더",
+    "russian": "Рори"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Rory.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Rory.png"
+  },
+  "id": 330,
+  "name": "Rory",
+  "sex": "Male",
+  "personality": "Jock",
+  "birthday": "8/7",
+  "species": "Lion",
+  "catch_phrase": "capital",
+  "name_color": "#fff2bb"
+}

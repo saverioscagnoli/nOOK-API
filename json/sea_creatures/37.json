@@ -1,0 +1,48 @@
+{
+  "translations": {
+    "english_USA": "sea pineapple",
+    "english_EU": "sea pineapple",
+    "german": "Seeananas",
+    "spanish_EU": "piña de mar",
+    "spanish_american": "piña de mar",
+    "french_EU": "halocynthia roretzi",
+    "french_american": "halocynthia roretzi",
+    "italian": "ananas di mare",
+    "dutch": "zeeananas",
+    "simplified_chinese": "海鞘",
+    "traditional_chinese": "海鞘",
+    "japanese": "ホヤ",
+    "korean": "멍게",
+    "russian": "морской ананас"
+  },
+  "price": 1500,
+  "speed": "Slow",
+  "available": {
+    "hemisphere_data": {
+      "northern_months": "4-8",
+      "southern_months": "10-2",
+      "northern_months_array": [4, 5, 6, 7, 8],
+      "southern_months_array": [10, 11, 12, 1, 2]
+    },
+    "time": {
+      "all_day": true,
+      "all_year": false,
+      "time_string": "",
+      "time_array": [
+        0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19,
+        20, 21, 22, 23
+      ]
+    }
+  },
+  "phrases": {
+    "joke": "I got a sea pineapple! Your move, sea pizzas.",
+    "museum_description": "Try not to gawk as you look upon the sea pineapple. Its peculiar look is simply one of nature's many jokes. Though it may look like a half-rotten hunk of fruit, the sea pineapple is no plant, shellfish, or even sea slug. It's a tunicate, wot wot...a fancy name for a shallow-water filter feeder with a taste for plankton. It should be noted that the sea pineapple looks like a tadpole when it's young and can still swim about. Alas, its youthful cuteness wears off once it attaches itself for good to a rock. Ah, but let's put insults aside! Sea pineapples are full of water, you sea. And I fear we're asking for a squirt in the eye!"
+  },
+  "sprites": {
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/sea_creatures/Sea_Pineapple.png",
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/sea_creatures/Sea_Pineapple.png"
+  },
+  "id": 37,
+  "name": "sea pineapple",
+  "shadow_size": "Small"
+}

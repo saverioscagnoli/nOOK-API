@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Tasha",
+    "english_EU": "Tasha",
+    "german": "Natalja",
+    "spanish_EU": "Tania",
+    "spanish_american": "Tania",
+    "french_EU": "Nadeige",
+    "french_american": "Nadeige",
+    "italian": "Teresa",
+    "dutch": "Tasha",
+    "simplified_chinese": "娜塔丽",
+    "traditional_chinese": "娜塔麗",
+    "japanese": "ナターシャ",
+    "korean": "나타샤",
+    "russian": "Таша"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Tasha.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Tasha.png"
+  },
+  "id": 375,
+  "name": "Tasha",
+  "sex": "Female",
+  "personality": "Snooty",
+  "birthday": "11/30",
+  "species": "Squirrel",
+  "catch_phrase": "nice nice",
+  "name_color": "#fffad4"
+}

@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Peewee",
+    "english_EU": "Peewee",
+    "german": "Manfred",
+    "spanish_EU": "Lotar",
+    "spanish_american": "Lotar",
+    "french_EU": "Gogo",
+    "french_american": "Gogo",
+    "italian": "Kong",
+    "dutch": "Peewee",
+    "simplified_chinese": "哑铃",
+    "traditional_chinese": "啞鈴",
+    "japanese": "ダンベル",
+    "korean": "덤벨",
+    "russian": "Пиви"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Peewee.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Peewee.png"
+  },
+  "id": 283,
+  "name": "Peewee",
+  "sex": "Male",
+  "personality": "Cranky",
+  "birthday": "9/11",
+  "species": "Gorilla",
+  "catch_phrase": "li'l bitty baby",
+  "name_color": "#fffce9"
+}

@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "K.K. Safari",
+    "english_EU": "K.K. Safari",
+    "german": "K.K. Safari",
+    "spanish_EU": "Tota-safari",
+    "spanish_american": "Tota-safari",
+    "french_EU": "Ali Farka Kéké",
+    "french_american": "Kéké safari",
+    "italian": "K.K. Safari",
+    "dutch": "K.K. in de jungle",
+    "simplified_chinese": "K.K.非洲音乐",
+    "traditional_chinese": "K.K.非洲音樂",
+    "japanese": "けけアフロ",
+    "korean": "K.K.아프리카",
+    "russian": "Сафари К. К."
+  },
+  "id": 60,
+  "name": "K.K. Safari",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/KK_Safari.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/KK_Safari.mp3"
+}

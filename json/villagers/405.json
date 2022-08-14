@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Willow",
+    "english_EU": "Willow",
+    "german": "Natascha",
+    "spanish_EU": "Cuqui",
+    "spanish_american": "Cuqui",
+    "french_EU": "Maï",
+    "french_american": "Maï",
+    "italian": "Belinda",
+    "dutch": "Willow",
+    "simplified_chinese": "梅丽诺",
+    "traditional_chinese": "梅麗諾",
+    "japanese": "マリー",
+    "korean": "마리",
+    "russian": "Уиллоу"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Willow.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Willow.png"
+  },
+  "id": 405,
+  "name": "Willow",
+  "sex": "Female",
+  "personality": "Snooty",
+  "birthday": "11/26",
+  "species": "Sheep",
+  "catch_phrase": "bo peep",
+  "name_color": "#879b96"
+}

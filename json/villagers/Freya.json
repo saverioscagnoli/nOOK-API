@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Freya",
+    "english_EU": "Freya",
+    "german": "Freya",
+    "spanish_EU": "Lupita",
+    "spanish_american": "Lupita",
+    "french_EU": "Luppa",
+    "french_american": "Luppa",
+    "italian": "Freya",
+    "dutch": "Freya",
+    "simplified_chinese": "冰冰",
+    "traditional_chinese": "冰冰",
+    "japanese": "ツンドラ",
+    "korean": "산드라",
+    "russian": "Фрея"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Freya.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Freya.png"
+  },
+  "id": 151,
+  "name": "Freya",
+  "sex": "Female",
+  "personality": "Snooty",
+  "birthday": "12/14",
+  "species": "Wolf",
+  "catch_phrase": "uff da",
+  "name_color": "#fffce9"
+}

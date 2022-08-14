@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Biskit",
+    "english_EU": "Biskit",
+    "german": "Keks",
+    "spanish_EU": "Amnesio",
+    "spanish_american": "Amnesio",
+    "french_EU": "Crocket",
+    "french_american": "Crocket",
+    "italian": "Buffetto",
+    "dutch": "Biskit",
+    "simplified_chinese": "罗宾",
+    "traditional_chinese": "羅賓",
+    "japanese": "ロビン",
+    "korean": "로빈",
+    "russian": "Бискит"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Biskit.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Biskit.png"
+  },
+  "id": 44,
+  "name": "Biskit",
+  "sex": "Male",
+  "personality": "Lazy",
+  "birthday": "5/13",
+  "species": "Dog",
+  "catch_phrase": "dawg",
+  "name_color": "#874c25"
+}

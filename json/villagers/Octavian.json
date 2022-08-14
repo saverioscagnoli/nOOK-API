@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Octavian",
+    "english_EU": "Octavian",
+    "german": "Ottfried",
+    "spanish_EU": "Octavio",
+    "spanish_american": "Octavio",
+    "french_EU": "Octave",
+    "french_american": "Octave",
+    "italian": "Ottavio",
+    "dutch": "Octavian",
+    "simplified_chinese": "张瑜",
+    "traditional_chinese": "張瑜",
+    "japanese": "おくたろう",
+    "korean": "문복",
+    "russian": "Октавиан"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Octavian.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Octavian.png"
+  },
+  "id": 265,
+  "name": "Octavian",
+  "sex": "Male",
+  "personality": "Cranky",
+  "birthday": "9/20",
+  "species": "Octopus",
+  "catch_phrase": "sucker",
+  "name_color": "#fffad4"
+}

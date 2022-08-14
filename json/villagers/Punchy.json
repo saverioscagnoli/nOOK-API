@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Punchy",
+    "english_EU": "Punchy",
+    "german": "Julian",
+    "spanish_EU": "Félix",
+    "spanish_american": "Félix",
+    "french_EU": "Cédric",
+    "french_american": "Cédric",
+    "italian": "Felix",
+    "dutch": "Punchy",
+    "simplified_chinese": "尔光",
+    "traditional_chinese": "爾光",
+    "japanese": "ビンタ",
+    "korean": "빙티",
+    "russian": "Панчи"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Punchy.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Punchy.png"
+  },
+  "id": 304,
+  "name": "Punchy",
+  "sex": "Male",
+  "personality": "Lazy",
+  "birthday": "4/11",
+  "species": "Cat",
+  "catch_phrase": "mrmpht",
+  "name_color": "#848484"
+}

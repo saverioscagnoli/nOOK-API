@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Curt",
+    "english_EU": "Curt",
+    "german": "Kurt",
+    "spanish_EU": "Gorbaché",
+    "spanish_american": "Gorbaché",
+    "french_EU": "Curt",
+    "french_american": "Curt",
+    "italian": "Curt",
+    "dutch": "Curt",
+    "simplified_chinese": "铁熊",
+    "traditional_chinese": "鐵熊",
+    "japanese": "ガンテツ",
+    "korean": "뚝심",
+    "russian": "Керт"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Curt.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Curt.png"
+  },
+  "id": 108,
+  "name": "Curt",
+  "sex": "Male",
+  "personality": "Cranky",
+  "birthday": "7/1",
+  "species": "Bear",
+  "catch_phrase": "fuzzball",
+  "name_color": "#fffce9"
+}

@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Bonbon",
+    "english_EU": "Bonbon",
+    "german": "Henrike",
+    "spanish_EU": "Chocolat",
+    "spanish_american": "Chocolat",
+    "french_EU": "Sylvette",
+    "french_american": "Sylvette",
+    "italian": "Lolly",
+    "dutch": "Bonbon",
+    "simplified_chinese": "妙妙",
+    "traditional_chinese": "妙妙",
+    "japanese": "ミミィ",
+    "korean": "미미",
+    "russian": "Бонбон"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Bonbon.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Bonbon.png"
+  },
+  "id": 50,
+  "name": "Bonbon",
+  "sex": "Female",
+  "personality": "Peppy",
+  "birthday": "3/3",
+  "species": "Rabbit",
+  "catch_phrase": "deelish",
+  "name_color": "#eac113"
+}

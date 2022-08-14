@@ -1,0 +1,49 @@
+{
+  "translations": {
+    "english_USA": "clown fish",
+    "english_EU": "clown fish",
+    "german": "Anemonenfisch",
+    "spanish_EU": "pez payaso",
+    "spanish_american": "pez payaso",
+    "french_EU": "poisson-clown",
+    "french_american": "poisson-clown",
+    "italian": "pesce pagliaccio",
+    "dutch": "clownvis",
+    "simplified_chinese": "小丑鱼",
+    "traditional_chinese": "小丑魚",
+    "japanese": "クマノミ",
+    "korean": "흰동가리",
+    "russian": "рыба-клоун"
+  },
+  "sell_prices": { "nook": 650, "cj": 975 },
+  "available": {
+    "hemisphere_data": {
+      "northern_months": "4-9",
+      "southern_months": "10-3",
+      "northern_months_array": [4, 5, 6, 7, 8, 9],
+      "southern_months_array": [10, 11, 12, 1, 2, 3]
+    },
+    "time": {
+      "all_day": true,
+      "all_year": false,
+      "time_string": "",
+      "time_array": [
+        0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19,
+        20, 21, 22, 23
+      ]
+    },
+    "spot": "Sea",
+    "rarity": "Common"
+  },
+  "phrases": {
+    "joke": "I caught a clown fish! How many can fit in a carfish?",
+    "museum_description": "Few can deny the delightful qualities of the clown fish. These vibrant fishes make their home among venomous anemones. It's a mutually beneficial arrangement. The clown fish finds safety in the anemone's wriggling arms, as well as leftover scraps of food. In return, clown fish ward off parasites and predators for the anemone. Thus these colorful fish remind us of the importance of maintaining good cheer among our roommates."
+  },
+  "sprites": {
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/fishes/Clown_Fish.png",
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/fishes/Clown_Fish.png"
+  },
+  "id": 49,
+  "name": "clown fish",
+  "shadow_size": "1"
+}

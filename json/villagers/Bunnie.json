@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Bunnie",
+    "english_EU": "Bunnie",
+    "german": "Mimmi",
+    "spanish_EU": "Coni",
+    "spanish_american": "Coni",
+    "french_EU": "Clara",
+    "french_american": "Clara",
+    "italian": "Bonny",
+    "dutch": "Bunnie",
+    "simplified_chinese": "莉莉安",
+    "traditional_chinese": "莉莉安",
+    "japanese": "リリアン",
+    "korean": "릴리안",
+    "russian": "Банни"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Bunnie.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Bunnie.png"
+  },
+  "id": 64,
+  "name": "Bunnie",
+  "sex": "Female",
+  "personality": "Peppy",
+  "birthday": "5/9",
+  "species": "Rabbit",
+  "catch_phrase": "tee-hee",
+  "name_color": "#fff2bb"
+}

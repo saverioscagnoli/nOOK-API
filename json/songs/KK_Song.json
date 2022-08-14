@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "K.K. Song",
+    "english_EU": "K.K. Song",
+    "german": "K.K. Song",
+    "spanish_EU": "Tota-canción",
+    "spanish_american": "Tota-canción",
+    "french_EU": "Rengaine de Kéké",
+    "french_american": "Rengaine de Kéké",
+    "italian": "K.K. Canzone",
+    "dutch": "K.K.-lied",
+    "simplified_chinese": "K.K.乐曲",
+    "traditional_chinese": "K.K.樂曲",
+    "japanese": "けけソング",
+    "korean": "K.K.의 노래",
+    "russian": "Песнь К. К."
+  },
+  "id": 65,
+  "name": "K.K. Song",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/KK_Song.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/KK_Song.mp3"
+}

@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "K.K. Love Song",
+    "english_EU": "K.K. Love Song",
+    "german": "K.K. Liebeslied",
+    "spanish_EU": "Tota-amor",
+    "spanish_american": "Tota-amor",
+    "french_EU": "Romance Kéké",
+    "french_american": "Romance Kéké",
+    "italian": "K.K. Amore",
+    "dutch": "K.K.-liefdeslied",
+    "simplified_chinese": "K.K.情歌",
+    "traditional_chinese": "K.K.情歌",
+    "japanese": "けけラヴソング",
+    "korean": "K.K.러브송",
+    "russian": "Романс К. К."
+  },
+  "id": 44,
+  "name": "K.K. Love Song",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/KK_Love_Song.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/KK_Love_Song.mp3"
+}

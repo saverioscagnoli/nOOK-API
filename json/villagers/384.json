@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Tom",
+    "english_EU": "Tom",
+    "german": "Timo",
+    "spanish_EU": "Zapirón",
+    "spanish_american": "Zapirón",
+    "french_EU": "Tom",
+    "french_american": "Tom",
+    "italian": "Isidoro",
+    "dutch": "Tom",
+    "simplified_chinese": "阿邦",
+    "traditional_chinese": "阿邦",
+    "japanese": "バンタム",
+    "korean": "밴덤",
+    "russian": "Том"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Tom.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Tom.png"
+  },
+  "id": 384,
+  "name": "Tom",
+  "sex": "Male",
+  "personality": "Cranky",
+  "birthday": "12/10",
+  "species": "Cat",
+  "catch_phrase": "me-YOWZA",
+  "name_color": "#fffce9"
+}

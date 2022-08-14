@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Petri",
+    "english_EU": "Petri",
+    "german": "Pipette",
+    "spanish_EU": "Petri",
+    "spanish_american": "Petri",
+    "french_EU": "Shimi",
+    "french_american": "Shimi",
+    "italian": "Petronilla",
+    "dutch": "Petri",
+    "simplified_chinese": "理佳",
+    "traditional_chinese": "理佳",
+    "japanese": "リカ",
+    "korean": "리카",
+    "russian": "Петри"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Petri.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Petri.png"
+  },
+  "id": 287,
+  "name": "Petri",
+  "sex": "Female",
+  "personality": "Snooty",
+  "birthday": "10/23",
+  "species": "Mouse",
+  "catch_phrase": "mmmhmm",
+  "name_color": "#725661"
+}

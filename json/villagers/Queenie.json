@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Queenie",
+    "english_EU": "Queenie",
+    "german": "Isabella",
+    "spanish_EU": "Marujita",
+    "spanish_american": "Marujita",
+    "french_EU": "Reine",
+    "french_american": "Reine",
+    "italian": "Regina",
+    "dutch": "Queenie",
+    "simplified_chinese": "果果",
+    "traditional_chinese": "果果",
+    "japanese": "タキュ",
+    "korean": "택주",
+    "russian": "Квини"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Queenie.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Queenie.png"
+  },
+  "id": 306,
+  "name": "Queenie",
+  "sex": "Female",
+  "personality": "Snooty",
+  "birthday": "11/13",
+  "species": "Ostrich",
+  "catch_phrase": "chicken",
+  "name_color": "#fffce9"
+}

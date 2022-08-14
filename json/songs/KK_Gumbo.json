@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "K.K. Gumbo",
+    "english_EU": "K.K. Gumbo",
+    "german": "K.K. Gumbo",
+    "spanish_EU": "Tota-gumbo",
+    "spanish_american": "Tota-gumbo",
+    "french_EU": "Gumbo Kéké",
+    "french_american": "Gombo Kéké",
+    "italian": "K.K. Gumbo",
+    "dutch": "K.K.-gumbo",
+    "simplified_chinese": "新奥尔良乐曲",
+    "traditional_chinese": "新奧爾良樂曲",
+    "japanese": "ニューオリンズそんぐ",
+    "korean": "딕시랜드 재즈",
+    "russian": "Гамбо К. К."
+  },
+  "id": 38,
+  "name": "K.K. Gumbo",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/KK_Gumbo.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/KK_Gumbo.mp3"
+}

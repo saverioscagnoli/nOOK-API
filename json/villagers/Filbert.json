@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Filbert",
+    "english_EU": "Filbert",
+    "german": "Felix",
+    "spanish_EU": "Filberto",
+    "spanish_american": "Filberto",
+    "french_EU": "Filibert",
+    "french_american": "Filibert",
+    "italian": "Scriccio",
+    "dutch": "Filbert",
+    "simplified_chinese": "瑞奇",
+    "traditional_chinese": "瑞奇",
+    "japanese": "リッキー",
+    "korean": "리키",
+    "russian": "Филберт"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Filbert.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Filbert.png"
+  },
+  "id": 142,
+  "name": "Filbert",
+  "sex": "Male",
+  "personality": "Lazy",
+  "birthday": "6/3",
+  "species": "Squirrel",
+  "catch_phrase": "bucko",
+  "name_color": "#fffce9"
+}

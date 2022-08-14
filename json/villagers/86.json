@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Chevre",
+    "english_EU": "Chevre",
+    "german": "Anette",
+    "spanish_EU": "Cabriola",
+    "spanish_american": "Cabriola",
+    "french_EU": "Biquette",
+    "french_american": "Biquette",
+    "italian": "Diletta",
+    "dutch": "Chevre",
+    "simplified_chinese": "雪儿",
+    "traditional_chinese": "雪兒",
+    "japanese": "ユキ",
+    "korean": "윤이",
+    "russian": "Шевр"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Chevre.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Chevre.png"
+  },
+  "id": 86,
+  "name": "Chevre",
+  "sex": "Female",
+  "personality": "Normal",
+  "birthday": "3/6",
+  "species": "Goat",
+  "catch_phrase": "la baa",
+  "name_color": "#848484"
+}

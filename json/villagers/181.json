@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Hopper",
+    "english_EU": "Hopper",
+    "german": "Hauke",
+    "spanish_EU": "Güiñón",
+    "spanish_american": "Güiñón",
+    "french_EU": "Victor",
+    "french_american": "Victor",
+    "italian": "Pinguaio",
+    "dutch": "Hopper",
+    "simplified_chinese": "达满",
+    "traditional_chinese": "達滿",
+    "japanese": "ダルマン",
+    "korean": "달만이",
+    "russian": "Хоппер"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Hopper.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Hopper.png"
+  },
+  "id": 181,
+  "name": "Hopper",
+  "sex": "Male",
+  "personality": "Cranky",
+  "birthday": "4/6",
+  "species": "Penguin",
+  "catch_phrase": "slushie",
+  "name_color": "#fffce9"
+}

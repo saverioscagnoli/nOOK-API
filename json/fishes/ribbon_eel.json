@@ -1,0 +1,49 @@
+{
+  "translations": {
+    "english_USA": "ribbon eel",
+    "english_EU": "ribbon eel",
+    "german": "Nasenmuräne",
+    "spanish_EU": "anguila de listón azul",
+    "spanish_american": "anguila de listón azul",
+    "french_EU": "murène ruban bleue",
+    "french_american": "murène ruban bleue",
+    "italian": "murena a nastro",
+    "dutch": "lintmurene",
+    "simplified_chinese": "五彩鳗",
+    "traditional_chinese": "五彩鰻",
+    "japanese": "ハナヒゲウツボ",
+    "korean": "리본장어",
+    "russian": "носатая мурена"
+  },
+  "sell_prices": { "nook": 600, "cj": 900 },
+  "available": {
+    "hemisphere_data": {
+      "northern_months": "6-10",
+      "southern_months": "12-4",
+      "northern_months_array": [6, 7, 8, 9, 10],
+      "southern_months_array": [12, 1, 2, 3, 4]
+    },
+    "time": {
+      "all_day": true,
+      "all_year": false,
+      "time_string": "",
+      "time_array": [
+        0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19,
+        20, 21, 22, 23
+      ]
+    },
+    "spot": "Sea",
+    "rarity": "Common"
+  },
+  "phrases": {
+    "joke": "I caught a ribbon eel! Can it tie itself into a bow?",
+    "museum_description": "The ribbon eel is related to the moray eel, though its bright coloration distinguishes it. It also has an unusual plant-like appendage at the tip of its nose that flutters as the creature moves. I like to think of it as having an extremely friendly nose that waves a greeting to those nearby!"
+  },
+  "sprites": {
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/fishes/Ribbon_Eel.png",
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/fishes/Ribbon_Eel.png"
+  },
+  "id": 65,
+  "name": "ribbon eel",
+  "shadow_size": ""
+}

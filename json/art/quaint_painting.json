@@ -1,0 +1,25 @@
+{
+  "translations": {
+    "english_USA": "quaint painting",
+    "english_EU": "quaint painting",
+    "german": "Altertumsgemälde",
+    "spanish_EU": "retrato holandés",
+    "spanish_american": "retrato holandés",
+    "french_EU": "toile charmante",
+    "french_american": "toile charmante",
+    "italian": "quadro buffo",
+    "dutch": "traditionele schilderij",
+    "simplified_chinese": "平静的名画",
+    "traditional_chinese": "平靜的名畫",
+    "japanese": "おちついためいが",
+    "korean": "침착한 명화",
+    "russian": "старинная картина"
+  },
+  "id": 27,
+  "name": "quaint painting",
+  "buy_price": 4980,
+  "sell_price": 1245,
+  "museum_description": "This piece earned Vermeer the nickname \"Master of Light\" thanks to its exquisite contrast and depth. Vermeer painted this masterpiece at only 25 years of age. Many note that it is surprisingly small in real life.",
+  "canBeFake": true,
+  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/render/art/quaint_painting.png"
+}

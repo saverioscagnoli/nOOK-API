@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Sly",
+    "english_EU": "Sly",
+    "german": "Steve",
+    "spanish_EU": "Estallón",
+    "spanish_american": "Estallón",
+    "french_EU": "Chuck",
+    "french_american": "Chuck",
+    "italian": "Driberto",
+    "dutch": "Sly",
+    "simplified_chinese": "海德",
+    "traditional_chinese": "海德",
+    "japanese": "ハイド",
+    "korean": "하이드",
+    "russian": "Слай"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Sly.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Sly.png"
+  },
+  "id": 350,
+  "name": "Sly",
+  "sex": "Male",
+  "personality": "Jock",
+  "birthday": "11/15",
+  "species": "Alligator",
+  "catch_phrase": "hoo-rah",
+  "name_color": "#fffce9"
+}

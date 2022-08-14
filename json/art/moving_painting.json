@@ -1,0 +1,25 @@
+{
+  "translations": {
+    "english_USA": "moving painting",
+    "english_EU": "moving painting",
+    "german": "Schöngemälde",
+    "spanish_EU": "cuadro alegórico",
+    "spanish_american": "cuadro alegórico",
+    "french_EU": "toile émouvante",
+    "french_american": "toile émouvante",
+    "italian": "quadro colorato",
+    "dutch": "symbolische schilderij",
+    "simplified_chinese": "动人的名画",
+    "traditional_chinese": "動人的名畫",
+    "japanese": "きれいなめいが",
+    "korean": "예쁜 명화",
+    "russian": "трогательная картина"
+  },
+  "id": 21,
+  "name": "moving painting",
+  "buy_price": 4980,
+  "sell_price": 1245,
+  "museum_description": "A painting of the Roman goddess Venus riding a scallop shell after being born in the ocean. The name Botticelli is said to actually be a nickname given to the artist's brother, who was built like a barrel. Why this nickname was transferred between siblings is a mystery lost to the ages.",
+  "canBeFake": true,
+  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/render/art/moving_painting.png"
+}

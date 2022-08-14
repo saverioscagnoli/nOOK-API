@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "K.K. Chorale",
+    "english_EU": "K.K. Chorale",
+    "german": "K.K. Choral",
+    "spanish_EU": "Tota-góspel",
+    "spanish_american": "Tota-góspel",
+    "french_EU": "Chorale de Kéké",
+    "french_american": "Chorale de Kéké",
+    "italian": "K.K. Corale",
+    "dutch": "K.K.-koraal",
+    "simplified_chinese": "K.K.赞美诗歌",
+    "traditional_chinese": "K.K.讚美詩歌",
+    "japanese": "けけさんびか",
+    "korean": "K.K.찬송가",
+    "russian": "Хорал К. К."
+  },
+  "id": 24,
+  "name": "K.K. Chorale",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/KK_Chorale.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/KK_Chorale.mp3"
+}

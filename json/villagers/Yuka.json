@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Yuka",
+    "english_EU": "Yuka",
+    "german": "Ute",
+    "spanish_EU": "Yuka",
+    "spanish_american": "Yuka",
+    "french_EU": "Calypso",
+    "french_american": "Calypso",
+    "italian": "Yuka",
+    "dutch": "Yuka",
+    "simplified_chinese": "尤嘉莉",
+    "traditional_chinese": "尤嘉莉",
+    "japanese": "ユーカリ",
+    "korean": "유카리",
+    "russian": "Юка"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Yuka.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Yuka.png"
+  },
+  "id": 408,
+  "name": "Yuka",
+  "sex": "Female",
+  "personality": "Snooty",
+  "birthday": "7/20",
+  "species": "Koala",
+  "catch_phrase": "tsk tsk",
+  "name_color": "#fffad4"
+}

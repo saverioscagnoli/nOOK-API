@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Benjamin",
+    "english_EU": "Benjamin",
+    "german": "Wastl",
+    "spanish_EU": "Bernardo",
+    "spanish_american": "Bernardo",
+    "french_EU": "Bernardo",
+    "french_american": "Bernardo",
+    "italian": "Bernardo",
+    "dutch": "Benjamin",
+    "simplified_chinese": "小八",
+    "traditional_chinese": "小八",
+    "japanese": "ハチ",
+    "korean": "땡칠이",
+    "russian": "Бернардо"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Benjamin.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Benjamin.png"
+  },
+  "id": 36,
+  "name": "Benjamin",
+  "sex": "Male",
+  "personality": "Lazy",
+  "birthday": "8/3",
+  "species": "Dog",
+  "catch_phrase": "alrighty",
+  "name_color": "#9b553a"
+}

@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Chai",
+    "english_EU": "Chai",
+    "german": "Chai",
+    "spanish_EU": "Chai",
+    "spanish_american": "Chai",
+    "french_EU": "Chaï",
+    "french_american": "Chaï",
+    "italian": "Chai",
+    "dutch": "Chai",
+    "simplified_chinese": "啡卡",
+    "traditional_chinese": "啡卡",
+    "japanese": "フィーカ",
+    "korean": "피카",
+    "russian": "Чай"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Chai.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Chai.png"
+  },
+  "id": 80,
+  "name": "Chai",
+  "sex": "Female",
+  "personality": "Peppy",
+  "birthday": "3/6",
+  "species": "Elephant",
+  "catch_phrase": "flap flap",
+  "name_color": "#52b8ec"
+}

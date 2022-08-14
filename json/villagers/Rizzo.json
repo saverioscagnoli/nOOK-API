@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Rizzo",
+    "english_EU": "Rizzo",
+    "german": "Ricky",
+    "spanish_EU": "Ratolón",
+    "spanish_american": "Ratolón",
+    "french_EU": "Sourizzi",
+    "french_american": "Sourizzi",
+    "italian": "Rizzo",
+    "dutch": "Rizzo",
+    "simplified_chinese": "悄俊",
+    "traditional_chinese": "悄俊",
+    "japanese": "ちょろきち",
+    "korean": "조르쥐",
+    "russian": "Риццо"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Rizzo.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Rizzo.png"
+  },
+  "id": 320,
+  "name": "Rizzo",
+  "sex": "Male",
+  "personality": "Cranky",
+  "birthday": "1/17",
+  "species": "Mouse",
+  "catch_phrase": "squee",
+  "name_color": "#fffad4"
+}

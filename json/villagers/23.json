@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Avery",
+    "english_EU": "Avery",
+    "german": "Quetzal",
+    "spanish_EU": "Cuzco",
+    "spanish_american": "Cuzco",
+    "french_EU": "Faust",
+    "french_american": "Faust",
+    "italian": "Falco",
+    "dutch": "Avery",
+    "simplified_chinese": "安谷斯",
+    "traditional_chinese": "安谷斯",
+    "japanese": "クスケチャ",
+    "korean": "쿠스케처",
+    "russian": "Авери"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Avery.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Avery.png"
+  },
+  "id": 23,
+  "name": "Avery",
+  "sex": "Male",
+  "personality": "Cranky",
+  "birthday": "2/22",
+  "species": "Eagle",
+  "catch_phrase": "skree-haw",
+  "name_color": "#fffce9"
+}

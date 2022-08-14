@@ -1,0 +1,48 @@
+{
+  "translations": {
+    "english_USA": "Venus' flower basket",
+    "english_EU": "Venus' flower basket",
+    "german": "Gießkannenschwamm",
+    "spanish_EU": "canasta de flores de Venus",
+    "spanish_american": "canasta de flores de Venus",
+    "french_EU": "corbeille de Vénus",
+    "french_american": "corbeille de Vénus",
+    "italian": "cestello di Venere",
+    "dutch": "venusmandje",
+    "simplified_chinese": "偕老同穴",
+    "traditional_chinese": "偕老同穴",
+    "japanese": "カイロウドウケツ",
+    "korean": "해로동혈",
+    "russian": "корзинка Венеры"
+  },
+  "price": 5000,
+  "speed": "Fast",
+  "available": {
+    "hemisphere_data": {
+      "northern_months": "10-2",
+      "southern_months": "4-8",
+      "northern_months_array": [10, 11, 12, 1, 2],
+      "southern_months_array": [4, 5, 6, 7, 8]
+    },
+    "time": {
+      "all_day": true,
+      "all_year": false,
+      "time_string": "",
+      "time_array": [
+        0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19,
+        20, 21, 22, 23
+      ]
+    }
+  },
+  "phrases": {
+    "joke": "I got a Venus' flower basket! Why was she picking flowers here?",
+    "museum_description": "The Venus' flower basket looks like an otherworldly creature one would find on an alien planet. But it is instead a remarkable sea sponge found in the deepest parts of the ocean. Its body is composed of silica and looks like a sculpture or, perhaps, a vase made of glassy mesh. I daresay Venus' flower basket is one of nature's most impressive works of art."
+  },
+  "sprites": {
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/sea_creatures/Venus'_Flower_Basket.png",
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/sea_creatures/Venus'_Flower_Basket.png"
+  },
+  "id": 40,
+  "name": "Venus' flower basket",
+  "shadow_size": "Medium"
+}

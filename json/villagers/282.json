@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Peck",
+    "english_EU": "Peck",
+    "german": "Picko",
+    "spanish_EU": "Picuet",
+    "spanish_american": "Picuet",
+    "french_EU": "Pec",
+    "french_american": "Pec",
+    "italian": "Gheppio",
+    "dutch": "Peck",
+    "simplified_chinese": "文雄",
+    "traditional_chinese": "文雄",
+    "japanese": "ふみたろう",
+    "korean": "문대",
+    "russian": "Пек"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Peck.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Peck.png"
+  },
+  "id": 282,
+  "name": "Peck",
+  "sex": "Male",
+  "personality": "Jock",
+  "birthday": "7/25",
+  "species": "Bird",
+  "catch_phrase": "crunch",
+  "name_color": "#fffce9"
+}

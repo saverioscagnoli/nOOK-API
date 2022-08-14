@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Keaton",
+    "english_EU": "Keaton",
+    "german": "Kai",
+    "spanish_EU": "Lucho",
+    "spanish_american": "Lucho",
+    "french_EU": "Enzo",
+    "french_american": "Enzo",
+    "italian": "Aquilio",
+    "dutch": "Keaton",
+    "simplified_chinese": "法兰克",
+    "traditional_chinese": "法蘭克",
+    "japanese": "フランク",
+    "korean": "프랭크",
+    "russian": "Китон"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Keaton.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Keaton.png"
+  },
+  "id": 201,
+  "name": "Keaton",
+  "sex": "Male",
+  "personality": "Smug",
+  "birthday": "6/1",
+  "species": "Eagle",
+  "catch_phrase": "wingo",
+  "name_color": "#fffce9"
+}

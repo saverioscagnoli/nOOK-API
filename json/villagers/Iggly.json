@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Iggly",
+    "english_EU": "Iggly",
+    "german": "Pingi",
+    "spanish_EU": "Bobo",
+    "spanish_american": "Bobo",
+    "french_EU": "Urbain",
+    "french_american": "Urbain",
+    "italian": "Piccio",
+    "dutch": "Iggly",
+    "simplified_chinese": "花寿司",
+    "traditional_chinese": "花壽司",
+    "japanese": "のりまき",
+    "korean": "김말이",
+    "russian": "Игли"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Iggly.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Iggly.png"
+  },
+  "id": 185,
+  "name": "Iggly",
+  "sex": "Male",
+  "personality": "Jock",
+  "birthday": "11/2",
+  "species": "Penguin",
+  "catch_phrase": "waddler",
+  "name_color": "#848484"
+}

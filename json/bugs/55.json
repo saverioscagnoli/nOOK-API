@@ -1,0 +1,48 @@
+{
+  "translations": {
+    "english_USA": "saw stag",
+    "english_EU": "saw stag",
+    "german": "Sägezahn-Hirschkäfer",
+    "spanish_EU": "escarabajo ciervo sierra",
+    "spanish_american": "escarabajo ciervo sierra",
+    "french_EU": "lucane inclinatus",
+    "french_american": "lucane inclinatus",
+    "italian": "coleottero cervo",
+    "dutch": "zaaghertkever",
+    "simplified_chinese": "锯锹形虫",
+    "traditional_chinese": "鋸鍬形蟲",
+    "japanese": "ノコギリクワガタ",
+    "korean": "톱사슴벌레",
+    "russian": "жук-олень"
+  },
+  "sell_prices": { "nook": 2000, "flick": 3000 },
+  "available": {
+    "hemisphere_data": {
+      "northern_months": "7-8",
+      "southern_months": "1-2",
+      "northern_months_array": [7, 8],
+      "southern_months_array": [1, 2]
+    },
+    "time": {
+      "all_day": true,
+      "all_year": false,
+      "time_string": "",
+      "time_array": [
+        0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19,
+        20, 21, 22, 23
+      ]
+    },
+    "spot": "On trees",
+    "rarity": "Common"
+  },
+  "phrases": {
+    "joke": "I caught a saw stag! Now I can't unsee it!",
+    "museum_description": "The saw stag got its name from the shape of its pincers. That is, its pincers look like jagged saws! And I tell you, the bigger the beetle, the more saw-like teeth its giant jaws have. I say the saw stag seems more at home in a horror film than in nature. I have terrified myself just talking about it."
+  },
+  "sprites": {
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/bugs/Saw_Stag.png",
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/bugs/Saw_Stag.png"
+  },
+  "id": 55,
+  "name": "saw stag"
+}

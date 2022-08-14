@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "Two Days Ago",
+    "english_EU": "Two Days Ago",
+    "german": "Vorgestern",
+    "spanish_EU": "Anteayer",
+    "spanish_american": "Anteayer",
+    "french_EU": "2 jours plus tôt",
+    "french_american": "2 jours plus tôt",
+    "italian": "Due giorni fa",
+    "dutch": "Eergisteren",
+    "simplified_chinese": "前天",
+    "traditional_chinese": "前天",
+    "japanese": "おととい",
+    "korean": "이틀 전",
+    "russian": "Два дня назад"
+  },
+  "id": 93,
+  "name": "Two Days Ago",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/Two_Days_Ago.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/Two_Days_Ago.mp3"
+}

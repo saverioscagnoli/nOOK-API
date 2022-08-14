@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Tia",
+    "english_EU": "Tia",
+    "german": "Eleonore",
+    "spanish_EU": "Meralda",
+    "spanish_american": "Meralda",
+    "french_EU": "Fanny",
+    "french_american": "Fanny",
+    "italian": "Fanny",
+    "dutch": "Tia",
+    "simplified_chinese": "茉莉",
+    "traditional_chinese": "茉莉",
+    "japanese": "ティーナ",
+    "korean": "티나",
+    "russian": "Тиа"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Tia.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Tia.png"
+  },
+  "id": 378,
+  "name": "Tia",
+  "sex": "Female",
+  "personality": "Normal",
+  "birthday": "11/18",
+  "species": "Elephant",
+  "catch_phrase": "teacup",
+  "name_color": "#848484"
+}

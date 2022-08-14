@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Bitty",
+    "english_EU": "Bitty",
+    "german": "Biggi",
+    "spanish_EU": "Ofelia",
+    "spanish_american": "Ofelia",
+    "french_EU": "Potama",
+    "french_american": "Potama",
+    "italian": "Rosetta",
+    "dutch": "Bitty",
+    "simplified_chinese": "艾咪",
+    "traditional_chinese": "艾咪",
+    "japanese": "エーミー",
+    "korean": "비티",
+    "russian": "Битти"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Bitty.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Bitty.png"
+  },
+  "id": 45,
+  "name": "Bitty",
+  "sex": "Female",
+  "personality": "Snooty",
+  "birthday": "10/6",
+  "species": "Hippo",
+  "catch_phrase": "my dear",
+  "name_color": "#fffce9"
+}

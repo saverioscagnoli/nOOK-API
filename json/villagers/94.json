@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Cleo",
+    "english_EU": "Cleo",
+    "german": "Birgit",
+    "spanish_EU": "Clotilde",
+    "spanish_american": "Clotilde",
+    "french_EU": "Cléa",
+    "french_american": "Cléa",
+    "italian": "Susanna",
+    "dutch": "Cleo",
+    "simplified_chinese": "小铀",
+    "traditional_chinese": "小鈾",
+    "japanese": "アイソトープ",
+    "korean": "아이소토프",
+    "russian": "Клео"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Cleo.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Cleo.png"
+  },
+  "id": 94,
+  "name": "Cleo",
+  "sex": "Female",
+  "personality": "Snooty",
+  "birthday": "2/9",
+  "species": "Horse",
+  "catch_phrase": "sugar",
+  "name_color": "#fffce9"
+}

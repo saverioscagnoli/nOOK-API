@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Robin",
+    "english_EU": "Robin",
+    "german": "Jule",
+    "spanish_EU": "Aria",
+    "spanish_american": "Aria",
+    "french_EU": "Robie",
+    "french_american": "Robie",
+    "italian": "Rossana",
+    "dutch": "Robin",
+    "simplified_chinese": "喳喳",
+    "traditional_chinese": "喳喳",
+    "japanese": "パーチク",
+    "korean": "파틱",
+    "russian": "Робин"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Robin.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Robin.png"
+  },
+  "id": 322,
+  "name": "Robin",
+  "sex": "Female",
+  "personality": "Snooty",
+  "birthday": "12/4",
+  "species": "Bird",
+  "catch_phrase": "la-di-da",
+  "name_color": "#9ae8df"
+}

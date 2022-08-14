@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Pango",
+    "english_EU": "Pango",
+    "german": "Mathilda",
+    "spanish_EU": "Aspidora",
+    "spanish_american": "Aspidora",
+    "french_EU": "Mathilda",
+    "french_american": "Mathilda",
+    "italian": "Carlotta",
+    "dutch": "Pango",
+    "simplified_chinese": "佩希",
+    "traditional_chinese": "佩希",
+    "japanese": "パトラ",
+    "korean": "패트라",
+    "russian": "Панго"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Pango.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Pango.png"
+  },
+  "id": 272,
+  "name": "Pango",
+  "sex": "Female",
+  "personality": "Peppy",
+  "birthday": "11/9",
+  "species": "Anteater",
+  "catch_phrase": "snooooof",
+  "name_color": "#fffce9"
+}

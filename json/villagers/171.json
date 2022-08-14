@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Gruff",
+    "english_EU": "Gruff",
+    "german": "Gregor",
+    "spanish_EU": "Sátiro",
+    "spanish_american": "Sátiro",
+    "french_EU": "Grognon",
+    "french_american": "Grognon",
+    "italian": "Capriolé",
+    "dutch": "Gruff",
+    "simplified_chinese": "比利",
+    "traditional_chinese": "比利",
+    "japanese": "ビリー",
+    "korean": "빌리",
+    "russian": "Графф"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Gruff.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Gruff.png"
+  },
+  "id": 171,
+  "name": "Gruff",
+  "sex": "Male",
+  "personality": "Cranky",
+  "birthday": "8/29",
+  "species": "Goat",
+  "catch_phrase": "bleh eh eh",
+  "name_color": "#28665a"
+}

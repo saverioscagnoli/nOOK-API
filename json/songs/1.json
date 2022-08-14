@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "Agent K.K.",
+    "english_EU": "Agent K.K.",
+    "german": "Agent K.K.",
+    "spanish_EU": "Agente Totakeke",
+    "spanish_american": "Agente Totakeke",
+    "french_EU": "Agent Kéké",
+    "french_american": "Agent Kéké",
+    "italian": "Agente K.K.",
+    "dutch": "Agent K.K.",
+    "simplified_chinese": "K.K.刑警",
+    "traditional_chinese": "K.K.刑警",
+    "japanese": "けけけいじ",
+    "korean": "K.K.형사",
+    "russian": "Агент К. К."
+  },
+  "id": 1,
+  "name": "Agent K.K.",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/Agent_KK.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/Agent_KK.mp3"
+}

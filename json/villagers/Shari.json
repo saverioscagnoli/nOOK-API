@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Shari",
+    "english_EU": "Shari",
+    "german": "Uta",
+    "spanish_EU": "Montse",
+    "spanish_american": "Montse",
+    "french_EU": "Luna",
+    "french_american": "Luna",
+    "italian": "Ninì",
+    "dutch": "Shari",
+    "simplified_chinese": "雪莉",
+    "traditional_chinese": "雪莉",
+    "japanese": "シェリー",
+    "korean": "젤리",
+    "russian": "Шари"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Shari.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Shari.png"
+  },
+  "id": 343,
+  "name": "Shari",
+  "sex": "Female",
+  "personality": "Big Sister",
+  "birthday": "4/10",
+  "species": "Monkey",
+  "catch_phrase": "cheeky",
+  "name_color": "#5e5e5e"
+}

@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "Welcome Horizons",
+    "english_EU": "Welcome Horizons",
+    "german": "Neue Horizonte",
+    "spanish_EU": "Nuevo horizonte",
+    "spanish_american": "Nuevo horizonte",
+    "french_EU": "Horizons nouveaux",
+    "french_american": "Horizons nouveaux",
+    "italian": "Nuovi orizzonti",
+    "dutch": "Welkome horizon",
+    "simplified_chinese": "大家集合吧",
+    "traditional_chinese": "大家集合吧",
+    "japanese": "みんなあつまれ",
+    "korean": "모두 모여봐요",
+    "russian": "Светлые горизонты"
+  },
+  "id": 95,
+  "name": "Welcome Horizons",
+  "buy_price": null,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/Welcome_Horizons.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/Welcome_Horizons.mp3"
+}

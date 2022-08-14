@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Broccolo",
+    "english_EU": "Broccolo",
+    "german": "Fritzi",
+    "spanish_EU": "Brócoli",
+    "spanish_american": "Brócoli",
+    "french_EU": "Steven",
+    "french_american": "Steven",
+    "italian": "Franco",
+    "dutch": "Broccolo",
+    "simplified_chinese": "茜蓝",
+    "traditional_chinese": "茜藍",
+    "japanese": "ブロッコリー",
+    "korean": "브로콜리",
+    "russian": "Брокколо"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Broccolo.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Broccolo.png"
+  },
+  "id": 58,
+  "name": "Broccolo",
+  "sex": "Male",
+  "personality": "Lazy",
+  "birthday": "6/30",
+  "species": "Mouse",
+  "catch_phrase": "eat it",
+  "name_color": "#fffce9"
+}

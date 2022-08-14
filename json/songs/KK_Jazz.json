@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "K.K. Jazz",
+    "english_EU": "K.K. Jazz",
+    "german": "K.K. Jazz",
+    "spanish_EU": "Tota-jazz",
+    "spanish_american": "Tota-jazz",
+    "french_EU": "Jazz de Kéké",
+    "french_american": "Jazz de Kéké",
+    "italian": "K.K. Jazz",
+    "dutch": "K.K.-jazz",
+    "simplified_chinese": "K.K.爵士乐",
+    "traditional_chinese": "K.K.爵士樂",
+    "japanese": "けけジャズ",
+    "korean": "K.K.재즈",
+    "russian": "Джаз К. К."
+  },
+  "id": 41,
+  "name": "K.K. Jazz",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/KK_Jazz.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/KK_Jazz.mp3"
+}

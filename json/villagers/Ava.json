@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Ava",
+    "english_EU": "Ava",
+    "german": "Gisela",
+    "spanish_EU": "Ava",
+    "spanish_american": "Ava",
+    "french_EU": "Eva",
+    "french_american": "Eva",
+    "italian": "Ava",
+    "dutch": "Ava",
+    "simplified_chinese": "陶米咕",
+    "traditional_chinese": "陶米咕",
+    "japanese": "ドミグラ",
+    "korean": "에바",
+    "russian": "Ава"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Ava.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Ava.png"
+  },
+  "id": 22,
+  "name": "Ava",
+  "sex": "Female",
+  "personality": "Normal",
+  "birthday": "4/28",
+  "species": "Chicken",
+  "catch_phrase": "beaker",
+  "name_color": "#fffce9"
+}

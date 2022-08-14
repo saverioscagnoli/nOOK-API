@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "K.K. Ballad",
+    "english_EU": "K.K. Ballad",
+    "german": "K.K. Ballade",
+    "spanish_EU": "Tota-balada",
+    "spanish_american": "Tota-balada",
+    "french_EU": "Ballade de Kéké",
+    "french_american": "Ballade de Kéké",
+    "italian": "K.K. Lento",
+    "dutch": "K.K.-ballade",
+    "simplified_chinese": "K.K.叙事歌谣",
+    "traditional_chinese": "K.K.敘事歌謠",
+    "japanese": "けけバラッド",
+    "korean": "K.K.발라드",
+    "russian": "Баллада К. К."
+  },
+  "id": 17,
+  "name": "K.K. Ballad",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/KK_Ballad.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/KK_Ballad.mp3"
+}

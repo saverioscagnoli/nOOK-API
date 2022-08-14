@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Walt",
+    "english_EU": "Walt",
+    "german": "Sinan",
+    "spanish_EU": "Brinco",
+    "spanish_american": "Brinco",
+    "french_EU": "Walt",
+    "french_american": "Walt",
+    "italian": "Zompo",
+    "dutch": "Walt",
+    "simplified_chinese": "袋钢",
+    "traditional_chinese": "袋鋼",
+    "japanese": "カンロク",
+    "korean": "관록",
+    "russian": "Уолт"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Walt.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Walt.png"
+  },
+  "id": 400,
+  "name": "Walt",
+  "sex": "Male",
+  "personality": "Cranky",
+  "birthday": "4/24",
+  "species": "Kangaroo",
+  "catch_phrase": "pockets",
+  "name_color": "#498992"
+}

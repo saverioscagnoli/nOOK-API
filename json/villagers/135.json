@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Erik",
+    "english_EU": "Erik",
+    "german": "Erik",
+    "spanish_EU": "Cervasio",
+    "spanish_american": "Cervasio",
+    "french_EU": "Abraham",
+    "french_american": "Abraham",
+    "italian": "Cervasio",
+    "dutch": "Erik",
+    "simplified_chinese": "查克",
+    "traditional_chinese": "查克",
+    "japanese": "チャック",
+    "korean": "자끄",
+    "russian": "Эрик"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Erik.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Erik.png"
+  },
+  "id": 135,
+  "name": "Erik",
+  "sex": "Male",
+  "personality": "Lazy",
+  "birthday": "7/27",
+  "species": "Deer",
+  "catch_phrase": "chow down",
+  "name_color": "#fffce9"
+}

@@ -1,0 +1,25 @@
+{
+  "translations": {
+    "english_USA": "wild painting right half",
+    "english_EU": "wild painting right half",
+    "german": "Ungestümgemälde (rechts)",
+    "spanish_EU": "cuadro naturaleza (dcha.)",
+    "spanish_american": "cuadro naturaleza (dcha.)",
+    "french_EU": "partie d. de toile sauvage",
+    "french_american": "partie d. de toile sauvage",
+    "italian": "quadro intenso (metà dx)",
+    "dutch": "onstuimige schilderij (r)",
+    "simplified_chinese": "粗野的名画右半边",
+    "traditional_chinese": "粗野的名畫右半邊",
+    "japanese": "あらぶるめいがのみぎ",
+    "korean": "혼란스러운 명화의 오른쪽",
+    "russian": "прав. часть дикой картины"
+  },
+  "id": 41,
+  "name": "wild painting right half",
+  "buy_price": 4980,
+  "sell_price": 1245,
+  "museum_description": "This folding screen shows dynamic brushwork of Fūjin and Raijin on a gold-leaf background. It is thought to be the masterpiece of Tawaraya Sōtatsu, an early-Edo- period artist. The simplification of the subjects is a style that was carried on by Ogata Kōrin. It's a style still in use today in the Rinpa school of Japanese painting.",
+  "canBeFake": true,
+  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/render/art/wild_painting_right_half.png"
+}

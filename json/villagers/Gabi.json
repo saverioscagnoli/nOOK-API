@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Gabi",
+    "english_EU": "Gabi",
+    "german": "Gabi",
+    "spanish_EU": "Piluca",
+    "spanish_american": "Piluca",
+    "french_EU": "Gaby",
+    "french_american": "Gaby",
+    "italian": "Gabri",
+    "dutch": "Gabi",
+    "simplified_chinese": "珮琪",
+    "traditional_chinese": "珮琪",
+    "japanese": "ペチカ",
+    "korean": "패티카",
+    "russian": "Габи"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Gabi.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Gabi.png"
+  },
+  "id": 156,
+  "name": "Gabi",
+  "sex": "Female",
+  "personality": "Peppy",
+  "birthday": "12/16",
+  "species": "Rabbit",
+  "catch_phrase": "honeybun",
+  "name_color": "#848484"
+}

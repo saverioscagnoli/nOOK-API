@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Sylvia",
+    "english_EU": "Sylvia",
+    "german": "Sylvia",
+    "spanish_EU": "Cándida",
+    "spanish_american": "Cándida",
+    "french_EU": "Madsi",
+    "french_american": "Madsi",
+    "italian": "Silvia",
+    "dutch": "Sylvia",
+    "simplified_chinese": "希薇亚",
+    "traditional_chinese": "希薇亞",
+    "japanese": "シルビア",
+    "korean": "실비아",
+    "russian": "Сильвия"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Sylvia.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Sylvia.png"
+  },
+  "id": 367,
+  "name": "Sylvia",
+  "sex": "Female",
+  "personality": "Big Sister",
+  "birthday": "5/3",
+  "species": "Kangaroo",
+  "catch_phrase": "boing",
+  "name_color": "#fffce9"
+}

@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Buzz",
+    "english_EU": "Buzz",
+    "german": "Balduin",
+    "spanish_EU": "Nabar",
+    "spanish_american": "Nabar",
+    "french_EU": "Phébus",
+    "french_american": "Phébus",
+    "italian": "Golia",
+    "dutch": "Buzz",
+    "simplified_chinese": "继光",
+    "traditional_chinese": "繼光",
+    "japanese": "ひでよし",
+    "korean": "근엄",
+    "russian": "Базз"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Buzz.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Buzz.png"
+  },
+  "id": 66,
+  "name": "Buzz",
+  "sex": "Male",
+  "personality": "Cranky",
+  "birthday": "12/7",
+  "species": "Eagle",
+  "catch_phrase": "captain",
+  "name_color": "#fffce9"
+}

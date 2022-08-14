@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Nan",
+    "english_EU": "Nan",
+    "german": "Zenobi",
+    "spanish_EU": "Pécora",
+    "spanish_american": "Pécora",
+    "french_EU": "Nana",
+    "french_american": "Nana",
+    "italian": "Nan",
+    "dutch": "Nan",
+    "simplified_chinese": "墨墨",
+    "traditional_chinese": "墨墨",
+    "japanese": "スミ",
+    "korean": "순이",
+    "russian": "Нань"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Nan.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Nan.png"
+  },
+  "id": 258,
+  "name": "Nan",
+  "sex": "Female",
+  "personality": "Normal",
+  "birthday": "8/24",
+  "species": "Goat",
+  "catch_phrase": "kid",
+  "name_color": "#fffce9"
+}

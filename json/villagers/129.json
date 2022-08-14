@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Egbert",
+    "english_EU": "Egbert",
+    "german": "Waldemar",
+    "spanish_EU": "Norberto",
+    "spanish_american": "Norberto",
+    "french_EU": "Herbert",
+    "french_american": "Herbert",
+    "italian": "Chicco",
+    "dutch": "Egbert",
+    "simplified_chinese": "黄金鸡",
+    "traditional_chinese": "黃金雞",
+    "japanese": "しもやけ",
+    "korean": "김희",
+    "russian": "Эгберт"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Egbert.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Egbert.png"
+  },
+  "id": 129,
+  "name": "Egbert",
+  "sex": "Male",
+  "personality": "Lazy",
+  "birthday": "10/14",
+  "species": "Chicken",
+  "catch_phrase": "doodle-duh",
+  "name_color": "#9b553a"
+}

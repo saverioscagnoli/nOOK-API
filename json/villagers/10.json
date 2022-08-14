@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Anchovy",
+    "english_EU": "Anchovy",
+    "german": "Armin",
+    "spanish_EU": "Boquerón",
+    "spanish_american": "Boquerón",
+    "french_EU": "Miguel",
+    "french_american": "Miguel",
+    "italian": "Acciuga",
+    "dutch": "Anchovy",
+    "simplified_chinese": "凤尾",
+    "traditional_chinese": "鳳尾",
+    "japanese": "アンチョビ",
+    "korean": "안쵸비",
+    "russian": "Анчоуи"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Anchovy.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Anchovy.png"
+  },
+  "id": 10,
+  "name": "Anchovy",
+  "sex": "Male",
+  "personality": "Lazy",
+  "birthday": "3/4",
+  "species": "Bird",
+  "catch_phrase": "chuurp",
+  "name_color": "#fffce9"
+}

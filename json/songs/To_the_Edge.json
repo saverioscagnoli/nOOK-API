@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "To the Edge",
+    "english_EU": "To the Edge",
+    "german": "Am Rande",
+    "spanish_EU": "Hasta el final",
+    "spanish_american": "Hasta el final",
+    "french_EU": "Limite",
+    "french_american": "Limite",
+    "italian": "Al limite",
+    "dutch": "Op het randje",
+    "simplified_chinese": "漫弥",
+    "traditional_chinese": "漫瀰",
+    "japanese": "ナミナミ",
+    "korean": "파도소리",
+    "russian": "На краю"
+  },
+  "id": 92,
+  "name": "To the Edge",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/To_the_Edge.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/To_the_Edge.mp3"
+}

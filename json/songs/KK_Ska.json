@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "K.K. Ska",
+    "english_EU": "K.K. Ska",
+    "german": "K.K. Ska",
+    "spanish_EU": "Tota-ska",
+    "spanish_american": "Tota-ska",
+    "french_EU": "Ska Kéké",
+    "french_american": "Ska Kéké",
+    "italian": "K.K. Ska",
+    "dutch": "K.K.-ska",
+    "simplified_chinese": "K.K.斯卡",
+    "traditional_chinese": "K.K.斯卡",
+    "japanese": "けけスカ",
+    "korean": "K.K.스카",
+    "russian": "Ска К. К."
+  },
+  "id": 63,
+  "name": "K.K. Ska",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/KK_Ska.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/KK_Ska.mp3"
+}

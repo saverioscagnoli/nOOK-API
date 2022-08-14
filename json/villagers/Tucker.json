@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Tucker",
+    "english_EU": "Tucker",
+    "german": "Thorsten",
+    "spanish_EU": "Pirolo",
+    "spanish_american": "Pirolo",
+    "french_EU": "Barry",
+    "french_american": "Barry",
+    "italian": "Sventolo",
+    "dutch": "Tucker",
+    "simplified_chinese": "阿原",
+    "traditional_chinese": "阿原",
+    "japanese": "はじめ",
+    "korean": "맘모",
+    "russian": "Такер"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Tucker.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Tucker.png"
+  },
+  "id": 386,
+  "name": "Tucker",
+  "sex": "Male",
+  "personality": "Lazy",
+  "birthday": "9/7",
+  "species": "Elephant",
+  "catch_phrase": "fuzzers",
+  "name_color": "#fffce9"
+}

@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Coach",
+    "english_EU": "Coach",
+    "german": "Arnold",
+    "spanish_EU": "Cacho",
+    "spanish_american": "Cacho",
+    "french_EU": "Arnold",
+    "french_american": "Arnold",
+    "italian": "Ercole",
+    "dutch": "Coach",
+    "simplified_chinese": "大常",
+    "traditional_chinese": "大常",
+    "japanese": "テッチャン",
+    "korean": "철소",
+    "russian": "Коуч"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Coach.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Coach.png"
+  },
+  "id": 96,
+  "name": "Coach",
+  "sex": "Male",
+  "personality": "Jock",
+  "birthday": "4/29",
+  "species": "Bull",
+  "catch_phrase": "stubble",
+  "name_color": "#9b553a"
+}

@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Quinn",
+    "english_EU": "Quinn",
+    "german": "Kim",
+    "spanish_EU": "Alexis",
+    "spanish_american": "Alexis",
+    "french_EU": "Astair",
+    "french_american": "Astair",
+    "italian": "Astro",
+    "dutch": "Quinn",
+    "simplified_chinese": "席恩",
+    "traditional_chinese": "席恩",
+    "japanese": "シオン",
+    "korean": "시온",
+    "russian": "Квинн"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Quinn.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Quinn.png"
+  },
+  "id": 308,
+  "name": "Quinn",
+  "sex": "Female",
+  "personality": "Big Sister",
+  "birthday": "1/20",
+  "species": "Eagle",
+  "catch_phrase": "proper",
+  "name_color": "#4f5d72"
+}

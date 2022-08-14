@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Rodeo",
+    "english_EU": "Rodeo",
+    "german": "Toro",
+    "spanish_EU": "Rodeo",
+    "spanish_american": "Rodeo",
+    "french_EU": "Flèche",
+    "french_american": "Flèche",
+    "italian": "Rodeo",
+    "dutch": "Rodeo",
+    "simplified_chinese": "罗迪欧",
+    "traditional_chinese": "羅迪歐",
+    "japanese": "ロデオ",
+    "korean": "로데오",
+    "russian": "Родео"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Rodeo.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Rodeo.png"
+  },
+  "id": 326,
+  "name": "Rodeo",
+  "sex": "Male",
+  "personality": "Lazy",
+  "birthday": "10/29",
+  "species": "Bull",
+  "catch_phrase": "chaps",
+  "name_color": "#fffce9"
+}

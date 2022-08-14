@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Muffy",
+    "english_EU": "Muffy",
+    "german": "Marion",
+    "spanish_EU": "Muaré",
+    "spanish_american": "Muaré",
+    "french_EU": "Charlène",
+    "french_american": "Charlène",
+    "italian": "Morena",
+    "dutch": "Muffy",
+    "simplified_chinese": "彭澎",
+    "traditional_chinese": "彭澎",
+    "japanese": "フリル",
+    "korean": "프릴",
+    "russian": "Маффи"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Muffy.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Muffy.png"
+  },
+  "id": 256,
+  "name": "Muffy",
+  "sex": "Female",
+  "personality": "Big Sister",
+  "birthday": "2/14",
+  "species": "Sheep",
+  "catch_phrase": "nightshade",
+  "name_color": "#fffce9"
+}

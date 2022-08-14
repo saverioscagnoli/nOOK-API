@@ -1,0 +1,48 @@
+{
+  "translations": {
+    "english_USA": "whelk",
+    "english_EU": "whelk",
+    "german": "Babylon-Seeschnecke",
+    "spanish_EU": "buccino",
+    "spanish_american": "buccino",
+    "french_EU": "bulot",
+    "french_american": "bulot",
+    "italian": "buccino",
+    "dutch": "wulk",
+    "simplified_chinese": "花螺",
+    "traditional_chinese": "峨螺",
+    "japanese": "バイガイ",
+    "korean": "수랑",
+    "russian": "моллюск-трубач"
+  },
+  "price": 1000,
+  "speed": "Slow",
+  "available": {
+    "hemisphere_data": {
+      "northern_months": "",
+      "southern_months": "",
+      "northern_months_array": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "southern_months_array": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    },
+    "time": {
+      "all_day": true,
+      "all_year": true,
+      "time_string": "",
+      "time_array": [
+        0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19,
+        20, 21, 22, 23
+      ]
+    }
+  },
+  "phrases": {
+    "joke": "I got a whelk! Happy snails to ya.",
+    "museum_description": "Whelks are sea snails that migrate from deep water to shallow water when the weather changes. Avid carnivores, they feed on worms, crustaceans, and mollusks. In fact, these wily snails have been known to use their own shells to pry open the shells of their victims! They then use a rough tongue-like organ with thousands of tiny teeth to lick their victims' shells clean. Eh... you might want to put that image out of your mind when it's your turn to dine."
+  },
+  "sprites": {
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/sea_creatures/Whelk.png",
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/sea_creatures/Whelk.png"
+  },
+  "id": 15,
+  "name": "whelk",
+  "shadow_size": "Small"
+}

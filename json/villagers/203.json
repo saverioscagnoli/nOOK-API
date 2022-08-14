@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Ketchup",
+    "english_EU": "Ketchup",
+    "german": "Pullunda",
+    "spanish_EU": "Kétchup",
+    "spanish_american": "Kétchup",
+    "french_EU": "Ketchup",
+    "french_american": "Ketchup",
+    "italian": "Ketchup",
+    "dutch": "Ketchup",
+    "simplified_chinese": "番茄酱",
+    "traditional_chinese": "番茄醬",
+    "japanese": "ケチャップ",
+    "korean": "케첩",
+    "russian": "Кетчуп"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Ketchup.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Ketchup.png"
+  },
+  "id": 203,
+  "name": "Ketchup",
+  "sex": "Female",
+  "personality": "Peppy",
+  "birthday": "7/27",
+  "species": "Duck",
+  "catch_phrase": "bitty",
+  "name_color": "#fffad4"
+}

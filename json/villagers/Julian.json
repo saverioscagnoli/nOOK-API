@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Julian",
+    "english_EU": "Julian",
+    "german": "Jimmy",
+    "spanish_EU": "Azulino",
+    "spanish_american": "Azulino",
+    "french_EU": "Lico",
+    "french_american": "Lico",
+    "italian": "Giuliano",
+    "dutch": "Julian",
+    "simplified_chinese": "朱黎",
+    "traditional_chinese": "朱黎",
+    "japanese": "ジュリー",
+    "korean": "유니오",
+    "russian": "Джулиан"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Julian.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Julian.png"
+  },
+  "id": 197,
+  "name": "Julian",
+  "sex": "Male",
+  "personality": "Smug",
+  "birthday": "3/15",
+  "species": "Horse",
+  "catch_phrase": "glitter",
+  "name_color": "#fffce9"
+}

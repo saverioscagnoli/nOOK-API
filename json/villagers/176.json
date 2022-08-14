@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Harry",
+    "english_EU": "Harry",
+    "german": "Jürgen",
+    "spanish_EU": "Harpo",
+    "spanish_american": "Harpo",
+    "french_EU": "Bob",
+    "french_american": "Bob",
+    "italian": "Ercolino",
+    "dutch": "Harry",
+    "simplified_chinese": "欧世豪",
+    "traditional_chinese": "歐世豪",
+    "japanese": "オリバー",
+    "korean": "올리버",
+    "russian": "Гарри"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Harry.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Harry.png"
+  },
+  "id": 176,
+  "name": "Harry",
+  "sex": "Male",
+  "personality": "Cranky",
+  "birthday": "1/7",
+  "species": "Hippo",
+  "catch_phrase": "beach bum",
+  "name_color": "#fffce9"
+}

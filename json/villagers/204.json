@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Kevin",
+    "english_EU": "Kevin",
+    "german": "Kevin",
+    "spanish_EU": "Porcinio",
+    "spanish_american": "Porcinio",
+    "french_EU": "Jean-Bon",
+    "french_american": "Jean-Bon",
+    "italian": "Kotekiño",
+    "dutch": "Kevin",
+    "simplified_chinese": "伊比利",
+    "traditional_chinese": "伊比利",
+    "japanese": "イノッチ",
+    "korean": "멧지",
+    "russian": "Кевин"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Kevin.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Kevin.png"
+  },
+  "id": 204,
+  "name": "Kevin",
+  "sex": "Male",
+  "personality": "Jock",
+  "birthday": "4/26",
+  "species": "Pig",
+  "catch_phrase": "weeweewee",
+  "name_color": "#874c25"
+}

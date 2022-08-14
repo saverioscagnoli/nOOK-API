@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Rilla",
+    "english_EU": "Rilla",
+    "german": "Rilla",
+    "spanish_EU": "Rila",
+    "spanish_american": "Rila",
+    "french_EU": "Rilla",
+    "french_american": "Rilla",
+    "italian": "Rilla",
+    "dutch": "Rilla",
+    "simplified_chinese": "莉拉",
+    "traditional_chinese": "莉拉",
+    "japanese": "リラ",
+    "korean": "릴라",
+    "russian": "Рилла"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Rilla.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Rilla.png"
+  },
+  "id": 318,
+  "name": "Rilla",
+  "sex": "Female",
+  "personality": "Peppy",
+  "birthday": "11/1",
+  "species": "Gorilla",
+  "catch_phrase": "hello",
+  "name_color": "#fff6f6"
+}

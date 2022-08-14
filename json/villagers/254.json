@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Moose",
+    "english_EU": "Moose",
+    "german": "Mausbert",
+    "spanish_EU": "Sato",
+    "spanish_american": "Sato",
+    "french_EU": "Joachim",
+    "french_american": "Joachim",
+    "italian": "Aldo",
+    "dutch": "Moose",
+    "simplified_chinese": "阿聘",
+    "traditional_chinese": "阿聘",
+    "japanese": "ピン",
+    "korean": "핑",
+    "russian": "Муз"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Moose.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Moose.png"
+  },
+  "id": 254,
+  "name": "Moose",
+  "sex": "Male",
+  "personality": "Jock",
+  "birthday": "9/13",
+  "species": "Mouse",
+  "catch_phrase": "shorty",
+  "name_color": "#fffce9"
+}

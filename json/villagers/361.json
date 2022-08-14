@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Sterling",
+    "english_EU": "Sterling",
+    "german": "Horst",
+    "spanish_EU": "Arni",
+    "spanish_american": "Arni",
+    "french_EU": "Manfred",
+    "french_american": "Manfred",
+    "italian": "Beccodì",
+    "dutch": "Sterling",
+    "simplified_chinese": "银阁",
+    "traditional_chinese": "銀閣",
+    "japanese": "ギンカク",
+    "korean": "은수리",
+    "russian": "Стерлинг"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Sterling.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Sterling.png"
+  },
+  "id": 361,
+  "name": "Sterling",
+  "sex": "Male",
+  "personality": "Jock",
+  "birthday": "12/11",
+  "species": "Eagle",
+  "catch_phrase": "skraaaaw",
+  "name_color": "#5e5e5e"
+}

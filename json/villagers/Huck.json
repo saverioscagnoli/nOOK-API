@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Huck",
+    "english_EU": "Huck",
+    "german": "Knuth",
+    "spanish_EU": "Ricardo",
+    "spanish_american": "Ricardo",
+    "french_EU": "Bajoue",
+    "french_american": "Bajoue",
+    "italian": "Berto",
+    "dutch": "Huck",
+    "simplified_chinese": "吸管",
+    "traditional_chinese": "吸管",
+    "japanese": "ストロー",
+    "korean": "스트로",
+    "russian": "Хак"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Huck.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Huck.png"
+  },
+  "id": 183,
+  "name": "Huck",
+  "sex": "Male",
+  "personality": "Smug",
+  "birthday": "7/9",
+  "species": "Frog",
+  "catch_phrase": "hopper",
+  "name_color": "#fffce9"
+}

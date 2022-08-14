@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "K.K. Disco",
+    "english_EU": "K.K. Disco",
+    "german": "K.K. Disco",
+    "spanish_EU": "Tota-disco",
+    "spanish_american": "Tota-disco",
+    "french_EU": "Disco Kéké",
+    "french_american": "Disco Kéké",
+    "italian": "K.K. Disco",
+    "dutch": "K.K.-disco",
+    "simplified_chinese": "K.K.迪斯科",
+    "traditional_chinese": "K.K.迪斯可",
+    "japanese": "けけディスコ",
+    "korean": "K.K.디스코",
+    "russian": "Диско К. К."
+  },
+  "id": 30,
+  "name": "K.K. Disco",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/KK_Disco.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/KK_Disco.mp3"
+}

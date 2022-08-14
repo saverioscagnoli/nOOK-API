@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Gigi",
+    "english_EU": "Gigi",
+    "german": "Violetta",
+    "spanish_EU": "Cleo",
+    "spanish_american": "Cleo",
+    "french_EU": "Gloria",
+    "french_american": "Gloria",
+    "italian": "Raganà",
+    "dutch": "Gigi",
+    "simplified_chinese": "林妲",
+    "traditional_chinese": "林妲",
+    "japanese": "リンダ",
+    "korean": "린다",
+    "russian": "Джиджи"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Gigi.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Gigi.png"
+  },
+  "id": 161,
+  "name": "Gigi",
+  "sex": "Female",
+  "personality": "Snooty",
+  "birthday": "8/11",
+  "species": "Frog",
+  "catch_phrase": "ribbette",
+  "name_color": "#fffce9"
+}

@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Sasha",
+    "english_EU": "Sasha",
+    "german": "Gerrit",
+    "spanish_EU": "Ariel",
+    "spanish_american": "Ariel",
+    "french_EU": "Alix",
+    "french_american": "Alix",
+    "italian": "Sasha",
+    "dutch": "Sasha",
+    "simplified_chinese": "蜜雪儿",
+    "traditional_chinese": "蜜雪兒",
+    "japanese": "ミッチェル",
+    "korean": "미첼",
+    "russian": "Геррит"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Sasha.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Sasha.png"
+  },
+  "id": 340,
+  "name": "Sasha",
+  "sex": "Male",
+  "personality": "Lazy",
+  "birthday": "5/19",
+  "species": "Rabbit",
+  "catch_phrase": "hoppity",
+  "name_color": "#fffce9"
+}

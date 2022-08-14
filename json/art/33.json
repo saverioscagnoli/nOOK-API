@@ -1,0 +1,25 @@
+{
+  "translations": {
+    "english_USA": "sinking painting",
+    "english_EU": "sinking painting",
+    "german": "Versinkgemälde",
+    "spanish_EU": "cuadro literario",
+    "spanish_american": "cuadro literario",
+    "french_EU": "toile tragique",
+    "french_american": "toile tragique",
+    "italian": "quadro acquatico",
+    "dutch": "tragische schilderij",
+    "simplified_chinese": "沉默的名画",
+    "traditional_chinese": "沉沒的名畫",
+    "japanese": "しずみゆくめいが",
+    "korean": "가라앉는 명화",
+    "russian": "речная картина"
+  },
+  "id": 33,
+  "name": "sinking painting",
+  "buy_price": 4980,
+  "sell_price": 1245,
+  "museum_description": "Ophelia is a tragic figure in the Shakespearean play \"Hamlet.\" There is an otherworldly expression on her face as she lies unconscious in a river. She is surrounded by the beauty of nature as she floats between life and death.",
+  "canBeFake": false,
+  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/render/art/sinking_painting.png"
+}

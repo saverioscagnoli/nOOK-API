@@ -1,0 +1,46 @@
+{
+  "translations": {
+    "english_USA": "pale chub",
+    "english_EU": "pale chub",
+    "german": "Döbel",
+    "spanish_EU": "cacho",
+    "spanish_american": "cacho",
+    "french_EU": "chevaine",
+    "french_american": "chevaine",
+    "italian": "zacco",
+    "dutch": "Japanse drakenvis",
+    "simplified_chinese": "溪哥",
+    "traditional_chinese": "溪哥",
+    "japanese": "オイカワ",
+    "korean": "피라미",
+    "russian": "светлый закко"
+  },
+  "sell_prices": { "nook": 200, "cj": 300 },
+  "available": {
+    "hemisphere_data": {
+      "northern_months": "",
+      "southern_months": "",
+      "northern_months_array": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "southern_months_array": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    },
+    "time": {
+      "all_day": false,
+      "all_year": true,
+      "time_string": "9am - 4pm",
+      "time_array": [9, 10, 11, 12, 13, 14, 15]
+    },
+    "spot": "River",
+    "rarity": "Common"
+  },
+  "phrases": {
+    "joke": "I caught a pale chub! That name seems a bit judgy...",
+    "museum_description": "The pale chub is a river fish with simple back-and-silver coloring. Interestingly, the males' coloring becomes most vibrant when he's trying to attract a mate! Though normally plain, these fellows really know how to look stylish when they want to. Perhaps I could learn a thing or two from the pale chub..."
+  },
+  "sprites": {
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/fishes/Pale_Chub.png",
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/fishes/Pale_Chub.png"
+  },
+  "id": 2,
+  "name": "pale chub",
+  "shadow_size": "1"
+}

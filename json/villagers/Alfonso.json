@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Alfonso",
+    "english_EU": "Alfonso",
+    "german": "Markus",
+    "spanish_EU": "Kaimán",
+    "spanish_american": "Kaimán",
+    "french_EU": "Alphonse",
+    "french_american": "Alphonse",
+    "italian": "Alfonso",
+    "dutch": "Alfonso",
+    "simplified_chinese": "阿泥",
+    "traditional_chinese": "阿泥",
+    "japanese": "アルベルト",
+    "korean": "알베르트",
+    "russian": "Альфонсо"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Alfonso.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Alfonso.png"
+  },
+  "id": 5,
+  "name": "Alfonso",
+  "sex": "Male",
+  "personality": "Lazy",
+  "birthday": "6/9",
+  "species": "Alligator",
+  "catch_phrase": "it'sa me",
+  "name_color": "#fffce9"
+}

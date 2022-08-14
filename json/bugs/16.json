@@ -1,0 +1,45 @@
+{
+  "translations": {
+    "english_USA": "long locust",
+    "english_EU": "long locust",
+    "german": "Nasenschrecke",
+    "spanish_EU": "langosta alargada",
+    "spanish_american": "langosta alargada",
+    "french_EU": "acrida cinerea",
+    "french_american": "acrida cinerea",
+    "italian": "acrida cinerea",
+    "dutch": "veldsprinkhaan",
+    "simplified_chinese": "中华剑角蝗",
+    "traditional_chinese": "中華劍角蝗",
+    "japanese": "ショウリョウバッタ",
+    "korean": "방아깨비",
+    "russian": "акрида"
+  },
+  "sell_prices": { "nook": 200, "flick": 300 },
+  "available": {
+    "hemisphere_data": {
+      "northern_months": "4-11",
+      "southern_months": "10-5",
+      "northern_months_array": [4, 5, 6, 7, 8, 9, 10, 11],
+      "southern_months_array": [10, 11, 12, 1, 2, 3, 4, 5]
+    },
+    "time": {
+      "all_day": false,
+      "all_year": false,
+      "time_string": "8am - 7pm",
+      "time_array": [8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]
+    },
+    "spot": "On the ground",
+    "rarity": "Common"
+  },
+  "phrases": {
+    "joke": "I caught a long locust! Or, as I call it, a looooocust.",
+    "museum_description": "As if the average locust weren't large enough...we must suffer the long locust too! The wretched beasts are known for their unusually long hind legs as well as their elongated heads. But that is hardly the long locusts' worst trait... I tell you, they spit brown goo when they're scared!"
+  },
+  "sprites": {
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/bugs/Long_Locust.png",
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/bugs/Long_Locust.png"
+  },
+  "id": 16,
+  "name": "long locust"
+}

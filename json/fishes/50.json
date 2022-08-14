@@ -1,0 +1,49 @@
+{
+  "translations": {
+    "english_USA": "surgeonfish",
+    "english_EU": "surgeonfish",
+    "german": "Paletten-Doktorfisch",
+    "spanish_EU": "pez cirujano",
+    "spanish_american": "pez cirujano",
+    "french_EU": "poisson chirurgien",
+    "french_american": "poisson-chirurgien",
+    "italian": "pesce chirurgo",
+    "dutch": "doktersvis",
+    "simplified_chinese": "拟刺尾鲷",
+    "traditional_chinese": "擬刺尾鯛",
+    "japanese": "ナンヨウハギ",
+    "korean": "블루탱",
+    "russian": "флаговый хирург"
+  },
+  "sell_prices": { "nook": 1000, "cj": 1500 },
+  "available": {
+    "hemisphere_data": {
+      "northern_months": "4-9",
+      "southern_months": "10-3",
+      "northern_months_array": [4, 5, 6, 7, 8, 9],
+      "southern_months_array": [10, 11, 12, 1, 2, 3]
+    },
+    "time": {
+      "all_day": true,
+      "all_year": false,
+      "time_string": "",
+      "time_array": [
+        0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19,
+        20, 21, 22, 23
+      ]
+    },
+    "spot": "Sea",
+    "rarity": "Common"
+  },
+  "phrases": {
+    "joke": "I caught a surgeonfish! Scalpel! Forceps! Fish hook!",
+    "museum_description": "Hoo! Careful, now! These fish are particularly dangerous, despite their seemingly docile appearance. With its saturated blue and yellow tones, the surgeonfish is quite breathtaking. It's got to keep up with all the other vibrant fish that live in the coral too, I wager. Quite the competition! Its spine is sharp as a blade, so care must be taken when handling these beauties..."
+  },
+  "sprites": {
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/fishes/Surgeonfish.png",
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/fishes/Surgeonfish.png"
+  },
+  "id": 50,
+  "name": "surgeonfish",
+  "shadow_size": "2"
+}

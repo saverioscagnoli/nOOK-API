@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Sparro",
+    "english_EU": "Sparro",
+    "german": "Nestor",
+    "spanish_EU": "Jaime",
+    "spanish_american": "Jaime",
+    "french_EU": "Darius",
+    "french_american": "Darius",
+    "italian": "Piumardo",
+    "dutch": "Sparro",
+    "simplified_chinese": "周之翔",
+    "traditional_chinese": "周之翔",
+    "japanese": "ちゅんのすけ",
+    "korean": "춘섭",
+    "russian": "Спарро"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Sparro.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Sparro.png"
+  },
+  "id": 354,
+  "name": "Sparro",
+  "sex": "Male",
+  "personality": "Jock",
+  "birthday": "11/20",
+  "species": "Bird",
+  "catch_phrase": "like whoa",
+  "name_color": "#fffce9"
+}

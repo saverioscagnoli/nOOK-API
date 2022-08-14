@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Elmer",
+    "english_EU": "Elmer",
+    "german": "Emil",
+    "spanish_EU": "Jacinto",
+    "spanish_american": "Jacinto",
+    "french_EU": "Martin",
+    "french_american": "Martin",
+    "italian": "Oreste",
+    "dutch": "Elmer",
+    "simplified_chinese": "酥饼",
+    "traditional_chinese": "酥餅",
+    "japanese": "サブレ",
+    "korean": "샤브렌",
+    "russian": "Элмер"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Elmer.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Elmer.png"
+  },
+  "id": 132,
+  "name": "Elmer",
+  "sex": "Male",
+  "personality": "Lazy",
+  "birthday": "10/5",
+  "species": "Horse",
+  "catch_phrase": "tenderfoot",
+  "name_color": "#fffce9"
+}

@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Gaston",
+    "english_EU": "Gaston",
+    "german": "Gaston",
+    "spanish_EU": "Gastón",
+    "spanish_american": "Gastón",
+    "french_EU": "Gaston",
+    "french_american": "Gaston",
+    "italian": "Gaston",
+    "dutch": "Gaston",
+    "simplified_chinese": "猛兔",
+    "traditional_chinese": "猛兔",
+    "japanese": "モサキチ",
+    "korean": "대길",
+    "russian": "Гастон"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Gaston.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Gaston.png"
+  },
+  "id": 158,
+  "name": "Gaston",
+  "sex": "Male",
+  "personality": "Cranky",
+  "birthday": "10/28",
+  "species": "Rabbit",
+  "catch_phrase": "mon chou",
+  "name_color": "#9b553a"
+}

@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "K.K. Folk",
+    "english_EU": "K.K. Folk",
+    "german": "K.K. Folk",
+    "spanish_EU": "Tota-folk",
+    "spanish_american": "Tota-folk",
+    "french_EU": "Folk Kéké",
+    "french_american": "Kéké folklorique",
+    "italian": "K.K. Folk",
+    "dutch": "K.K.-folk",
+    "simplified_chinese": "K.K.民谣",
+    "traditional_chinese": "K.K.民謠",
+    "japanese": "けけみんよう",
+    "korean": "K.K.민요",
+    "russian": "Фолк К. К."
+  },
+  "id": 35,
+  "name": "K.K. Folk",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/KK_Folk.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/KK_Folk.mp3"
+}

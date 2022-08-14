@@ -1,0 +1,49 @@
+{
+  "translations": {
+    "english_USA": "crawfish",
+    "english_EU": "crawfish",
+    "german": "Flusskrebs",
+    "spanish_EU": "cangrejo de río",
+    "spanish_american": "cangrejo de río",
+    "french_EU": "écrevisse",
+    "french_american": "écrevisse",
+    "italian": "gambero",
+    "dutch": "rode rivierkreeft",
+    "simplified_chinese": "淡水龙虾",
+    "traditional_chinese": "淡水龍蝦",
+    "japanese": "ザリガニ",
+    "korean": "가재",
+    "russian": "рак"
+  },
+  "sell_prices": { "nook": 200, "cj": 300 },
+  "available": {
+    "hemisphere_data": {
+      "northern_months": "4-9",
+      "southern_months": "10-3",
+      "northern_months_array": [4, 5, 6, 7, 8, 9],
+      "southern_months_array": [10, 11, 12, 1, 2, 3]
+    },
+    "time": {
+      "all_day": true,
+      "all_year": false,
+      "time_string": "",
+      "time_array": [
+        0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19,
+        20, 21, 22, 23
+      ]
+    },
+    "spot": "Pond",
+    "rarity": "Common"
+  },
+  "phrases": {
+    "joke": "I caught a crawfish! Or else it's a lobster and I'm a giant!",
+    "museum_description": "Ohoo! So you have found a crawfish. Neither crab nor lobster, crawfish evolved in an interesting manner. Beware their fearsome pinchy pinchers! Behold their many legs! I say! It is a big bug-like, eh wot...The more I look at it, the more unsettled I feel... Let's be done with this and never speak of it again, shall we?"
+  },
+  "sprites": {
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/fishes/Crawfish.png",
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/fishes/Crawfish.png"
+  },
+  "id": 11,
+  "name": "crawfish",
+  "shadow_size": "2"
+}

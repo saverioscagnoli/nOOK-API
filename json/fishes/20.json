@@ -1,0 +1,46 @@
+{
+  "translations": {
+    "english_USA": "bluegill",
+    "english_EU": "bluegill",
+    "german": "Sonnenbarsch",
+    "spanish_EU": "pez sol",
+    "spanish_american": "pez sol",
+    "french_EU": "crapet",
+    "french_american": "crapet",
+    "italian": "pesce persico",
+    "dutch": "zonnebaars",
+    "simplified_chinese": "蓝腮太阳鱼",
+    "traditional_chinese": "藍鰓太陽魚",
+    "japanese": "ブルーギル",
+    "korean": "블루길",
+    "russian": "солнечник"
+  },
+  "sell_prices": { "nook": 180, "cj": 270 },
+  "available": {
+    "hemisphere_data": {
+      "northern_months": "",
+      "southern_months": "",
+      "northern_months_array": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "southern_months_array": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    },
+    "time": {
+      "all_day": false,
+      "all_year": true,
+      "time_string": "9am - 4pm",
+      "time_array": [9, 10, 11, 12, 13, 14, 15]
+    },
+    "spot": "River",
+    "rarity": "Common"
+  },
+  "phrases": {
+    "joke": "I caught a bluegill! Do you think it calls me \"pinklung\"?",
+    "museum_description": "The bluegill is incredibly common. A bit too common, depending upon where you are. They eat anything that fits in their mouths and are highly adaptable. The bane of fishermen in some areas, bluegill is often the only fish to be caught! But looking in its wee beady eyes, I must say I see no ill will in it..."
+  },
+  "sprites": {
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/fishes/Bluegill.png",
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/fishes/Bluegill.png"
+  },
+  "id": 20,
+  "name": "bluegill",
+  "shadow_size": "2"
+}

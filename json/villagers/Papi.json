@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Papi",
+    "english_EU": "Papi",
+    "german": "Friedel",
+    "spanish_EU": "Bayo",
+    "spanish_american": "Bayo",
+    "french_EU": "Bourrico",
+    "french_american": "Bourrico",
+    "italian": "Pierino",
+    "dutch": "Papi",
+    "simplified_chinese": "小冈",
+    "traditional_chinese": "小岡",
+    "japanese": "オカッピ",
+    "korean": "마사마",
+    "russian": "Папи"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Papi.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Papi.png"
+  },
+  "id": 274,
+  "name": "Papi",
+  "sex": "Male",
+  "personality": "Lazy",
+  "birthday": "1/10",
+  "species": "Horse",
+  "catch_phrase": "haaay",
+  "name_color": "#fffce9"
+}

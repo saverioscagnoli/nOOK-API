@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "K.K. Aria",
+    "english_EU": "K.K. Aria",
+    "german": "K.K. Arie",
+    "spanish_EU": "Tota-aria",
+    "spanish_american": "Tota-aria",
+    "french_EU": "Aria de Kéké",
+    "french_american": "Aria de Kéké",
+    "italian": "K.K. Aria",
+    "dutch": "K.K.-aria",
+    "simplified_chinese": "K.K.咏叹调",
+    "traditional_chinese": "K.K.詠嘆調",
+    "japanese": "けけマリア",
+    "korean": "K.K.마리아",
+    "russian": "Ария К. К."
+  },
+  "id": 16,
+  "name": "K.K. Aria",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/KK_Aria.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/KK_Aria.mp3"
+}

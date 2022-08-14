@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Wade",
+    "english_EU": "Wade",
+    "german": "Staksi",
+    "spanish_EU": "Petín",
+    "spanish_american": "Petín",
+    "french_EU": "Miglou",
+    "french_american": "Miglou",
+    "italian": "Plinio",
+    "dutch": "Wade",
+    "simplified_chinese": "竹轮",
+    "traditional_chinese": "竹輪",
+    "japanese": "カマボコ",
+    "korean": "호떡",
+    "russian": "Уэйд"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Wade.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Wade.png"
+  },
+  "id": 398,
+  "name": "Wade",
+  "sex": "Male",
+  "personality": "Lazy",
+  "birthday": "10/30",
+  "species": "Penguin",
+  "catch_phrase": "so it goes",
+  "name_color": "#848484"
+}

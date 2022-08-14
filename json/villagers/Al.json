@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Al",
+    "english_EU": "Al",
+    "german": "Kokong",
+    "spanish_EU": "Álex",
+    "spanish_american": "Álex",
+    "french_EU": "Gustave",
+    "french_american": "Gustave",
+    "italian": "Gregorio",
+    "dutch": "Al",
+    "simplified_chinese": "阿保",
+    "traditional_chinese": "阿保",
+    "japanese": "たもつ",
+    "korean": "우락",
+    "russian": "Эл"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Al.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Al.png"
+  },
+  "id": 4,
+  "name": "Al",
+  "sex": "Male",
+  "personality": "Lazy",
+  "birthday": "10/18",
+  "species": "Gorilla",
+  "catch_phrase": "ayyyeee",
+  "name_color": "#fffad4"
+}

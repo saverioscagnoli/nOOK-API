@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "Animal City",
+    "english_EU": "Animal City",
+    "german": "Die Stadt der Tiere",
+    "spanish_EU": "Ciudad animal",
+    "spanish_american": "Ciudad animal",
+    "french_EU": "À nous la belle ville",
+    "french_american": "À nous la belle ville",
+    "italian": "La città degli animali",
+    "dutch": "Animal City",
+    "simplified_chinese": "动物城镇",
+    "traditional_chinese": "動物城鎮",
+    "japanese": "どうぶつのまち",
+    "korean": "동물의 마을",
+    "russian": "Город зверушек"
+  },
+  "id": 3,
+  "name": "Animal City",
+  "buy_price": null,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/Animal_City.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/Animal_City.mp3"
+}

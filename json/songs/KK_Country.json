@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "K.K. Country",
+    "english_EU": "K.K. Country",
+    "german": "K.K. Country",
+    "spanish_EU": "Tota-country",
+    "spanish_american": "Tota-country",
+    "french_EU": "Country Kéké",
+    "french_american": "Country Kéké",
+    "italian": "K.K. Country",
+    "dutch": "K.K.-country",
+    "simplified_chinese": "K.K.乡村",
+    "traditional_chinese": "K.K.鄉村",
+    "japanese": "けけカントリー",
+    "korean": "K.K.컨트리",
+    "russian": "Кантри К. К."
+  },
+  "id": 26,
+  "name": "K.K. Country",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/KK_Country.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/KK_Country.mp3"
+}

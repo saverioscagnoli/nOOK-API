@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "K.K. Reggae",
+    "english_EU": "K.K. Reggae",
+    "german": "K.K. Reggae",
+    "spanish_EU": "Tota-reggae",
+    "spanish_american": "Tota-reggae",
+    "french_EU": "Reggae de Kéké",
+    "french_american": "Reggae de Kéké",
+    "italian": "K.K. Reggae",
+    "dutch": "K.K.-reggae",
+    "simplified_chinese": "K.K.雷鬼",
+    "traditional_chinese": "K.K.雷鬼",
+    "japanese": "けけレゲエ",
+    "korean": "K.K.레게",
+    "russian": "Регги К. К."
+  },
+  "id": 57,
+  "name": "K.K. Reggae",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/KK_Reggae.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/KK_Reggae.mp3"
+}

@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Colton",
+    "english_EU": "Colton",
+    "german": "Carsten",
+    "spanish_EU": "Furio",
+    "spanish_american": "Furio",
+    "french_EU": "Tony",
+    "french_american": "Tony",
+    "italian": "Furio",
+    "dutch": "Colton",
+    "simplified_chinese": "安索尼",
+    "traditional_chinese": "安索尼",
+    "japanese": "アンソニー",
+    "korean": "안소니",
+    "russian": "Колтон"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Colton.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Colton.png"
+  },
+  "id": 100,
+  "name": "Colton",
+  "sex": "Male",
+  "personality": "Smug",
+  "birthday": "5/22",
+  "species": "Horse",
+  "catch_phrase": "check it",
+  "name_color": "#848484"
+}

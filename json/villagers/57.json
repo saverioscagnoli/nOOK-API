@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Bree",
+    "english_EU": "Bree",
+    "german": "Jenny",
+    "spanish_EU": "Brie",
+    "spanish_american": "Brie",
+    "french_EU": "Quenotte",
+    "french_american": "Quenotte",
+    "italian": "Ginella",
+    "dutch": "Bree",
+    "simplified_chinese": "西瓜皮",
+    "traditional_chinese": "西瓜皮",
+    "japanese": "サラ",
+    "korean": "사라",
+    "russian": "Бри"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Bree.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Bree.png"
+  },
+  "id": 57,
+  "name": "Bree",
+  "sex": "Female",
+  "personality": "Snooty",
+  "birthday": "7/7",
+  "species": "Mouse",
+  "catch_phrase": "cheeseball",
+  "name_color": "#848484"
+}

@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "K.K. Casbah",
+    "english_EU": "K.K. Casbah",
+    "german": "K.K. Orientsong",
+    "spanish_EU": "Tota-alcazaba",
+    "spanish_american": "Tota-alcazaba",
+    "french_EU": "Cheb Kéké",
+    "french_american": "Ali Kéké",
+    "italian": "K.K. Assolo",
+    "dutch": "K.K. in de kasba",
+    "simplified_chinese": "土耳其乐曲",
+    "traditional_chinese": "土耳其樂曲",
+    "japanese": "トルコそんぐ",
+    "korean": "터키의 노래",
+    "russian": "Крепость К. К."
+  },
+  "id": 23,
+  "name": "K.K. Casbah",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/KK_Casbah.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/KK_Casbah.mp3"
+}

@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Maple",
+    "english_EU": "Maple",
+    "german": "Mona",
+    "spanish_EU": "Dulce",
+    "spanish_american": "Dulce",
+    "french_EU": "Léa",
+    "french_american": "Léa",
+    "italian": "Dulcinea",
+    "dutch": "Maple",
+    "simplified_chinese": "小枫",
+    "traditional_chinese": "小楓",
+    "japanese": "メープル",
+    "korean": "메이첼",
+    "russian": "Мейпл"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Maple.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Maple.png"
+  },
+  "id": 232,
+  "name": "Maple",
+  "sex": "Female",
+  "personality": "Normal",
+  "birthday": "6/15",
+  "species": "Bear cub",
+  "catch_phrase": "honey",
+  "name_color": "#fffce9"
+}

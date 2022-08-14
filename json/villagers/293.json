@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Piper",
+    "english_EU": "Piper",
+    "german": "Iris",
+    "spanish_EU": "Bárbara",
+    "spanish_american": "Bárbara",
+    "french_EU": "Neige",
+    "french_american": "Neige",
+    "italian": "Giuliva",
+    "dutch": "Piper",
+    "simplified_chinese": "丽婷",
+    "traditional_chinese": "麗婷",
+    "japanese": "レイコ",
+    "korean": "파이프",
+    "russian": "Пайпер"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Piper.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Piper.png"
+  },
+  "id": 293,
+  "name": "Piper",
+  "sex": "Female",
+  "personality": "Peppy",
+  "birthday": "4/18",
+  "species": "Bird",
+  "catch_phrase": "chickadee",
+  "name_color": "#848484"
+}

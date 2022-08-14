@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Peanut",
+    "english_EU": "Peanut",
+    "german": "Paulina",
+    "spanish_EU": "Belinda",
+    "spanish_american": "Belinda",
+    "french_EU": "Rachida",
+    "french_american": "Rachida",
+    "italian": "Rachele",
+    "dutch": "Peanut",
+    "simplified_chinese": "小桃",
+    "traditional_chinese": "小桃",
+    "japanese": "ももこ",
+    "korean": "핑키",
+    "russian": "Пинат"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Peanut.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Peanut.png"
+  },
+  "id": 280,
+  "name": "Peanut",
+  "sex": "Female",
+  "personality": "Peppy",
+  "birthday": "6/8",
+  "species": "Squirrel",
+  "catch_phrase": "slacker",
+  "name_color": "#fffce9"
+}

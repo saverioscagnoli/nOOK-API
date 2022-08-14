@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Broffina",
+    "english_EU": "Broffina",
+    "german": "Elfriede",
+    "spanish_EU": "Brunilda",
+    "spanish_american": "Brunilda",
+    "french_EU": "Jo",
+    "french_american": "Jo",
+    "italian": "Concetta",
+    "dutch": "Broffina",
+    "simplified_chinese": "凯西",
+    "traditional_chinese": "凱西",
+    "japanese": "カサンドラ",
+    "korean": "히킨",
+    "russian": "Броффина"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Broffina.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Broffina.png"
+  },
+  "id": 59,
+  "name": "Broffina",
+  "sex": "Female",
+  "personality": "Snooty",
+  "birthday": "10/24",
+  "species": "Chicken",
+  "catch_phrase": "cluckadoo",
+  "name_color": "#fff2bb"
+}

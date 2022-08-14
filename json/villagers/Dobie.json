@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Dobie",
+    "english_EU": "Dobie",
+    "german": "Sigmund",
+    "spanish_EU": "Germán",
+    "spanish_american": "Germán",
+    "french_EU": "Loupiot",
+    "french_american": "Loupiot",
+    "italian": "Sigmund",
+    "dutch": "Dobie",
+    "simplified_chinese": "阿研",
+    "traditional_chinese": "阿研",
+    "japanese": "けん",
+    "korean": "켄",
+    "russian": "Доби"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Dobie.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Dobie.png"
+  },
+  "id": 120,
+  "name": "Dobie",
+  "sex": "Male",
+  "personality": "Cranky",
+  "birthday": "2/17",
+  "species": "Wolf",
+  "catch_phrase": "ohmmm",
+  "name_color": "#fffad4"
+}

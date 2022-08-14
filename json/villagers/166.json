@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Goose",
+    "english_EU": "Goose",
+    "german": "Konrad",
+    "spanish_EU": "Gus",
+    "spanish_american": "Gus",
+    "french_EU": "Pouli",
+    "french_american": "Pouli",
+    "italian": "Chiricò",
+    "dutch": "Goose",
+    "simplified_chinese": "肯肯",
+    "traditional_chinese": "肯肯",
+    "japanese": "ケンタ",
+    "korean": "건태",
+    "russian": "Гус"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Goose.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Goose.png"
+  },
+  "id": 166,
+  "name": "Goose",
+  "sex": "Male",
+  "personality": "Jock",
+  "birthday": "10/4",
+  "species": "Chicken",
+  "catch_phrase": "buh-kay",
+  "name_color": "#848484"
+}

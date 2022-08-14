@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Spike",
+    "english_EU": "Spike",
+    "german": "Atze",
+    "spanish_EU": "Cornio",
+    "spanish_american": "Cornio",
+    "french_EU": "Rhino",
+    "french_american": "Rhino",
+    "italian": "Bruto",
+    "dutch": "Spike",
+    "simplified_chinese": "阿蹲",
+    "traditional_chinese": "阿蹲",
+    "japanese": "スクワット",
+    "korean": "스쿼트",
+    "russian": "Спайк"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Spike.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Spike.png"
+  },
+  "id": 355,
+  "name": "Spike",
+  "sex": "Male",
+  "personality": "Cranky",
+  "birthday": "6/17",
+  "species": "Rhinoceros",
+  "catch_phrase": "punk",
+  "name_color": "#fff2bb"
+}

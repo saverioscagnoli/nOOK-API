@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "K.K. Soul",
+    "english_EU": "K.K. Soul",
+    "german": "K.K. Soul",
+    "spanish_EU": "Tota-soul",
+    "spanish_american": "Tota-soul",
+    "french_EU": "Soul de Kéké",
+    "french_american": "Soul de Kéké",
+    "italian": "K.K. Soul",
+    "dutch": "K.K.-soul",
+    "simplified_chinese": "K.K.灵魂乐",
+    "traditional_chinese": "K.K.靈魂樂",
+    "japanese": "けけソウル",
+    "korean": "K.K.소울",
+    "russian": "Соул К. К."
+  },
+  "id": 66,
+  "name": "K.K. Soul",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/KK_Soul.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/KK_Soul.mp3"
+}

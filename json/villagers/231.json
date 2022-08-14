@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Mallary",
+    "english_EU": "Mallary",
+    "german": "Marina",
+    "spanish_EU": "Mirta",
+    "spanish_american": "Mirta",
+    "french_EU": "Mallory",
+    "french_american": "Mallory",
+    "italian": "Sofia",
+    "dutch": "Mallary",
+    "simplified_chinese": "苏米",
+    "traditional_chinese": "蘇米",
+    "japanese": "スミモモ",
+    "korean": "스미모",
+    "russian": "Мэллари"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Mallary.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Mallary.png"
+  },
+  "id": 231,
+  "name": "Mallary",
+  "sex": "Female",
+  "personality": "Snooty",
+  "birthday": "11/17",
+  "species": "Duck",
+  "catch_phrase": "quackpth",
+  "name_color": "#fffce9"
+}

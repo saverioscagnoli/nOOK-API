@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "Mr. K.K.",
+    "english_EU": "Mr. K.K.",
+    "german": "Herr K.K.",
+    "spanish_EU": "Míster Totakeke",
+    "spanish_american": "Míster Totakeke",
+    "french_EU": "M. Kéké",
+    "french_american": "M. Kéké",
+    "italian": "K.K. Sig. No",
+    "dutch": "Meester K.K.",
+    "simplified_chinese": "K.K.老师",
+    "traditional_chinese": "K.K.老師",
+    "japanese": "けけせんせい",
+    "korean": "K.K.선생님",
+    "russian": "Господин К. К."
+  },
+  "id": 79,
+  "name": "Mr. K.K.",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/Mr_KK.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/Mr_KK.mp3"
+}

@@ -1,0 +1,25 @@
+{
+  "translations": {
+    "english_USA": "wistful painting",
+    "english_EU": "wistful painting",
+    "german": "Perlengemälde",
+    "spanish_EU": "retrato perla",
+    "spanish_american": "retrato perla",
+    "french_EU": "toile nacrée",
+    "french_american": "toile nacrée",
+    "italian": "quadro realista",
+    "dutch": "melancholische schilderij",
+    "simplified_chinese": "漂亮的名画",
+    "traditional_chinese": "漂亮的名畫",
+    "japanese": "すてきなめいが",
+    "korean": "근사한 명화",
+    "russian": "мечтательная картина"
+  },
+  "id": 42,
+  "name": "wistful painting",
+  "buy_price": 4980,
+  "sell_price": 1245,
+  "museum_description": "Also known as \"Girl with a Turban,\" this piece uses ultramarine paint, which was expensive at the time. It seems the expense was worth it, as the vivid blue colors draw the eye and help make the piece a classic. The only question is... Is that a real pearl earring? Or something else...",
+  "canBeFake": true,
+  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/render/art/wistful_painting.png"
+}

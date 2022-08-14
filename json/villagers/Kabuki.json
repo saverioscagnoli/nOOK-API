@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Kabuki",
+    "english_EU": "Kabuki",
+    "german": "Kabuki",
+    "spanish_EU": "Kabuki",
+    "spanish_american": "Kabuki",
+    "french_EU": "Kabuki",
+    "french_american": "Kabuki",
+    "italian": "Kabuki",
+    "dutch": "Kabuki",
+    "simplified_chinese": "戈伍纪",
+    "traditional_chinese": "戈伍紀",
+    "japanese": "かぶきち",
+    "korean": "가북희",
+    "russian": "Кабуки"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Kabuki.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Kabuki.png"
+  },
+  "id": 199,
+  "name": "Kabuki",
+  "sex": "Male",
+  "personality": "Cranky",
+  "birthday": "11/29",
+  "species": "Cat",
+  "catch_phrase": "meooo-OH",
+  "name_color": "#848484"
+}

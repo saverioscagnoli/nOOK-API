@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "K.K. Stroll",
+    "english_EU": "K.K. Stroll",
+    "german": "Spaziergang",
+    "spanish_EU": "Paseíto",
+    "spanish_american": "Paseíto",
+    "french_EU": "Flânerie Kéké",
+    "french_american": "Flânerie Kéké",
+    "italian": "K.K. Trallalà",
+    "dutch": "Op straat",
+    "simplified_chinese": "散散步",
+    "traditional_chinese": "散散步",
+    "japanese": "おさんぽ",
+    "korean": "산책",
+    "russian": "Прогулка К. К."
+  },
+  "id": 68,
+  "name": "K.K. Stroll",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/KK_Stroll.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/KK_Stroll.mp3"
+}

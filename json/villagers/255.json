@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Mott",
+    "english_EU": "Mott",
+    "german": "Leonhard",
+    "spanish_EU": "Jones",
+    "spanish_american": "Jones",
+    "french_EU": "Aimé",
+    "french_american": "Aimé",
+    "italian": "Leopold",
+    "dutch": "Mott",
+    "simplified_chinese": "李克",
+    "traditional_chinese": "李克",
+    "japanese": "リック",
+    "korean": "릭",
+    "russian": "Мотт"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Mott.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Mott.png"
+  },
+  "id": 255,
+  "name": "Mott",
+  "sex": "Male",
+  "personality": "Jock",
+  "birthday": "7/10",
+  "species": "Lion",
+  "catch_phrase": "cagey",
+  "name_color": "#8b5f57"
+}

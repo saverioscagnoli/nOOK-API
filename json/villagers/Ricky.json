@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Ricky",
+    "english_EU": "Ricky",
+    "german": "Ronny",
+    "spanish_EU": "Altramuz",
+    "spanish_american": "Altramuz",
+    "french_EU": "Rocky",
+    "french_american": "Rocky",
+    "italian": "Sberlo",
+    "dutch": "Ricky",
+    "simplified_chinese": "嘉治",
+    "traditional_chinese": "嘉治",
+    "japanese": "カジロウ",
+    "korean": "갈가리",
+    "russian": "Рики"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Ricky.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Ricky.png"
+  },
+  "id": 317,
+  "name": "Ricky",
+  "sex": "Male",
+  "personality": "Cranky",
+  "birthday": "9/14",
+  "species": "Squirrel",
+  "catch_phrase": "nutcase",
+  "name_color": "#9b553a"
+}

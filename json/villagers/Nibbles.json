@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Nibbles",
+    "english_EU": "Nibbles",
+    "german": "Knuspi",
+    "spanish_EU": "Dentina",
+    "spanish_american": "Dentina",
+    "french_EU": "Lola",
+    "french_american": "Lola",
+    "italian": "Rododea",
+    "dutch": "Nibbles",
+    "simplified_chinese": "咬咬",
+    "traditional_chinese": "咬咬",
+    "japanese": "ガリガリ",
+    "korean": "그리미",
+    "russian": "Ниблз"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Nibbles.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Nibbles.png"
+  },
+  "id": 262,
+  "name": "Nibbles",
+  "sex": "Female",
+  "personality": "Peppy",
+  "birthday": "7/19",
+  "species": "Squirrel",
+  "catch_phrase": "niblet",
+  "name_color": "#fffce9"
+}

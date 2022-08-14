@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Cookie",
+    "english_EU": "Cookie",
+    "german": "Rosi",
+    "spanish_EU": "Purita",
+    "spanish_american": "Purita",
+    "french_EU": "Cookie",
+    "french_american": "Cookie",
+    "italian": "Briciola",
+    "dutch": "Cookie",
+    "simplified_chinese": "珮琳",
+    "traditional_chinese": "珮琳",
+    "japanese": "ペリーヌ",
+    "korean": "베리",
+    "russian": "Куки"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Cookie.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Cookie.png"
+  },
+  "id": 101,
+  "name": "Cookie",
+  "sex": "Female",
+  "personality": "Peppy",
+  "birthday": "6/18",
+  "species": "Dog",
+  "catch_phrase": "arfer",
+  "name_color": "#fffce9"
+}

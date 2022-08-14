@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Jeremiah",
+    "english_EU": "Jeremiah",
+    "german": "Jörg",
+    "spanish_EU": "Jeremías",
+    "spanish_american": "Jeremías",
+    "french_EU": "Jérémie",
+    "french_american": "Jérémie",
+    "italian": "Geremia",
+    "dutch": "Jeremiah",
+    "simplified_chinese": "阿刻",
+    "traditional_chinese": "阿刻",
+    "japanese": "クワトロ",
+    "korean": "드리미",
+    "russian": "Джеремия"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Jeremiah.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Jeremiah.png"
+  },
+  "id": 192,
+  "name": "Jeremiah",
+  "sex": "Male",
+  "personality": "Lazy",
+  "birthday": "7/8",
+  "species": "Frog",
+  "catch_phrase": "nee-deep",
+  "name_color": "#fffce9"
+}

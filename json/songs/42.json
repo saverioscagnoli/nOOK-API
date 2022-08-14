@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "K.K. Jongara",
+    "english_EU": "K.K. Jongara",
+    "german": "K.K. Melodie",
+    "spanish_EU": "Tota-shamisen",
+    "spanish_american": "Tota-shamisen",
+    "french_EU": "Shamisen Kéké",
+    "french_american": "Shamisen Kéké",
+    "italian": "K.K. Shamisen",
+    "dutch": "K.K.-jongara",
+    "simplified_chinese": "K.K.三味线",
+    "traditional_chinese": "K.K.三味線",
+    "japanese": "けけじょんがら",
+    "korean": "K.K.샤미센 연주곡",
+    "russian": "Джонгара К. К."
+  },
+  "id": 42,
+  "name": "K.K. Jongara",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/KK_Jongara.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/KK_Jongara.mp3"
+}

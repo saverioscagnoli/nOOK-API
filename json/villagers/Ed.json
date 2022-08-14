@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Ed",
+    "english_EU": "Ed",
+    "german": "Hermann",
+    "spanish_EU": "Crinaldo",
+    "spanish_american": "Crinaldo",
+    "french_EU": "Édouard",
+    "french_american": "Édouard",
+    "italian": "Codino",
+    "dutch": "Ed",
+    "simplified_chinese": "马誉",
+    "traditional_chinese": "馬譽",
+    "japanese": "キザノホマレ",
+    "korean": "꺼벙",
+    "russian": "Эд"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Ed.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Ed.png"
+  },
+  "id": 128,
+  "name": "Ed",
+  "sex": "Male",
+  "personality": "Smug",
+  "birthday": "9/16",
+  "species": "Horse",
+  "catch_phrase": "greenhorn",
+  "name_color": "#fffce9"
+}

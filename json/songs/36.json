@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "K.K. Fusion",
+    "english_EU": "K.K. Fusion",
+    "german": "K.K. Fusion",
+    "spanish_EU": "Tota-fusión",
+    "spanish_american": "Tota-fusión",
+    "french_EU": "Fusion Kéké",
+    "french_american": "Fusion Kéké",
+    "italian": "K.K. Fusion",
+    "dutch": "K.K.-fusion",
+    "simplified_chinese": "K.K.融合爵士乐",
+    "traditional_chinese": "K.K.融合爵士樂",
+    "japanese": "けけフュージョン",
+    "korean": "K.K.퓨전",
+    "russian": "Фьюжен К. К."
+  },
+  "id": 36,
+  "name": "K.K. Fusion",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/KK_Fusion.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/KK_Fusion.mp3"
+}

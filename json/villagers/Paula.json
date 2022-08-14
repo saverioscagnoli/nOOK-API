@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Paula",
+    "english_EU": "Paula",
+    "german": "Paula",
+    "spanish_EU": "Lizi",
+    "spanish_american": "Lizi",
+    "french_EU": "Wendy",
+    "french_american": "Wendy",
+    "italian": "Bruna",
+    "dutch": "Paula",
+    "simplified_chinese": "瑞秋",
+    "traditional_chinese": "瑞秋",
+    "japanese": "レイチェル",
+    "korean": "레이첼",
+    "russian": "Паула"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Paula.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Paula.png"
+  },
+  "id": 278,
+  "name": "Paula",
+  "sex": "Female",
+  "personality": "Big Sister",
+  "birthday": "3/22",
+  "species": "Bear",
+  "catch_phrase": "yodelay",
+  "name_color": "#fffce9"
+}

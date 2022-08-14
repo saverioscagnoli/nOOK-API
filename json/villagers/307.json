@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Quillson",
+    "english_EU": "Quillson",
+    "german": "Quentin",
+    "spanish_EU": "Cuálter",
+    "spanish_american": "Cuálter",
+    "french_EU": "Narcisse",
+    "french_american": "Narcisse",
+    "italian": "Verdonio",
+    "dutch": "Quillson",
+    "simplified_chinese": "何童",
+    "traditional_chinese": "何童",
+    "japanese": "タックン",
+    "korean": "덕근",
+    "russian": "Квилсон"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Quillson.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Quillson.png"
+  },
+  "id": 307,
+  "name": "Quillson",
+  "sex": "Male",
+  "personality": "Smug",
+  "birthday": "12/22",
+  "species": "Duck",
+  "catch_phrase": "ridukulous",
+  "name_color": "#fffce9"
+}

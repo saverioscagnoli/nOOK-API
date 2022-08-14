@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "T-Bone",
+    "english_EU": "T-Bone",
+    "german": "Marius",
+    "spanish_EU": "Bovi",
+    "spanish_american": "Bovi",
+    "french_EU": "Steakos",
+    "french_american": "Steakos",
+    "italian": "Victor",
+    "dutch": "T-Bone",
+    "simplified_chinese": "罗宋",
+    "traditional_chinese": "羅宋",
+    "japanese": "ボルシチ",
+    "korean": "티본",
+    "russian": "Ти-Боун"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/T-Bone.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/T-Bone.png"
+  },
+  "id": 368,
+  "name": "T-Bone",
+  "sex": "Male",
+  "personality": "Cranky",
+  "birthday": "5/20",
+  "species": "Bull",
+  "catch_phrase": "moocher",
+  "name_color": "#498992"
+}

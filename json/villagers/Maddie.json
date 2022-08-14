@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Maddie",
+    "english_EU": "Maddie",
+    "german": "Agnes",
+    "spanish_EU": "Martina",
+    "spanish_american": "Martina",
+    "french_EU": "Olympe",
+    "french_american": "Olympe",
+    "italian": "Cristina",
+    "dutch": "Maddie",
+    "simplified_chinese": "麻蓉",
+    "traditional_chinese": "麻蓉",
+    "japanese": "マロン",
+    "korean": "마롱",
+    "russian": "Мэдди"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Maddie.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Maddie.png"
+  },
+  "id": 228,
+  "name": "Maddie",
+  "sex": "Female",
+  "personality": "Peppy",
+  "birthday": "1/11",
+  "species": "Dog",
+  "catch_phrase": "yippee",
+  "name_color": "#fffce9"
+}

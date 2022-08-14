@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Lopez",
+    "english_EU": "Lopez",
+    "german": "Eckart",
+    "spanish_EU": "Agreste",
+    "spanish_american": "Agreste",
+    "french_EU": "Jon",
+    "french_american": "Jon",
+    "italian": "Lopez",
+    "dutch": "Lopez",
+    "simplified_chinese": "汤姆",
+    "traditional_chinese": "湯姆",
+    "japanese": "トムソン",
+    "korean": "톰슨",
+    "russian": "Лопес"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Lopez.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Lopez.png"
+  },
+  "id": 221,
+  "name": "Lopez",
+  "sex": "Male",
+  "personality": "Smug",
+  "birthday": "8/20",
+  "species": "Deer",
+  "catch_phrase": "badoom",
+  "name_color": "#fffce9"
+}

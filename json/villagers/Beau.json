@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Beau",
+    "english_EU": "Beau",
+    "german": "Martin",
+    "spanish_EU": "Lope",
+    "spanish_american": "Lope",
+    "french_EU": "Stefaon",
+    "french_american": "Stefaon",
+    "italian": "Gigi",
+    "dutch": "Beau",
+    "simplified_chinese": "彼得",
+    "traditional_chinese": "彼得",
+    "japanese": "ペーター",
+    "korean": "피터",
+    "russian": "Бью"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Beau.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Beau.png"
+  },
+  "id": 32,
+  "name": "Beau",
+  "sex": "Male",
+  "personality": "Lazy",
+  "birthday": "4/5",
+  "species": "Deer",
+  "catch_phrase": "saltlick",
+  "name_color": "#fff2bb"
+}

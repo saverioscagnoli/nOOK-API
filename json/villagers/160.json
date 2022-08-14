@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Genji",
+    "english_EU": "Genji",
+    "german": "Aki",
+    "spanish_EU": "Sumo",
+    "spanish_american": "Sumo",
+    "french_EU": "Kali",
+    "french_american": "Kali",
+    "italian": "Genji",
+    "dutch": "Genji",
+    "simplified_chinese": "儒林",
+    "traditional_chinese": "儒林",
+    "japanese": "ゲンジ",
+    "korean": "토시",
+    "russian": "Гэндзи"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Genji.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Genji.png"
+  },
+  "id": 160,
+  "name": "Genji",
+  "sex": "Male",
+  "personality": "Jock",
+  "birthday": "1/21",
+  "species": "Rabbit",
+  "catch_phrase": "mochi",
+  "name_color": "#848484"
+}

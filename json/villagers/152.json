@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Friga",
+    "english_EU": "Friga",
+    "german": "Frieda",
+    "spanish_EU": "Frida",
+    "spanish_american": "Frida",
+    "french_EU": "Friga",
+    "french_american": "Friga",
+    "italian": "Frida",
+    "dutch": "Friga",
+    "simplified_chinese": "谢宾娜",
+    "traditional_chinese": "謝賓娜",
+    "japanese": "サブリナ",
+    "korean": "사브리나",
+    "russian": "Фрига"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Friga.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Friga.png"
+  },
+  "id": 152,
+  "name": "Friga",
+  "sex": "Female",
+  "personality": "Snooty",
+  "birthday": "10/16",
+  "species": "Penguin",
+  "catch_phrase": "brrrmph",
+  "name_color": "#634b4b"
+}

@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Rolf",
+    "english_EU": "Rolf",
+    "german": "Boris",
+    "spanish_EU": "Albino",
+    "spanish_american": "Albino",
+    "french_EU": "Ralf",
+    "french_american": "Ralf",
+    "italian": "Rolf",
+    "dutch": "Rolf",
+    "simplified_chinese": "朱穆朗",
+    "traditional_chinese": "朱穆朗",
+    "japanese": "チョモラン",
+    "korean": "호랭이",
+    "russian": "Рольф"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Rolf.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Rolf.png"
+  },
+  "id": 328,
+  "name": "Rolf",
+  "sex": "Male",
+  "personality": "Cranky",
+  "birthday": "8/22",
+  "species": "Tiger",
+  "catch_phrase": "grrrolf",
+  "name_color": "#848484"
+}

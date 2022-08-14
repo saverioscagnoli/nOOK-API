@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Pecan",
+    "english_EU": "Pecan",
+    "german": "Noisette",
+    "spanish_EU": "Camila",
+    "spanish_american": "Camila",
+    "french_EU": "Pécan",
+    "french_american": "Pécan",
+    "italian": "Nocina",
+    "dutch": "Pecan",
+    "simplified_chinese": "雷贝嘉",
+    "traditional_chinese": "雷貝嘉",
+    "japanese": "レベッカ",
+    "korean": "레베카",
+    "russian": "Пекан"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Pecan.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Pecan.png"
+  },
+  "id": 281,
+  "name": "Pecan",
+  "sex": "Female",
+  "personality": "Snooty",
+  "birthday": "9/10",
+  "species": "Squirrel",
+  "catch_phrase": "chipmunk",
+  "name_color": "#fffce9"
+}

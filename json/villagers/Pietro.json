@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Pietro",
+    "english_EU": "Pietro",
+    "german": "Pietro",
+    "spanish_EU": "Kikolor",
+    "spanish_american": "Kikolor",
+    "french_EU": "Pietro",
+    "french_american": "Pietro",
+    "italian": "Giulivo",
+    "dutch": "Pietro",
+    "simplified_chinese": "皮耶罗",
+    "traditional_chinese": "皮耶羅",
+    "japanese": "ジュペッティ",
+    "korean": "피엘",
+    "russian": "Пьетро"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Pietro.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Pietro.png"
+  },
+  "id": 291,
+  "name": "Pietro",
+  "sex": "Male",
+  "personality": "Smug",
+  "birthday": "4/19",
+  "species": "Sheep",
+  "catch_phrase": "honk honk",
+  "name_color": "#fffad4"
+}

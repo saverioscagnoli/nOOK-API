@@ -1,0 +1,49 @@
+{
+  "translations": {
+    "english_USA": "zebra turkeyfish",
+    "english_EU": "zebra turkeyfish",
+    "german": "Rotfeuerfisch",
+    "spanish_EU": "pez león",
+    "spanish_american": "pez león",
+    "french_EU": "poisson-scorpion",
+    "french_american": "poisson-scorpion",
+    "italian": "leone zebrato",
+    "dutch": "koraalduivel",
+    "simplified_chinese": "狮子鱼",
+    "traditional_chinese": "獅子魚",
+    "japanese": "ミノカサゴ",
+    "korean": "쏨뱅이",
+    "russian": "крылатка"
+  },
+  "sell_prices": { "nook": 500, "cj": 750 },
+  "available": {
+    "hemisphere_data": {
+      "northern_months": "4-11",
+      "southern_months": "10-5",
+      "northern_months_array": [4, 5, 6, 7, 8, 9, 10, 11],
+      "southern_months_array": [10, 11, 12, 1, 2, 3, 4, 5]
+    },
+    "time": {
+      "all_day": true,
+      "all_year": false,
+      "time_string": "",
+      "time_array": [
+        0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19,
+        20, 21, 22, 23
+      ]
+    },
+    "spot": "Sea",
+    "rarity": "Common"
+  },
+  "phrases": {
+    "joke": "I caught a zebra turkeyfish! Land, air, water--make up your mind!",
+    "museum_description": "The sheer brilliance and diversity found in the aquatic underworld never cease to amaze me. This zebra turkeyfish is as stunning to gaze upon as it is deadly. Those spines that are part of its defining physique are chock-full of venom. Fortunately, zebra turkeyfish are not susceptible to another's venom. Though solitary, I imagine they give one another a mean fin bump when passing each other by."
+  },
+  "sprites": {
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/fishes/Zebra_Turkeyfish.png",
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/fishes/Zebra_Turkeyfish.png"
+  },
+  "id": 53,
+  "name": "zebra turkeyfish",
+  "shadow_size": "3"
+}

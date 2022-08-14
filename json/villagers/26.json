@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Baabara",
+    "english_EU": "Baabara",
+    "german": "Babsi",
+    "spanish_EU": "Beelén",
+    "spanish_american": "Beelén",
+    "french_EU": "Bêêtty",
+    "french_american": "Bêêtty",
+    "italian": "Bea",
+    "dutch": "Baabara",
+    "simplified_chinese": "华尔滋",
+    "traditional_chinese": "華爾滋",
+    "japanese": "トロワ",
+    "korean": "트로와",
+    "russian": "Бабара"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Baabara.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Baabara.png"
+  },
+  "id": 26,
+  "name": "Baabara",
+  "sex": "Female",
+  "personality": "Snooty",
+  "birthday": "3/28",
+  "species": "Sheep",
+  "catch_phrase": "daahling",
+  "name_color": "#fffad4"
+}

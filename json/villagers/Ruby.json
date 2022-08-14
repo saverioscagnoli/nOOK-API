@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Ruby",
+    "english_EU": "Ruby",
+    "german": "Rubina",
+    "spanish_EU": "Rubí",
+    "spanish_american": "Rubí",
+    "french_EU": "Rubis",
+    "french_american": "Rubis",
+    "italian": "Rubina",
+    "dutch": "Ruby",
+    "simplified_chinese": "月兔",
+    "traditional_chinese": "月兔",
+    "japanese": "ルナ",
+    "korean": "루나",
+    "russian": "Руби"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Ruby.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Ruby.png"
+  },
+  "id": 335,
+  "name": "Ruby",
+  "sex": "Female",
+  "personality": "Peppy",
+  "birthday": "12/25",
+  "species": "Rabbit",
+  "catch_phrase": "li'l ears",
+  "name_color": "#848484"
+}

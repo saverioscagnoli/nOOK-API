@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Lily",
+    "english_EU": "Lily",
+    "german": "Liliane",
+    "spanish_EU": "Lili",
+    "spanish_american": "Lili",
+    "french_EU": "Raina",
+    "french_american": "Raina",
+    "italian": "Gigliola",
+    "dutch": "Lily",
+    "simplified_chinese": "雷妮",
+    "traditional_chinese": "雷妮",
+    "japanese": "レイニー",
+    "korean": "레이니",
+    "russian": "Лили"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Lily.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Lily.png"
+  },
+  "id": 216,
+  "name": "Lily",
+  "sex": "Female",
+  "personality": "Normal",
+  "birthday": "2/4",
+  "species": "Frog",
+  "catch_phrase": "toady",
+  "name_color": "#fffce9"
+}

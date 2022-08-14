@@ -1,0 +1,48 @@
+{
+  "translations": {
+    "english_USA": "cicada shell",
+    "english_EU": "cicada shell",
+    "german": "Zikadenlarvenhaut",
+    "spanish_EU": "muda de cigarra",
+    "spanish_american": "carcasa de cigarra",
+    "french_EU": "mue de cigale",
+    "french_american": "mue de cigale",
+    "italian": "esuvia di cicala",
+    "dutch": "cicadehuid",
+    "simplified_chinese": "蝉蜕",
+    "traditional_chinese": "蟬蛻",
+    "japanese": "セミのぬけがら",
+    "korean": "매미 허물",
+    "russian": "кокон цикады"
+  },
+  "sell_prices": { "nook": 10, "flick": 15 },
+  "available": {
+    "hemisphere_data": {
+      "northern_months": "7-8",
+      "southern_months": "1-2",
+      "northern_months_array": [7, 8],
+      "southern_months_array": [1, 2]
+    },
+    "time": {
+      "all_day": true,
+      "all_year": false,
+      "time_string": "",
+      "time_array": [
+        0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19,
+        20, 21, 22, 23
+      ]
+    },
+    "spot": "On trees",
+    "rarity": "Rare"
+  },
+  "phrases": {
+    "joke": "I found a cicada shell! I'm glad the little guy came out of it!",
+    "museum_description": "Cicadas! The nerve! Not only are they loud, they leave their cicada shells lying about! When it's time for a cicada nymph to turn into an adult, you see, it clings to a tree and sheds its exoskeleton. Then it just leaves this shell of its former self hanging right there! Awful manners, really...and awfully terrifying too."
+  },
+  "sprites": {
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/bugs/Cicada_Shell.png",
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/bugs/Cicada_Shell.png"
+  },
+  "id": 31,
+  "name": "cicada shell"
+}

@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Graham",
+    "english_EU": "Graham",
+    "german": "Günther",
+    "spanish_EU": "Roelio",
+    "spanish_american": "Roelio",
+    "french_EU": "Graham",
+    "french_american": "Graham",
+    "italian": "Evaristo",
+    "dutch": "Graham",
+    "simplified_chinese": "麦麦",
+    "traditional_chinese": "麥麥",
+    "japanese": "グラハム",
+    "korean": "글라햄",
+    "russian": "Грэм"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Graham.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Graham.png"
+  },
+  "id": 167,
+  "name": "Graham",
+  "sex": "Male",
+  "personality": "Smug",
+  "birthday": "6/20",
+  "species": "Hamster",
+  "catch_phrase": "indeed",
+  "name_color": "#9b553a"
+}

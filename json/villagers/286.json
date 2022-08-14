@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Penelope",
+    "english_EU": "Penelope",
+    "german": "Penelope",
+    "spanish_EU": "Adela",
+    "spanish_american": "Adela",
+    "french_EU": "Missy",
+    "french_american": "Missy",
+    "italian": "Penelope",
+    "dutch": "Penelope",
+    "simplified_chinese": "小啾",
+    "traditional_chinese": "小啾",
+    "japanese": "チューこ",
+    "korean": "찍순이",
+    "russian": "Адела"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Penelope.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Penelope.png"
+  },
+  "id": 286,
+  "name": "Penelope",
+  "sex": "Female",
+  "personality": "Peppy",
+  "birthday": "2/5",
+  "species": "Mouse",
+  "catch_phrase": "oh bow",
+  "name_color": "#fffce9"
+}

@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Freckles",
+    "english_EU": "Freckles",
+    "german": "Quacks",
+    "spanish_EU": "Rebeca",
+    "spanish_american": "Rebeca",
+    "french_EU": "Caro",
+    "french_american": "Caro",
+    "italian": "Semola",
+    "dutch": "Freckles",
+    "simplified_chinese": "小鲔",
+    "traditional_chinese": "小鮪",
+    "japanese": "マグロ",
+    "korean": "다랑어",
+    "russian": "Фреклс"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Freckles.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Freckles.png"
+  },
+  "id": 149,
+  "name": "Freckles",
+  "sex": "Female",
+  "personality": "Peppy",
+  "birthday": "2/19",
+  "species": "Duck",
+  "catch_phrase": "ducky",
+  "name_color": "#fffce9"
+}

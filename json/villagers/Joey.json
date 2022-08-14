@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Joey",
+    "english_EU": "Joey",
+    "german": "Kalle",
+    "spanish_EU": "Pascual",
+    "spanish_american": "Pascual",
+    "french_EU": "Joseph",
+    "french_american": "Joseph",
+    "italian": "Pino",
+    "dutch": "Joey",
+    "simplified_chinese": "李察",
+    "traditional_chinese": "李察",
+    "japanese": "リチャード",
+    "korean": "리처드",
+    "russian": "Джоуи"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Joey.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Joey.png"
+  },
+  "id": 194,
+  "name": "Joey",
+  "sex": "Male",
+  "personality": "Lazy",
+  "birthday": "1/3",
+  "species": "Duck",
+  "catch_phrase": "bleeeeeck",
+  "name_color": "#9b553a"
+}

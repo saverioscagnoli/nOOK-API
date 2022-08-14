@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Groucho",
+    "english_EU": "Groucho",
+    "german": "Ernst",
+    "spanish_EU": "Groucho",
+    "spanish_american": "Groucho",
+    "french_EU": "Ronchon",
+    "french_american": "Ronchon",
+    "italian": "Groucho",
+    "dutch": "Groucho",
+    "simplified_chinese": "爪爪",
+    "traditional_chinese": "爪爪",
+    "japanese": "クロー",
+    "korean": "거무틱",
+    "russian": "Граучо"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Groucho.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Groucho.png"
+  },
+  "id": 170,
+  "name": "Groucho",
+  "sex": "Male",
+  "personality": "Cranky",
+  "birthday": "10/23",
+  "species": "Bear",
+  "catch_phrase": "grumble",
+  "name_color": "#fffad4"
+}

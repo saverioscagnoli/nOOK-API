@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Bam",
+    "english_EU": "Bam",
+    "german": "Benjamin",
+    "spanish_EU": "Cornelio",
+    "spanish_american": "Cornelio",
+    "french_EU": "Nacer",
+    "french_american": "Nacer",
+    "italian": "Cornelio",
+    "dutch": "Bam",
+    "simplified_chinese": "小健",
+    "traditional_chinese": "小健",
+    "japanese": "タケル",
+    "korean": "록키",
+    "russian": "Бам"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Bam.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Bam.png"
+  },
+  "id": 27,
+  "name": "Bam",
+  "sex": "Male",
+  "personality": "Jock",
+  "birthday": "11/7",
+  "species": "Deer",
+  "catch_phrase": "kablang",
+  "name_color": "#fffce9"
+}

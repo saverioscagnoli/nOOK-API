@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Cousteau",
+    "english_EU": "Cousteau",
+    "german": "Jacques",
+    "spanish_EU": "Cousteau",
+    "spanish_american": "Cousteau",
+    "french_EU": "Figaro",
+    "french_american": "Figaro",
+    "italian": "Jacques",
+    "dutch": "Cousteau",
+    "simplified_chinese": "春卷",
+    "traditional_chinese": "春卷",
+    "japanese": "ハルマキ",
+    "korean": "왕서방",
+    "russian": "Кусто"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Cousteau.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Cousteau.png"
+  },
+  "id": 102,
+  "name": "Cousteau",
+  "sex": "Male",
+  "personality": "Jock",
+  "birthday": "12/17",
+  "species": "Frog",
+  "catch_phrase": "oui oui",
+  "name_color": "#9b553a"
+}

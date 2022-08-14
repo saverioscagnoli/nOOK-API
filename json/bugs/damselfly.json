@@ -1,0 +1,48 @@
+{
+  "translations": {
+    "english_USA": "damselfly",
+    "english_EU": "damselfly",
+    "german": "Wasserjungfer",
+    "spanish_EU": "libélula damisela",
+    "spanish_american": "libélula damisela",
+    "french_EU": "demoiselle",
+    "french_american": "demoiselle",
+    "italian": "zigottero",
+    "dutch": "juffer",
+    "simplified_chinese": "豆娘",
+    "traditional_chinese": "豆娘",
+    "japanese": "イトトンボ",
+    "korean": "실잠자리",
+    "russian": "равнокрылая стрекоза"
+  },
+  "sell_prices": { "nook": 500, "flick": 750 },
+  "available": {
+    "hemisphere_data": {
+      "northern_months": "11-2",
+      "southern_months": "5-8",
+      "northern_months_array": [11, 12, 1, 2],
+      "southern_months_array": [5, 6, 7, 8]
+    },
+    "time": {
+      "all_day": true,
+      "all_year": false,
+      "time_string": "",
+      "time_array": [
+        0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19,
+        20, 21, 22, 23
+      ]
+    },
+    "spot": "Flying",
+    "rarity": "Common"
+  },
+  "phrases": {
+    "joke": "I caught a damselfly! Now it's a damselfly in distress!",
+    "museum_description": "The colorful damselfly is similar to its cousin, the dragonfly, though it tends to be smaller and thinner. But don't let the delicate looks fool you! Much like the dragonfly, the damselfly is a ruthless predator. It loves to catch flies midair and eat them, and has been known to snack on spiders it plucks from the web! In short, it is not a dinner guest I would recommend... And it is not a menu I could keep down."
+  },
+  "sprites": {
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/bugs/Damselfly.png",
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/bugs/Damselfly.png"
+  },
+  "id": 35,
+  "name": "damselfly"
+}

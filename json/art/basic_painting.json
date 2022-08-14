@@ -1,0 +1,25 @@
+{
+  "translations": {
+    "english_USA": "basic painting",
+    "english_EU": "basic painting",
+    "german": "Einfachgemälde",
+    "spanish_EU": "retrato heroico",
+    "spanish_american": "retrato heroico",
+    "french_EU": "toile classique",
+    "french_american": "toile classique",
+    "italian": "quadro semplice",
+    "dutch": "klassieke schilderij",
+    "simplified_chinese": "勇敢的名画",
+    "traditional_chinese": "勇敢的名畫",
+    "japanese": "いさましいめいが",
+    "korean": "용감한 명화",
+    "russian": "обычная картина"
+  },
+  "id": 4,
+  "name": "basic painting",
+  "buy_price": 4980,
+  "sell_price": 1245,
+  "museum_description": "Gainsborough was known for his innovative use of colors in his traditional portraits, like this one. Although he preferred painting landscapes, his portraits would be the defining work of his career.",
+  "canBeFake": true,
+  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/render/art/basic_painting.png"
+}

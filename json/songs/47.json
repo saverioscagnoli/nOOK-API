@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "K.K. Marathon",
+    "english_EU": "K.K. Marathon",
+    "german": "K.K. Marathon",
+    "spanish_EU": "Tota-maratón",
+    "spanish_american": "Tota-maratón",
+    "french_EU": "Kéké marathon",
+    "french_american": "Kéké marathon",
+    "italian": "K.K. Maratona",
+    "dutch": "K.K.-gamelan",
+    "simplified_chinese": "K.K.甘美朗",
+    "traditional_chinese": "K.K.甘美朗",
+    "japanese": "けけガムラン",
+    "korean": "K.K.가믈란",
+    "russian": "Марафон К. К."
+  },
+  "id": 47,
+  "name": "K.K. Marathon",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/KK_Marathon.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/KK_Marathon.mp3"
+}

@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Norma",
+    "english_EU": "Norma",
+    "german": "Nelly",
+    "spanish_EU": "Norma",
+    "spanish_american": "Norma",
+    "french_EU": "Norma",
+    "french_american": "Norma",
+    "italian": "Norma",
+    "dutch": "Norma",
+    "simplified_chinese": "晨曦",
+    "traditional_chinese": "晨曦",
+    "japanese": "いさこ",
+    "korean": "미자",
+    "russian": "Норма"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Norma.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Norma.png"
+  },
+  "id": 263,
+  "name": "Norma",
+  "sex": "Female",
+  "personality": "Normal",
+  "birthday": "9/20",
+  "species": "Cow",
+  "catch_phrase": "hoof hoo",
+  "name_color": "#634b4b"
+}

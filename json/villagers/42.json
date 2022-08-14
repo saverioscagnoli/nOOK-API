@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Bill",
+    "english_EU": "Bill",
+    "german": "Bill",
+    "spanish_EU": "Paquito",
+    "spanish_american": "Paquito",
+    "french_EU": "Choco",
+    "french_american": "Choco",
+    "italian": "Gino",
+    "dutch": "Bill",
+    "simplified_chinese": "皮蛋",
+    "traditional_chinese": "皮蛋",
+    "japanese": "ピータン",
+    "korean": "코코아",
+    "russian": "Билл"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Bill.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Bill.png"
+  },
+  "id": 42,
+  "name": "Bill",
+  "sex": "Male",
+  "personality": "Jock",
+  "birthday": "2/1",
+  "species": "Duck",
+  "catch_phrase": "quacko",
+  "name_color": "#fffce9"
+}

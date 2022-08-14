@@ -1,0 +1,25 @@
+{
+  "translations": {
+    "english_USA": "solemn painting",
+    "english_EU": "solemn painting",
+    "german": "Feierlichgemälde",
+    "spanish_EU": "cuadro español",
+    "spanish_american": "cuadro español",
+    "french_EU": "toile solennelle",
+    "french_american": "toile solennelle",
+    "italian": "quadro solenne",
+    "dutch": "plechtige schilderij",
+    "simplified_chinese": "肃穆的名画",
+    "traditional_chinese": "肅穆的名畫",
+    "japanese": "おごそかなめいが",
+    "korean": "엄숙한 명화",
+    "russian": "торжественная картина"
+  },
+  "id": 34,
+  "name": "solemn painting",
+  "buy_price": 4980,
+  "sell_price": 1245,
+  "museum_description": "This famous piece by Velázquez, who served the Spanish court, shows us something about perspective. It depicts a young princess with her \"ladies-in-waiting.\" The artist himself is seen to the left. The king and queen are reflected in the mirror to the artist's right, so the perspective is that of the king. The king...watching the artist...paint the king and the queen...",
+  "canBeFake": true,
+  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/render/art/solemn_painting.png"
+}

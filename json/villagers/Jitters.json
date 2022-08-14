@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Jitters",
+    "english_EU": "Jitters",
+    "german": "Alex",
+    "spanish_EU": "Camelio",
+    "spanish_american": "Camelio",
+    "french_EU": "Gilbert",
+    "french_american": "Gilbert",
+    "italian": "Brivido",
+    "dutch": "Jitters",
+    "simplified_chinese": "纪诺",
+    "traditional_chinese": "紀諾",
+    "japanese": "ジーニョ",
+    "korean": "딩요",
+    "russian": "Джиттерс"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Jitters.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Jitters.png"
+  },
+  "id": 193,
+  "name": "Jitters",
+  "sex": "Male",
+  "personality": "Jock",
+  "birthday": "2/2",
+  "species": "Bird",
+  "catch_phrase": "bzzert",
+  "name_color": "#28665a"
+}

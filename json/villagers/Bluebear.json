@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Bluebear",
+    "english_EU": "Bluebear",
+    "german": "Birte",
+    "spanish_EU": "Celeste",
+    "spanish_american": "Celeste",
+    "french_EU": "Myrtille",
+    "french_american": "Myrtille",
+    "italian": "Azzurra",
+    "dutch": "Bluebear",
+    "simplified_chinese": "娃娃",
+    "traditional_chinese": "娃娃",
+    "japanese": "グルミン",
+    "korean": "글루민",
+    "russian": "Блюбеар"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Bluebear.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Bluebear.png"
+  },
+  "id": 48,
+  "name": "Bluebear",
+  "sex": "Female",
+  "personality": "Peppy",
+  "birthday": "6/24",
+  "species": "Bear cub",
+  "catch_phrase": "peach",
+  "name_color": "#fffce9"
+}

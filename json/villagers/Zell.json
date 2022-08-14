@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Zell",
+    "english_EU": "Zell",
+    "german": "Walter",
+    "spanish_EU": "Corvilo",
+    "spanish_american": "Corvilo",
+    "french_EU": "Régis",
+    "french_american": "Régis",
+    "italian": "Antilio",
+    "dutch": "Zell",
+    "simplified_chinese": "森森",
+    "traditional_chinese": "森森",
+    "japanese": "ネルソン",
+    "korean": "넬슨",
+    "russian": "Зелл"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Zell.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Zell.png"
+  },
+  "id": 409,
+  "name": "Zell",
+  "sex": "Male",
+  "personality": "Smug",
+  "birthday": "6/7",
+  "species": "Deer",
+  "catch_phrase": "pronk",
+  "name_color": "#fffce9"
+}

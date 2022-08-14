@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Hans",
+    "english_EU": "Hans",
+    "german": "Hans",
+    "spanish_EU": "Hans",
+    "spanish_american": "Hans",
+    "french_EU": "Loran",
+    "french_american": "Loran",
+    "italian": "Grigilio",
+    "dutch": "Hans",
+    "simplified_chinese": "史奈鲁",
+    "traditional_chinese": "史奈魯",
+    "japanese": "スナイル",
+    "korean": "스나일",
+    "russian": "Ганс"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Hans.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Hans.png"
+  },
+  "id": 175,
+  "name": "Hans",
+  "sex": "Male",
+  "personality": "Smug",
+  "birthday": "12/5",
+  "species": "Gorilla",
+  "catch_phrase": "groovy",
+  "name_color": "#848484"
+}

@@ -1,0 +1,25 @@
+{
+  "translations": {
+    "english_USA": "valiant statue",
+    "english_EU": "valiant statue",
+    "german": "Erhabenstatue",
+    "spanish_EU": "estatua alada",
+    "spanish_american": "estatua alada",
+    "french_EU": "statue héroïque",
+    "french_american": "statue héroïque",
+    "italian": "statua eroica",
+    "dutch": "heroïsche standbeeld",
+    "simplified_chinese": "神圣的雕塑",
+    "traditional_chinese": "神聖的雕塑",
+    "japanese": "こうごうしいちょうこく",
+    "korean": "거룩한 조각",
+    "russian": "героическая статуя"
+  },
+  "id": 37,
+  "name": "valiant statue",
+  "buy_price": 4980,
+  "sell_price": 1245,
+  "museum_description": "A statue of the goddess of victory, Nike, found on Samothrace. It shows Nike alighting on the prow of a ship. Originally found in separate pieces, it has largely been restored, but the arms and head are still missing.",
+  "canBeFake": true,
+  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/render/art/valiant_statue.png"
+}

@@ -1,0 +1,25 @@
+{
+  "translations": {
+    "english_USA": "gallant statue",
+    "english_EU": "gallant statue",
+    "german": "Galantstatue",
+    "spanish_EU": "estatua majestuosa",
+    "spanish_american": "estatua majestuosa",
+    "french_EU": "statue majestueuse",
+    "french_american": "statue majestueuse",
+    "italian": "statua maestosa",
+    "dutch": "verheven standbeeld",
+    "simplified_chinese": "英挺的雕塑",
+    "traditional_chinese": "英挺的雕塑",
+    "japanese": "りりしいちょうこく",
+    "korean": "늠름한 조각",
+    "russian": "доблестная статуя"
+  },
+  "id": 13,
+  "name": "gallant statue",
+  "buy_price": 4980,
+  "sell_price": 1245,
+  "museum_description": "Young David glares at his enemies, sling slung over his shoulder. It took Michelangelo more than three years to sculpt this piece. Close inspection shows heart- shaped eyes, but that's probably meant to depict light hitting them. Hearts didn't have the lovey-dovey symbolism back then that they do today.",
+  "canBeFake": true,
+  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/render/art/gallant_statue.png"
+}

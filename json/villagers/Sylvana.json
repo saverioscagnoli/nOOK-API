@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Sylvana",
+    "english_EU": "Sylvana",
+    "german": "Maren",
+    "spanish_EU": "Silvana",
+    "spanish_american": "Silvana",
+    "french_EU": "Mounia",
+    "french_american": "Mounia",
+    "italian": "Silvana",
+    "dutch": "Sylvana",
+    "simplified_chinese": "孟珮",
+    "traditional_chinese": "孟珮",
+    "japanese": "もんぺ",
+    "korean": "실바나",
+    "russian": "Сильвана"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Sylvana.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Sylvana.png"
+  },
+  "id": 366,
+  "name": "Sylvana",
+  "sex": "Female",
+  "personality": "Normal",
+  "birthday": "10/22",
+  "species": "Squirrel",
+  "catch_phrase": "hubbub",
+  "name_color": "#fffce9"
+}

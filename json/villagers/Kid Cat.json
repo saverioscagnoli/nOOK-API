@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Kid Cat",
+    "english_EU": "Kid Cat",
+    "german": "Pit",
+    "spanish_EU": "Gatomán",
+    "spanish_american": "Gatomán",
+    "french_EU": "Câlin",
+    "french_american": "Câlin",
+    "italian": "Zampa",
+    "dutch": "Kid Cat",
+    "simplified_chinese": "阿一",
+    "traditional_chinese": "阿一",
+    "japanese": "１ごう",
+    "korean": "1호",
+    "russian": "Кид Кэт"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Kid Cat.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Kid Cat.png"
+  },
+  "id": 205,
+  "name": "Kid Cat",
+  "sex": "Male",
+  "personality": "Jock",
+  "birthday": "8/1",
+  "species": "Cat",
+  "catch_phrase": "psst",
+  "name_color": "#fffad4"
+}

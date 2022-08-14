@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Axel",
+    "english_EU": "Axel",
+    "german": "Axel",
+    "spanish_EU": "Eustakio",
+    "spanish_american": "Eustakio",
+    "french_EU": "Axel",
+    "french_american": "Axel",
+    "italian": "Sandro",
+    "dutch": "Axel",
+    "simplified_chinese": "大大",
+    "traditional_chinese": "大大",
+    "japanese": "エックスエル",
+    "korean": "엑스엘리",
+    "russian": "Аксель"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Axel.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Axel.png"
+  },
+  "id": 24,
+  "name": "Axel",
+  "sex": "Male",
+  "personality": "Jock",
+  "birthday": "3/23",
+  "species": "Elephant",
+  "catch_phrase": "WHONK",
+  "name_color": "#fffce9"
+}

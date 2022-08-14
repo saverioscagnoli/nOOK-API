@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Mira",
+    "english_EU": "Mira",
+    "german": "Mira",
+    "spanish_EU": "Amparo",
+    "spanish_american": "Amparo",
+    "french_EU": "Grisette",
+    "french_american": "Grisette",
+    "italian": "Martina",
+    "dutch": "Mira",
+    "simplified_chinese": "蜜拉",
+    "traditional_chinese": "蜜拉",
+    "japanese": "ミラコ",
+    "korean": "미랑",
+    "russian": "Мира"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Mira.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Mira.png"
+  },
+  "id": 247,
+  "name": "Mira",
+  "sex": "Female",
+  "personality": "Big Sister",
+  "birthday": "7/6",
+  "species": "Rabbit",
+  "catch_phrase": "cottontail",
+  "name_color": "#9b8986"
+}

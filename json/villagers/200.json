@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Katt",
+    "english_EU": "Katt",
+    "german": "Janine",
+    "spanish_EU": "Melina",
+    "spanish_american": "Melina",
+    "french_EU": "Kat",
+    "french_american": "Kat",
+    "italian": "Ofelia",
+    "dutch": "Katt",
+    "simplified_chinese": "巧巧",
+    "traditional_chinese": "巧巧",
+    "japanese": "ちょい",
+    "korean": "쵸이",
+    "russian": "Кэт"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Katt.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Katt.png"
+  },
+  "id": 200,
+  "name": "Katt",
+  "sex": "Female",
+  "personality": "Big Sister",
+  "birthday": "4/27",
+  "species": "Cat",
+  "catch_phrase": "purrty",
+  "name_color": "#fffce9"
+}

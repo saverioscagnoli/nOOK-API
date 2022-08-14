@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Lobo",
+    "english_EU": "Lobo",
+    "german": "Lupo",
+    "spanish_EU": "Lupo",
+    "spanish_american": "Lupo",
+    "french_EU": "Lobo",
+    "french_american": "Lobo",
+    "italian": "Lupen",
+    "dutch": "Lobo",
+    "simplified_chinese": "潘奇隆",
+    "traditional_chinese": "潘奇隆",
+    "japanese": "ブンジロウ",
+    "korean": "늑태",
+    "russian": "Лобо"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Lobo.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Lobo.png"
+  },
+  "id": 219,
+  "name": "Lobo",
+  "sex": "Male",
+  "personality": "Cranky",
+  "birthday": "11/5",
+  "species": "Wolf",
+  "catch_phrase": "ah-rooooo",
+  "name_color": "#fffce9"
+}

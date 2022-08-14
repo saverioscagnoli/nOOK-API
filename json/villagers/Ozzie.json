@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Ozzie",
+    "english_EU": "Ozzie",
+    "german": "Oskar",
+    "spanish_EU": "Koloa",
+    "spanish_american": "Koloa",
+    "french_EU": "Koko",
+    "french_american": "Koko",
+    "italian": "Ozzy",
+    "dutch": "Ozzie",
+    "simplified_chinese": "阿栗",
+    "traditional_chinese": "阿栗",
+    "japanese": "ドングリ",
+    "korean": "동동이",
+    "russian": "Оззи"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Ozzie.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Ozzie.png"
+  },
+  "id": 270,
+  "name": "Ozzie",
+  "sex": "Male",
+  "personality": "Lazy",
+  "birthday": "5/7",
+  "species": "Koala",
+  "catch_phrase": "ol' bear",
+  "name_color": "#5e5e5e"
+}

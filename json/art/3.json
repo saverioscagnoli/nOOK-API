@@ -1,0 +1,25 @@
+{
+  "translations": {
+    "english_USA": "ancient statue",
+    "english_EU": "ancient statue",
+    "german": "Uraltstatue",
+    "spanish_EU": "estatua primitiva",
+    "spanish_american": "estatua primitiva",
+    "french_EU": "statuette antique",
+    "french_american": "statuette antique",
+    "italian": "statua antica",
+    "dutch": "prehistorische beeldje",
+    "simplified_chinese": "远古的雕塑",
+    "traditional_chinese": "遠古的雕塑",
+    "japanese": "いにしえのちょうこく",
+    "korean": "태고의 조각",
+    "russian": "древняя статуя"
+  },
+  "id": 3,
+  "name": "ancient statue",
+  "buy_price": 4980,
+  "sell_price": 1245,
+  "museum_description": "A mysterious, riveting doll made from kneaded, unglazed dirt during the Jōmon period. Its large round eyes resemble goggles that intercept light, so its name should come as no surprise. \"Shakōki\" means \"light-intercepting goggles,\" and a dogū is a small animal figurine.",
+  "canBeFake": true,
+  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/render/art/ancient_statue.png"
+}

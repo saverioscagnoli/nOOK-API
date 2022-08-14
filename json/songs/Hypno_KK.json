@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "Hypno K.K.",
+    "english_EU": "Hypno K.K.",
+    "german": "Schlummerlied",
+    "spanish_EU": "Mírame a los ojos",
+    "spanish_american": "Mírame a los ojos",
+    "french_EU": "Psykéké",
+    "french_american": "Psykéké",
+    "italian": "K.K. Ipnotico",
+    "dutch": "Hypnotherapie",
+    "simplified_chinese": "白日梦",
+    "traditional_chinese": "白日夢",
+    "japanese": "うたたねのゆめ",
+    "korean": "졸면서 꾸는 꿈",
+    "russian": "Гипноз К. К."
+  },
+  "id": 12,
+  "name": "Hypno K.K.",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/Hypno_KK.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/Hypno_KK.mp3"
+}

@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Deli",
+    "english_EU": "Deli",
+    "german": "Anton",
+    "spanish_EU": "Cana",
+    "spanish_american": "Cana",
+    "french_EU": "Magogo",
+    "french_american": "Magogo",
+    "italian": "Bobo",
+    "dutch": "Deli",
+    "simplified_chinese": "德里",
+    "traditional_chinese": "德里",
+    "japanese": "デリー",
+    "korean": "델리",
+    "russian": "Дели"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Deli.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Deli.png"
+  },
+  "id": 115,
+  "name": "Deli",
+  "sex": "Male",
+  "personality": "Lazy",
+  "birthday": "5/24",
+  "species": "Monkey",
+  "catch_phrase": "monch",
+  "name_color": "#fffce9"
+}

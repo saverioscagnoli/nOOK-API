@@ -1,0 +1,49 @@
+{
+  "translations": {
+    "english_USA": "dab",
+    "english_EU": "dab",
+    "german": "Kliesche",
+    "spanish_EU": "gallo",
+    "spanish_american": "gallo",
+    "french_EU": "limande",
+    "french_american": "limande",
+    "italian": "platessa",
+    "dutch": "schar",
+    "simplified_chinese": "鲽鱼",
+    "traditional_chinese": "鰈魚",
+    "japanese": "カレイ",
+    "korean": "가자미",
+    "russian": "камбала"
+  },
+  "sell_prices": { "nook": 300, "cj": 450 },
+  "available": {
+    "hemisphere_data": {
+      "northern_months": "10-4",
+      "southern_months": "4-10",
+      "northern_months_array": [10, 11, 12, 1, 2, 3, 4],
+      "southern_months_array": [4, 5, 6, 7, 8, 9, 10]
+    },
+    "time": {
+      "all_day": true,
+      "all_year": false,
+      "time_string": "",
+      "time_array": [
+        0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19,
+        20, 21, 22, 23
+      ]
+    },
+    "spot": "Sea",
+    "rarity": "Common"
+  },
+  "phrases": {
+    "joke": "I caught a dab! Not bad!",
+    "museum_description": "The dab is a flatfish that bears some resemblance to the olive flounder, though their mouths are different. Personally, I am morbidly fascinated by each fish's eye placement. The dab's eyes are both on its right side, while the olive flounder's are on the left. These fish spend lots of time lying on their sides in the sand, so the odd eye placement makes some sense... But its-how can I put this? Creepy? Viscerally disturbing? Profoundly upsetting to fans of symmetry?"
+  },
+  "sprites": {
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/fishes/Dab.png",
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/fishes/Dab.png"
+  },
+  "id": 61,
+  "name": "dab",
+  "shadow_size": "3"
+}

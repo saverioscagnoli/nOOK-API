@@ -1,0 +1,46 @@
+{
+  "translations": {
+    "english_USA": "pop-eyed goldfish",
+    "english_EU": "pop-eyed goldfish",
+    "german": "Teleskopauge",
+    "spanish_EU": "pez telescopio",
+    "spanish_american": "pez telescopio",
+    "french_EU": "cyprin doré",
+    "french_american": "cyprin doré",
+    "italian": "pesce telescopio",
+    "dutch": "telescoopooggoudvis",
+    "simplified_chinese": "龙睛金鱼",
+    "traditional_chinese": "龍睛金魚",
+    "japanese": "デメキン",
+    "korean": "툭눈금붕어",
+    "russian": "телескоп"
+  },
+  "sell_prices": { "nook": 1300, "cj": 1950 },
+  "available": {
+    "hemisphere_data": {
+      "northern_months": "",
+      "southern_months": "",
+      "northern_months_array": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "southern_months_array": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    },
+    "time": {
+      "all_day": false,
+      "all_year": true,
+      "time_string": "9am - 4pm",
+      "time_array": [9, 10, 11, 12, 13, 14, 15]
+    },
+    "spot": "Pond",
+    "rarity": "Common"
+  },
+  "phrases": {
+    "joke": "I got a pop-eyed goldfish! It looks so...surprised!",
+    "museum_description": "Pop-eyed goldfish have, as the name suggests, huge round eyes. But as babies they look like other goldfish! As they grow, their eyes begin to pop out and they gain their, hoo, distinct appearance... Imagine the poor fish fancier who unknowingly bought one! Their eyes might well pop out just as far!"
+  },
+  "sprites": {
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/fishes/Pop-Eyed_Goldfish.png",
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/fishes/Pop-Eyed_Goldfish.png"
+  },
+  "id": 8,
+  "name": "pop-eyed goldfish",
+  "shadow_size": "1"
+}

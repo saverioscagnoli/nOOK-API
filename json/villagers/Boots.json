@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Boots",
+    "english_EU": "Boots",
+    "german": "Tilmann",
+    "spanish_EU": "Braulio",
+    "spanish_american": "Braulio",
+    "french_EU": "Croko",
+    "french_american": "Croko",
+    "italian": "Crocco",
+    "dutch": "Boots",
+    "simplified_chinese": "丰年",
+    "traditional_chinese": "豐年",
+    "japanese": "ホウサク",
+    "korean": "풍작",
+    "russian": "Бутс"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Boots.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Boots.png"
+  },
+  "id": 54,
+  "name": "Boots",
+  "sex": "Male",
+  "personality": "Jock",
+  "birthday": "8/7",
+  "species": "Alligator",
+  "catch_phrase": "munchie",
+  "name_color": "#fffce9"
+}

@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Tammi",
+    "english_EU": "Tammi",
+    "german": "Bonni",
+    "spanish_EU": "Tami",
+    "spanish_american": "Tami",
+    "french_EU": "Lili",
+    "french_american": "Lili",
+    "italian": "Tammi",
+    "dutch": "Tammi",
+    "simplified_chinese": "四月",
+    "traditional_chinese": "四月",
+    "japanese": "エイプリル",
+    "korean": "에이프릴",
+    "russian": "Тэмми"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Tammi.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Tammi.png"
+  },
+  "id": 371,
+  "name": "Tammi",
+  "sex": "Female",
+  "personality": "Peppy",
+  "birthday": "4/2",
+  "species": "Monkey",
+  "catch_phrase": "chimpy",
+  "name_color": "#9b553a"
+}

@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Leonardo",
+    "english_EU": "Leonardo",
+    "german": "Tim",
+    "spanish_EU": "Leocadio",
+    "spanish_american": "Leocadio",
+    "french_EU": "Dolph",
+    "french_american": "Dolph",
+    "italian": "Bengalo",
+    "dutch": "Leonardo",
+    "simplified_chinese": "阿彪",
+    "traditional_chinese": "阿彪",
+    "japanese": "ヒョウタ",
+    "korean": "범호",
+    "russian": "Леонардо"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Leonardo.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Leonardo.png"
+  },
+  "id": 214,
+  "name": "Leonardo",
+  "sex": "Male",
+  "personality": "Jock",
+  "birthday": "5/15",
+  "species": "Tiger",
+  "catch_phrase": "flexin'",
+  "name_color": "#9b553a"
+}

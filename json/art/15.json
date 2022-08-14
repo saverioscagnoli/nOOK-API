@@ -1,0 +1,25 @@
+{
+  "translations": {
+    "english_USA": "graceful painting",
+    "english_EU": "graceful painting",
+    "german": "Anmutsgemälde",
+    "spanish_EU": "retrato oriental",
+    "spanish_american": "retrato oriental",
+    "french_EU": "toile gracieuse",
+    "french_american": "toile gracieuse",
+    "italian": "quadro armonioso",
+    "dutch": "sierlijke schilderij",
+    "simplified_chinese": "端庄的名画",
+    "traditional_chinese": "端莊的名畫",
+    "japanese": "しなやかなめいが",
+    "korean": "절제된 명화",
+    "russian": "изящная картина"
+  },
+  "id": 15,
+  "name": "graceful painting",
+  "buy_price": 4980,
+  "sell_price": 1245,
+  "museum_description": "A hand-painted piece by Hishikawa Moronobu, an artist known for popularizing the ukiyo-e style. This stirring painting depicts a fashionable woman glancing back over her shoulder.",
+  "canBeFake": true,
+  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/render/art/graceful_painting.png"
+}

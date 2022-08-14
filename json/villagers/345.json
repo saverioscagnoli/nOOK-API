@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Shep",
+    "english_EU": "Shep",
+    "german": "Thomas",
+    "spanish_EU": "Fleco",
+    "spanish_american": "Fleco",
+    "french_EU": "Mehdi",
+    "french_american": "Mehdi",
+    "italian": "Frangino",
+    "dutch": "Shep",
+    "simplified_chinese": "包伯",
+    "traditional_chinese": "包伯",
+    "japanese": "ボブ",
+    "korean": "밥",
+    "russian": "Шеп"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Shep.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Shep.png"
+  },
+  "id": 345,
+  "name": "Shep",
+  "sex": "Male",
+  "personality": "Smug",
+  "birthday": "11/24",
+  "species": "Dog",
+  "catch_phrase": "baa baa baa",
+  "name_color": "#fffce9"
+}

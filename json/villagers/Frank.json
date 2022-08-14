@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Frank",
+    "english_EU": "Frank",
+    "german": "Arthur",
+    "spanish_EU": "Aquilino",
+    "spanish_american": "Aquilino",
+    "french_EU": "Greggae",
+    "french_american": "Greggae",
+    "italian": "Frank",
+    "dutch": "Frank",
+    "simplified_chinese": "浩克",
+    "traditional_chinese": "浩克",
+    "japanese": "ハルク",
+    "korean": "헐크",
+    "russian": "Франк"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Frank.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Frank.png"
+  },
+  "id": 148,
+  "name": "Frank",
+  "sex": "Male",
+  "personality": "Cranky",
+  "birthday": "7/30",
+  "species": "Eagle",
+  "catch_phrase": "crushy",
+  "name_color": "#28665a"
+}

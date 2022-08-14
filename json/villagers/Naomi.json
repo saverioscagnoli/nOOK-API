@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Naomi",
+    "english_EU": "Naomi",
+    "german": "Jolanda",
+    "spanish_EU": "Regina",
+    "spanish_american": "Regina",
+    "french_EU": "Maiko",
+    "french_american": "Maiko",
+    "italian": "Melina",
+    "dutch": "Naomi",
+    "simplified_chinese": "玉兰",
+    "traditional_chinese": "玉蘭",
+    "japanese": "ハナコ",
+    "korean": "화자",
+    "russian": "Наоми"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Naomi.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Naomi.png"
+  },
+  "id": 260,
+  "name": "Naomi",
+  "sex": "Female",
+  "personality": "Snooty",
+  "birthday": "2/28",
+  "species": "Cow",
+  "catch_phrase": "moolah",
+  "name_color": "#fffce9"
+}

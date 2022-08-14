@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Olaf",
+    "english_EU": "Olaf",
+    "german": "Olaf",
+    "spanish_EU": "Olaf",
+    "spanish_american": "Olaf",
+    "french_EU": "Blair",
+    "french_american": "Blair",
+    "italian": "Ettore",
+    "dutch": "Olaf",
+    "simplified_chinese": "安东尼",
+    "traditional_chinese": "安東尼",
+    "japanese": "アントニオ",
+    "korean": "안토니오",
+    "russian": "Олаф"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Olaf.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Olaf.png"
+  },
+  "id": 266,
+  "name": "Olaf",
+  "sex": "Male",
+  "personality": "Smug",
+  "birthday": "5/19",
+  "species": "Anteater",
+  "catch_phrase": "whiffa",
+  "name_color": "#fff2bb"
+}

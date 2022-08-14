@@ -1,0 +1,48 @@
+{
+  "translations": {
+    "english_USA": "mole cricket",
+    "english_EU": "mole cricket",
+    "german": "Maulwurfsgrille",
+    "spanish_EU": "grillo cebollero",
+    "spanish_american": "grillo cebollero",
+    "french_EU": "taupe-grillon",
+    "french_american": "taupe-grillon",
+    "italian": "grillotalpa",
+    "dutch": "veenmol",
+    "simplified_chinese": "蝼蛄",
+    "traditional_chinese": "螻蛄",
+    "japanese": "オケラ",
+    "korean": "땅강아지",
+    "russian": "медведка"
+  },
+  "sell_prices": { "nook": 500, "flick": 750 },
+  "available": {
+    "hemisphere_data": {
+      "northern_months": "11-5",
+      "southern_months": "5-11",
+      "northern_months_array": [11, 12, 1, 2, 3, 4, 5],
+      "southern_months_array": [5, 6, 7, 8, 9, 10, 11]
+    },
+    "time": {
+      "all_day": true,
+      "all_year": false,
+      "time_string": "",
+      "time_array": [
+        0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19,
+        20, 21, 22, 23
+      ]
+    },
+    "spot": "Underground",
+    "rarity": "Common"
+  },
+  "phrases": {
+    "joke": "I caught a mole cricket! I really dug it!",
+    "museum_description": "Be warned, there is nowhere one might hide from the mole cricket. This plump pest has powerful front claws made for digging holes, and oh how it loves to burrow underground! A cousin to the grasshopper, it also has wings and can easily take to the air. And I swear this on my pinfeathers... Some have even been seen walking on water! Oh mercy, I may need a moment. This is making me feel rather woozy..."
+  },
+  "sprites": {
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/bugs/Mole_Cricket.png",
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/bugs/Mole_Cricket.png"
+  },
+  "id": 37,
+  "name": "mole cricket"
+}

@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Rocket",
+    "english_EU": "Rocket",
+    "german": "Katrin",
+    "spanish_EU": "Gloria",
+    "spanish_american": "Gloria",
+    "french_EU": "Gertrude",
+    "french_american": "Gertrude",
+    "italian": "Kinga",
+    "dutch": "Rocket",
+    "simplified_chinese": "阿四",
+    "traditional_chinese": "阿四",
+    "japanese": "４ごう",
+    "korean": "4호",
+    "russian": "Рокет"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Rocket.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Rocket.png"
+  },
+  "id": 324,
+  "name": "Rocket",
+  "sex": "Female",
+  "personality": "Big Sister",
+  "birthday": "4/14",
+  "species": "Gorilla",
+  "catch_phrase": "vroom",
+  "name_color": "#fffce9"
+}

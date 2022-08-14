@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "K.K. Parade",
+    "english_EU": "K.K. Parade",
+    "german": "K.K. Parade",
+    "spanish_EU": "Tota-desfile",
+    "spanish_american": "Tota-desfile",
+    "french_EU": "Kéké académie",
+    "french_american": "Kéké académie",
+    "italian": "K.K. Parata",
+    "dutch": "K.K.-parade",
+    "simplified_chinese": "K.K.嘉年华",
+    "traditional_chinese": "K.K.嘉年華",
+    "japanese": "けけパレード",
+    "korean": "K.K.퍼레이드",
+    "russian": "Парад К. К."
+  },
+  "id": 54,
+  "name": "K.K. Parade",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/KK_Parade.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/KK_Parade.mp3"
+}

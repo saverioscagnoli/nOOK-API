@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Cheri",
+    "english_EU": "Cheri",
+    "german": "Claudia",
+    "spanish_EU": "Cerecita",
+    "spanish_american": "Cerecita",
+    "french_EU": "Rosalie",
+    "french_american": "Rosalie",
+    "italian": "Bonbon",
+    "dutch": "Cheri",
+    "simplified_chinese": "樱桃",
+    "traditional_chinese": "櫻桃",
+    "japanese": "アセロラ",
+    "korean": "아세로라",
+    "russian": "Шери"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Cheri.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Cheri.png"
+  },
+  "id": 83,
+  "name": "Cheri",
+  "sex": "Female",
+  "personality": "Peppy",
+  "birthday": "3/17",
+  "species": "Bear cub",
+  "catch_phrase": "tralala",
+  "name_color": "#fffce9"
+}

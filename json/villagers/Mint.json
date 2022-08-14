@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Mint",
+    "english_EU": "Mint",
+    "german": "Marika",
+    "spanish_EU": "Menta",
+    "spanish_american": "Menta",
+    "french_EU": "Amande",
+    "french_american": "Amande",
+    "italian": "Mentulla",
+    "dutch": "Mint",
+    "simplified_chinese": "小敏",
+    "traditional_chinese": "小敏",
+    "japanese": "ミント",
+    "korean": "민트",
+    "russian": "Минт"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Mint.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Mint.png"
+  },
+  "id": 246,
+  "name": "Mint",
+  "sex": "Female",
+  "personality": "Snooty",
+  "birthday": "5/2",
+  "species": "Squirrel",
+  "catch_phrase": "ahhhhhh",
+  "name_color": "#219479"
+}

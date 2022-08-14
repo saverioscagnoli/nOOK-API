@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Pinky",
+    "english_EU": "Pinky",
+    "german": "Pia",
+    "spanish_EU": "Violeta",
+    "spanish_american": "Violeta",
+    "french_EU": "Rosine",
+    "french_american": "Rosine",
+    "italian": "Pinky",
+    "dutch": "Pinky",
+    "simplified_chinese": "丹丹",
+    "traditional_chinese": "丹丹",
+    "japanese": "タンタン",
+    "korean": "링링",
+    "russian": "Пинки"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Pinky.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Pinky.png"
+  },
+  "id": 292,
+  "name": "Pinky",
+  "sex": "Female",
+  "personality": "Peppy",
+  "birthday": "9/9",
+  "species": "Bear",
+  "catch_phrase": "wah",
+  "name_color": "#879b96"
+}

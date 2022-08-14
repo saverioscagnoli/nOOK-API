@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Velma",
+    "english_EU": "Velma",
+    "german": "Wilma",
+    "spanish_EU": "Erika",
+    "spanish_american": "Erika",
+    "french_EU": "Véra",
+    "french_american": "Véra",
+    "italian": "Belarda",
+    "dutch": "Velma",
+    "simplified_chinese": "班长",
+    "traditional_chinese": "班長",
+    "japanese": "ピティエ",
+    "korean": "벨마",
+    "russian": "Велма"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Velma.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Velma.png"
+  },
+  "id": 391,
+  "name": "Velma",
+  "sex": "Female",
+  "personality": "Snooty",
+  "birthday": "1/14",
+  "species": "Goat",
+  "catch_phrase": "blih",
+  "name_color": "#fffce9"
+}

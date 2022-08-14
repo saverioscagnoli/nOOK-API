@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Flo",
+    "english_EU": "Flo",
+    "german": "Susanne",
+    "spanish_EU": "Nieves",
+    "spanish_american": "Nieves",
+    "french_EU": "Nora",
+    "french_american": "Nora",
+    "italian": "Nives",
+    "dutch": "Flo",
+    "simplified_chinese": "蕾拉",
+    "traditional_chinese": "蕾拉",
+    "japanese": "レイラ",
+    "korean": "레이라",
+    "russian": "Фло"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Flo.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Flo.png"
+  },
+  "id": 144,
+  "name": "Flo",
+  "sex": "Female",
+  "personality": "Big Sister",
+  "birthday": "9/2",
+  "species": "Penguin",
+  "catch_phrase": "cha",
+  "name_color": "#9ae8df"
+}

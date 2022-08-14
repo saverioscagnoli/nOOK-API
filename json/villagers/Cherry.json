@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Cherry",
+    "english_EU": "Cherry",
+    "german": "Bella",
+    "spanish_EU": "Luna",
+    "spanish_american": "Luna",
+    "french_EU": "Anna",
+    "french_american": "Anna",
+    "italian": "Amarena",
+    "dutch": "Cherry",
+    "simplified_chinese": "花娜",
+    "traditional_chinese": "花娜",
+    "japanese": "ハンナ",
+    "korean": "한나",
+    "russian": "Черри"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Cherry.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Cherry.png"
+  },
+  "id": 84,
+  "name": "Cherry",
+  "sex": "Female",
+  "personality": "Big Sister",
+  "birthday": "5/11",
+  "species": "Dog",
+  "catch_phrase": "what what",
+  "name_color": "#fffce9"
+}

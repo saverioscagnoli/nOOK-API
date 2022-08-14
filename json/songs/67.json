@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "K.K. Steppe",
+    "english_EU": "K.K. Steppe",
+    "german": "K.K. Steppensong",
+    "spanish_EU": "Tota-estepa",
+    "spanish_american": "Tota-estepa",
+    "french_EU": "Kéké balalaïka",
+    "french_american": "Kéké balalaïka",
+    "italian": "K.K. Steppa",
+    "dutch": "K.K. op de steppe",
+    "simplified_chinese": "哥萨克乐曲",
+    "traditional_chinese": "哥薩克樂曲",
+    "japanese": "コサックそんぐ",
+    "korean": "까자크의 노래",
+    "russian": "Степь К. К."
+  },
+  "id": 67,
+  "name": "K.K. Steppe",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/KK_Steppe.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/KK_Steppe.mp3"
+}

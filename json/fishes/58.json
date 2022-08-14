@@ -1,0 +1,49 @@
+{
+  "translations": {
+    "english_USA": "barred knifejaw",
+    "english_EU": "barred knifejaw",
+    "german": "Schnabelbarsch",
+    "spanish_EU": "dorada japonesa",
+    "spanish_american": "dorada japonesa",
+    "french_EU": "scarus",
+    "french_american": "scarus",
+    "italian": "ishidai",
+    "dutch": "kraaibek",
+    "simplified_chinese": "条石鲷",
+    "traditional_chinese": "條石鯛",
+    "japanese": "イシダイ",
+    "korean": "돌돔",
+    "russian": "полосатый оплегнат"
+  },
+  "sell_prices": { "nook": 5000, "cj": 7500 },
+  "available": {
+    "hemisphere_data": {
+      "northern_months": "3-11",
+      "southern_months": "9-5",
+      "northern_months_array": [3, 4, 5, 6, 7, 8, 9, 10, 11],
+      "southern_months_array": [9, 10, 11, 12, 1, 2, 3, 4, 5]
+    },
+    "time": {
+      "all_day": true,
+      "all_year": false,
+      "time_string": "",
+      "time_array": [
+        0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19,
+        20, 21, 22, 23
+      ]
+    },
+    "spot": "Sea",
+    "rarity": "Uncommon"
+  },
+  "phrases": {
+    "joke": "I caught a barred knifejaw! They must have a hard time eating!",
+    "museum_description": "Wonderful! I would love nothing more! The barred knifejaw, also called the striped beakfish, is a lovely fish with a distinctive striped pattern. It is reportedly also a very curious fish in that it has been known to approach swimmers to \"greet\" them. They also tend to be good at avoiding fishing hooks, so well done on outwitting this one!"
+  },
+  "sprites": {
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/fishes/Barred_Knifejaw.png",
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/fishes/Barred_Knifejaw.png"
+  },
+  "id": 58,
+  "name": "barred knifejaw",
+  "shadow_size": "3"
+}

@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "K.K. Lament",
+    "english_EU": "K.K. Lament",
+    "german": "K.K. Klagelied",
+    "spanish_EU": "Tota-lamento",
+    "spanish_american": "Tota-lamento",
+    "french_EU": "Complainte Kéké",
+    "french_american": "Complainte Kéké",
+    "italian": "K.K. Lacrime",
+    "dutch": "K.K.-klaagzang",
+    "simplified_chinese": "K.K.演歌",
+    "traditional_chinese": "K.K.演歌",
+    "japanese": "けけえんか",
+    "korean": "K.K.트로트",
+    "russian": "Жалобная песнь К. К."
+  },
+  "id": 43,
+  "name": "K.K. Lament",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/KK_Lament.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/KK_Lament.mp3"
+}

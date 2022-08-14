@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Mac",
+    "english_EU": "Mac",
+    "german": "Wuffi",
+    "spanish_EU": "Pit",
+    "spanish_american": "Pit",
+    "french_EU": "Brutus",
+    "french_american": "Brutus",
+    "italian": "Teo",
+    "dutch": "Mac",
+    "simplified_chinese": "金牌",
+    "traditional_chinese": "金牌",
+    "japanese": "チャンプ",
+    "korean": "챔프",
+    "russian": "Мак"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Mac.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Mac.png"
+  },
+  "id": 227,
+  "name": "Mac",
+  "sex": "Male",
+  "personality": "Jock",
+  "birthday": "11/11",
+  "species": "Dog",
+  "catch_phrase": "woo woof",
+  "name_color": "#fffce9"
+}

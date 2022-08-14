@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Billy",
+    "english_EU": "Billy",
+    "german": "Hennes",
+    "spanish_EU": "Brito",
+    "spanish_american": "Brito",
+    "french_EU": "Seguin",
+    "french_american": "Seguin",
+    "italian": "Billy",
+    "dutch": "Billy",
+    "simplified_chinese": "亚星",
+    "traditional_chinese": "亞星",
+    "japanese": "アーシンド",
+    "korean": "힘드러",
+    "russian": "Билли"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Billy.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Billy.png"
+  },
+  "id": 43,
+  "name": "Billy",
+  "sex": "Male",
+  "personality": "Jock",
+  "birthday": "3/25",
+  "species": "Goat",
+  "catch_phrase": "dagnaabit",
+  "name_color": "#fffce9"
+}

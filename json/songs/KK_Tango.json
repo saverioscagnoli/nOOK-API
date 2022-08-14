@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "K.K. Tango",
+    "english_EU": "K.K. Tango",
+    "german": "K.K. Tango",
+    "spanish_EU": "Tota-tango",
+    "spanish_american": "Tota-tango",
+    "french_EU": "Tango de Kéké",
+    "french_american": "Tango de Kéké",
+    "italian": "K.K. Tango",
+    "dutch": "K.K.-tango",
+    "simplified_chinese": "K.K.探戈",
+    "traditional_chinese": "K.K.探戈",
+    "japanese": "けけタンゴ",
+    "korean": "K.K.탱고",
+    "russian": "Танго К. К."
+  },
+  "id": 71,
+  "name": "K.K. Tango",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/KK_Tango.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/KK_Tango.mp3"
+}

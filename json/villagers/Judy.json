@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Judy",
+    "english_EU": "Judy",
+    "german": "Misuzu",
+    "spanish_EU": "Rosezna",
+    "spanish_american": "Rosezna",
+    "french_EU": "Laura",
+    "french_american": "Laura",
+    "italian": "Misuzu",
+    "dutch": "Judy",
+    "simplified_chinese": "美玲",
+    "traditional_chinese": "美玲",
+    "japanese": "みすず",
+    "korean": "미애",
+    "russian": "Джуди"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Judy.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Judy.png"
+  },
+  "id": 195,
+  "name": "Judy",
+  "sex": "Female",
+  "personality": "Snooty",
+  "birthday": "3/10",
+  "species": "Bear cub",
+  "catch_phrase": "myohmy",
+  "name_color": "#725661"
+}

@@ -1,0 +1,25 @@
+{
+  "translations": {
+    "english_USA": "twinkling painting",
+    "english_EU": "twinkling painting",
+    "german": "Funkelgemälde",
+    "spanish_EU": "paisaje estrellado",
+    "spanish_american": "paisaje estrellado",
+    "french_EU": "toile scintillante",
+    "french_american": "toile scintillante",
+    "italian": "quadro sfavillante",
+    "dutch": "nachtelijke schilderij",
+    "simplified_chinese": "闪烁的名画",
+    "traditional_chinese": "閃爍的名畫",
+    "japanese": "またたくめいが",
+    "korean": "반짝이는 명화",
+    "russian": "звездная картина"
+  },
+  "id": 36,
+  "name": "twinkling painting",
+  "buy_price": 4980,
+  "sell_price": 1245,
+  "museum_description": "Van Gogh's signature piece, painted while he was hospitalized at an asylum. This view from his room includes memories and imaginations. In letters to friends, the artist called it a failure.",
+  "canBeFake": false,
+  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/render/art/twinkling_painting.png"
+}

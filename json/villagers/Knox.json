@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Knox",
+    "english_EU": "Knox",
+    "german": "Tschiwi",
+    "spanish_EU": "Tono",
+    "spanish_american": "Tono",
+    "french_EU": "Wolfram",
+    "french_american": "Wolfram",
+    "italian": "Kalin",
+    "dutch": "Knox",
+    "simplified_chinese": "金阁",
+    "traditional_chinese": "金閣",
+    "japanese": "キンカク",
+    "korean": "금끼오",
+    "russian": "Нокс"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Knox.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Knox.png"
+  },
+  "id": 211,
+  "name": "Knox",
+  "sex": "Male",
+  "personality": "Cranky",
+  "birthday": "11/23",
+  "species": "Chicken",
+  "catch_phrase": "cluckling",
+  "name_color": "#8b5f57"
+}

@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Chelsea",
+    "english_EU": "Chelsea",
+    "german": "Chelsea",
+    "spanish_EU": "Chelsea",
+    "spanish_american": "Chelsea",
+    "french_EU": "Chelsea",
+    "french_american": "Chelsea",
+    "italian": "Chelsea",
+    "dutch": "Chelsea",
+    "simplified_chinese": "雀儿喜",
+    "traditional_chinese": "雀兒喜",
+    "japanese": "チェルシー",
+    "korean": "첼시",
+    "russian": "Челси"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Chelsea.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Chelsea.png"
+  },
+  "id": 82,
+  "name": "Chelsea",
+  "sex": "Female",
+  "personality": "Normal",
+  "birthday": "1/18",
+  "species": "Deer",
+  "catch_phrase": "pound cake",
+  "name_color": "#fff9f9"
+}

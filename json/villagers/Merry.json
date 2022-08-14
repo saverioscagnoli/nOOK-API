@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Merry",
+    "english_EU": "Merry",
+    "german": "Mischka",
+    "spanish_EU": "Susi",
+    "spanish_american": "Susi",
+    "french_EU": "Suzy",
+    "french_american": "Suzy",
+    "italian": "Katy",
+    "dutch": "Merry",
+    "simplified_chinese": "莎莎",
+    "traditional_chinese": "莎莎",
+    "japanese": "さっち",
+    "korean": "유네찌",
+    "russian": "Мерри"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Merry.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Merry.png"
+  },
+  "id": 244,
+  "name": "Merry",
+  "sex": "Female",
+  "personality": "Peppy",
+  "birthday": "6/29",
+  "species": "Cat",
+  "catch_phrase": "mweee",
+  "name_color": "#879b96"
+}

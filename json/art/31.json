@@ -1,0 +1,25 @@
+{
+  "translations": {
+    "english_USA": "scenic painting",
+    "english_EU": "scenic painting",
+    "german": "Wintergemälde",
+    "spanish_EU": "cuadro invernal",
+    "spanish_american": "cuadro invernal",
+    "french_EU": "toile hivernale",
+    "french_american": "toile hivernale",
+    "italian": "quadro invernale",
+    "dutch": "winterse schilderij",
+    "simplified_chinese": "优美的名画",
+    "traditional_chinese": "優美的名畫",
+    "japanese": "みごとなめいが",
+    "korean": "뛰어난 명화",
+    "russian": "живописная картина"
+  },
+  "id": 31,
+  "name": "scenic painting",
+  "buy_price": 4980,
+  "sell_price": 1245,
+  "museum_description": "A landscape artist from the late Renaissance period, Brueghel was known as the \"Peasant Artist.\" He earned the title for depicting scenes from common peasant life, such as the moment captured here. Note the contrast between the weary hunters and the people frolicking below on icy ponds.",
+  "canBeFake": true,
+  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/render/art/scenic_painting.png"
+}

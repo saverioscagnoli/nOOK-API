@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Pashmina",
+    "english_EU": "Pashmina",
+    "german": "Pamela",
+    "spanish_EU": "Carla",
+    "spanish_american": "Carla",
+    "french_EU": "Chavrina",
+    "french_american": "Chavrina",
+    "italian": "Pashmina",
+    "dutch": "Pashmina",
+    "simplified_chinese": "芭芭拉",
+    "traditional_chinese": "芭芭拉",
+    "japanese": "バーバラ",
+    "korean": "바바라",
+    "russian": "Пашмина"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Pashmina.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Pashmina.png"
+  },
+  "id": 275,
+  "name": "Pashmina",
+  "sex": "Female",
+  "personality": "Big Sister",
+  "birthday": "12/26",
+  "species": "Goat",
+  "catch_phrase": "kidders",
+  "name_color": "#fffce9"
+}

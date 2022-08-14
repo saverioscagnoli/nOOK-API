@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Hugh",
+    "english_EU": "Hugh",
+    "german": "Hugo",
+    "spanish_EU": "Jacobo",
+    "spanish_american": "Jacobo",
+    "french_EU": "Bonno",
+    "french_american": "Bonno",
+    "italian": "Jambon",
+    "dutch": "Hugh",
+    "simplified_chinese": "阿猪",
+    "traditional_chinese": "阿豬",
+    "japanese": "クッチャネ",
+    "korean": "먹고파",
+    "russian": "Хью"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Hugh.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Hugh.png"
+  },
+  "id": 184,
+  "name": "Hugh",
+  "sex": "Male",
+  "personality": "Lazy",
+  "birthday": "12/30",
+  "species": "Pig",
+  "catch_phrase": "snortle",
+  "name_color": "#fffce9"
+}

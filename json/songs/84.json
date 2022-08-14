@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "Rockin' K.K.",
+    "english_EU": "Rockin' K.K.",
+    "german": "K.K. Rocksong",
+    "spanish_EU": "Tota-total",
+    "spanish_american": "Tota-total",
+    "french_EU": "Bouge avec Kéké",
+    "french_american": "Bouge avec Kéké",
+    "italian": "K.K. Spericolato",
+    "dutch": "K.K.-rock-'n-roll",
+    "simplified_chinese": "K.K.50年代摇滚",
+    "traditional_chinese": "K.K.50年代搖滾",
+    "japanese": "けけのロケンロール",
+    "korean": "K.K.로큰롤",
+    "russian": "К. К. в ударе"
+  },
+  "id": 84,
+  "name": "Rockin' K.K.",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/Rockin'_KK.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/Rockin'_KK.mp3"
+}

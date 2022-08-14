@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Sheldon",
+    "english_EU": "Sheldon",
+    "german": "Steffen",
+    "spanish_EU": "Matracas",
+    "spanish_american": "Matracas",
+    "french_EU": "Roy",
+    "french_american": "Roy",
+    "italian": "Frugolo",
+    "dutch": "Sheldon",
+    "simplified_chinese": "克栗斯",
+    "traditional_chinese": "克栗斯",
+    "japanese": "クリス",
+    "korean": "크리스",
+    "russian": "Шелдон"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Sheldon.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Sheldon.png"
+  },
+  "id": 344,
+  "name": "Sheldon",
+  "sex": "Male",
+  "personality": "Jock",
+  "birthday": "2/26",
+  "species": "Squirrel",
+  "catch_phrase": "cardio",
+  "name_color": "#874c25"
+}

@@ -1,0 +1,25 @@
+{
+  "translations": {
+    "english_USA": "proper painting",
+    "english_EU": "proper painting",
+    "german": "Strenggemälde",
+    "spanish_EU": "cuadro dama",
+    "spanish_american": "cuadro dama",
+    "french_EU": "toile austère",
+    "french_american": "toile austère",
+    "italian": "quadro austero",
+    "dutch": "formele schilderij",
+    "simplified_chinese": "热闹的名画",
+    "traditional_chinese": "熱鬧的名畫",
+    "japanese": "にぎやかなめいが",
+    "korean": "활기 넘치는 명화",
+    "russian": "строгая картина"
+  },
+  "id": 26,
+  "name": "proper painting",
+  "buy_price": 4980,
+  "sell_price": 1245,
+  "museum_description": "Close inspection of the mirror behind this painting's subject reveals many mysteries and paradoxes... In fact, the painting is based on multiple perspectives, which explains the unusual placement of some items. Sadly, this is Manet's last major work. He passed away a year after it was complete, at age 51.",
+  "canBeFake": false,
+  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/render/art/proper_painting.png"
+}

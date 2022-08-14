@@ -1,0 +1,45 @@
+{
+  "translations": {
+    "english_USA": "brown cicada",
+    "english_EU": "brown cicada",
+    "german": "Braunzikade",
+    "spanish_EU": "cigarra marrón",
+    "spanish_american": "cigarra marrón",
+    "french_EU": "cigale cercope",
+    "french_american": "cigale cercope",
+    "italian": "cicala marrone",
+    "dutch": "bruine cicade",
+    "simplified_chinese": "油蝉",
+    "traditional_chinese": "油蟬",
+    "japanese": "アブラゼミ",
+    "korean": "유지매미",
+    "russian": "коричневая цикада"
+  },
+  "sell_prices": { "nook": 250, "flick": 375 },
+  "available": {
+    "hemisphere_data": {
+      "northern_months": "7-8",
+      "southern_months": "1-2",
+      "northern_months_array": [7, 8],
+      "southern_months_array": [1, 2]
+    },
+    "time": {
+      "all_day": false,
+      "all_year": false,
+      "time_string": "8am - 5pm",
+      "time_array": [8, 9, 10, 11, 12, 13, 14, 15, 16]
+    },
+    "spot": "On trees",
+    "rarity": "Common"
+  },
+  "phrases": {
+    "joke": "I caught a brown cicada! Now it probably feels blue, cicada.",
+    "museum_description": "Cicadas are obnoxious insects. And not just brown cicadas, mind you...but all cicadas! They flex ribbed membranes on their torso called tymbals to make a loud snapping sound. So rude! Hoo! Yes, it is only the males who make the noise. Sometimes at a volume that can produce pain at close range! Appallingly inconsiderate, I must say..."
+  },
+  "sprites": {
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/bugs/Brown_Cicada.png",
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/bugs/Brown_Cicada.png"
+  },
+  "id": 26,
+  "name": "brown cicada"
+}

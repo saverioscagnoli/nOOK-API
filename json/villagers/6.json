@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Alice",
+    "english_EU": "Alice",
+    "german": "Konny",
+    "spanish_EU": "Zelanda",
+    "spanish_american": "Zelanda",
+    "french_EU": "Alice",
+    "french_american": "Alice",
+    "italian": "Alice",
+    "dutch": "Alice",
+    "simplified_chinese": "莫儿",
+    "traditional_chinese": "莫兒",
+    "japanese": "メルボルン",
+    "korean": "멜버른",
+    "russian": "Алиса"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Alice.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Alice.png"
+  },
+  "id": 6,
+  "name": "Alice",
+  "sex": "Female",
+  "personality": "Normal",
+  "birthday": "8/19",
+  "species": "Koala",
+  "catch_phrase": "guvnor",
+  "name_color": "#fffce9"
+}

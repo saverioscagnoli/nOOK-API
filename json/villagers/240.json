@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Mathilda",
+    "english_EU": "Mathilda",
+    "german": "Marga",
+    "spanish_EU": "Pugilda",
+    "spanish_american": "Pugilda",
+    "french_EU": "Mathilde",
+    "french_american": "Mathilde",
+    "italian": "Matilda",
+    "dutch": "Mathilda",
+    "simplified_chinese": "亚莎",
+    "traditional_chinese": "亞莎",
+    "japanese": "アザラク",
+    "korean": "안젤라",
+    "russian": "Матильда"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Mathilda.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Mathilda.png"
+  },
+  "id": 240,
+  "name": "Mathilda",
+  "sex": "Female",
+  "personality": "Snooty",
+  "birthday": "11/12",
+  "species": "Kangaroo",
+  "catch_phrase": "wee baby",
+  "name_color": "#fffce9"
+}

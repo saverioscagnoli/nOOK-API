@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "O'Hare",
+    "english_EU": "O'Hare",
+    "german": "Nico",
+    "spanish_EU": "Ernesto",
+    "spanish_american": "Ernesto",
+    "french_EU": "Civet",
+    "french_american": "Civet",
+    "italian": "Fritz",
+    "dutch": "O'Hare",
+    "simplified_chinese": "桑托斯",
+    "traditional_chinese": "桑托斯",
+    "japanese": "サントス",
+    "korean": "산토스",
+    "russian": "О'Хэар"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/O'Hare.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/O'Hare.png"
+  },
+  "id": 264,
+  "name": "O'Hare",
+  "sex": "Male",
+  "personality": "Smug",
+  "birthday": "7/24",
+  "species": "Rabbit",
+  "catch_phrase": "amigo",
+  "name_color": "#fffce9"
+}

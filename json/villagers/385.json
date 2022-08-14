@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Truffles",
+    "english_EU": "Truffles",
+    "german": "Luzie",
+    "spanish_EU": "Trufas",
+    "spanish_american": "Trufas",
+    "french_EU": "Trufa",
+    "french_american": "Trufa",
+    "italian": "Grufetta",
+    "dutch": "Truffles",
+    "simplified_chinese": "嘟嘟",
+    "traditional_chinese": "嘟嘟",
+    "japanese": "トンコ",
+    "korean": "탱고",
+    "russian": "Трафлс"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Truffles.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Truffles.png"
+  },
+  "id": 385,
+  "name": "Truffles",
+  "sex": "Female",
+  "personality": "Peppy",
+  "birthday": "7/28",
+  "species": "Pig",
+  "catch_phrase": "snoutie",
+  "name_color": "#fffce9"
+}

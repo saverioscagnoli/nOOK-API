@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Eugene",
+    "english_EU": "Eugene",
+    "german": "Sunny",
+    "spanish_EU": "Eucalín",
+    "spanish_american": "Eucalín",
+    "french_EU": "Jamy",
+    "french_american": "Jamy",
+    "italian": "Corrado",
+    "dutch": "Eugene",
+    "simplified_chinese": "罗奇",
+    "traditional_chinese": "羅奇",
+    "japanese": "ロッキー",
+    "korean": "코알",
+    "russian": "Юджин"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Eugene.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Eugene.png"
+  },
+  "id": 136,
+  "name": "Eugene",
+  "sex": "Male",
+  "personality": "Smug",
+  "birthday": "10/26",
+  "species": "Koala",
+  "catch_phrase": "yeah buddy",
+  "name_color": "#fffce9"
+}

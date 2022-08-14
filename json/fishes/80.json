@@ -1,0 +1,49 @@
+{
+  "translations": {
+    "english_USA": "coelacanth",
+    "english_EU": "coelacanth",
+    "german": "Quastenflosser",
+    "spanish_EU": "celacanto",
+    "spanish_american": "celacanto",
+    "french_EU": "cœlacanthe",
+    "french_american": "cœlacanthe",
+    "italian": "celacanto",
+    "dutch": "coelacant",
+    "simplified_chinese": "矛尾鱼",
+    "traditional_chinese": "矛尾魚",
+    "japanese": "シーラカンス",
+    "korean": "실러캔스",
+    "russian": "латимерия"
+  },
+  "sell_prices": { "nook": 15000, "cj": 22500 },
+  "available": {
+    "hemisphere_data": {
+      "northern_months": "",
+      "southern_months": "",
+      "northern_months_array": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "southern_months_array": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    },
+    "time": {
+      "all_day": true,
+      "all_year": true,
+      "time_string": "",
+      "time_array": [
+        0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19,
+        20, 21, 22, 23
+      ]
+    },
+    "spot": "Sea (when raining or snowing)",
+    "rarity": "Ultra-rare"
+  },
+  "phrases": {
+    "joke": "Blast from the past! I caught a coelacanth! Think positive! Be a coela-CAN!",
+    "museum_description": "The coelacanth is a deep-sea fish that has been around since the age of the dinosaurs. They were long thought extinct, so when living specimens were discovered, it was quite a shock! Now I'll just have to figure out where in the museum to display it— fish or fossils!"
+  },
+  "sprites": {
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/fishes/Coelacanth.png",
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/fishes/Coelacanth.png"
+  },
+  "id": 80,
+  "name": "coelacanth",
+  "shadow_size": "6"
+}

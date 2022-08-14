@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Big Top",
+    "english_EU": "Big Top",
+    "german": "Benni",
+    "spanish_EU": "Déivid",
+    "spanish_american": "Déivid",
+    "french_EU": "Miles",
+    "french_american": "Miles",
+    "italian": "Grande C",
+    "dutch": "Big Top",
+    "simplified_chinese": "阿三",
+    "traditional_chinese": "阿三",
+    "japanese": "３ごう",
+    "korean": "3호",
+    "russian": "Биг-Топ"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Big Top.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Big Top.png"
+  },
+  "id": 41,
+  "name": "Big Top",
+  "sex": "Male",
+  "personality": "Lazy",
+  "birthday": "10/3",
+  "species": "Elephant",
+  "catch_phrase": "villain",
+  "name_color": "#28665a"
+}

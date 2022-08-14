@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Bettina",
+    "english_EU": "Bettina",
+    "german": "Schoki",
+    "spanish_EU": "Ottina",
+    "spanish_american": "Ottina",
+    "french_EU": "Sabrina",
+    "french_american": "Sabrina",
+    "italian": "Rattina",
+    "dutch": "Bettina",
+    "simplified_chinese": "丸子",
+    "traditional_chinese": "丸子",
+    "japanese": "マルコ",
+    "korean": "마르카",
+    "russian": "Беттина"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Bettina.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Bettina.png"
+  },
+  "id": 38,
+  "name": "Bettina",
+  "sex": "Female",
+  "personality": "Normal",
+  "birthday": "6/12",
+  "species": "Mouse",
+  "catch_phrase": "eekers",
+  "name_color": "#fff2bb"
+}

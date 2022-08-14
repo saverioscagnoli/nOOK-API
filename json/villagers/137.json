@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Eunice",
+    "english_EU": "Eunice",
+    "german": "Edith",
+    "spanish_EU": "Lanolina",
+    "spanish_american": "Lanolina",
+    "french_EU": "Bérénice",
+    "french_american": "Bérénice",
+    "italian": "Tenerina",
+    "dutch": "Eunice",
+    "simplified_chinese": "毛海儿",
+    "traditional_chinese": "毛海兒",
+    "japanese": "モヘア",
+    "korean": "곱슬이",
+    "russian": "Юнис"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Eunice.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Eunice.png"
+  },
+  "id": 137,
+  "name": "Eunice",
+  "sex": "Female",
+  "personality": "Normal",
+  "birthday": "4/3",
+  "species": "Sheep",
+  "catch_phrase": "lambchop",
+  "name_color": "#fffad4"
+}

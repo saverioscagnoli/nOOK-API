@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Cally",
+    "english_EU": "Cally",
+    "german": "Hörnchen",
+    "spanish_EU": "Almendra",
+    "spanish_american": "Almendra",
+    "french_EU": "Célia",
+    "french_american": "Célia",
+    "italian": "Rosa",
+    "dutch": "Cally",
+    "simplified_chinese": "小芹",
+    "traditional_chinese": "小芹",
+    "japanese": "パセリ",
+    "korean": "파슬리",
+    "russian": "Кэлли"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Cally.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Cally.png"
+  },
+  "id": 67,
+  "name": "Cally",
+  "sex": "Female",
+  "personality": "Normal",
+  "birthday": "9/4",
+  "species": "Squirrel",
+  "catch_phrase": "WHEE",
+  "name_color": "#fffce9"
+}

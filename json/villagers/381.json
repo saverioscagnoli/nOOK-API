@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Timbra",
+    "english_EU": "Timbra",
+    "german": "Tippsi",
+    "spanish_EU": "Hebra",
+    "spanish_american": "Hebra",
+    "french_EU": "Sélène",
+    "french_american": "Sélène",
+    "italian": "Ambra",
+    "dutch": "Timbra",
+    "simplified_chinese": "阿司",
+    "traditional_chinese": "阿司",
+    "japanese": "つかさ",
+    "korean": "잔디",
+    "russian": "Тимбра"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Timbra.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Timbra.png"
+  },
+  "id": 381,
+  "name": "Timbra",
+  "sex": "Female",
+  "personality": "Snooty",
+  "birthday": "10/21",
+  "species": "Sheep",
+  "catch_phrase": "pine nut",
+  "name_color": "#fffce9"
+}

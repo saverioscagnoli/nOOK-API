@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Bea",
+    "english_EU": "Bea",
+    "german": "Bea",
+    "spanish_EU": "Bea",
+    "spanish_american": "Bea",
+    "french_EU": "Béa",
+    "french_american": "Béa",
+    "italian": "Cucciola",
+    "dutch": "Bea",
+    "simplified_chinese": "贝果",
+    "traditional_chinese": "貝果",
+    "japanese": "ベーグル",
+    "korean": "베이글",
+    "russian": "Беа"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Bea.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Bea.png"
+  },
+  "id": 30,
+  "name": "Bea",
+  "sex": "Female",
+  "personality": "Normal",
+  "birthday": "10/15",
+  "species": "Dog",
+  "catch_phrase": "bingo",
+  "name_color": "#fffce9"
+}

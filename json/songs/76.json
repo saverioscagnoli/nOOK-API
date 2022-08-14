@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "Lucky K.K.",
+    "english_EU": "Lucky K.K.",
+    "german": "K.K. Glückspilz",
+    "spanish_EU": "Tota-celta",
+    "spanish_american": "Tota-celta",
+    "french_EU": "Kéké le verni",
+    "french_american": "Kéké le veinard",
+    "italian": "K.K. Felicità",
+    "dutch": "K.K. de Kelt",
+    "simplified_chinese": "爱尔兰乐曲",
+    "traditional_chinese": "愛爾蘭樂曲",
+    "japanese": "アイリッシュそんぐ",
+    "korean": "아일랜드의 노래",
+    "russian": "Счастливчик К. К."
+  },
+  "id": 76,
+  "name": "Lucky K.K.",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/Lucky_KK.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/Lucky_KK.mp3"
+}

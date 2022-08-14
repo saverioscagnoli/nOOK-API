@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Poppy",
+    "english_EU": "Poppy",
+    "german": "Trita",
+    "spanish_EU": "Encina",
+    "spanish_american": "Encina",
+    "french_EU": "Irène",
+    "french_american": "Irène",
+    "italian": "Granella",
+    "dutch": "Poppy",
+    "simplified_chinese": "软糖",
+    "traditional_chinese": "軟糖",
+    "japanese": "グミ",
+    "korean": "다람",
+    "russian": "Поппи"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Poppy.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Poppy.png"
+  },
+  "id": 298,
+  "name": "Poppy",
+  "sex": "Female",
+  "personality": "Normal",
+  "birthday": "8/5",
+  "species": "Squirrel",
+  "catch_phrase": "nutty",
+  "name_color": "#fffce9"
+}

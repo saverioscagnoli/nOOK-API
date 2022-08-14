@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Diana",
+    "english_EU": "Diana",
+    "german": "Vroni",
+    "spanish_EU": "Bambina",
+    "spanish_american": "Bambina",
+    "french_EU": "Didi",
+    "french_american": "Didi",
+    "italian": "Diana",
+    "dutch": "Diana",
+    "simplified_chinese": "倪家莉",
+    "traditional_chinese": "倪家莉",
+    "japanese": "ナタリー",
+    "korean": "나탈리",
+    "russian": "Диана"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Diana.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Diana.png"
+  },
+  "id": 117,
+  "name": "Diana",
+  "sex": "Female",
+  "personality": "Snooty",
+  "birthday": "1/4",
+  "species": "Deer",
+  "catch_phrase": "no doy",
+  "name_color": "#725661"
+}

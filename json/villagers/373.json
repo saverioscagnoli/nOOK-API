@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Tangy",
+    "english_EU": "Tangy",
+    "german": "Tanja",
+    "spanish_EU": "Tricia",
+    "spanish_american": "Tricia",
+    "french_EU": "Marine",
+    "french_american": "Marine",
+    "italian": "Arancina",
+    "dutch": "Tangy",
+    "simplified_chinese": "纯纯",
+    "traditional_chinese": "純純",
+    "japanese": "ヒャクパー",
+    "korean": "백프로",
+    "russian": "Тэнджи"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Tangy.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Tangy.png"
+  },
+  "id": 373,
+  "name": "Tangy",
+  "sex": "Female",
+  "personality": "Peppy",
+  "birthday": "6/17",
+  "species": "Cat",
+  "catch_phrase": "reeeeOWR",
+  "name_color": "#9b553a"
+}

@@ -1,0 +1,25 @@
+{
+  "translations": {
+    "english_USA": "robust statue",
+    "english_EU": "robust statue",
+    "german": "Athletenstatue",
+    "spanish_EU": "estatua atlética",
+    "spanish_american": "estatua atlética",
+    "french_EU": "statue athlétique",
+    "french_american": "statue athlétique",
+    "italian": "statua atletica",
+    "dutch": "atletische standbeeld",
+    "simplified_chinese": "强壮的雕塑",
+    "traditional_chinese": "強壯的雕塑",
+    "japanese": "たくましいちょうこく",
+    "korean": "듬직한 조각",
+    "russian": "атлетическая статуя"
+  },
+  "id": 28,
+  "name": "robust statue",
+  "buy_price": 4980,
+  "sell_price": 1245,
+  "museum_description": "This ancient Roman statue is based on the ancient Greek statue crafted by Myron. It's a piece that shows the grandeur of the human body, beautiful from any angle.",
+  "canBeFake": true,
+  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/render/art/robust_statue.png"
+}

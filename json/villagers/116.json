@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Derwin",
+    "english_EU": "Derwin",
+    "german": "Erwin",
+    "spanish_EU": "Torcuato",
+    "spanish_american": "Torcuato",
+    "french_EU": "Prof",
+    "french_american": "Prof",
+    "italian": "Mike",
+    "dutch": "Derwin",
+    "simplified_chinese": "阿坊",
+    "traditional_chinese": "阿坊",
+    "japanese": "ボン",
+    "korean": "봉",
+    "russian": "Дервин"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Derwin.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Derwin.png"
+  },
+  "id": 116,
+  "name": "Derwin",
+  "sex": "Male",
+  "personality": "Lazy",
+  "birthday": "5/25",
+  "species": "Duck",
+  "catch_phrase": "derrrr",
+  "name_color": "#fffce9"
+}

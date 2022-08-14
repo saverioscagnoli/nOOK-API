@@ -1,0 +1,48 @@
+{
+  "translations": {
+    "english_USA": "turban shell",
+    "english_EU": "turban shell",
+    "german": "Turbanschnecke",
+    "spanish_EU": "caracola espinosa",
+    "spanish_american": "caracola espinosa",
+    "french_EU": "turbo",
+    "french_american": "turbo",
+    "italian": "lumaca turbante",
+    "dutch": "tulbandschelp",
+    "simplified_chinese": "角蝾螺",
+    "traditional_chinese": "角蠑螺",
+    "japanese": "サザエ",
+    "korean": "소라",
+    "russian": "рогатый тюрбан"
+  },
+  "price": 1000,
+  "speed": "Slow",
+  "available": {
+    "hemisphere_data": {
+      "northern_months": "3-5 & 9-12",
+      "southern_months": "3-6 & 9-11",
+      "northern_months_array": [3, 4, 5, 9, 10, 11, 12],
+      "southern_months_array": [3, 4, 5, 6, 9, 10, 11]
+    },
+    "time": {
+      "all_day": true,
+      "all_year": false,
+      "time_string": "",
+      "time_array": [
+        0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19,
+        20, 21, 22, 23
+      ]
+    }
+  },
+  "phrases": {
+    "joke": "I got a turban shell! It's totally TURB...ular!",
+    "museum_description": "The turban shell is a sea snail with a rather nifty trick up its sleeve...er, shell. You see, this snail carries a hard, round, button-like \"operculum\" with it wherever it goes. What is an operculum, you ask? Why, it is a trapdoor of sorts! When danger approaches, the snail slips into its shell and pulls this trapdoor closed over the opening. Thus it is locked safe and sound inside. And bravo, I say! Bravo! When trouble comes knocking, just do what the turban shell￿ does. Shut the door and turn out the lights!"
+  },
+  "sprites": {
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/sea_creatures/Turban_Shell.png",
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/sea_creatures/Turban_Shell.png"
+  },
+  "id": 16,
+  "name": "turban shell",
+  "shadow_size": "Small"
+}

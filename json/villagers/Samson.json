@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Samson",
+    "english_EU": "Samson",
+    "german": "Samson",
+    "spanish_EU": "Sansón",
+    "spanish_american": "Sansón",
+    "french_EU": "Samson",
+    "french_american": "Samson",
+    "italian": "Sansone",
+    "dutch": "Samson",
+    "simplified_chinese": "和平",
+    "traditional_chinese": "和平",
+    "japanese": "ピース",
+    "korean": "피스",
+    "russian": "Самсон"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Samson.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Samson.png"
+  },
+  "id": 338,
+  "name": "Samson",
+  "sex": "Male",
+  "personality": "Jock",
+  "birthday": "7/5",
+  "species": "Mouse",
+  "catch_phrase": "pipsqueak",
+  "name_color": "#498992"
+}

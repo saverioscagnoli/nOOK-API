@@ -1,0 +1,25 @@
+{
+  "translations": {
+    "english_USA": "calm painting",
+    "english_EU": "calm painting",
+    "german": "Ruhegemälde",
+    "spanish_EU": "paisaje francés",
+    "spanish_american": "paisaje francés",
+    "french_EU": "toile apaisante",
+    "french_american": "toile apaisante",
+    "italian": "quadro riposante",
+    "dutch": "vredige schilderij",
+    "simplified_chinese": "和煦的名画",
+    "traditional_chinese": "和煦的名畫",
+    "japanese": "おだやかなめいが",
+    "korean": "평온한 명화",
+    "russian": "спокойная картина"
+  },
+  "id": 6,
+  "name": "calm painting",
+  "buy_price": 4980,
+  "sell_price": 1245,
+  "museum_description": "Seurat, known as the founder of neo-impressionism, invented the use of brightly colored dots. His method, which does not involve mixing pigments, took time. This piece, for instance, took two years. It shows a crowd enjoying a day off at the river Seine in France.",
+  "canBeFake": false,
+  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/render/art/calm_painting.png"
+}

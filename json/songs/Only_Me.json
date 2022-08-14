@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "Only Me",
+    "english_EU": "Only Me",
+    "german": "Ganz allein",
+    "spanish_EU": "Solo yo",
+    "spanish_american": "Solo yo",
+    "french_EU": "Moi et juste moi",
+    "french_american": "Moi et juste moi",
+    "italian": "Solo io",
+    "dutch": "Alleen ik",
+    "simplified_chinese": "只有我",
+    "traditional_chinese": "只有我",
+    "japanese": "オンリーミー",
+    "korean": "온리미",
+    "russian": "Только я"
+  },
+  "id": 82,
+  "name": "Only Me",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/Only_Me.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/Only_Me.mp3"
+}

@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "K.K. Condor",
+    "english_EU": "K.K. Condor",
+    "german": "K.K. Kondor",
+    "spanish_EU": "Tota-andina",
+    "spanish_american": "Tota-andina",
+    "french_EU": "El Condor Kéké",
+    "french_american": "El Condor Kéké",
+    "italian": "K.K. Condor",
+    "dutch": "K.K. bij de condors",
+    "simplified_chinese": "秘鲁之歌",
+    "traditional_chinese": "秘魯之歌",
+    "japanese": "ペルーのうた",
+    "korean": "페루의 노래",
+    "russian": "Кондор К. К."
+  },
+  "id": 25,
+  "name": "K.K. Condor",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/KK_Condor.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/KK_Condor.mp3"
+}

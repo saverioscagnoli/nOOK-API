@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Butch",
+    "english_EU": "Butch",
+    "german": "Hasso",
+    "spanish_EU": "Bruno",
+    "spanish_american": "Bruno",
+    "french_EU": "Avril",
+    "french_american": "Avril",
+    "italian": "Attila",
+    "dutch": "Butch",
+    "simplified_chinese": "约翰",
+    "traditional_chinese": "約翰",
+    "japanese": "ジョン",
+    "korean": "존",
+    "russian": "Бутч"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Butch.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Butch.png"
+  },
+  "id": 65,
+  "name": "Butch",
+  "sex": "Male",
+  "personality": "Cranky",
+  "birthday": "11/1",
+  "species": "Dog",
+  "catch_phrase": "ROOOOOWF",
+  "name_color": "#874c25"
+}

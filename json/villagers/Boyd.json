@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Boyd",
+    "english_EU": "Boyd",
+    "german": "Boyd",
+    "spanish_EU": "Bunga",
+    "spanish_american": "Bunga",
+    "french_EU": "Primo",
+    "french_american": "Primo",
+    "italian": "Brando",
+    "dutch": "Boyd",
+    "simplified_chinese": "空空",
+    "traditional_chinese": "空空",
+    "japanese": "ボイド",
+    "korean": "보이드",
+    "russian": "Бойд"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Boyd.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Boyd.png"
+  },
+  "id": 56,
+  "name": "Boyd",
+  "sex": "Male",
+  "personality": "Cranky",
+  "birthday": "10/1",
+  "species": "Gorilla",
+  "catch_phrase": "uh-oh",
+  "name_color": "#fffce9"
+}

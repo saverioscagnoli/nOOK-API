@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Portia",
+    "english_EU": "Portia",
+    "german": "Isolde",
+    "spanish_EU": "Amanda",
+    "spanish_american": "Amanda",
+    "french_EU": "Dalma",
+    "french_american": "Dalma",
+    "italian": "Porzia",
+    "dutch": "Portia",
+    "simplified_chinese": "傅兰",
+    "traditional_chinese": "傅蘭",
+    "japanese": "ブレンダ",
+    "korean": "블랜더",
+    "russian": "Порция"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Portia.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Portia.png"
+  },
+  "id": 299,
+  "name": "Portia",
+  "sex": "Female",
+  "personality": "Snooty",
+  "birthday": "10/25",
+  "species": "Dog",
+  "catch_phrase": "ruffian",
+  "name_color": "#848484"
+}

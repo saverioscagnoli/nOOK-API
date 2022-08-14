@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Étoile",
+    "english_EU": "Étoile",
+    "german": "Etoile",
+    "spanish_EU": "Etoile",
+    "spanish_american": "Etoile",
+    "french_EU": "Étoile",
+    "french_american": "Étoile",
+    "italian": "Étoile",
+    "dutch": "Étoile",
+    "simplified_chinese": "彩星",
+    "traditional_chinese": "彩星",
+    "japanese": "エトワール",
+    "korean": "에뜨와르",
+    "russian": "Этуаль"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Étoile.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Étoile.png"
+  },
+  "id": 412,
+  "name": "Étoile",
+  "sex": "Female",
+  "personality": "Normal",
+  "birthday": "12/25",
+  "species": "Sheep",
+  "catch_phrase": "fuzzy",
+  "name_color": "#ffd7eb"
+}

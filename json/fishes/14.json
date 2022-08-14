@@ -1,0 +1,49 @@
+{
+  "translations": {
+    "english_USA": "tadpole",
+    "english_EU": "tadpole",
+    "german": "Kaulquappe",
+    "spanish_EU": "renacuajo",
+    "spanish_american": "renacuajo",
+    "french_EU": "têtard",
+    "french_american": "têtard",
+    "italian": "girino",
+    "dutch": "kikkervisje",
+    "simplified_chinese": "蝌蚪",
+    "traditional_chinese": "蝌蚪",
+    "japanese": "オタマジャクシ",
+    "korean": "올챙이",
+    "russian": "головастик"
+  },
+  "sell_prices": { "nook": 100, "cj": 150 },
+  "available": {
+    "hemisphere_data": {
+      "northern_months": "3-7",
+      "southern_months": "9-1",
+      "northern_months_array": [3, 4, 5, 6, 7],
+      "southern_months_array": [9, 10, 11, 12, 1]
+    },
+    "time": {
+      "all_day": true,
+      "all_year": false,
+      "time_string": "",
+      "time_array": [
+        0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19,
+        20, 21, 22, 23
+      ]
+    },
+    "spot": "Pond",
+    "rarity": "Common"
+  },
+  "phrases": {
+    "joke": "I caught a tadpole... It's just a tad small.",
+    "museum_description": "Undoubtedly you know that tadpoles eventually turn into frogs. I must say, I find them impossibly adorable with their squiggly little tails. But even cuter... when they sprout legs! Why, we can witness accelerated evolution in these squirmy little ones. Hoo, it makes me so emotional!"
+  },
+  "sprites": {
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/fishes/Tadpole.png",
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/fishes/Tadpole.png"
+  },
+  "id": 14,
+  "name": "tadpole",
+  "shadow_size": "1"
+}

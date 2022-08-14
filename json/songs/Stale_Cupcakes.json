@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "Stale Cupcakes",
+    "english_EU": "Stale Cupcakes",
+    "german": "Alter Kuchen",
+    "spanish_EU": "Pastelito seco",
+    "spanish_american": "Pastelito seco",
+    "french_EU": "Vieux biscuits",
+    "french_american": "Vieux biscuits",
+    "italian": "Vecchi dolcetti",
+    "dutch": "Oude cupcakes",
+    "simplified_chinese": "蓝色饭团",
+    "traditional_chinese": "藍色飯糰",
+    "japanese": "ブルーおにぎり",
+    "korean": "블루 삼각 김밥",
+    "russian": "Черствые капкейки"
+  },
+  "id": 88,
+  "name": "Stale Cupcakes",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/Stale_Cupcakes.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/Stale_Cupcakes.mp3"
+}

@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "K.K. Étude",
+    "english_EU": "K.K. Étude",
+    "german": "K.K. Etüde",
+    "spanish_EU": "Tota-solo",
+    "spanish_american": "Tota-solo",
+    "french_EU": "Étude de Kéké",
+    "french_american": "Étude de Kéké",
+    "italian": "K.K. Studio",
+    "dutch": "K.K.-etude",
+    "simplified_chinese": "K.K.练习曲",
+    "traditional_chinese": "K.K.練習曲",
+    "japanese": "けけのエチュード",
+    "korean": "K.K.에튀드",
+    "russian": "Этюд К. К."
+  },
+  "id": 32,
+  "name": "K.K. Étude",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/KK_Étude.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/KK_Étude.mp3"
+}

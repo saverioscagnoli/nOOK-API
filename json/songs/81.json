@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "Neapolitan",
+    "english_EU": "Neapolitan",
+    "german": "Neapolitaner",
+    "spanish_EU": "Napolitana",
+    "spanish_american": "Napolitana",
+    "french_EU": "Napolitaine",
+    "french_american": "Napolitaine",
+    "italian": "Napoletana",
+    "dutch": "Napolitain",
+    "simplified_chinese": "意大利面",
+    "traditional_chinese": "義大利麵",
+    "japanese": "ナポリタン",
+    "korean": "토마토 스파게티",
+    "russian": "Неаполитанское"
+  },
+  "id": 81,
+  "name": "Neapolitan",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/Neapolitan.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/Neapolitan.mp3"
+}

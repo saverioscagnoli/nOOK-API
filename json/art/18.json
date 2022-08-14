@@ -1,0 +1,25 @@
+{
+  "translations": {
+    "english_USA": "jolly painting",
+    "english_EU": "jolly painting",
+    "german": "Gemüsegemälde",
+    "spanish_EU": "cuadro orgánico",
+    "spanish_american": "cuadro orgánico",
+    "french_EU": "toile potagère",
+    "french_american": "toile potagère",
+    "italian": "quadro organico",
+    "dutch": "fleurige schilderij",
+    "simplified_chinese": "有趣的名画",
+    "traditional_chinese": "有趣的名畫",
+    "japanese": "おもしろいめいが",
+    "korean": "재미있는 명화",
+    "russian": "веселая картина"
+  },
+  "id": 18,
+  "name": "jolly painting",
+  "buy_price": 4980,
+  "sell_price": 1245,
+  "museum_description": "A curious portrait by Giuseppe Arcimboldo, an Italian painter from the late 16th century. It doesn't take a particularly sharp eye to see that the entire portrait is composed of fresh produce.",
+  "canBeFake": true,
+  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/render/art/jolly_painting.png"
+}

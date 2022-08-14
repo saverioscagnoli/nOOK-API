@@ -1,0 +1,25 @@
+{
+  "translations": {
+    "english_USA": "great statue",
+    "english_EU": "great statue",
+    "german": "Würdestatue",
+    "spanish_EU": "estatua triunfante",
+    "spanish_american": "estatua triunfante",
+    "french_EU": "statue imposante",
+    "french_american": "statue imposante",
+    "italian": "statua trionfante",
+    "dutch": "majestueuze standbeeld",
+    "simplified_chinese": "伟大的雕塑",
+    "traditional_chinese": "偉大的雕塑",
+    "japanese": "いだいなちょうこく",
+    "korean": "위대한 조각",
+    "russian": "великая статуя"
+  },
+  "id": 16,
+  "name": "great statue",
+  "buy_price": 4980,
+  "sell_price": 1245,
+  "museum_description": "A bronze sculpture of King Kamehameha I, who founded the Kingdom of Hawaii in 1810. Traditionally, the sculpture is draped with many leis every year on June 11th.",
+  "canBeFake": false,
+  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/render/art/great_statue.png"
+}

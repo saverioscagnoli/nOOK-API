@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "K.K. Calypso",
+    "english_EU": "K.K. Calypso",
+    "german": "K.K. Calypso",
+    "spanish_EU": "Tota-calipso",
+    "spanish_american": "Tota-calipso",
+    "french_EU": "Calypso de Kéké",
+    "french_american": "Calypso de Kéké",
+    "italian": "K.K. Calipso",
+    "dutch": "K.K.-calypso",
+    "simplified_chinese": "K.K.卡利普索",
+    "traditional_chinese": "K.K.卡利普索",
+    "japanese": "けけカリプソ",
+    "korean": "K.K.칼립소",
+    "russian": "Калипсо К. К."
+  },
+  "id": 22,
+  "name": "K.K. Calypso",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/KK_Calypso.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/KK_Calypso.mp3"
+}

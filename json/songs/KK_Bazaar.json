@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "K.K. Bazaar",
+    "english_EU": "K.K. Bazaar",
+    "german": "K.K. Basar",
+    "spanish_EU": "Tota-bazar",
+    "spanish_american": "Tota-bazar",
+    "french_EU": "Kéké bohême",
+    "french_american": "Kéké bohême",
+    "italian": "K.K. Bazar",
+    "dutch": "K.K. op de bazaar",
+    "simplified_chinese": "K.K.吉普赛",
+    "traditional_chinese": "K.K.吉普賽",
+    "japanese": "けけロマ",
+    "korean": "K.K.로마",
+    "russian": "Базар К. К."
+  },
+  "id": 18,
+  "name": "K.K. Bazaar",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/KK_Bazaar.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/KK_Bazaar.mp3"
+}

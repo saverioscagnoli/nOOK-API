@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Carrie",
+    "english_EU": "Carrie",
+    "german": "Carola",
+    "spanish_EU": "Lola",
+    "spanish_american": "Lola",
+    "french_EU": "Kanga",
+    "french_american": "Kanga",
+    "italian": "Taschina",
+    "dutch": "Carrie",
+    "simplified_chinese": "妈咪",
+    "traditional_chinese": "媽咪",
+    "japanese": "マミィ",
+    "korean": "마미",
+    "russian": "Кэрри"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Carrie.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Carrie.png"
+  },
+  "id": 73,
+  "name": "Carrie",
+  "sex": "Female",
+  "personality": "Normal",
+  "birthday": "12/5",
+  "species": "Kangaroo",
+  "catch_phrase": "little one",
+  "name_color": "#fffce9"
+}

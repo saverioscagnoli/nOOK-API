@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Wart Jr.",
+    "english_EU": "Wart Jr.",
+    "german": "Warzi",
+    "spanish_EU": "Saponcio",
+    "spanish_american": "Saponcio",
+    "french_EU": "Crakos",
+    "french_american": "Crakos",
+    "italian": "Porro",
+    "dutch": "Wart Jr.",
+    "simplified_chinese": "山姆",
+    "traditional_chinese": "山姆",
+    "japanese": "サム",
+    "korean": "샘",
+    "russian": "Варт-мл."
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Wart Jr..png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Wart Jr..png"
+  },
+  "id": 401,
+  "name": "Wart Jr.",
+  "sex": "Male",
+  "personality": "Cranky",
+  "birthday": "8/21",
+  "species": "Frog",
+  "catch_phrase": "grr-ribbit",
+  "name_color": "#fffce9"
+}

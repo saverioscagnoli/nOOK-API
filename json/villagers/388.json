@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Twiggy",
+    "english_EU": "Twiggy",
+    "german": "Twiggy",
+    "spanish_EU": "Tití",
+    "spanish_american": "Tití",
+    "french_EU": "Titi",
+    "french_american": "Titi",
+    "italian": "Titti",
+    "dutch": "Twiggy",
+    "simplified_chinese": "叽叽",
+    "traditional_chinese": "嘰嘰",
+    "japanese": "ピーチク",
+    "korean": "핀틱",
+    "russian": "Твигги"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Twiggy.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Twiggy.png"
+  },
+  "id": 388,
+  "name": "Twiggy",
+  "sex": "Female",
+  "personality": "Peppy",
+  "birthday": "7/13",
+  "species": "Bird",
+  "catch_phrase": "cheepers",
+  "name_color": "#9b8986"
+}

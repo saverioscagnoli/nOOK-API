@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Marcel",
+    "english_EU": "Marcel",
+    "german": "Ronaldo",
+    "spanish_EU": "Eto",
+    "spanish_american": "Eto",
+    "french_EU": "Ismaël",
+    "french_american": "Ismaël",
+    "italian": "Giosuè",
+    "dutch": "Marcel",
+    "simplified_chinese": "文字烧",
+    "traditional_chinese": "文字燒",
+    "japanese": "もんじゃ",
+    "korean": "에드워드",
+    "russian": "Марсель"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Marcel.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Marcel.png"
+  },
+  "id": 233,
+  "name": "Marcel",
+  "sex": "Male",
+  "personality": "Lazy",
+  "birthday": "12/31",
+  "species": "Dog",
+  "catch_phrase": "non",
+  "name_color": "#848484"
+}

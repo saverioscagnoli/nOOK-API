@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Zoe",
+    "english_EU": "Zoe",
+    "german": "Zoe",
+    "spanish_EU": "Naricia",
+    "spanish_american": "Naricia",
+    "french_EU": "Cléo",
+    "french_american": "Cléo",
+    "italian": "Zoe",
+    "dutch": "Zoe",
+    "simplified_chinese": "米粉",
+    "traditional_chinese": "米粉",
+    "japanese": "ビーフン",
+    "korean": "소면",
+    "russian": "Зои"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Zoe.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Zoe.png"
+  },
+  "id": 410,
+  "name": "Zoe",
+  "sex": "Female",
+  "personality": "Normal",
+  "birthday": "2/10",
+  "species": "Anteater",
+  "catch_phrase": "zoozooroo",
+  "name_color": "#fffce9"
+}

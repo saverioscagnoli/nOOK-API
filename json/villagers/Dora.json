@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Dora",
+    "english_EU": "Dora",
+    "german": "Dora",
+    "spanish_EU": "Dori",
+    "spanish_american": "Dori",
+    "french_EU": "Dora",
+    "french_american": "Dora",
+    "italian": "Serena",
+    "dutch": "Dora",
+    "simplified_chinese": "杜美",
+    "traditional_chinese": "杜美",
+    "japanese": "とめ",
+    "korean": "티미",
+    "russian": "Дора"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Dora.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Dora.png"
+  },
+  "id": 123,
+  "name": "Dora",
+  "sex": "Female",
+  "personality": "Normal",
+  "birthday": "2/18",
+  "species": "Mouse",
+  "catch_phrase": "squeaky",
+  "name_color": "#848484"
+}

@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Caroline",
+    "english_EU": "Caroline",
+    "german": "Ricarda",
+    "spanish_EU": "Mariló",
+    "spanish_american": "Mariló",
+    "french_EU": "Isabelle",
+    "french_american": "Isabelle",
+    "italian": "Carolina",
+    "dutch": "Caroline",
+    "simplified_chinese": "贾萝琳",
+    "traditional_chinese": "賈蘿琳",
+    "japanese": "キャロライン",
+    "korean": "캐롤라인",
+    "russian": "Каролина"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Caroline.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Caroline.png"
+  },
+  "id": 72,
+  "name": "Caroline",
+  "sex": "Female",
+  "personality": "Normal",
+  "birthday": "7/15",
+  "species": "Squirrel",
+  "catch_phrase": "hulaaaa",
+  "name_color": "#fff2bb"
+}

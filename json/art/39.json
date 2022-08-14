@@ -1,0 +1,25 @@
+{
+  "translations": {
+    "english_USA": "warrior statue",
+    "english_EU": "warrior statue",
+    "german": "Kriegerstatue",
+    "spanish_EU": "estatua guerrera",
+    "spanish_american": "estatua guerrera",
+    "french_EU": "statue guerrière",
+    "french_american": "statue guerrière",
+    "italian": "statua guerriera",
+    "dutch": "krijgszuchtige standbeeld",
+    "simplified_chinese": "武士的雕刻",
+    "traditional_chinese": "武士的雕刻",
+    "japanese": "もののふのちょうこく",
+    "korean": "무사의 조각",
+    "russian": "воинственная статуя"
+  },
+  "id": 39,
+  "name": "warrior statue",
+  "buy_price": 4980,
+  "sell_price": 1245,
+  "museum_description": "These terracotta warriors were buried with the first Qin emperor to protect him in the afterlife. Nearly 2,000 years later, in 1974, about 8,000 of them were found. Each life-sized statue is said to have been handmade with different poses, expressions, and clothing.",
+  "canBeFake": true,
+  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/render/art/warrior_statue.png"
+}

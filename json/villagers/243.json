@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Merengue",
+    "english_EU": "Merengue",
+    "german": "Maria",
+    "spanish_EU": "Natura",
+    "spanish_american": "Natura",
+    "french_EU": "Patty",
+    "french_american": "Patty",
+    "italian": "Irina",
+    "dutch": "Merengue",
+    "simplified_chinese": "草莓",
+    "traditional_chinese": "草莓",
+    "japanese": "パティ",
+    "korean": "스트로베리",
+    "russian": "Меренг"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Merengue.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Merengue.png"
+  },
+  "id": 243,
+  "name": "Merengue",
+  "sex": "Female",
+  "personality": "Normal",
+  "birthday": "3/19",
+  "species": "Rhinoceros",
+  "catch_phrase": "shortcake",
+  "name_color": "#634b4b"
+}

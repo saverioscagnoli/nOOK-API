@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Gala",
+    "english_EU": "Gala",
+    "german": "Oinka",
+    "spanish_EU": "Marita",
+    "spanish_american": "Marita",
+    "french_EU": "Camille",
+    "french_american": "Camille",
+    "italian": "Lisetta",
+    "dutch": "Gala",
+    "simplified_chinese": "小芽",
+    "traditional_chinese": "小芽",
+    "japanese": "ためこ",
+    "korean": "꽃지",
+    "russian": "Гала"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Gala.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Gala.png"
+  },
+  "id": 157,
+  "name": "Gala",
+  "sex": "Female",
+  "personality": "Normal",
+  "birthday": "3/5",
+  "species": "Pig",
+  "catch_phrase": "snortie",
+  "name_color": "#97858e"
+}

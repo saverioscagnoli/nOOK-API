@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "K.K. Flamenco",
+    "english_EU": "K.K. Flamenco",
+    "german": "K.K. Flamenco",
+    "spanish_EU": "Tota-flamenco",
+    "spanish_american": "Tota-flamenco",
+    "french_EU": "Flamenco Kéké",
+    "french_american": "Flamenco Kéké",
+    "italian": "K.K. Flamenco",
+    "dutch": "K.K.-flamenco",
+    "simplified_chinese": "K.K.佛朗明哥",
+    "traditional_chinese": "K.K.佛朗明哥",
+    "japanese": "けけフラメンコ",
+    "korean": "K.K.플라멩코",
+    "russian": "Фламенко К. К."
+  },
+  "id": 34,
+  "name": "K.K. Flamenco",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/KK_Flamenco.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/KK_Flamenco.mp3"
+}

@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Rodney",
+    "english_EU": "Rodney",
+    "german": "Reinhold",
+    "spanish_EU": "Chusquis",
+    "spanish_american": "Chusquis",
+    "french_EU": "Chico",
+    "french_american": "Chico",
+    "italian": "Rosikkio",
+    "dutch": "Rodney",
+    "simplified_chinese": "米米",
+    "traditional_chinese": "米米",
+    "japanese": "ジミー",
+    "korean": "지미",
+    "russian": "Родни"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Rodney.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Rodney.png"
+  },
+  "id": 327,
+  "name": "Rodney",
+  "sex": "Male",
+  "personality": "Smug",
+  "birthday": "11/10",
+  "species": "Hamster",
+  "catch_phrase": "le ham",
+  "name_color": "#fffce9"
+}

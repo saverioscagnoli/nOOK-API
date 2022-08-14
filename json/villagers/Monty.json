@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Monty",
+    "english_EU": "Monty",
+    "german": "Daniel",
+    "spanish_EU": "Burton",
+    "spanish_american": "Burton",
+    "french_EU": "Lourant",
+    "french_american": "Lourant",
+    "italian": "Mimmo",
+    "dutch": "Monty",
+    "simplified_chinese": "皮猴",
+    "traditional_chinese": "皮猴",
+    "japanese": "サルモンティ",
+    "korean": "몽티",
+    "russian": "Монти"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Monty.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Monty.png"
+  },
+  "id": 253,
+  "name": "Monty",
+  "sex": "Male",
+  "personality": "Cranky",
+  "birthday": "12/7",
+  "species": "Monkey",
+  "catch_phrase": "g'tang",
+  "name_color": "#498992"
+}

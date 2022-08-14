@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Flip",
+    "english_EU": "Flip",
+    "german": "Pippo",
+    "spanish_EU": "Monet",
+    "spanish_american": "Monet",
+    "french_EU": "Rudy",
+    "french_american": "Rudy",
+    "italian": "Benny",
+    "dutch": "Flip",
+    "simplified_chinese": "天佑",
+    "traditional_chinese": "天佑",
+    "japanese": "さすけ",
+    "korean": "원승",
+    "russian": "Флип"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Flip.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Flip.png"
+  },
+  "id": 143,
+  "name": "Flip",
+  "sex": "Male",
+  "personality": "Jock",
+  "birthday": "11/21",
+  "species": "Monkey",
+  "catch_phrase": "rerack",
+  "name_color": "#fff2bb"
+}

@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Cyrano",
+    "english_EU": "Cyrano",
+    "german": "Theo",
+    "spanish_EU": "Cirano",
+    "spanish_american": "Cirano",
+    "french_EU": "Cyrano",
+    "french_american": "Cyrano",
+    "italian": "Cirano",
+    "dutch": "Cyrano",
+    "simplified_chinese": "阳明",
+    "traditional_chinese": "陽明",
+    "japanese": "さくらじま",
+    "korean": "사지마",
+    "russian": "Сирано"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Cyrano.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Cyrano.png"
+  },
+  "id": 110,
+  "name": "Cyrano",
+  "sex": "Male",
+  "personality": "Cranky",
+  "birthday": "3/9",
+  "species": "Anteater",
+  "catch_phrase": "ah-CHOO",
+  "name_color": "#fffad4"
+}

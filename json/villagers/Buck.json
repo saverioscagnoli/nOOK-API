@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Buck",
+    "english_EU": "Buck",
+    "german": "Rudi",
+    "spanish_EU": "Trotón",
+    "spanish_american": "Trotón",
+    "french_EU": "Daniel",
+    "french_american": "Daniel",
+    "italian": "Trottolo",
+    "dutch": "Buck",
+    "simplified_chinese": "威亚",
+    "traditional_chinese": "威亞",
+    "japanese": "ヴァヤシコフ",
+    "korean": "바야시코프",
+    "russian": "Бак"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Buck.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Buck.png"
+  },
+  "id": 62,
+  "name": "Buck",
+  "sex": "Male",
+  "personality": "Jock",
+  "birthday": "4/4",
+  "species": "Horse",
+  "catch_phrase": "pardner",
+  "name_color": "#fffad4"
+}

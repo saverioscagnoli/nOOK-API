@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "K.K. Rally",
+    "english_EU": "K.K. Rally",
+    "german": "K.K. Parade 2",
+    "spanish_EU": "Tota-parada",
+    "spanish_american": "Tota-parada",
+    "french_EU": "Parade Kéké",
+    "french_american": "Parade Kéké",
+    "italian": "K.K. Gran galà",
+    "dutch": "K.K.-optocht",
+    "simplified_chinese": "K.K.大和祭典",
+    "traditional_chinese": "K.K.大和祭典",
+    "japanese": "けけおんど",
+    "korean": "K.K.축제",
+    "russian": "Ралли К. К."
+  },
+  "id": 56,
+  "name": "K.K. Rally",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/KK_Rally.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/KK_Rally.mp3"
+}

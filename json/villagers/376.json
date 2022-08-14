@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Teddy",
+    "english_EU": "Teddy",
+    "german": "Torsten",
+    "spanish_EU": "Teddy",
+    "spanish_american": "Teddy",
+    "french_EU": "Teddy",
+    "french_american": "Teddy",
+    "italian": "Teddy",
+    "dutch": "Teddy",
+    "simplified_chinese": "太平",
+    "traditional_chinese": "太平",
+    "japanese": "たいへいた",
+    "korean": "병태",
+    "russian": "Тедди"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Teddy.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Teddy.png"
+  },
+  "id": 376,
+  "name": "Teddy",
+  "sex": "Male",
+  "personality": "Jock",
+  "birthday": "9/26",
+  "species": "Bear",
+  "catch_phrase": "grooof",
+  "name_color": "#fff2bb"
+}

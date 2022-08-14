@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Vic",
+    "english_EU": "Vic",
+    "german": "Klaus",
+    "spanish_EU": "Artorito",
+    "spanish_american": "Artorito",
+    "french_EU": "Toto",
+    "french_american": "Toto",
+    "italian": "Paco",
+    "dutch": "Vic",
+    "simplified_chinese": "卢尔曼",
+    "traditional_chinese": "盧爾曼",
+    "japanese": "ノルマン",
+    "korean": "노르망",
+    "russian": "Вик"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Vic.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Vic.png"
+  },
+  "id": 393,
+  "name": "Vic",
+  "sex": "Male",
+  "personality": "Cranky",
+  "birthday": "12/29",
+  "species": "Bull",
+  "catch_phrase": "cud",
+  "name_color": "#fffce9"
+}

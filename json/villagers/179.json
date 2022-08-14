@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Hippeux",
+    "english_EU": "Hippeux",
+    "german": "Herbert",
+    "spanish_EU": "Hipóleo",
+    "spanish_american": "Hipóleo",
+    "french_EU": "Paulito",
+    "french_american": "Paulito",
+    "italian": "Poppy",
+    "dutch": "Hippeux",
+    "simplified_chinese": "戴维",
+    "traditional_chinese": "戴維",
+    "japanese": "ディビッド",
+    "korean": "데이빗",
+    "russian": "Гиппо"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Hippeux.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Hippeux.png"
+  },
+  "id": 179,
+  "name": "Hippeux",
+  "sex": "Male",
+  "personality": "Smug",
+  "birthday": "10/15",
+  "species": "Hippo",
+  "catch_phrase": "natch",
+  "name_color": "#8b5f57"
+}

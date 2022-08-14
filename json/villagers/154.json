@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Frobert",
+    "english_EU": "Frobert",
+    "german": "Fritz",
+    "spanish_EU": "Croaldo",
+    "spanish_american": "Croaldo",
+    "french_EU": "Verbert",
+    "french_american": "Verbert",
+    "italian": "Froberto",
+    "dutch": "Frobert",
+    "simplified_chinese": "江适",
+    "traditional_chinese": "江適",
+    "japanese": "コージィ",
+    "korean": "구리구리",
+    "russian": "Фроберт"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Frobert.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Frobert.png"
+  },
+  "id": 154,
+  "name": "Frobert",
+  "sex": "Male",
+  "personality": "Jock",
+  "birthday": "2/8",
+  "species": "Frog",
+  "catch_phrase": "fribbit",
+  "name_color": "#219479"
+}

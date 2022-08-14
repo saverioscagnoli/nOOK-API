@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Antonio",
+    "english_EU": "Antonio",
+    "german": "Siggi",
+    "spanish_EU": "Antonio",
+    "spanish_american": "Antonio",
+    "french_EU": "Antonio",
+    "french_american": "Antonio",
+    "italian": "Antonio",
+    "dutch": "Antonio",
+    "simplified_chinese": "阿诚",
+    "traditional_chinese": "阿誠",
+    "japanese": "マコト",
+    "korean": "퍼머거",
+    "russian": "Антонио"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Antonio.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Antonio.png"
+  },
+  "id": 16,
+  "name": "Antonio",
+  "sex": "Male",
+  "personality": "Jock",
+  "birthday": "10/20",
+  "species": "Anteater",
+  "catch_phrase": "honk",
+  "name_color": "#879b96"
+}

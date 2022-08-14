@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Poncho",
+    "english_EU": "Poncho",
+    "german": "Toni",
+    "spanish_EU": "Poncho",
+    "spanish_american": "Poncho",
+    "french_EU": "Théo",
+    "french_american": "Théo",
+    "italian": "Poncho",
+    "dutch": "Poncho",
+    "simplified_chinese": "蓬蓬",
+    "traditional_chinese": "蓬蓬",
+    "japanese": "ポンチョ",
+    "korean": "봉추",
+    "russian": "Пончо"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Poncho.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Poncho.png"
+  },
+  "id": 297,
+  "name": "Poncho",
+  "sex": "Male",
+  "personality": "Jock",
+  "birthday": "1/2",
+  "species": "Bear cub",
+  "catch_phrase": "li'l bear",
+  "name_color": "#fffad4"
+}

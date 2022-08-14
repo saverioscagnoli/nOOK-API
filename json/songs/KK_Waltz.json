@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "K.K. Waltz",
+    "english_EU": "K.K. Waltz",
+    "german": "K.K. Walzer",
+    "spanish_EU": "Tota-vals",
+    "spanish_american": "Tota-vals",
+    "french_EU": "Valse de Kéké",
+    "french_american": "Valse de Kéké",
+    "italian": "K.K. Valzer",
+    "dutch": "K.K.-wals",
+    "simplified_chinese": "K.K.圆舞曲",
+    "traditional_chinese": "K.K.圓舞曲",
+    "japanese": "けけワルツ",
+    "korean": "K.K.왈츠",
+    "russian": "Вальс К. К."
+  },
+  "id": 73,
+  "name": "K.K. Waltz",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/KK_Waltz.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/KK_Waltz.mp3"
+}

@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Stinky",
+    "english_EU": "Stinky",
+    "german": "Stefan",
+    "spanish_EU": "Micifuz",
+    "spanish_american": "Micifuz",
+    "french_EU": "Tupux",
+    "french_american": "Tupux",
+    "italian": "Puzzolo",
+    "dutch": "Stinky",
+    "simplified_chinese": "男子汗",
+    "traditional_chinese": "男子汗",
+    "japanese": "アセクサ",
+    "korean": "땀띠",
+    "russian": "Стинки"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Stinky.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Stinky.png"
+  },
+  "id": 362,
+  "name": "Stinky",
+  "sex": "Male",
+  "personality": "Jock",
+  "birthday": "8/17",
+  "species": "Cat",
+  "catch_phrase": "GAAHHH",
+  "name_color": "#8b5f57"
+}

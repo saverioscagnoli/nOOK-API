@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Rio",
+    "english_EU": "Rio",
+    "german": "Verona",
+    "spanish_EU": "Río",
+    "spanish_american": "Río",
+    "french_EU": "Estrella",
+    "french_american": "Estrella",
+    "italian": "Rita",
+    "dutch": "Rio",
+    "simplified_chinese": "勒内卢",
+    "traditional_chinese": "勒內盧",
+    "japanese": "デジャネイロ",
+    "korean": "데자네",
+    "russian": "Рио"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Rio.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Rio.png"
+  },
+  "id": 319,
+  "name": "Rio",
+  "sex": "Female",
+  "personality": "Peppy",
+  "birthday": "9/10",
+  "species": "Ostrich",
+  "catch_phrase": "li'l chick",
+  "name_color": "#fffad4"
+}

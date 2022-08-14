@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Beardo",
+    "english_EU": "Beardo",
+    "german": "Berthold",
+    "spanish_EU": "Bernabé",
+    "spanish_american": "Bernabé",
+    "french_EU": "Eustache",
+    "french_american": "Eustache",
+    "italian": "Barnaba",
+    "dutch": "Beardo",
+    "simplified_chinese": "熊大叔",
+    "traditional_chinese": "熊大叔",
+    "japanese": "ベアード",
+    "korean": "베어드",
+    "russian": "Беардо"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Beardo.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Beardo.png"
+  },
+  "id": 31,
+  "name": "Beardo",
+  "sex": "Male",
+  "personality": "Smug",
+  "birthday": "9/27",
+  "species": "Bear",
+  "catch_phrase": "whiskers",
+  "name_color": "#fffce9"
+}

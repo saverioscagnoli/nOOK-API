@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Olive",
+    "english_EU": "Olive",
+    "german": "Linda",
+    "spanish_EU": "Osalina",
+    "spanish_american": "Osalina",
+    "french_EU": "Grisa",
+    "french_american": "Grisa",
+    "italian": "Olivia",
+    "dutch": "Olive",
+    "simplified_chinese": "毕克萝",
+    "traditional_chinese": "畢克蘿",
+    "japanese": "ピッコロ",
+    "korean": "올리브",
+    "russian": "Олив"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Olive.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Olive.png"
+  },
+  "id": 267,
+  "name": "Olive",
+  "sex": "Female",
+  "personality": "Normal",
+  "birthday": "7/12",
+  "species": "Bear cub",
+  "catch_phrase": "sweet pea",
+  "name_color": "#5e5e5e"
+}

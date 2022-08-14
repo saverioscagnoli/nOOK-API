@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Wendy",
+    "english_EU": "Wendy",
+    "german": "Wolli",
+    "spanish_EU": "Franela",
+    "spanish_american": "Franela",
+    "french_EU": "Karen",
+    "french_american": "Karen",
+    "italian": "Agnola",
+    "dutch": "Wendy",
+    "simplified_chinese": "雪花",
+    "traditional_chinese": "雪花",
+    "japanese": "みぞれ",
+    "korean": "눈송이",
+    "russian": "Венди"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Wendy.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Wendy.png"
+  },
+  "id": 403,
+  "name": "Wendy",
+  "sex": "Female",
+  "personality": "Peppy",
+  "birthday": "8/15",
+  "species": "Sheep",
+  "catch_phrase": "lambkins",
+  "name_color": "#fffce9"
+}

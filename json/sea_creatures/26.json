@@ -1,0 +1,48 @@
+{
+  "translations": {
+    "english_USA": "snow crab",
+    "english_EU": "snow crab",
+    "german": "Schneekrabbe",
+    "spanish_EU": "cangrejo de nieve",
+    "spanish_american": "cangrejo de nieve",
+    "french_EU": "crabe des neiges",
+    "french_american": "crabe des neiges",
+    "italian": "granchio della neve",
+    "dutch": "sneeuwkrab",
+    "simplified_chinese": "松叶蟹",
+    "traditional_chinese": "松葉蟹",
+    "japanese": "ズワイガニ",
+    "korean": "대게",
+    "russian": "краб-стригун"
+  },
+  "price": 6000,
+  "speed": "Fast",
+  "available": {
+    "hemisphere_data": {
+      "northern_months": "11-4",
+      "southern_months": "5-10",
+      "northern_months_array": [11, 12, 1, 2, 3, 4],
+      "southern_months_array": [5, 6, 7, 8, 9, 10]
+    },
+    "time": {
+      "all_day": true,
+      "all_year": false,
+      "time_string": "",
+      "time_array": [
+        0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19,
+        20, 21, 22, 23
+      ]
+    }
+  },
+  "phrases": {
+    "joke": "I got a snow crab! It's giving me the cold shoulder.",
+    "museum_description": "The snow crab truly lives up to its name, wot wot. They are most often found in cold northern seas. Some have even been discovered living in the Arctic Ocean! Indeed, snow crab prefer to live in deep water that never gets more than three degrees above freezing. Hooooo. Just thinking about their icy environs is giving me the chills!"
+  },
+  "sprites": {
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/sea_creatures/Snow_Crab.png",
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/sea_creatures/Snow_Crab.png"
+  },
+  "id": 26,
+  "name": "snow crab",
+  "shadow_size": "Large"
+}

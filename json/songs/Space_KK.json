@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "Space K.K.",
+    "english_EU": "Space K.K.",
+    "german": "Minimal Music",
+    "spanish_EU": "Canción minimalista",
+    "spanish_american": "Canción minimalista",
+    "french_EU": "Space Kéké",
+    "french_american": "Kéké cosmos",
+    "italian": "K.K. Minimal",
+    "dutch": "K.K.-minimalisme",
+    "simplified_chinese": "极简音乐",
+    "traditional_chinese": "極簡音樂",
+    "japanese": "ミニマルおんがく",
+    "korean": "미니멀 음악",
+    "russian": "Космос К. К."
+  },
+  "id": 86,
+  "name": "Space K.K.",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/Space_KK.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/Space_KK.mp3"
+}

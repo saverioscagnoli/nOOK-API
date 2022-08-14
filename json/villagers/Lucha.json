@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Lucha",
+    "english_EU": "Lucha",
+    "german": "Lukas",
+    "spanish_EU": "Plumerio",
+    "spanish_american": "Plumerio",
+    "french_EU": "Condor",
+    "french_american": "Condor",
+    "italian": "Loreto",
+    "dutch": "Lucha",
+    "simplified_chinese": "摔角鸦",
+    "traditional_chinese": "摔角鴉",
+    "japanese": "マスカラス",
+    "korean": "마스카라스",
+    "russian": "Луча"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Lucha.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Lucha.png"
+  },
+  "id": 223,
+  "name": "Lucha",
+  "sex": "Male",
+  "personality": "Smug",
+  "birthday": "12/12",
+  "species": "Bird",
+  "catch_phrase": "cacaw",
+  "name_color": "#fffad4"
+}

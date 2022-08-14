@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Mitzi",
+    "english_EU": "Mitzi",
+    "german": "Miezi",
+    "spanish_EU": "Misi",
+    "spanish_american": "Misi",
+    "french_EU": "Mistigri",
+    "french_american": "Mistigri",
+    "italian": "Zampetta",
+    "dutch": "Mitzi",
+    "simplified_chinese": "圆圆",
+    "traditional_chinese": "圓圓",
+    "japanese": "マール",
+    "korean": "마르",
+    "russian": "Митци"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Mitzi.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Mitzi.png"
+  },
+  "id": 249,
+  "name": "Mitzi",
+  "sex": "Female",
+  "personality": "Normal",
+  "birthday": "9/25",
+  "species": "Cat",
+  "catch_phrase": "mew",
+  "name_color": "#fffce9"
+}

@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Puck",
+    "english_EU": "Puck",
+    "german": "Puck",
+    "spanish_EU": "Fredo",
+    "spanish_american": "Fredo",
+    "french_EU": "Hervé",
+    "french_american": "Hervé",
+    "italian": "Glacido",
+    "dutch": "Puck",
+    "simplified_chinese": "哈奇",
+    "traditional_chinese": "哈奇",
+    "japanese": "ホッケー",
+    "korean": "하키",
+    "russian": "Пак"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Puck.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Puck.png"
+  },
+  "id": 301,
+  "name": "Puck",
+  "sex": "Male",
+  "personality": "Lazy",
+  "birthday": "2/21",
+  "species": "Penguin",
+  "catch_phrase": "brrrrrrrrr",
+  "name_color": "#fffce9"
+}

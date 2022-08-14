@@ -1,0 +1,48 @@
+{
+  "translations": {
+    "english_USA": "seaweed",
+    "english_EU": "seaweed",
+    "german": "Wakame-Alge",
+    "spanish_EU": "alga wakame",
+    "spanish_american": "alga wakame",
+    "french_EU": "wakame",
+    "french_american": "wakamé",
+    "italian": "alga wakame",
+    "dutch": "zeewier",
+    "simplified_chinese": "裙带菜",
+    "traditional_chinese": "裙帶菜",
+    "japanese": "ワカメ",
+    "korean": "미역",
+    "russian": "морские водоросли"
+  },
+  "price": 600,
+  "speed": "Stationary",
+  "available": {
+    "hemisphere_data": {
+      "northern_months": "10-7",
+      "southern_months": "4-1",
+      "northern_months_array": [10, 11, 12, 1, 2, 3, 4, 5, 6, 7],
+      "southern_months_array": [4, 5, 6, 7, 8, 9, 10, 11, 12, 1]
+    },
+    "time": {
+      "all_day": true,
+      "all_year": false,
+      "time_string": "",
+      "time_array": [
+        0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19,
+        20, 21, 22, 23
+      ]
+    }
+  },
+  "phrases": {
+    "joke": "I got some seaweed! I couldn't kelp myself.",
+    "museum_description": "Let it be known that seaweed is a misnomer of the highest order! That is, it is not a noxious weed so much as it is a marine algae most beneficial to life on land and sea. Seaweed, you see, provides essential habitat and food for all manner of marine creatures. And it creates a great deal of the oxygen we land lovers love to breath too, hoo! And yet, I can't help but shudder when the slimy stuff touches my toes during a swim. Hoot! The horror!"
+  },
+  "sprites": {
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/sea_creatures/Seaweed.png",
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/sea_creatures/Seaweed.png"
+  },
+  "id": 1,
+  "name": "seaweed",
+  "shadow_size": "Large"
+}

@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Annalisa",
+    "english_EU": "Annalisa",
+    "german": "Annalena",
+    "spanish_EU": "Alba",
+    "spanish_american": "Alba",
+    "french_EU": "Roberta",
+    "french_american": "Roberta",
+    "italian": "Anita",
+    "dutch": "Annalisa",
+    "simplified_chinese": "小雅",
+    "traditional_chinese": "小雅",
+    "japanese": "みやび",
+    "korean": "설백",
+    "russian": "Аннализа"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Annalisa.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Annalisa.png"
+  },
+  "id": 14,
+  "name": "Annalisa",
+  "sex": "Female",
+  "personality": "Normal",
+  "birthday": "2/6",
+  "species": "Anteater",
+  "catch_phrase": "gumdrop",
+  "name_color": "#848484"
+}

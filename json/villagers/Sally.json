@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Sally",
+    "english_EU": "Sally",
+    "german": "Hanne",
+    "spanish_EU": "Praliné",
+    "spanish_american": "Praliné",
+    "french_EU": "Damia",
+    "french_american": "Damia",
+    "italian": "Rossella",
+    "dutch": "Sally",
+    "simplified_chinese": "拉拉米",
+    "traditional_chinese": "拉拉米",
+    "japanese": "ララミー",
+    "korean": "라라미",
+    "russian": "Салли"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Sally.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Sally.png"
+  },
+  "id": 337,
+  "name": "Sally",
+  "sex": "Female",
+  "personality": "Normal",
+  "birthday": "6/19",
+  "species": "Squirrel",
+  "catch_phrase": "nutmeg",
+  "name_color": "#fff2bb"
+}

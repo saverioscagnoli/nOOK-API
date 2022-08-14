@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Drift",
+    "english_EU": "Drift",
+    "german": "Caspar",
+    "spanish_EU": "Surfín",
+    "spanish_american": "Surfín",
+    "french_EU": "Gordon",
+    "french_american": "Gordon",
+    "italian": "Prospero",
+    "dutch": "Drift",
+    "simplified_chinese": "毒仔",
+    "traditional_chinese": "毒仔",
+    "japanese": "ドク",
+    "korean": "덕",
+    "russian": "Дрифт"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Drift.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Drift.png"
+  },
+  "id": 127,
+  "name": "Drift",
+  "sex": "Male",
+  "personality": "Jock",
+  "birthday": "10/9",
+  "species": "Frog",
+  "catch_phrase": "dribbit",
+  "name_color": "#fff2bb"
+}

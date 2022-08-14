@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Celia",
+    "english_EU": "Celia",
+    "german": "Lora",
+    "spanish_EU": "Jazmín",
+    "spanish_american": "Jazmín",
+    "french_EU": "Garance",
+    "french_american": "Garance",
+    "italian": "Celia",
+    "dutch": "Celia",
+    "simplified_chinese": "蒂芬妮",
+    "traditional_chinese": "蒂芬妮",
+    "japanese": "ティファニー",
+    "korean": "티파니",
+    "russian": "Селия"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Celia.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Celia.png"
+  },
+  "id": 75,
+  "name": "Celia",
+  "sex": "Female",
+  "personality": "Normal",
+  "birthday": "3/25",
+  "species": "Eagle",
+  "catch_phrase": "feathers",
+  "name_color": "#848484"
+}

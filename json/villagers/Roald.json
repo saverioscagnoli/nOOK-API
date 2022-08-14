@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Roald",
+    "english_EU": "Roald",
+    "german": "Roland",
+    "spanish_EU": "Bobi",
+    "spanish_american": "Bobi",
+    "french_EU": "Reynald",
+    "french_american": "Reynald",
+    "italian": "Angelino",
+    "dutch": "Roald",
+    "simplified_chinese": "企鹅达",
+    "traditional_chinese": "企鵝達",
+    "japanese": "ペンタ",
+    "korean": "펭수",
+    "russian": "Роальд"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Roald.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Roald.png"
+  },
+  "id": 321,
+  "name": "Roald",
+  "sex": "Male",
+  "personality": "Jock",
+  "birthday": "1/5",
+  "species": "Penguin",
+  "catch_phrase": "b-b-buddy",
+  "name_color": "#fffad4"
+}

@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Rasher",
+    "english_EU": "Rasher",
+    "german": "Ede",
+    "spanish_EU": "Curtis",
+    "spanish_american": "Curtis",
+    "french_EU": "Salami",
+    "french_american": "Salami",
+    "italian": "Broncio",
+    "dutch": "Rasher",
+    "simplified_chinese": "古烈",
+    "traditional_chinese": "古烈",
+    "japanese": "グレオ",
+    "korean": "글레이",
+    "russian": "Рашер"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Rasher.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Rasher.png"
+  },
+  "id": 310,
+  "name": "Rasher",
+  "sex": "Male",
+  "personality": "Cranky",
+  "birthday": "4/7",
+  "species": "Pig",
+  "catch_phrase": "swine",
+  "name_color": "#fffad4"
+}

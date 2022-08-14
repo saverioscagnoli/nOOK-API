@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Lucky",
+    "english_EU": "Lucky",
+    "german": "Viktor",
+    "spanish_EU": "Pupas",
+    "spanish_american": "Pupas",
+    "french_EU": "Ramsès",
+    "french_american": "Ramsès",
+    "italian": "Felice",
+    "dutch": "Lucky",
+    "simplified_chinese": "大吉",
+    "traditional_chinese": "大吉",
+    "japanese": "ラッキー",
+    "korean": "럭키",
+    "russian": "Лаки"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Lucky.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Lucky.png"
+  },
+  "id": 224,
+  "name": "Lucky",
+  "sex": "Male",
+  "personality": "Lazy",
+  "birthday": "11/4",
+  "species": "Dog",
+  "catch_phrase": "rrr-owch",
+  "name_color": "#848484"
+}

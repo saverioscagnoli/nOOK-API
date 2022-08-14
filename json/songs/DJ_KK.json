@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "DJ K.K.",
+    "english_EU": "DJ K.K.",
+    "german": "DJ K.K.",
+    "spanish_EU": "Tota-D.J.-Total",
+    "spanish_american": "Tota-D.J.-Total",
+    "french_EU": "DJ Kéké",
+    "french_american": "DJ Kéké",
+    "italian": "K.K. DJ",
+    "dutch": "DJ K.K.",
+    "simplified_chinese": "欧陆节拍",
+    "traditional_chinese": "歐陸節拍",
+    "japanese": "ユーロビート",
+    "korean": "유로 비트",
+    "russian": "DJ KK"
+  },
+  "id": 7,
+  "name": "DJ K.K.",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/DJ_KK.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/DJ_KK.mp3"
+}

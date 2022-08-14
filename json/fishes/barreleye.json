@@ -1,0 +1,46 @@
+{
+  "translations": {
+    "english_USA": "barreleye",
+    "english_EU": "barreleye",
+    "german": "Glaskopffisch",
+    "spanish_EU": "pez cabeza transparente",
+    "spanish_american": "pez cabeza transparente",
+    "french_EU": "macropinna",
+    "french_american": "revenant",
+    "italian": "macropinna",
+    "dutch": "hemelkijker",
+    "simplified_chinese": "太平洋桶眼鱼",
+    "traditional_chinese": "太平洋桶眼魚",
+    "japanese": "デメニギス",
+    "korean": "데메니기스",
+    "russian": "опистопрокт"
+  },
+  "sell_prices": { "nook": 15000, "cj": 22500 },
+  "available": {
+    "hemisphere_data": {
+      "northern_months": "",
+      "southern_months": "",
+      "northern_months_array": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "southern_months_array": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    },
+    "time": {
+      "all_day": false,
+      "all_year": true,
+      "time_string": "9pm - 4am",
+      "time_array": [21, 22, 23, 0, 1, 2, 3]
+    },
+    "spot": "Sea",
+    "rarity": "Ultra-rare"
+  },
+  "phrases": {
+    "joke": "I caught a barreleye! Like eyeing fish in a barrel!",
+    "museum_description": "The barreleye is a deep-sea fish with protuberant eyes and a clear head, so some of its organs are... visible. At first blush, a transparent head seems absurd, but there is a reason: so it can see things directly above! But I must confess - the more I learn about deep-sea fish, the happier I am to live on dry land, wot."
+  },
+  "sprites": {
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/fishes/Barreleye.png",
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/fishes/Barreleye.png"
+  },
+  "id": 79,
+  "name": "barreleye",
+  "shadow_size": "2"
+}

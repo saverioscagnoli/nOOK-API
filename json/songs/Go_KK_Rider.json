@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "Go K.K. Rider",
+    "english_EU": "Go K.K. Rider",
+    "german": "Go K.K. Rider!",
+    "spanish_EU": "Llanero Tota",
+    "spanish_american": "Llanero Tota",
+    "french_EU": "Kéké route 66",
+    "french_american": "Kéké route 66",
+    "italian": "K.K. Cross",
+    "dutch": "Super-K.K.",
+    "simplified_chinese": "冲吧！K.K.摩托车手",
+    "traditional_chinese": "衝吧！K.K.摩托車手",
+    "japanese": "ゆけ!けけライダー",
+    "korean": "가자! K.K.라이더",
+    "russian": "Доброго пути, К. К.!"
+  },
+  "id": 11,
+  "name": "Go K.K. Rider",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/Go_KK_Rider.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/Go_KK_Rider.mp3"
+}

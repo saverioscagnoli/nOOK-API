@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Chadder",
+    "english_EU": "Chadder",
+    "german": "Charlie",
+    "spanish_EU": "Roque",
+    "spanish_american": "Roque",
+    "french_EU": "Mozzar",
+    "french_american": "Mozzar",
+    "italian": "Gruviero",
+    "dutch": "Chadder",
+    "simplified_chinese": "起司",
+    "traditional_chinese": "起司",
+    "japanese": "チーズ",
+    "korean": "치즈",
+    "russian": "Чаддер"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Chadder.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Chadder.png"
+  },
+  "id": 79,
+  "name": "Chadder",
+  "sex": "Male",
+  "personality": "Smug",
+  "birthday": "12/15",
+  "species": "Mouse",
+  "catch_phrase": "fromage",
+  "name_color": "#9b553a"
+}

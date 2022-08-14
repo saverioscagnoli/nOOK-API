@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Elise",
+    "english_EU": "Elise",
+    "german": "Steffi",
+    "spanish_EU": "Mayra",
+    "spanish_american": "Mayra",
+    "french_EU": "Élise",
+    "french_american": "Élise",
+    "italian": "Elisa",
+    "dutch": "Elise",
+    "simplified_chinese": "孟琪",
+    "traditional_chinese": "孟琪",
+    "japanese": "モンこ",
+    "korean": "몽자",
+    "russian": "Элиза"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Elise.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Elise.png"
+  },
+  "id": 130,
+  "name": "Elise",
+  "sex": "Female",
+  "personality": "Snooty",
+  "birthday": "3/21",
+  "species": "Monkey",
+  "catch_phrase": "puh-lease",
+  "name_color": "#8b5f57"
+}

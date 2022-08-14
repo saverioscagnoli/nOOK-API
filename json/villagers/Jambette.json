@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Jambette",
+    "english_EU": "Jambette",
+    "german": "Jeanette",
+    "spanish_EU": "Anquita",
+    "spanish_american": "Anquita",
+    "french_EU": "Gambette",
+    "french_american": "Gambette",
+    "italian": "Giada",
+    "dutch": "Jambette",
+    "simplified_chinese": "翡翠",
+    "traditional_chinese": "翡翠",
+    "japanese": "エスメラルダ",
+    "korean": "에스메랄다",
+    "russian": "Джембет"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Jambette.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Jambette.png"
+  },
+  "id": 190,
+  "name": "Jambette",
+  "sex": "Female",
+  "personality": "Normal",
+  "birthday": "10/27",
+  "species": "Frog",
+  "catch_phrase": "croak-kay",
+  "name_color": "#fffce9"
+}

@@ -1,0 +1,25 @@
+{
+  "translations": {
+    "english_USA": "informative statue",
+    "english_EU": "informative statue",
+    "german": "Hinweisskulptur",
+    "spanish_EU": "piedra políglota",
+    "spanish_american": "piedra políglota",
+    "french_EU": "tablette édifiante",
+    "french_american": "tablette édifiante",
+    "italian": "pietra informativa",
+    "dutch": "taalkundige standbeeld",
+    "simplified_chinese": "线索的雕塑",
+    "traditional_chinese": "線索的雕塑",
+    "japanese": "てがかりのちょうこく",
+    "korean": "단서가 되는 조각",
+    "russian": "образовательная статуя"
+  },
+  "id": 17,
+  "name": "informative statue",
+  "buy_price": 4980,
+  "sell_price": 1245,
+  "museum_description": "A stone slab found in Rosetta, Egypt in 1799. Helped efforts to decipher ancient Egyptian hieroglyphs. Almost identical text is written in hieroglyphs at the top, then Demotic script, and lastly Greek script.",
+  "canBeFake": true,
+  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/render/art/informative_statue.png"
+}

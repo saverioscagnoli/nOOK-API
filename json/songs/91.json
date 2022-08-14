@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "The K. Funk",
+    "english_EU": "The K. Funk",
+    "german": "K. Funk",
+    "spanish_EU": "Tota-funk",
+    "spanish_american": "Tota-funk",
+    "french_EU": "Le Kéké Funk",
+    "french_american": "Le Kéké Funk",
+    "italian": "K.K. Funk",
+    "dutch": "K.K.-funk",
+    "simplified_chinese": "K.K.放克",
+    "traditional_chinese": "K.K.放克",
+    "japanese": "けけファンク",
+    "korean": "K.K.펑키",
+    "russian": "Фанк К. К."
+  },
+  "id": 91,
+  "name": "The K. Funk",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/The_K_Funk.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/The_K_Funk.mp3"
+}

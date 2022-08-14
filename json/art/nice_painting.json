@@ -1,0 +1,25 @@
+{
+  "translations": {
+    "english_USA": "nice painting",
+    "english_EU": "nice painting",
+    "german": "Hübschgemälde",
+    "spanish_EU": "retrato músico",
+    "spanish_american": "retrato músico",
+    "french_EU": "toile magnifique",
+    "french_american": "toile magnifique",
+    "italian": "quadro antico",
+    "dutch": "muzikale schilderij",
+    "simplified_chinese": "很好的名画",
+    "traditional_chinese": "很好的名畫",
+    "japanese": "いいめいが",
+    "korean": "좋은 명화",
+    "russian": "приятная картина"
+  },
+  "id": 24,
+  "name": "nice painting",
+  "buy_price": 4980,
+  "sell_price": 1245,
+  "museum_description": "One of Manet's earlier works, this painting depicts a young flautist dressed in military uniform. Manet's works are notable for their lack of linear perspective and strong color contrast. These attributes led some to call him \"The Father of Impressionism\" and make comparisons to Vélazquez. Fun fact-flautists can determine what note the boy is playing just by studying the painting closely.",
+  "canBeFake": false,
+  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/render/art/nice_painting.png"
+}

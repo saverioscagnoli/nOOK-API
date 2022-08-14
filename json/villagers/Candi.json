@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Candi",
+    "english_EU": "Candi",
+    "german": "Renate",
+    "spanish_EU": "Chuchi",
+    "spanish_american": "Chuchi",
+    "french_EU": "Sucrette",
+    "french_american": "Sucrette",
+    "italian": "Mella",
+    "dutch": "Candi",
+    "simplified_chinese": "甘油",
+    "traditional_chinese": "甘油",
+    "japanese": "かんゆ",
+    "korean": "사탕",
+    "russian": "Кэнди"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Candi.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Candi.png"
+  },
+  "id": 70,
+  "name": "Candi",
+  "sex": "Female",
+  "personality": "Peppy",
+  "birthday": "4/13",
+  "species": "Mouse",
+  "catch_phrase": "sweetie",
+  "name_color": "#fffce9"
+}

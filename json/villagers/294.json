@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Pippy",
+    "english_EU": "Pippy",
+    "german": "Lotta",
+    "spanish_EU": "Méloni",
+    "spanish_american": "Méloni",
+    "french_EU": "Nadia",
+    "french_american": "Nadia",
+    "italian": "Pippi",
+    "dutch": "Pippy",
+    "simplified_chinese": "罗塔",
+    "traditional_chinese": "羅塔",
+    "japanese": "ロッタ",
+    "korean": "로타",
+    "russian": "Пиппи"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Pippy.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Pippy.png"
+  },
+  "id": 294,
+  "name": "Pippy",
+  "sex": "Female",
+  "personality": "Peppy",
+  "birthday": "6/14",
+  "species": "Rabbit",
+  "catch_phrase": "li'l hare",
+  "name_color": "#879b96"
+}

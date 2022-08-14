@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Tabby",
+    "english_EU": "Tabby",
+    "german": "Zita",
+    "spanish_EU": "Liana",
+    "spanish_american": "Liana",
+    "french_EU": "Tigri",
+    "french_american": "Tigri",
+    "italian": "Lisca",
+    "dutch": "Tabby",
+    "simplified_chinese": "小虎",
+    "traditional_chinese": "小虎",
+    "japanese": "トラこ",
+    "korean": "호냥이",
+    "russian": "Тэбби"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Tabby.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Tabby.png"
+  },
+  "id": 369,
+  "name": "Tabby",
+  "sex": "Female",
+  "personality": "Peppy",
+  "birthday": "8/13",
+  "species": "Cat",
+  "catch_phrase": "me-WOW",
+  "name_color": "#fff2bb"
+}

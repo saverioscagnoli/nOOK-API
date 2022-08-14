@@ -1,0 +1,48 @@
+{
+  "translations": {
+    "english_USA": "sea grapes",
+    "english_EU": "sea grapes",
+    "german": "Kriechsprossalge",
+    "spanish_EU": "uva de mar",
+    "spanish_american": "uva de mar",
+    "french_EU": "algue raisin de mer",
+    "french_american": "algue raisin de mer",
+    "italian": "vite di mare",
+    "dutch": "zeedruiven",
+    "simplified_chinese": "海葡萄",
+    "traditional_chinese": "海葡萄",
+    "japanese": "ウミブドウ",
+    "korean": "바다포도",
+    "russian": "морской виноград"
+  },
+  "price": 900,
+  "speed": "Stationary",
+  "available": {
+    "hemisphere_data": {
+      "northern_months": "6-9",
+      "southern_months": "12-3",
+      "northern_months_array": [6, 7, 8, 9],
+      "southern_months_array": [12, 1, 2, 3]
+    },
+    "time": {
+      "all_day": true,
+      "all_year": false,
+      "time_string": "",
+      "time_array": [
+        0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19,
+        20, 21, 22, 23
+      ]
+    }
+  },
+  "phrases": {
+    "joke": "I got some sea grapes! Can't let these go sour.",
+    "museum_description": "Sea grapes are a marine algae that look much like their landlocked namesake. That is, they are green pearl-like orbs that cluster tightly along underwater vines. And sea grapes, like regular grapes, are a popular snack food too... albeit of the saltier variety. Fans of the briny delicacy enjoy the way the shiny pearls POP when chewed. It makes one wonder whether sea grape juice might have some appeal? 'Twould leave the drinker with sour grapes, I suppose."
+  },
+  "sprites": {
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/sea_creatures/Sea_Grapes.png",
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/sea_creatures/Sea_Grapes.png"
+  },
+  "id": 2,
+  "name": "sea grapes",
+  "shadow_size": "Small"
+}

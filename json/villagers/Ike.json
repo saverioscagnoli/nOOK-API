@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Ike",
+    "english_EU": "Ike",
+    "german": "Ike",
+    "spanish_EU": "Astillas",
+    "spanish_american": "Astillas",
+    "french_EU": "Isaac",
+    "french_american": "Isaac",
+    "italian": "Ortensio",
+    "dutch": "Ike",
+    "simplified_chinese": "大功",
+    "traditional_chinese": "大功",
+    "japanese": "ダイク",
+    "korean": "대공",
+    "russian": "Айк"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Ike.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Ike.png"
+  },
+  "id": 186,
+  "name": "Ike",
+  "sex": "Male",
+  "personality": "Cranky",
+  "birthday": "5/16",
+  "species": "Bear",
+  "catch_phrase": "roadie",
+  "name_color": "#fffce9"
+}

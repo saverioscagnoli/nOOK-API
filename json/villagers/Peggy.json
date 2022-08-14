@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Peggy",
+    "english_EU": "Peggy",
+    "german": "Quiekie",
+    "spanish_EU": "Peggy",
+    "spanish_american": "Peggy",
+    "french_EU": "Rose",
+    "french_american": "Rose",
+    "italian": "Sally",
+    "dutch": "Peggy",
+    "simplified_chinese": "千惠",
+    "traditional_chinese": "千惠",
+    "japanese": "ちえり",
+    "korean": "체리",
+    "russian": "Пегги"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Peggy.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Peggy.png"
+  },
+  "id": 284,
+  "name": "Peggy",
+  "sex": "Female",
+  "personality": "Peppy",
+  "birthday": "5/23",
+  "species": "Pig",
+  "catch_phrase": "shweetie",
+  "name_color": "#fffce9"
+}

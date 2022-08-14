@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Apple",
+    "english_EU": "Apple",
+    "german": "Jessi",
+    "spanish_EU": "Rosi",
+    "spanish_american": "Rosi",
+    "french_EU": "Esther",
+    "french_american": "Esther",
+    "italian": "Cicci",
+    "dutch": "Apple",
+    "simplified_chinese": "苹果",
+    "traditional_chinese": "蘋果",
+    "japanese": "アップル",
+    "korean": "애플",
+    "russian": "Эпл"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Apple.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Apple.png"
+  },
+  "id": 18,
+  "name": "Apple",
+  "sex": "Female",
+  "personality": "Peppy",
+  "birthday": "9/24",
+  "species": "Hamster",
+  "catch_phrase": "cheekers",
+  "name_color": "#fffce9"
+}

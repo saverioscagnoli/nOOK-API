@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Francine",
+    "english_EU": "Francine",
+    "german": "Manu",
+    "spanish_EU": "Natacha",
+    "spanish_american": "Natacha",
+    "french_EU": "Nadine",
+    "french_american": "Nadine",
+    "italian": "Franca",
+    "dutch": "Francine",
+    "simplified_chinese": "法蓝琪",
+    "traditional_chinese": "法藍琪",
+    "japanese": "フランソワ",
+    "korean": "프랑소와",
+    "russian": "Франсин"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Francine.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Francine.png"
+  },
+  "id": 147,
+  "name": "Francine",
+  "sex": "Female",
+  "personality": "Snooty",
+  "birthday": "1/22",
+  "species": "Rabbit",
+  "catch_phrase": "karat",
+  "name_color": "#fffce9"
+}

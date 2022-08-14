@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Louie",
+    "english_EU": "Louie",
+    "german": "Ludwig",
+    "spanish_EU": "Lou",
+    "spanish_american": "Lou",
+    "french_EU": "Louis",
+    "french_american": "Louis",
+    "italian": "Lou",
+    "dutch": "Louie",
+    "simplified_chinese": "壮壮",
+    "traditional_chinese": "壯壯",
+    "japanese": "マッスル",
+    "korean": "머슬",
+    "russian": "Луи"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Louie.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Louie.png"
+  },
+  "id": 222,
+  "name": "Louie",
+  "sex": "Male",
+  "personality": "Jock",
+  "birthday": "3/26",
+  "species": "Gorilla",
+  "catch_phrase": "hoo hoo ha",
+  "name_color": "#fffce9"
+}

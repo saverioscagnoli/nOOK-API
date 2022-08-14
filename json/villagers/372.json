@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Tammy",
+    "english_EU": "Tammy",
+    "german": "Tatjana",
+    "spanish_EU": "Aída",
+    "spanish_american": "Aída",
+    "french_EU": "Vanessa",
+    "french_american": "Vanessa",
+    "italian": "Tamara",
+    "dutch": "Tammy",
+    "simplified_chinese": "然姐",
+    "traditional_chinese": "然姐",
+    "japanese": "アネッサ",
+    "korean": "아네사",
+    "russian": "Тамми"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Tammy.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Tammy.png"
+  },
+  "id": 372,
+  "name": "Tammy",
+  "sex": "Female",
+  "personality": "Big Sister",
+  "birthday": "6/23",
+  "species": "Bear cub",
+  "catch_phrase": "ya heard",
+  "name_color": "#9b8986"
+}

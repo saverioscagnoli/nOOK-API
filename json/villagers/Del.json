@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Del",
+    "english_EU": "Del",
+    "german": "Krokki",
+    "spanish_EU": "Croco",
+    "spanish_american": "Croco",
+    "french_EU": "Hector",
+    "french_american": "Hector",
+    "italian": "Krokki",
+    "dutch": "Del",
+    "simplified_chinese": "大和",
+    "traditional_chinese": "大和",
+    "japanese": "ヤマト",
+    "korean": "파도맨",
+    "russian": "Дел"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Del.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Del.png"
+  },
+  "id": 114,
+  "name": "Del",
+  "sex": "Male",
+  "personality": "Cranky",
+  "birthday": "5/27",
+  "species": "Alligator",
+  "catch_phrase": "gronk",
+  "name_color": "#9ae8df"
+}

@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Rooney",
+    "english_EU": "Rooney",
+    "german": "Robert",
+    "spanish_EU": "Cerillo",
+    "spanish_american": "Cerillo",
+    "french_EU": "Mike",
+    "french_american": "Mike",
+    "italian": "Balzak",
+    "dutch": "Rooney",
+    "simplified_chinese": "麦克",
+    "traditional_chinese": "麥克",
+    "japanese": "マイク",
+    "korean": "마이크",
+    "russian": "Руни"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Rooney.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Rooney.png"
+  },
+  "id": 329,
+  "name": "Rooney",
+  "sex": "Male",
+  "personality": "Cranky",
+  "birthday": "12/1",
+  "species": "Kangaroo",
+  "catch_phrase": "punches",
+  "name_color": "#fffce9"
+}

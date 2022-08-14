@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "Marine Song 2001",
+    "english_EU": "Marine Song 2001",
+    "german": "Seefahrerlied 2001",
+    "spanish_EU": "Tota 2001",
+    "spanish_american": "Tota 2001",
+    "french_EU": "Chant marin",
+    "french_american": "Chant marin",
+    "italian": "Canzone marina",
+    "dutch": "Zeelied",
+    "simplified_chinese": "船歌2001",
+    "traditional_chinese": "船歌2001",
+    "japanese": "ふなうた2001",
+    "korean": "뱃노래2001",
+    "russian": "Песня о море 2001"
+  },
+  "id": 77,
+  "name": "Marine Song 2001",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/Marine_Song_2001.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/Marine_Song_2001.mp3"
+}

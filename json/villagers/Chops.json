@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Chops",
+    "english_EU": "Chops",
+    "german": "Clemens",
+    "spanish_EU": "Solomín",
+    "spanish_american": "Solomín",
+    "french_EU": "Aaron",
+    "french_american": "Aaron",
+    "italian": "Lino",
+    "dutch": "Chops",
+    "simplified_chinese": "豚皇",
+    "traditional_chinese": "豚皇",
+    "japanese": "トンファン",
+    "korean": "돈후앙",
+    "russian": "Чопс"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Chops.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Chops.png"
+  },
+  "id": 88,
+  "name": "Chops",
+  "sex": "Male",
+  "personality": "Smug",
+  "birthday": "10/13",
+  "species": "Pig",
+  "catch_phrase": "zoink",
+  "name_color": "#8b5f57"
+}

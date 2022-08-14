@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Olivia",
+    "english_EU": "Olivia",
+    "german": "Bianca",
+    "spanish_EU": "Olivia",
+    "spanish_american": "Olivia",
+    "french_EU": "Olivia",
+    "french_american": "Olivia",
+    "italian": "Micina",
+    "dutch": "Olivia",
+    "simplified_chinese": "奥莉",
+    "traditional_chinese": "奧莉",
+    "japanese": "オリビア",
+    "korean": "올리비아",
+    "russian": "Оливия"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Olivia.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Olivia.png"
+  },
+  "id": 268,
+  "name": "Olivia",
+  "sex": "Female",
+  "personality": "Snooty",
+  "birthday": "2/3",
+  "species": "Cat",
+  "catch_phrase": "purrr",
+  "name_color": "#848484"
+}

@@ -1,0 +1,45 @@
+{
+  "translations": {
+    "english_USA": "walking stick",
+    "english_EU": "walking stick",
+    "german": "Stabschrecke",
+    "spanish_EU": "insecto palo",
+    "spanish_american": "insecto palo",
+    "french_EU": "phasme",
+    "french_american": "phasme",
+    "italian": "insetto stecco",
+    "dutch": "wandelende tak",
+    "simplified_chinese": "竹节虫",
+    "traditional_chinese": "竹節蟲",
+    "japanese": "ナナフシ",
+    "korean": "긴수염대벌레",
+    "russian": "палочник"
+  },
+  "sell_prices": { "nook": 600, "flick": 900 },
+  "available": {
+    "hemisphere_data": {
+      "northern_months": "7-11",
+      "southern_months": "1-5",
+      "northern_months_array": [7, 8, 9, 10, 11],
+      "southern_months_array": [1, 2, 3, 4, 5]
+    },
+    "time": {
+      "all_day": false,
+      "all_year": false,
+      "time_string": "4am - 8am & 5pm - 7pm",
+      "time_array": [4, 5, 6, 7, 17, 18]
+    },
+    "spot": "On trees",
+    "rarity": "Uncommon"
+  },
+  "phrases": {
+    "joke": "I caught a walking stick! Check out its walking schtick! Look, these are the jokes, OK?",
+    "museum_description": "The walking stick looks just like a twig, does it not? Hoo! It even has knots like a real twig would! These bashful bugs mimic plants in this way to hide from predators. A noble goal, you might say. But though the deceptive wretches fool some, they do not fool me! I see these bugs for what they are... Monsters, plain and simple! I say, did you know that walking sticks can grow to two feet long?! Imagine running into one! Surely I would faint."
+  },
+  "sprites": {
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/bugs/Walking_Stick.png",
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/bugs/Walking_Stick.png"
+  },
+  "id": 66,
+  "name": "walking stick"
+}

@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Margie",
+    "english_EU": "Margie",
+    "german": "Elisa",
+    "spanish_EU": "Rita",
+    "spanish_american": "Rita",
+    "french_EU": "Maguy",
+    "french_american": "Maguy",
+    "italian": "Marianna",
+    "dutch": "Margie",
+    "simplified_chinese": "莎莉",
+    "traditional_chinese": "莎莉",
+    "japanese": "サリー",
+    "korean": "샐리",
+    "russian": "Марджи"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Margie.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Margie.png"
+  },
+  "id": 235,
+  "name": "Margie",
+  "sex": "Female",
+  "personality": "Normal",
+  "birthday": "1/28",
+  "species": "Elephant",
+  "catch_phrase": "tootie",
+  "name_color": "#848484"
+}

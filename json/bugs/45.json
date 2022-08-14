@@ -1,0 +1,48 @@
+{
+  "translations": {
+    "english_USA": "jewel beetle",
+    "english_EU": "jewel beetle",
+    "german": "Prachtkäfer",
+    "spanish_EU": "escarabajo joya",
+    "spanish_american": "escarabajo joya",
+    "french_EU": "bupreste",
+    "french_american": "bupreste",
+    "italian": "stigmodera",
+    "dutch": "prachtkever",
+    "simplified_chinese": "吉丁虫",
+    "traditional_chinese": "吉丁蟲",
+    "japanese": "タマムシ",
+    "korean": "비단벌레",
+    "russian": "златка"
+  },
+  "sell_prices": { "nook": 2400, "flick": 3600 },
+  "available": {
+    "hemisphere_data": {
+      "northern_months": "4-8",
+      "southern_months": "11-2",
+      "northern_months_array": [4, 5, 6, 7, 8],
+      "southern_months_array": [11, 12, 1, 2]
+    },
+    "time": {
+      "all_day": true,
+      "all_year": false,
+      "time_string": "",
+      "time_array": [
+        0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19,
+        20, 21, 22, 23
+      ]
+    },
+    "spot": "On tree stumps",
+    "rarity": "Uncommon"
+  },
+  "phrases": {
+    "joke": "I caught a jewel beetle! It's a real gem!",
+    "museum_description": "The green shimmer of the jewel beetle's wings is nothing short of nauseating...yes? No? Well, so says you. Though...jewel beetles were once prized by collectors who turned their iridescent wings into pretty jewelry. Why anyone would want to wear bug parts on their body is beyond me. Fashion foul indeed."
+  },
+  "sprites": {
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/bugs/Jewel_Beetle.png",
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/bugs/Jewel_Beetle.png"
+  },
+  "id": 45,
+  "name": "jewel beetle"
+}

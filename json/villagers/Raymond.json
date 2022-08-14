@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Raymond",
+    "english_EU": "Raymond",
+    "german": "Gunnar",
+    "spanish_EU": "Narciso",
+    "spanish_american": "Narciso",
+    "french_EU": "Raymond",
+    "french_american": "Raymond",
+    "italian": "Raimondo",
+    "dutch": "Raymond",
+    "simplified_chinese": "杰克",
+    "traditional_chinese": "傑克",
+    "japanese": "ジャック",
+    "korean": "잭슨",
+    "russian": "Реймонд"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Raymond.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Raymond.png"
+  },
+  "id": 311,
+  "name": "Raymond",
+  "sex": "Male",
+  "personality": "Smug",
+  "birthday": "10/1",
+  "species": "Cat",
+  "catch_phrase": "crisp",
+  "name_color": "#498992"
+}

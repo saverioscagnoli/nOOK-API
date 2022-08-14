@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Kidd",
+    "english_EU": "Kidd",
+    "german": "Bocki",
+    "spanish_EU": "Cabrálex",
+    "spanish_american": "Cabrálex",
+    "french_EU": "Moktar",
+    "french_american": "Mokhtar",
+    "italian": "Vittorio",
+    "dutch": "Kidd",
+    "simplified_chinese": "文青",
+    "traditional_chinese": "文青",
+    "japanese": "やさお",
+    "korean": "염두리",
+    "russian": "Кидд"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Kidd.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Kidd.png"
+  },
+  "id": 206,
+  "name": "Kidd",
+  "sex": "Male",
+  "personality": "Smug",
+  "birthday": "6/28",
+  "species": "Goat",
+  "catch_phrase": "wut",
+  "name_color": "#4f5d72"
+}

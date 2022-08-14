@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Chow",
+    "english_EU": "Chow",
+    "german": "Chang",
+    "spanish_EU": "Pando",
+    "spanish_american": "Pando",
+    "french_EU": "Chulin",
+    "french_american": "Chulin",
+    "italian": "Chowchow",
+    "dutch": "Chow",
+    "simplified_chinese": "朝阳",
+    "traditional_chinese": "朝陽",
+    "japanese": "チャウヤン",
+    "korean": "츄양",
+    "russian": "Чау"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Chow.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Chow.png"
+  },
+  "id": 89,
+  "name": "Chow",
+  "sex": "Male",
+  "personality": "Cranky",
+  "birthday": "7/22",
+  "species": "Bear",
+  "catch_phrase": "aiya",
+  "name_color": "#634b4b"
+}

@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Boris",
+    "english_EU": "Boris",
+    "german": "Bolle",
+    "spanish_EU": "Boris",
+    "spanish_american": "Boris",
+    "french_EU": "Boris",
+    "french_american": "Boris",
+    "italian": "Boris",
+    "dutch": "Boris",
+    "simplified_chinese": "达利",
+    "traditional_chinese": "達利",
+    "japanese": "ダリー",
+    "korean": "보리",
+    "russian": "Борис"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Boris.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Boris.png"
+  },
+  "id": 55,
+  "name": "Boris",
+  "sex": "Male",
+  "personality": "Cranky",
+  "birthday": "11/6",
+  "species": "Pig",
+  "catch_phrase": "schnort",
+  "name_color": "#fffad4"
+}

@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Lolly",
+    "english_EU": "Lolly",
+    "german": "Feline",
+    "spanish_EU": "Feli",
+    "spanish_american": "Feli",
+    "french_EU": "Linette",
+    "french_american": "Linette",
+    "italian": "Maty",
+    "dutch": "Lolly",
+    "simplified_chinese": "柠檬娜",
+    "traditional_chinese": "檸檬娜",
+    "japanese": "ラムネ",
+    "korean": "사이다",
+    "russian": "Лолли"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Lolly.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Lolly.png"
+  },
+  "id": 220,
+  "name": "Lolly",
+  "sex": "Female",
+  "personality": "Normal",
+  "birthday": "3/27",
+  "species": "Cat",
+  "catch_phrase": "bonbon",
+  "name_color": "#85a2af"
+}

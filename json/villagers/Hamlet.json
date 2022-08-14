@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Hamlet",
+    "english_EU": "Hamlet",
+    "german": "Hamid",
+    "spanish_EU": "Bombo",
+    "spanish_american": "Bombo",
+    "french_EU": "Jojo",
+    "french_american": "Jojo",
+    "italian": "Amleto",
+    "dutch": "Hamlet",
+    "simplified_chinese": "哈姆",
+    "traditional_chinese": "哈姆",
+    "japanese": "ハムスケ",
+    "korean": "햄스틴",
+    "russian": "Гамлет"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Hamlet.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Hamlet.png"
+  },
+  "id": 173,
+  "name": "Hamlet",
+  "sex": "Male",
+  "personality": "Jock",
+  "birthday": "5/30",
+  "species": "Hamster",
+  "catch_phrase": "hammie",
+  "name_color": "#9b553a"
+}

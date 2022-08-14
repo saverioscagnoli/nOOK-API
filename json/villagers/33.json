@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Becky",
+    "english_EU": "Becky",
+    "german": "Inga",
+    "spanish_EU": "Ramina",
+    "spanish_american": "Ramina",
+    "french_EU": "Sonya",
+    "french_american": "Sonya",
+    "italian": "Annetta",
+    "dutch": "Becky",
+    "simplified_chinese": "咏旋",
+    "traditional_chinese": "詠旋",
+    "japanese": "アリア",
+    "korean": "아리아",
+    "russian": "Бекки"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Becky.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Becky.png"
+  },
+  "id": 33,
+  "name": "Becky",
+  "sex": "Female",
+  "personality": "Snooty",
+  "birthday": "12/9",
+  "species": "Chicken",
+  "catch_phrase": "chicklet",
+  "name_color": "#fffce9"
+}

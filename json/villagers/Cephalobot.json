@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Cephalobot",
+    "english_EU": "Cephalobot",
+    "german": "Tentatron",
+    "spanish_EU": "Octoberto",
+    "spanish_american": "Octoberto",
+    "french_EU": "Octoborg",
+    "french_american": "Octoborg",
+    "italian": "Polpobot",
+    "dutch": "Cephalobot",
+    "simplified_chinese": "吉格尔",
+    "traditional_chinese": "吉格爾",
+    "japanese": "ギーガー",
+    "korean": "기가",
+    "russian": "Цефалобот"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Cephalobot.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Cephalobot.png"
+  },
+  "id": 76,
+  "name": "Cephalobot",
+  "sex": "Male",
+  "personality": "Smug",
+  "birthday": "4/1",
+  "species": "Octopus",
+  "catch_phrase": "donk donk",
+  "name_color": "#5e5e5e"
+}

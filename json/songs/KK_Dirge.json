@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "K.K. Dirge",
+    "english_EU": "K.K. Dirge",
+    "german": "K.K. Trauerlied",
+    "spanish_EU": "Tota-réquiem",
+    "spanish_american": "Tota-réquiem",
+    "french_EU": "Requiem de Kéké",
+    "french_american": "Requiem de Kéké",
+    "italian": "K.K. Canto",
+    "dutch": "K.K. in het donker",
+    "simplified_chinese": "惊悚歌",
+    "traditional_chinese": "驚悚歌",
+    "japanese": "こわいうた",
+    "korean": "무서운 노래",
+    "russian": "Реквием К. К."
+  },
+  "id": 29,
+  "name": "K.K. Dirge",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/KK_Dirge.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/KK_Dirge.mp3"
+}

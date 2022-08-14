@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Toby",
+    "english_EU": "Toby",
+    "german": "Toby",
+    "spanish_EU": "Toby",
+    "spanish_american": "Toby",
+    "french_EU": "Toby",
+    "french_american": "Toby",
+    "italian": "Toby",
+    "dutch": "Toby",
+    "simplified_chinese": "咚比",
+    "traditional_chinese": "咚比",
+    "japanese": "トビー",
+    "korean": "토비",
+    "russian": "Тоби"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Toby.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Toby.png"
+  },
+  "id": 383,
+  "name": "Toby",
+  "sex": "Male",
+  "personality": "Smug",
+  "birthday": "7/10",
+  "species": "Rabbit",
+  "catch_phrase": "ribbit",
+  "name_color": "#479b78"
+}

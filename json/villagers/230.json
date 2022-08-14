@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Maggie",
+    "english_EU": "Maggie",
+    "german": "Magda",
+    "spanish_EU": "Margarí",
+    "spanish_american": "Margarí",
+    "french_EU": "Marjorie",
+    "french_american": "Marjorie",
+    "italian": "Marcella",
+    "dutch": "Maggie",
+    "simplified_chinese": "玛格",
+    "traditional_chinese": "瑪格",
+    "japanese": "マーガレット",
+    "korean": "마가렛",
+    "russian": "Мэгги"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Maggie.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Maggie.png"
+  },
+  "id": 230,
+  "name": "Maggie",
+  "sex": "Female",
+  "personality": "Normal",
+  "birthday": "9/3",
+  "species": "Pig",
+  "catch_phrase": "schep",
+  "name_color": "#9b553a"
+}

@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Molly",
+    "english_EU": "Molly",
+    "german": "Monika",
+    "spanish_EU": "Deira",
+    "spanish_american": "Deira",
+    "french_EU": "Molly",
+    "french_american": "Molly",
+    "italian": "Molly",
+    "dutch": "Molly",
+    "simplified_chinese": "亚美",
+    "traditional_chinese": "亞美",
+    "japanese": "カモミ",
+    "korean": "귀오미",
+    "russian": "Молли"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Molly.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Molly.png"
+  },
+  "id": 251,
+  "name": "Molly",
+  "sex": "Female",
+  "personality": "Normal",
+  "birthday": "3/7",
+  "species": "Duck",
+  "catch_phrase": "quackidee",
+  "name_color": "#fffce9"
+}

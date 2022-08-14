@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Frett",
+    "english_EU": "Frett",
+    "german": "Jupp",
+    "spanish_EU": "Ulises",
+    "spanish_american": "Ulises",
+    "french_EU": "Foufou",
+    "french_american": "Foufou",
+    "italian": "Lionello",
+    "dutch": "Frett",
+    "simplified_chinese": "祥平",
+    "traditional_chinese": "祥平",
+    "japanese": "シャンペン",
+    "korean": "샹펜",
+    "russian": "Фретт"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Frett.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Frett.png"
+  },
+  "id": 150,
+  "name": "Frett",
+  "sex": "Male",
+  "personality": "Cranky",
+  "birthday": "10/30",
+  "species": "Dog",
+  "catch_phrase": "goshers",
+  "name_color": "#9b8986"
+}

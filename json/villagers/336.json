@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Rudy",
+    "english_EU": "Rudy",
+    "german": "Heinz",
+    "spanish_EU": "Rufino",
+    "spanish_american": "Rufino",
+    "french_EU": "Rougepif",
+    "french_american": "Rougepif",
+    "italian": "Gomitolo",
+    "dutch": "Rudy",
+    "simplified_chinese": "茶茶",
+    "traditional_chinese": "茶茶",
+    "japanese": "チャス",
+    "korean": "찰스",
+    "russian": "Руди"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Rudy.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Rudy.png"
+  },
+  "id": 336,
+  "name": "Rudy",
+  "sex": "Male",
+  "personality": "Jock",
+  "birthday": "12/20",
+  "species": "Cat",
+  "catch_phrase": "mush",
+  "name_color": "#fffce9"
+}

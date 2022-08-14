@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Hamphrey",
+    "english_EU": "Hamphrey",
+    "german": "Heinrich",
+    "spanish_EU": "Arsenio",
+    "spanish_american": "Arsenio",
+    "french_EU": "Charles",
+    "french_american": "Charles",
+    "italian": "Nerone",
+    "dutch": "Hamphrey",
+    "simplified_chinese": "小仓",
+    "traditional_chinese": "小倉",
+    "japanese": "ハムジ",
+    "korean": "햄쥐",
+    "russian": "Хэмфри"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Hamphrey.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Hamphrey.png"
+  },
+  "id": 174,
+  "name": "Hamphrey",
+  "sex": "Male",
+  "personality": "Cranky",
+  "birthday": "2/25",
+  "species": "Hamster",
+  "catch_phrase": "snort",
+  "name_color": "#fffce9"
+}

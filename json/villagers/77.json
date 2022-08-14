@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Cesar",
+    "english_EU": "Cesar",
+    "german": "Alfredo",
+    "spanish_EU": "César",
+    "spanish_american": "César",
+    "french_EU": "César",
+    "french_american": "César",
+    "italian": "Cesare",
+    "dutch": "Cesar",
+    "simplified_chinese": "阿朗",
+    "traditional_chinese": "阿朗",
+    "japanese": "アラン",
+    "korean": "앨런",
+    "russian": "Цезарь"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Cesar.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Cesar.png"
+  },
+  "id": 77,
+  "name": "Cesar",
+  "sex": "Male",
+  "personality": "Cranky",
+  "birthday": "9/6",
+  "species": "Gorilla",
+  "catch_phrase": "highness",
+  "name_color": "#fff2bb"
+}

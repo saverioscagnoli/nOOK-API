@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Moe",
+    "english_EU": "Moe",
+    "german": "Tristan",
+    "spanish_EU": "Tristán",
+    "spanish_american": "Tristán",
+    "french_EU": "Momo",
+    "french_american": "Momo",
+    "italian": "Moe",
+    "dutch": "Moe",
+    "simplified_chinese": "仁平",
+    "traditional_chinese": "仁平",
+    "japanese": "ジンペイ",
+    "korean": "진상",
+    "russian": "Моэ"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Moe.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Moe.png"
+  },
+  "id": 250,
+  "name": "Moe",
+  "sex": "Male",
+  "personality": "Lazy",
+  "birthday": "1/12",
+  "species": "Cat",
+  "catch_phrase": "myawn",
+  "name_color": "#fffce9"
+}

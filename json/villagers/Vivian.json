@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Vivian",
+    "english_EU": "Vivian",
+    "german": "Viviane",
+    "spanish_EU": "Viviana",
+    "spanish_american": "Viviana",
+    "french_EU": "Viviane",
+    "french_american": "Viviane",
+    "italian": "Viviana",
+    "dutch": "Vivian",
+    "simplified_chinese": "范妮沙",
+    "traditional_chinese": "范妮莎",
+    "japanese": "ヴァネッサ",
+    "korean": "바네사",
+    "russian": "Вивьен"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Vivian.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Vivian.png"
+  },
+  "id": 396,
+  "name": "Vivian",
+  "sex": "Female",
+  "personality": "Snooty",
+  "birthday": "1/26",
+  "species": "Wolf",
+  "catch_phrase": "piffle",
+  "name_color": "#fffce9"
+}

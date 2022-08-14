@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Flora",
+    "english_EU": "Flora",
+    "german": "Flora",
+    "spanish_EU": "Azucena",
+    "spanish_american": "Azucena",
+    "french_EU": "Justine",
+    "french_american": "Justine",
+    "italian": "Rosalba",
+    "dutch": "Flora",
+    "simplified_chinese": "胡拉拉",
+    "traditional_chinese": "胡拉拉",
+    "japanese": "フララ",
+    "korean": "플라라",
+    "russian": "Флора"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Flora.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Flora.png"
+  },
+  "id": 145,
+  "name": "Flora",
+  "sex": "Female",
+  "personality": "Peppy",
+  "birthday": "2/9",
+  "species": "Ostrich",
+  "catch_phrase": "pinky",
+  "name_color": "#fffce9"
+}

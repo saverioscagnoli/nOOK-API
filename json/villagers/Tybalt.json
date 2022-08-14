@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Tybalt",
+    "english_EU": "Tybalt",
+    "german": "Arne",
+    "spanish_EU": "Teobaldo",
+    "spanish_american": "Teobaldo",
+    "french_EU": "Jeff",
+    "french_american": "Jeff",
+    "italian": "Ubaldo",
+    "dutch": "Tybalt",
+    "simplified_chinese": "谷丰",
+    "traditional_chinese": "谷豐",
+    "japanese": "ハリマオ",
+    "korean": "티볼트",
+    "russian": "Тибальт"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Tybalt.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Tybalt.png"
+  },
+  "id": 389,
+  "name": "Tybalt",
+  "sex": "Male",
+  "personality": "Jock",
+  "birthday": "8/19",
+  "species": "Tiger",
+  "catch_phrase": "grrrRAH",
+  "name_color": "#9b553a"
+}

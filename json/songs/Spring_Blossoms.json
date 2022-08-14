@@ -1,0 +1,24 @@
+{
+  "translations": {
+    "english_USA": "Spring Blossoms",
+    "english_EU": "Spring Blossoms",
+    "german": "Frühlingsblüten",
+    "spanish_EU": "Capullos en flor",
+    "spanish_american": "Capullos en flor",
+    "french_EU": "Floraison",
+    "french_american": "Floraison",
+    "italian": "Fiori marzolini",
+    "dutch": "Lentebloesems",
+    "simplified_chinese": "春暖花开",
+    "traditional_chinese": "春暖花開",
+    "japanese": "はるのこもれび",
+    "korean": "봄날의 여유",
+    "russian": "Весенний цвет"
+  },
+  "id": 87,
+  "name": "Spring Blossoms",
+  "buy_price": 3200,
+  "sell_price": 800,
+  "mp3": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/mp3/kk/Spring_Blossoms.mp3",
+  "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/songs/Spring_Blossoms.mp3"
+}

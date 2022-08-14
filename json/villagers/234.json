@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Marcie",
+    "english_EU": "Marcie",
+    "german": "Marlies",
+    "spanish_EU": "Brisa",
+    "spanish_american": "Brisa",
+    "french_EU": "Selma",
+    "french_american": "Selma",
+    "italian": "Adelaide",
+    "dutch": "Marcie",
+    "simplified_chinese": "玛莉亚",
+    "traditional_chinese": "瑪莉亞",
+    "japanese": "マリア",
+    "korean": "마리아",
+    "russian": "Марси"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Marcie.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Marcie.png"
+  },
+  "id": 234,
+  "name": "Marcie",
+  "sex": "Female",
+  "personality": "Normal",
+  "birthday": "5/31",
+  "species": "Kangaroo",
+  "catch_phrase": "pouches",
+  "name_color": "#fffce9"
+}

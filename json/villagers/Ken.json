@@ -1,0 +1,30 @@
+{
+  "translations": {
+    "english_USA": "Ken",
+    "english_EU": "Ken",
+    "german": "Hannes",
+    "spanish_EU": "Pichón",
+    "spanish_american": "Pichón",
+    "french_EU": "Ken",
+    "french_american": "Ken",
+    "italian": "Aligalli",
+    "dutch": "Ken",
+    "simplified_chinese": "乌骨鸡",
+    "traditional_chinese": "烏骨雞",
+    "japanese": "クロベエ",
+    "korean": "오골",
+    "russian": "Кен"
+  },
+  "sprites": {
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/villagers/Ken.png",
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/villagers/Ken.png"
+  },
+  "id": 202,
+  "name": "Ken",
+  "sex": "Male",
+  "personality": "Smug",
+  "birthday": "12/23",
+  "species": "Chicken",
+  "catch_phrase": "no doubt",
+  "name_color": "#9ae8df"
+}

@@ -1,0 +1,48 @@
+{
+  "translations": {
+    "english_USA": "gazami crab",
+    "english_EU": "gazami crab",
+    "german": "Gazami-Krabbe",
+    "spanish_EU": "cangrejo gazami",
+    "spanish_american": "cangrejo gazami",
+    "french_EU": "crabe gazami",
+    "french_american": "crabe gazami",
+    "italian": "granchio gazami",
+    "dutch": "Japanse blauwe krab",
+    "simplified_chinese": "梭子蟹",
+    "traditional_chinese": "三疣梭子蟹",
+    "japanese": "ガザミ",
+    "korean": "꽃게",
+    "russian": "газами-краб"
+  },
+  "price": 2200,
+  "speed": "Medium",
+  "available": {
+    "hemisphere_data": {
+      "northern_months": "6-11",
+      "southern_months": "12-5",
+      "northern_months_array": [6, 7, 8, 9, 10, 11],
+      "southern_months_array": [12, 1, 2, 3, 4, 5]
+    },
+    "time": {
+      "all_day": true,
+      "all_year": false,
+      "time_string": "",
+      "time_array": [
+        0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19,
+        20, 21, 22, 23
+      ]
+    }
+  },
+  "phrases": {
+    "joke": "I got a gazami crab! What a gripping find!",
+    "museum_description": "The gazami crab may be better known by its more descriptive name… the Japanese blue crab. It gets its name from the blue tint sometimes found in its shell and legs. Its paddle-like rear legs are what help it to swim freely and quickly through the water. Of course, this gazami crab couldn't swim enough to get away from you!"
+  },
+  "sprites": {
+    "render": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/sea_creatures/Gazami_Crab.png",
+    "icon": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/icons/sea_creatures/Gazami_Crab.png"
+  },
+  "id": 24,
+  "name": "gazami crab",
+  "shadow_size": "Medium"
+}

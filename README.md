@@ -4,7 +4,7 @@
 Hello! I made this api as a little side project and I hope it can help anyone who wants to use it.
 It's a free api containing various information about **Animal Crossing New Horizons.** 🦝
 
-To start using it, just run `**npm install nook-api**`, [here](https://www.npmjs.com/package/nook-api) is the NPM official page.
+To start using it, just run `npm install nook-api`, [here](https://www.npmjs.com/package/nook-api) is the NPM official page.
 
 #### This database contains infos and sprites of: 🦔
 ```
@@ -16,7 +16,7 @@ To start using it, just run `**npm install nook-api**`, [here](https://www.npmjs
 - Villagers 🦆
 ```
 
-To get started, this package is made by different `**clients**`, each one for a different seed:
+To get started, this package is made by different **clients**, each one for a different seed:
 
 ```
 - FishingClient() > fishes

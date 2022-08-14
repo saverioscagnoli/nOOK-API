@@ -1,4 +1,4 @@
-import { ICritterHemisphereData, ICritterTime } from '../common';
+import { ICritterHemisphereData, ICritterTime } from "../common";
 
 export interface ISeaCreatureAvailable {
   /** Availability for both northern and southern hemispheres */

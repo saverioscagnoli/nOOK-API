@@ -1,6 +1,6 @@
-import { Endpoints } from '../constants';
-import { IArt } from '../typings';
-import { BaseClient } from './base';
+import { Endpoints } from "../constants";
+import { IArt } from "../typings";
+import { BaseClient } from "./base";
 
 export class ArtClient extends BaseClient {
   constructor() {

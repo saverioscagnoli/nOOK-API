@@ -1,4 +1,4 @@
-import { ICritterNames } from '../common';
+import { ICritterNames } from "../common";
 
 export interface IArt {
   id: number;

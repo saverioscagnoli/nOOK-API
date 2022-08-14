@@ -1,5 +1,5 @@
-import { ICritterHemisphereData } from '../common';
-import { ICritterTime } from '../common';
+import { ICritterHemisphereData } from "../common";
+import { ICritterTime } from "../common";
 
 export interface IFishAvailable {
   /** Availability for both northern and southern hemispheres */

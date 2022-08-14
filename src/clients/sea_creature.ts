@@ -1,6 +1,6 @@
-import { Endpoints } from '../constants';
-import { ISeaCreature } from '../typings/sea_creatures';
-import { BaseClient } from './base';
+import { Endpoints } from "../constants";
+import { ISeaCreature } from "../typings/sea_creatures";
+import { BaseClient } from "./base";
 
 export class SeaCreaturesClient extends BaseClient {
   constructor() {

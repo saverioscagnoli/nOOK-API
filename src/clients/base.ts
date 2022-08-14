@@ -1,6 +1,6 @@
-import axios from 'axios';
-import { baseUrl } from '../constants';
-import { Endpoints } from '../constants/endpoints';
+import axios from "axios";
+import { baseUrl } from "../constants";
+import { Endpoints } from "../constants/endpoints";
 
 export class BaseClient {
   async api({

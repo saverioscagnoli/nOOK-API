@@ -1,6 +1,6 @@
-import { Endpoints } from '../constants';
-import { IFish } from '../typings/fishes';
-import { BaseClient } from './base';
+import { Endpoints } from "../constants";
+import { IFish } from "../typings/fishes";
+import { BaseClient } from "./base";
 
 export class FishingClient extends BaseClient {
   constructor() {

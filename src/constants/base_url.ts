@@ -1,1 +1,1 @@
-export const baseUrl = 'https://saverioscagnoli.github.io/nOOK-API';
+export const baseUrl = "https://saverioscagnoli.github.io/nOOK-API";

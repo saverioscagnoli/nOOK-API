@@ -1,4 +1,4 @@
-import { ICritterHemisphereData, ICritterTime } from '../common';
+import { ICritterHemisphereData, ICritterTime } from "../common";
 
 export interface IBugAvailable {
   /** Availability for both northern and southern hemispheres */

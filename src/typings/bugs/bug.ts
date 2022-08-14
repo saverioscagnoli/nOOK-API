@@ -1,6 +1,6 @@
-import { ICritterNames, ICritterPhrases, ICritterSprites } from '../common';
-import { IBugAvailable } from './available';
-import { IBugSellPrices } from './prices';
+import { ICritterNames, ICritterPhrases, ICritterSprites } from "../common";
+import { IBugAvailable } from "./available";
+import { IBugSellPrices } from "./prices";
 
 export interface IBug {
   /** Bug's ID, based on the encyclopedia */

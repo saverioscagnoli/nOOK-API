@@ -1,5 +1,5 @@
-import { ICritterNames, ICritterPhrases, ICritterSprites } from '../common';
-import { ISeaCreatureAvailable } from './available';
+import { ICritterNames, ICritterPhrases, ICritterSprites } from "../common";
+import { ISeaCreatureAvailable } from "./available";
 
 export interface ISeaCreature {
   /** Sea C. ID, based on the encyclopedia */

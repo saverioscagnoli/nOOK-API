@@ -1,6 +1,6 @@
-import { Endpoints } from '../constants';
-import { ISong } from '../typings';
-import { BaseClient } from './base';
+import { Endpoints } from "../constants";
+import { ISong } from "../typings";
+import { BaseClient } from "./base";
 
 export class SongClient extends BaseClient {
   constructor() {

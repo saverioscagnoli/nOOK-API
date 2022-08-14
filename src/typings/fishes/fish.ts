@@ -1,8 +1,8 @@
-import { IFishAvailable } from './available';
-import { ICritterNames } from '../common';
-import { ICritterPhrases } from '../common';
-import { IFishSellPrices } from './prices';
-import { ICritterSprites } from '../common';
+import { IFishAvailable } from "./available";
+import { ICritterNames } from "../common";
+import { ICritterPhrases } from "../common";
+import { IFishSellPrices } from "./prices";
+import { ICritterSprites } from "../common";
 
 export interface IFish {
   /** Fish's ID, based on the encyclopedia */

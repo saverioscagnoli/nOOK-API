@@ -1,4 +1,4 @@
-import { ICritterNames, ICritterSprites } from '../common';
+import { ICritterNames, ICritterSprites } from "../common";
 
 export interface IVillager {
   /** Villager's id */

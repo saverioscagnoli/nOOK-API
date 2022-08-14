@@ -1,6 +1,6 @@
-import { Endpoints } from '../constants';
-import { IVillager } from '../typings';
-import { BaseClient } from './base';
+import { Endpoints } from "../constants";
+import { IVillager } from "../typings";
+import { BaseClient } from "./base";
 
 export class VillagerClient extends BaseClient {
   constructor() {

@@ -1,6 +1,6 @@
-import { Endpoints } from '../constants';
-import { IBug } from '../typings/bugs/bug';
-import { BaseClient } from './base';
+import { Endpoints } from "../constants";
+import { IBug } from "../typings/bugs/bug";
+import { BaseClient } from "./base";
 
 export class BugClient extends BaseClient {
   constructor() {

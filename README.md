@@ -40,7 +40,7 @@ Which is:
 
 ![alt text](https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/fishes/Saddled_Bichir.png);
 
-Or you can just make a request to \n`https://saverioscagnoli.github.io/nOOK-API/json/${"fishes" || "bugs" || "sea_creatures" || "art" || "songs"}/${id || "name"}.json`
+Or you can just make a request to <br />`https://saverioscagnoli.github.io/nOOK-API/json/${"fishes" || "bugs" || "sea_creatures" || "art" || "songs"}/${id || "name"}.json`
 Example: 
 
 ```javascript

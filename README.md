@@ -74,38 +74,14 @@ console.log(req.data);
 		"hemisphere_data": {
 			"northern_months": "5-10",
 			"southern_months": "11-4",
-			"northern_months_array": [
-				5,
-				6,
-				7,
-				8,
-				9,
-				10
-			],
-			"southern_months_array": [
-				11,
-				12,
-				1,
-				2,
-				3,
-				4
-			]
+			"northern_months_array": [5, 6, 7, 8, 9, 10],
+			"southern_months_array": [11, 12, 1, 2, 3, 4]
 		},
 		"time": {
 			"all_day": false,
 			"all_year": false,
 			"time_string": "8am - 5pm",
-			"time_array": [
-				8,
-				9,
-				10,
-				11,
-				12,
-				13,
-				14,
-				15,
-				16
-			]
+			"time_array": [8, 9, 10, 11, 12, 13, 14, 15, 16]
 		},
 		"spot": "Flying",
 		"rarity": "Rare"
@@ -121,7 +97,7 @@ console.log(req.data);
 	"id": 34,
 	"name": "banded dragonfly"
 }
-*/
+*\
 ```
 
 ## Thank you! <3

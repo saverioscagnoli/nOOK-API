@@ -21,5 +21,5 @@
   "sell_price": 1245,
   "museum_description": "A bronze sculpture of King Kamehameha I, who founded the Kingdom of Hawaii in 1810. Traditionally, the sculpture is draped with many leis every year on June 11th.",
   "canBeFake": false,
-  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/render/art/great_statue.png"
+  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/art/great_statue.png"
 }

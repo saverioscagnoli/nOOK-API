@@ -21,5 +21,5 @@
   "sell_price": 1245,
   "museum_description": "Young David glares at his enemies, sling slung over his shoulder. It took Michelangelo more than three years to sculpt this piece. Close inspection shows heart- shaped eyes, but that's probably meant to depict light hitting them. Hearts didn't have the lovey-dovey symbolism back then that they do today.",
   "canBeFake": true,
-  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/render/art/gallant_statue.png"
+  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/art/gallant_statue.png"
 }

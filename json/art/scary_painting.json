@@ -21,5 +21,5 @@
   "sell_price": 1245,
   "museum_description": "A print from the mid-Edo period by Tōshūsai Sharaku depicting a famous actor of the time. Sharaku made roughly 140 ukiyo-e prints in his career, even though it only spanned around 10 months!",
   "canBeFake": true,
-  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/render/art/scary_painting.png"
+  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/art/scary_painting.png"
 }

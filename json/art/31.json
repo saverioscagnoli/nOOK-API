@@ -21,5 +21,5 @@
   "sell_price": 1245,
   "museum_description": "A landscape artist from the late Renaissance period, Brueghel was known as the \"Peasant Artist.\" He earned the title for depicting scenes from common peasant life, such as the moment captured here. Note the contrast between the weary hunters and the people frolicking below on icy ponds.",
   "canBeFake": true,
-  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/render/art/scenic_painting.png"
+  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/art/scenic_painting.png"
 }

@@ -21,5 +21,5 @@
   "sell_price": 1245,
   "museum_description": "Millet painted this piece of a farmer sowing wheat seeds in a field after moving to the countryside from Paris. If the piece reminds you of Van Gogh, that's likely because Van Gogh himself was inspired by it!",
   "canBeFake": false,
-  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/render/art/moody_painting.png"
+  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/art/moody_painting.png"
 }

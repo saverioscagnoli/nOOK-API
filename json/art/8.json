@@ -21,5 +21,5 @@
   "sell_price": 1245,
   "museum_description": "A detailed, colorful, and dynamic piece by Itō Jakuchū, a successful Kyoto artist in the mid-Edo period. High-quality paints on silk help it maintain its brilliant color even now, 200 years after its creation.",
   "canBeFake": true,
-  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/render/art/detailed_painting.png"
+  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/art/detailed_painting.png"
 }

@@ -21,5 +21,5 @@
   "sell_price": 1245,
   "museum_description": "A small boat carrying a corpse glides quietly over a still sea to an island of graves surrounded by cliffs. The air of this piece by symbolist painter Böcklin is chilling, but also somehow calm. Böcklin worked here to capture not what he could see, but some of humanity's inner contemplations.",
   "canBeFake": false,
-  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/render/art/mysterious_painting.png"
+  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/art/mysterious_painting.png"
 }

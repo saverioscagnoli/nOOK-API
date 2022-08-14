@@ -21,5 +21,5 @@
   "sell_price": 1245,
   "museum_description": "This folding screen shows dynamic brushwork of Fūjin and Raijin on a gold-leaf background. It is thought to be the masterpiece of Tawaraya Sōtatsu, an early-Edo- period artist. The simplification of the subjects is a style that was carried on by Ogata Kōrin. It's a style still in use today in the Rinpa school of Japanese painting.",
   "canBeFake": true,
-  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/render/art/wild_painting_left_half.png"
+  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/art/wild_painting_left_half.png"
 }

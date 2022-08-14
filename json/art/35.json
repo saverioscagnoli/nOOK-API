@@ -21,5 +21,5 @@
   "sell_price": 1245,
   "museum_description": "This bronze ding from ancient China is the largest and heaviest ever found. The script on the inside suggests it was created to honor the king's mother.",
   "canBeFake": true,
-  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/render/art/tremendous_statue.png"
+  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/art/tremendous_statue.png"
 }

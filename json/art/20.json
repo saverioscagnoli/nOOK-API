@@ -21,5 +21,5 @@
   "sell_price": 1245,
   "museum_description": "This wolf from Roman mythology raises a pair of twins, along with some controversy. The original bronze sculpture of the wolf is a masterpiece that dates back to 5th century BCE. The twins were added during the 15th century...or so it was thought.Recent research has given rise to speculation that the original piece may be from the 11th or 12th century. (We will, however, stick with the 5th century BCE estimate for now.)",
   "canBeFake": true,
-  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/render/art/motherly_statue.png"
+  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/art/motherly_statue.png"
 }

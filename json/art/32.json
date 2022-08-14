@@ -21,5 +21,5 @@
   "sell_price": 1245,
   "museum_description": "One of only four portraits of women painted by da Vinci, one of which is the \"Mona Lisa. \"Some believe that the \"ermine\" is not actually an ermine, but rather a white ferret!",
   "canBeFake": true,
-  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/render/art/serene_painting.png"
+  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/art/serene_painting.png"
 }

@@ -21,5 +21,5 @@
   "sell_price": 1245,
   "museum_description": "This drawing is based on the \"ideal\" human-body ratio, as stated in \"De architectura.\" \"De architectura\" was a treatise by Vitruvius, an architect from the early 1st century BCE.",
   "canBeFake": true,
-  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/render/art/academic_painting.png"
+  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/art/academic_painting.png"
 }

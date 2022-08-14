@@ -21,5 +21,5 @@
   "sell_price": 1245,
   "museum_description": "Seurat, known as the founder of neo-impressionism, invented the use of brightly colored dots. His method, which does not involve mixing pigments, took time. This piece, for instance, took two years. It shows a crowd enjoying a day off at the river Seine in France.",
   "canBeFake": false,
-  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/render/art/calm_painting.png"
+  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/art/calm_painting.png"
 }

@@ -21,5 +21,5 @@
   "sell_price": 1245,
   "museum_description": "These terracotta warriors were buried with the first Qin emperor to protect him in the afterlife. Nearly 2,000 years later, in 1974, about 8,000 of them were found. Each life-sized statue is said to have been handmade with different poses, expressions, and clothing.",
   "canBeFake": true,
-  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/render/art/warrior_statue.png"
+  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/art/warrior_statue.png"
 }

@@ -21,5 +21,5 @@
   "sell_price": 1245,
   "museum_description": "A statue of the Roman goddess of love and beauty, Venus was found on the island of Milos. This beautiful sculpture makes many wonder what her original pose might have been.",
   "canBeFake": true,
-  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/render/art/beautiful_statue.png"
+  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/art/beautiful_statue.png"
 }

@@ -21,5 +21,5 @@
   "sell_price": 1245,
   "museum_description": "Van Gogh's signature piece, painted while he was hospitalized at an asylum. This view from his room includes memories and imaginations. In letters to friends, the artist called it a failure.",
   "canBeFake": false,
-  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/render/art/twinkling_painting.png"
+  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/art/twinkling_painting.png"
 }

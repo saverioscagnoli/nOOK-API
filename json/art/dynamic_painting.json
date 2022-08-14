@@ -21,5 +21,5 @@
   "sell_price": 1245,
   "museum_description": "The signature piece of ukiyo-e artist Katsushika Hokusai, painted as part of a series when he was in his 60s. Although it is dubbed \"Thirty-Six Views,\" he eventually added 10 more to make 46 in total.",
   "canBeFake": false,
-  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/render/art/dynamic_painting.png"
+  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/art/dynamic_painting.png"
 }

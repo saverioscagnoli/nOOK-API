@@ -21,5 +21,5 @@
   "sell_price": 1245,
   "museum_description": "Also known as \"Girl with a Turban,\" this piece uses ultramarine paint, which was expensive at the time. It seems the expense was worth it, as the vivid blue colors draw the eye and help make the piece a classic. The only question is... Is that a real pearl earring? Or something else...",
   "canBeFake": true,
-  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/render/art/wistful_painting.png"
+  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/art/wistful_painting.png"
 }

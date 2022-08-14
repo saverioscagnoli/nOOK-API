@@ -21,5 +21,5 @@
   "sell_price": 1245,
   "museum_description": "Close inspection of the mirror behind this painting's subject reveals many mysteries and paradoxes... In fact, the painting is based on multiple perspectives, which explains the unusual placement of some items. Sadly, this is Manet's last major work. He passed away a year after it was complete, at age 51.",
   "canBeFake": false,
-  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/render/art/proper_painting.png"
+  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/art/proper_painting.png"
 }

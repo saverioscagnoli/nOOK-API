@@ -21,5 +21,5 @@
   "sell_price": 1245,
   "museum_description": "A mysterious, riveting doll made from kneaded, unglazed dirt during the Jōmon period. Its large round eyes resemble goggles that intercept light, so its name should come as no surprise. \"Shakōki\" means \"light-intercepting goggles,\" and a dogū is a small animal figurine.",
   "canBeFake": true,
-  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/render/art/ancient_statue.png"
+  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/art/ancient_statue.png"
 }

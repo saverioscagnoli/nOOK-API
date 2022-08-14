@@ -21,5 +21,5 @@
   "sell_price": 1245,
   "museum_description": "A curious portrait by Giuseppe Arcimboldo, an Italian painter from the late 16th century. It doesn't take a particularly sharp eye to see that the entire portrait is composed of fresh produce.",
   "canBeFake": true,
-  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/render/art/jolly_painting.png"
+  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/art/jolly_painting.png"
 }

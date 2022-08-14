@@ -21,5 +21,5 @@
   "sell_price": 1245,
   "museum_description": "A famous piece by Turner, a \"master of light. \"It shows an English Navy ship commanded by Admiral Nelson as it's being tugged toward its dismantling.",
   "canBeFake": false,
-  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/render/art/glowing_painting.png"
+  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/art/glowing_painting.png"
 }

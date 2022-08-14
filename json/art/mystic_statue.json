@@ -21,5 +21,5 @@
   "sell_price": 1245,
   "museum_description": "A bust of Nefertiti, whose name means \"the beautiful one has come.\" A \"royal wife,\" she was known as one of the three most beautiful women in ancient Egypt. It is not known whether the left eye is missing because it fell out, or because it was never completed.",
   "canBeFake": true,
-  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/render/art/mystic_statue.png"
+  "sprite": "https://raw.githubusercontent.com/saverioscagnoli/nOOK-API/main/renders/art/mystic_statue.png"
 }

@@ -6,6 +6,9 @@ export interface IBug {
   /** Bug's ID, based on the encyclopedia */
   id: number;
 
+  /** Bug's name in english */
+  name: string;
+
   /** Bug's names in different languages */
   translations: ICritterNames;
 
